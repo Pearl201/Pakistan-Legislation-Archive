@@ -208,7 +208,7 @@ An act of high treason mentioned in clause (1) or clause (2) shall not be valida
 
 ### Notes
 
-(1)[^1]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 2 (with effect from May 4, 1974) for :
+(1)[^1]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 2 (with effect from May 4, 1974) for :
 
 (2)
 
@@ -244,11 +244,11 @@ Parliament may by law admit into the Federation new States or areas on such term
 
  
 
-(2)[^2]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 3 (with effect from April 19, 2010) for "Baluchistan".
+(2)[^2]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Baluchistan".
 
-(3)[^3]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 3 (with effect from April 19, 2010) for "North-West Frontier".
+(3)[^3]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "North-West Frontier".
 
-(4)[^4]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 3 (with effect from April 19, 2010) for "Sind".
+(4)[^4]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Sind".
 
 (5)[^5]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(i) (with effect from May 31, 2018).
 
@@ -260,13 +260,13 @@ Federally Administered Tribal Areas; and
 
 (7)[^7]  )   Renumbered from "(d)". by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(iii) (with effect from May 31, 2018)
 
-(8)[^8]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(8)[^8]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(9)[^9]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art.2 and Sch.item 2 (with effect from March 2, 1985).
+(9)[^9]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art.2 and Sch.item 2 (with effect from March 2, 1985).
 
-(10)[^10]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 3 (with effect from March 2, 1985) for "basic".
+(10)[^10]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 3 (with effect from March 2, 1985) for "basic".
 
-(11)[^11]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 4(i) (with effect from April 19, 2010) for :
+(11)[^11]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -274,11 +274,11 @@ Any person who abrogates or attempts or conspires to abrogate, subverts or attem
 
  
 
-(12)[^12]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 4(ii) (with effect from April 19, 2010).
+(12)[^12]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(ii) (with effect from April 19, 2010).
 
-(13)[^13]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 4(iii) (with effect from April 19, 2010).
+(13)[^13]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(iii) (with effect from April 19, 2010).
 
-(14)[^14]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(14)[^14]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -860,31 +860,31 @@ Subject to Article 251 any section of citizens having a distinct language, scrip
 
 ### Notes
 
-(15)[^15]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(15)[^15]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(16)[^16]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 2 (with effect from November 21, 1975) for :
+(16)[^16]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for :
 
 (b)
 
 any of the laws specified in the First Schedule as in force immediately before the commencing day  (17)[^17]\[or as amended by any of the laws specified in that Schedule\] (17)[^17);
 
-(17)[^17]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 3 (with effect from May 4, 1974).
+(17)[^17]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 3 (with effect from May 4, 1974).
 
-(18)[^18]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 2 (with effect from November 21, 1975) for "the First Schedule, not being a law which relates to, or is connected with, economic reforms".
+(18)[^18]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for "the First Schedule, not being a law which relates to, or is connected with, economic reforms".
 
-(19)[^19]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(19)[^19]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(20)[^20]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.html), Article 2 (with effect from February 13, 1975) for "one month".
+(20)[^20]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
 
-(21)[^21]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.html), Article 2 (with effect from February 13, 1975) for "one month".
+(21)[^21]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
 
-(22)[^22]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.html), Article 2 (with effect from February 13, 1975) for "as soon as may be, but not later than one week".
+(22)[^22]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "as soon as may be, but not later than one week".
 
-(23)[^23]  Inserted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.html), Article 2 (with effect from February 13, 1975).
+(23)[^23]  Inserted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975).
 
-(24)[^24]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 5 (with effect from April 19, 2010).
+(24)[^24]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 5 (with effect from April 19, 2010).
 
-(25)[^25]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 6 (with effect from April 19, 2010) for :
+(25)[^25]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010) for :
 
 **17**
 
@@ -924,9 +924,9 @@ Every political party shall, subject to law, hold intra-party elections to elect
 
  
 
-(26)[^26]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 3 (with effect from November 21, 1975) for "morality or public order".
+(26)[^26]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 3 (with effect from November 21, 1975) for "morality or public order".
 
-(27)[^27]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 4 (with effect from May 4, 1974) for :
+(27)[^27]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 4 (with effect from May 4, 1974) for :
 
 (2)
 
@@ -934,31 +934,31 @@ Every citizen not being in the service of Pakistan shall have the right to form 
 
  
 
-(28)[^28]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
+(28)[^28]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
 
-(29)[^29]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
+(29)[^29]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
 
-(30)[^30]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002) for ".".
+(30)[^30]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002) for ".".
 
-(31)[^31]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002).
+(31)[^31]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002).
 
-(32)[^32]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 2 (with effect from August 21, 2002).
+(32)[^32]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002).
 
-(33)[^33]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 4 (with effect from November 21, 1975) for "defamation".
+(33)[^33]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 4 (with effect from November 21, 1975) for "defamation".
 
-(34)[^34]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 6 (with effect from April 19, 2010).
+(34)[^34]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010).
 
-(35)[^35)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 8 (with effect from April 19, 2010) : "alone".
+(35)[^35)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 8 (with effect from April 19, 2010) : "alone".
 
-(36)[^36]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 9 (with effect from April 19, 2010).
+(36)[^36]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 9 (with effect from April 19, 2010).
 
-(37)[^37]  Substituted by [Constitution (Sixteenth Amendment) Act, 1999 (6 of 1999)](/pakistan/constitution/amendments/16amendment.html), Article 2 (with effect from August 5, 1999) for " (38)[^38]\[twenty\] (38)[^38)".
+(37)[^37]  Substituted by [Constitution (Sixteenth Amendment) Act, 1999 (6 of 1999)](/pakistan/constitution/amendments/16amendment.md), Article 2 (with effect from August 5, 1999) for " (38)[^38]\[twenty\] (38)[^38)".
 
-(38)[^38]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 4 (with effect from March 2, 1985) for "ten".
+(38)[^38]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 4 (with effect from March 2, 1985) for "ten".
 
-(39)[^39]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 10 (with effect from April 19, 2010) for ".".
+(39)[^39]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010) for ".".
 
-(40)[^40]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 10 (with effect from April 19, 2010).
+(40)[^40]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010).
 
 * * *
 
@@ -1188,17 +1188,17 @@ The State shall endeavour to preserve and strengthen fraternal relations among M
 
 ### Notes
 
-(41)[^41]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 11 (with effect from April 19, 2010) for "National Assembly".
+(41)[^41]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010) for "National Assembly".
 
-(42)[^42]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 11 (with effect from April 19, 2010).
+(42)[^42]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010).
 
-(43)[^43]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 5 (with effect from March 2, 1985).
+(43)[^43]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 5 (with effect from March 2, 1985).
 
-(44)[^44)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 12(i) (with effect from April 19, 2010) : "and".
+(44)[^44)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(i) (with effect from April 19, 2010) : "and".
 
-(45)[^45]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 12(ii) (with effect from April 19, 2010) for ".".
+(45)[^45]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010) for ".".
 
-(46)[^46]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 12(ii) (with effect from April 19, 2010).
+(46)[^46]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010).
 
 * * *
 
@@ -1492,7 +1492,7 @@ When the President, by reason of absence from Pakistan or any other cause, is un
 
 ### Notes
 
-(47)[^47]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 6(1) (with effect from March 2, 1985) for :
+(47)[^47]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 6(1) (with effect from March 2, 1985) for :
 
 (3)
 
@@ -1500,9 +1500,9 @@ The President shall be elected by the members of Parliament in joint sitting in 
 
  
 
-(48)[^48)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 13(i) (with effect from April 19, 2010) : "to be elected after the expiration of the term specified in clause (7)".
+(48)[^48)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 13(i) (with effect from April 19, 2010) : "to be elected after the expiration of the term specified in clause (7)".
 
-(49)[^49)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 13(ii) (with effect from April 19, 2010) : :
+(49)[^49)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 13(ii) (with effect from April 19, 2010) : :
 
  (50)[^50]\[
 
@@ -1540,7 +1540,7 @@ Notwithstanding anything contained in the Constitution or any other law for the 
 
 \] (53)[^53)
 
-(50)[^50]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 2 (with effect from August 21, 2002) for :
+(50)[^50]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002) for :
 
  (51)[^51]\[
 
@@ -1552,19 +1552,19 @@ Notwithstanding anything contained in this Article or Article 43, or any other A
 
 \] (51)[^51)
 
-(51)[^51]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 6(2) (with effect from March 2, 1985).
+(51)[^51]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 6(2) (with effect from March 2, 1985).
 
-(52)[^52]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 2(1) (with effect from December 31, 2003).
+(52)[^52]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 2(1) (with effect from December 31, 2003).
 
-(53)[^53]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 2(2) (with effect from December 31, 2003).
+(53)[^53]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 2(2) (with effect from December 31, 2003).
 
-(54)[^54]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(54)[^54]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(55)[^55]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(55)[^55]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(56)[^56]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(56)[^56]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(57)[^57]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 14 (with effect from April 19, 2010) for :
+(57)[^57]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 14 (with effect from April 19, 2010) for :
 
  (58)[^58]\[
 
@@ -1589,7 +1589,7 @@ if the President so requires, to submit for the consideration of the Cabinet any
 
 \] (58)[^58)
 
-(58)[^58]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2 and Sched. item 7 (with effect from March 2, 1985) for :
+(58)[^58]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 7 (with effect from March 2, 1985) for :
 
 **46**
 
@@ -1598,9 +1598,9 @@ The Prime Minister shall keep the President informed on matters of internal and 
 
  
 
-(59)[^59]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 8(1) (with effect from March 2, 1985).
+(59)[^59]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 8(1) (with effect from March 2, 1985).
 
-(60)[^60]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 8(2) (with effect from March 2, 1985) for :
+(60)[^60]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 8(2) (with effect from March 2, 1985) for :
 
 (1)
 
@@ -1614,9 +1614,9 @@ Not less than one-half of the total membership of either House may give to the S
 
  
 
-(61)[^61]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(61)[^61]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(62)[^62]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 9 (with effect from March 2, 1985) for :
+(62)[^62]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 9 (with effect from March 2, 1985) for :
 
 **48**
 
@@ -1642,21 +1642,21 @@ Save as otherwise provided in any rules made under Article 99, the orders of the
 
  
 
-(63)[^63]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 15(i)(a) (with effect from April 19, 2010).
+(63)[^63]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(a) (with effect from April 19, 2010).
 
-(64)[^64]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 2(a)(i) (with effect from November 9, 1985) for "the Prime Minister or appropriate Minister".
+(64)[^64]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(a)(i) (with effect from November 9, 1985) for "the Prime Minister or appropriate Minister".
 
-(65)[^65]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 2(a)(ii) (with effect from November 9, 1985) for :
+(65)[^65]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(a)(ii) (with effect from November 9, 1985) for :
 
 **Provided** that the President may require the Cabinet to reconsider or consider such advice, as the case may be either generally or otherwise, and the President shall act in accordance with the advice tendered after such reconsideration or consideration.
 
-(66)[^66]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 15(i)(b) (with effect from April 19, 2010).
+(66)[^66]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
 
-(67)[^67]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 15(i)(b) (with effect from April 19, 2010).
+(67)[^67]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
 
-(68)[^68]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 2(b) (with effect from November 9, 1985).
+(68)[^68]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(b) (with effect from November 9, 1985).
 
-(69)[^69)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 2(c) (with effect from November 9, 1985) : :
+(69)[^69)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(c) (with effect from November 9, 1985) : :
 
 (3)
 
@@ -1664,7 +1664,7 @@ If any question arises whether any matter is or is not a matter in respect of wh
 
  
 
-(70)[^70]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 15(ii) (with effect from April 19, 2010) for :
+(70)[^70]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(ii) (with effect from April 19, 2010) for :
 
 (5)
 
@@ -1680,11 +1680,11 @@ appoint a care-taker Cabinet.
 
  
 
-(71)[^71]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 2 (with effect from February 28, 2012).
+(71)[^71]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 2 (with effect from February 28, 2012).
 
-(72)[^72]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 2(d) (with effect from November 9, 1985) for "one hundred".
+(72)[^72]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(d) (with effect from November 9, 1985) for "one hundred".
 
-(73)[^73]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 15(iii) (with effect from April 19, 2010) for :
+(73)[^73]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(iii) (with effect from April 19, 2010) for :
 
 (6)
 
@@ -3145,9 +3145,9 @@ an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) o
 
 ### Notes
 
-(74)[^74]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(74)[^74]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(75)[^75]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 10 (with effect from March 2, 1985) for :
+(75)[^75]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 10 (with effect from March 2, 1985) for :
 
 **50**
 
@@ -3156,7 +3156,7 @@ There shall be a Parliament consisting of two houses to be known as the National
 
  
 
-(76)[^76]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 16 (with effect from August 21, 2002) for :
+(76)[^76]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 16 (with effect from August 21, 2002) for :
 
 **51**
 
@@ -3475,7 +3475,7 @@ The seats in the National Assembly shall be allocated to each Province, the Fede
 
 (83)[^83]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iv) (with effect from May 31, 2018) for "the".
 
-(84)[^84]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
+(84)[^84]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -3483,17 +3483,17 @@ The National Assembly shall consist of two hundred and seven Muslim members to b
 
  
 
-(85)[^85]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 3(2) (with effect from August 21, 2002) for " (86)[^86]\[twenty-one\] (86)[^86)".
+(85)[^85]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(2) (with effect from August 21, 2002) for " (86)[^86]\[twenty-one\] (86)[^86)".
 
-(86)[^86]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11 (with effect from March 2, 1985) for "eighteen".
+(86)[^86]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11 (with effect from March 2, 1985) for "eighteen".
 
-(87)[^87]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11(2)(b) (with effect from March 2, 1985) for ":".
+(87)[^87]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(b) (with effect from March 2, 1985) for ":".
 
-(88)[^88)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11(2)(c) (with effect from March 2, 1985) : :
+(88)[^88)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(c) (with effect from March 2, 1985) : :
 
 **Provided** that, for the purpose of the first general election to the National Assembly or an election to a seat falling vacant before the holding of a second general election to the Assembly paragraph (b) shall have effect as if for the word "eighteen" therein the word "twenty-one" were substituted.
 
-(89)[^89]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
+(89)[^89]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
 
  (90)[^90]\[
 
@@ -3521,7 +3521,7 @@ Persons belonging to the Quadiani group or the Lahori group (who call themselves
 
 \] (90)[^90)
 
-(90)[^90]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11(3) (with effect from March 2, 1985) for :
+(90)[^90]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(3) (with effect from March 2, 1985) for :
 
  (91)[^91]\[
 
@@ -3533,9 +3533,9 @@ In addition to the number of seats referred to in clause (1), there shall be in 
 
 \] (91)[^91)
 
-(91)[^91]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 5(a) (with effect from November 21, 1975).
+(91)[^91]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 5(a) (with effect from November 21, 1975).
 
-(92)[^92]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 3(3) (with effect from August 21, 2002) for :
+(92)[^92]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(3) (with effect from August 21, 2002) for :
 
 (4)
 
@@ -3543,15 +3543,15 @@ Until the expiration of a period of ten years from the commencing day or the hol
 
  
 
-(93)[^93]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Section 2(1)(i) (with effect from October 9, 2002).
+(93)[^93]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(i) (with effect from October 9, 2002).
 
-(94)[^94]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Section 2(1)(ii) (with effect from October 9, 2002).
+(94)[^94]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(ii) (with effect from October 9, 2002).
 
-(95)[^95]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 3 (with effect from November 9, 1985) for "second".
+(95)[^95]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 3 (with effect from November 9, 1985) for "second".
 
-(96)[^96]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11(5) (with effect from March 2, 1985) for "ten seats".
+(96)[^96]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for "ten seats".
 
-(97)[^97)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 3(5) (with effect from August 21, 2002) : :
+(97)[^97)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(5) (with effect from August 21, 2002) : :
 
  (98)[^98]\[
 
@@ -3575,7 +3575,7 @@ Notwithstanding anything contained in this Article, the President may, by Order,
 
  
 
-(98)[^98]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 11(5) (with effect from March 2, 1985) for :
+(98)[^98]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for :
 
  (99)[^99]\[
 
@@ -3593,23 +3593,23 @@ For the purpose of election to the seats allocated to a province under clause (4
 
  
 
-(99)[^99]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 5(b) (with effect from May 4, 1974).
+(99)[^99]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 5(b) (with effect from May 4, 1974).
 
-(100)[^100]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(100)[^100]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(101)[^101]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 12 (with effect from March 2, 1985) for "two".
+(101)[^101]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "two".
 
-(102)[^102]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.html), Article 2 (with effect from March 25, 1987) for " (103)[^103]\[sixty\] (103)[^103)".
+(102)[^102]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.md), Article 2 (with effect from March 25, 1987) for " (103)[^103]\[sixty\] (103)[^103)".
 
-(103)[^103]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 12 (with effect from March 2, 1985) for "thirty".
+(103)[^103]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "thirty".
 
-(104)[^104]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 6 (with effect from November 21, 1975).
+(104)[^104]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 6 (with effect from November 21, 1975).
 
-(105)[^105]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 13 (with effect from March 2, 1985)
+(105)[^105]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985)
 
-(106)[^106]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 13 (with effect from March 2, 1985).
+(106)[^106]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985).
 
-(107)[^107]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 4 (with effect from November 9, 1985) for :
+(107)[^107]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 4 (with effect from November 9, 1985) for :
 
 (3)
 
@@ -3617,7 +3617,7 @@ At the commencement of each session of the Majlis-e-Shoora (Parliament), the Pre
 
  
 
-(108)[^108]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 17 (with effect from April 19, 2010) for :
+(108)[^108]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 17 (with effect from April 19, 2010) for :
 
 **58**
 
@@ -3663,13 +3663,13 @@ The President in case of dissolution of the National Assembly under paragraph (b
 
  
 
-(109)[^109]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 14(1) (with effect from March 2, 1985)
+(109)[^109]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985)
 
-(110)[^110]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 5(a) (with effect from November 9, 1985) for "resolution for a vote of no confidence has been moved".
+(110)[^110]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 5(a) (with effect from November 9, 1985) for "resolution for a vote of no confidence has been moved".
 
-(111)[^111)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 14(1) (with effect from March 2, 1985) : "or a Federal Minister performing the functions of Prime Minister under clause (1) or clause (3) of Article 95".
+(111)[^111)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985) : "or a Federal Minister performing the functions of Prime Minister under clause (1) or clause (3) of Article 95".
 
-(112)[^112]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 5(b) (with effect from November 9, 1985) for :
+(112)[^112]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 5(b) (with effect from November 9, 1985) for :
 
  (115)[^115]\[
 
@@ -3681,19 +3681,19 @@ The President may also dissolve the National Assembly in his discretion where, i
 
 \] (115)[^115)
 
-(113)[^113)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.html), Section 2 (with effect from April 3, 1997) : :
+(113)[^113)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
 
 (b)
 
 a situation has arisen in which the Government of the Federation cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-(114)[^114]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 4 (with effect from August 21, 2002).
+(114)[^114]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 4 (with effect from August 21, 2002).
 
-(115)[^115]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 14(2) (with effect from March 2, 1985).
+(115)[^115]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(2) (with effect from March 2, 1985).
 
-(116)[^116]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 3 (with effect from December 31, 2003).
+(116)[^116]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 3 (with effect from December 31, 2003).
 
-(117)[^117]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 18 (with effect from April 19, 2010) for :
+(117)[^117]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 18 (with effect from April 19, 2010) for :
 
 **59**
 
@@ -3782,7 +3782,7 @@ of the members referred to in paragraph (b) of the aforesaid clause, four shall 
 
 (121)[^121]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(3) (with effect from May 31, 2018).
 
-(122)[^122]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 5 (with effect from August 21, 2002) for :
+(122)[^122]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002) for :
 
 (1)
 
@@ -3812,23 +3812,23 @@ five shall be elected by the members of each Provincial Assembly to represent ul
 
 (123)[^123)   The following was omitted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002), Section 2(2) (with effect from August 21, 2002) : " (124)[^124]\[by direct and free vote\] (124)[^124)".
 
-(124)[^124]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 5 (with effect from August 21, 2002).
+(124)[^124]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002).
 
-(125)[^125]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(a) (with effect from March 2, 1985) for "sixty-three".
+(125)[^125]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(a) (with effect from March 2, 1985) for "sixty-three".
 
-(126)[^126]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(b)(i) (with effect from March 2, 1985) for "five".
+(126)[^126]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(i) (with effect from March 2, 1985) for "five".
 
-(127)[^127)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(b)(ii) (with effect from March 2, 1985) : "and".
+(127)[^127)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(ii) (with effect from March 2, 1985) : "and".
 
-(128)[^128]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(c)(i) (with effect from March 2, 1985) for "two".
+(128)[^128]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(i) (with effect from March 2, 1985) for "two".
 
-(129)[^129]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 6(a) (with effect from November 9, 1985) for "chosen".
+(129)[^129]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(a) (with effect from November 9, 1985) for "chosen".
 
-(130)[^130]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(c)(ii) (with effect from March 2, 1985) for ".".
+(130)[^130]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(ii) (with effect from March 2, 1985) for ".".
 
-(131)[^131]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(1)(d) (with effect from March 2, 1985).
+(131)[^131]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(d) (with effect from March 2, 1985).
 
-(132)[^132]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(2) (with effect from March 2, 1985) for :
+(132)[^132]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(2) (with effect from March 2, 1985) for :
 
 (3)
 
@@ -3838,7 +3838,7 @@ The Senate shall not be subject to dissolution but the term of office of its mem
 
  
 
-(133)[^133]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 6(b)(i) (with effect from November 9, 1985) for :
+(133)[^133]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(b)(i) (with effect from November 9, 1985) for :
 
 (a)
 
@@ -3852,9 +3852,9 @@ of the members referred to in paragraph (b), two shall retire after the expirati
 
 of the members referred to in paragraph (c), one shall retire after the expiration of every two years.
 
-(134)[^134)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 6(b)(ii) (with effect from November 9, 1985) : "or chosen".
+(134)[^134)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(b)(ii) (with effect from November 9, 1985) : "or chosen".
 
-(135)[^135)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 6(c) (with effect from November 9, 1985) : :
+(135)[^135)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(c) (with effect from November 9, 1985) : :
 
  (136)[^136]\[
 
@@ -3866,21 +3866,21 @@ A casual vacancy in the office of a member referred to in paragraph (d) of claus
 
 \] (136)[^136)
 
-(136)[^136]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 15(3) (with effect from March 2, 1985).
+(136)[^136]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(3) (with effect from March 2, 1985).
 
-(137)[^137]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 7 (with effect from November 9, 1985) for "two".
+(137)[^137]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 7 (with effect from November 9, 1985) for "two".
 
-(138)[^138]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 5 (with effect from May 4, 1974).
+(138)[^138]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 5 (with effect from May 4, 1974).
 
-(139)[^139]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.html), Article 3 (with effect from March 25, 1987) for " (140)[^140]\[one hundred and sixty\] (140)[^140)".
+(139)[^139]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.md), Article 3 (with effect from March 25, 1987) for " (140)[^140]\[one hundred and sixty\] (140)[^140)".
 
-(140)[^140]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 2 (with effect from March 19, 1985) for "one hundred and thirty".
+(140)[^140]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 2 (with effect from March 19, 1985) for "one hundred and thirty".
 
-(141)[^141]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 19 (with effect from April 19, 2010) for "ninety".
+(141)[^141]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 19 (with effect from April 19, 2010) for "ninety".
 
-(142)[^142]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Majlis-e-Shoora (Parliament)".
+(142)[^142]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Majlis-e-Shoora (Parliament)".
 
-(143)[^143]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 20 (with effect from April 19, 2010) for :
+(143)[^143]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 20 (with effect from April 19, 2010) for :
 
 **62**
 
@@ -3941,13 +3941,13 @@ he possesses such other qualifications as may be prescribed by Act of Majlis-e-S
 
 (144)[^144)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 5 (with effect from May 31, 2018) : "or the Federally Administered Tribal Areas".
 
-(145)[^145]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 6 (with effect from August 21, 2002) for :
+(145)[^145]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 6 (with effect from August 21, 2002) for :
 
 (b)
 
 he is, in the case of National Assembly, not less than twenty-five years of age and is enrolled as a voter in any electoral roll for election to a Muslim seat or a non-Muslim seat as the case may be in that Assembly;
 
-(146)[^146]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 21 (with effect from April 19, 2010) for :
+(146)[^146]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 21 (with effect from April 19, 2010) for :
 
  (147)[^147]\[
 
@@ -4101,7 +4101,7 @@ Where a question is referred to the Chief Election Commissioner under clause (2)
 
 \] (147)[^147)
 
-(147)[^147]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 16 (with effect from March 2, 1985) for :
+(147)[^147]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 16 (with effect from March 2, 1985) for :
 
 **63**
 
@@ -4141,7 +4141,7 @@ If any question arises whether a member of Parliament has become disqualified fr
 
  
 
-(148)[^148]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 7(1)(a) (with effect from August 21, 2002) for :
+(148)[^148]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(a) (with effect from August 21, 2002) for :
 
 (h)
 
@@ -4155,17 +4155,17 @@ he has been dismissed from the service of Pakistan on the ground of misconduct, 
 
 he has been removed or compulsorily retired from the service of Pakistan on the ground of misconduct unless a period of three years has elapsed since his removal or compulsory retirement; or
 
-(149)[^149]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 7(1)(b) (with effect from August 21, 2002) for :
+(149)[^149]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(b) (with effect from August 21, 2002) for :
 
 (p)
 
 he is for the time being disqualified from being elected or chosen as a member of the Majlis-e-Shoora (Parliament) or of a Provincial Assembly under any law for the time being in force.
 
-(150)[^150]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(2) (with effect from October 9, 2002) for ".".
+(150)[^150]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for ".".
 
-(151)[^151]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(2) (with effect from October 9, 2002).
+(151)[^151]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002).
 
-(152)[^152]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 7(2) (with effect from August 21, 2002) for :
+(152)[^152]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(2) (with effect from August 21, 2002) for :
 
 (2)
 
@@ -4173,9 +4173,9 @@ If any question arises whether a member of the Majlis-e-Shoora (Parliament) has 
 
  
 
-(153)[^153]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 7(3) (with effect from August 21, 2002).
+(153)[^153]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(3) (with effect from August 21, 2002).
 
-(154)[^154]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 22 (with effect from April 19, 2010) for :
+(154)[^154]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 22 (with effect from April 19, 2010) for :
 
  (155)[^155]\[
 
@@ -4261,7 +4261,7 @@ For the purpose of this Article -
 
 \] (155)[^155)
 
-(155)[^155]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 8 (with effect from August 21, 2002) for :
+(155)[^155]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 8 (with effect from August 21, 2002) for :
 
  (156)[^156]\[
 
@@ -4331,39 +4331,39 @@ Notwithstanding anything contained in the Constitution, no court including the S
 
 \] (156)[^156)
 
-(156)[^156]  Inserted by [Constitution (Fourteenth Amendment) Act, 1997 (24 of 1997)](/pakistan/constitution/amendments/14amendment.html), Article 2 (with effect from July 3, 1997).
+(156)[^156]  Inserted by [Constitution (Fourteenth Amendment) Act, 1997 (24 of 1997)](/pakistan/constitution/amendments/14amendment.md), Article 2 (with effect from July 3, 1997).
 
-(157)[^157]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(157)[^157]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(158)[^158]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(158)[^158]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(159)[^159]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(159)[^159]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(160)[^160]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(160)[^160]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(161)[^161]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(161)[^161]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(162)[^162]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(162)[^162]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(163)[^163]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(163)[^163]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(164)[^164]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(164)[^164]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(165)[^165]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(165)[^165]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (166)[^166)   For the Rules of Procedure and Conduct of Business in the Senate, see Gazette of Pakistan, 1973, Extraordinary, Part II, Pages 1543-1620. For the Rules of Procedure and Conduct of Business in the National Assembly, 1973, see Gazette of Pakistan, 1973, Extraordinary, Part II, pages 1897-1957.  
 
-(167)[^167]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(167)[^167]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(168)[^168]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(168)[^168]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(169)[^169]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(169)[^169]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(170)[^170]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(170)[^170]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(171)[^171]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(171)[^171]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(172)[^172]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 23 (with effect from April 19, 2010) for :
+(172)[^172]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 23 (with effect from April 19, 2010) for :
 
  (173)[^173]\[
 
@@ -4399,7 +4399,7 @@ In this Article and the succeeding provisions of the Constitution, "Federal Legi
 
 \] (173)[^173)
 
-(173)[^173]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 17 (with effect from March 2, 1985) for :
+(173)[^173]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) for :
 
 **70**
 
@@ -4441,9 +4441,9 @@ In this Article and the succeeding provisions of the Constitution, "Federal Legi
 
  
 
-(174)[^174]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 9 (with effect from August 21, 2002) for "considered in a joint sitting".
+(174)[^174]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 9 (with effect from August 21, 2002) for "considered in a joint sitting".
 
-(175)[^175)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 17 (with effect from March 2, 1985) : :
+(175)[^175)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) : :
 
 **71.**
 
@@ -4467,7 +4467,7 @@ If a request is made under clause (2), the President shall summon a joint sittin
 
  
 
-(176)[^176)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 24 (with effect from April 19, 2010) : :
+(176)[^176)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 24 (with effect from April 19, 2010) : :
 
  (177)[^177]\[
 
@@ -4503,9 +4503,9 @@ The President may, in consultation with the Speaker of the National Assembly and
 
 \] (177)[^177)
 
-(177)[^177]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 10 (with effect from August 21, 2002).
+(177)[^177]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 10 (with effect from August 21, 2002).
 
-(178)[^178]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Sect. 25 (with effect from April 19, 2010) for :
+(178)[^178]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 25 (with effect from April 19, 2010) for :
 
  (179)[^179]\[
 
@@ -4525,7 +4525,7 @@ The National Assembly shall, consider the recommendations of the Senate and afte
 
 \] (179)[^179)
 
-(179)[^179]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 11 (with effect from August 21, 2002) for :
+(179)[^179]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 11 (with effect from August 21, 2002) for :
 
 (1)
 
@@ -4533,11 +4533,11 @@ Notwithstanding anything contained in Article 70  (180)[^180]\[\] (180)[^180),
 
  
 
-(180)[^180)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art. 2, Sch. item 18 (with effect from March 2, 1985) : "or Article 71".
+(180)[^180)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art. 2, Sch. item 18 (with effect from March 2, 1985) : "or Article 71".
 
-(181)[^181]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(181)[^181]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(182)[^182]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2 and Sched. item 19 (with effect from March 2, 1985) for :
+(182)[^182]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 19 (with effect from March 2, 1985) for :
 
 **75**
 
@@ -4563,11 +4563,11 @@ No Act of Parliament, and no provision in any such Act, shall be invalid by reas
 
  
 
-(183)[^183]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 26(i) (with effect from April 19, 2010) for " (184)[^184]\[thirty\] (184)[^184)".
+(183)[^183]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(i) (with effect from April 19, 2010) for " (184)[^184]\[thirty\] (184)[^184)".
 
-(184)[^184]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 8(a) (with effect from November 9, 1985) for "forty-five".
+(184)[^184]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 8(a) (with effect from November 9, 1985) for "forty-five".
 
-(185)[^185]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 26(ii) (with effect from April 19, 2010) for :
+(185)[^185]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(ii) (with effect from April 19, 2010) for :
 
  (186)[^186]\[
 
@@ -4579,7 +4579,7 @@ When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it s
 
 \] (186)[^186)
 
-(186)[^186]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 8(b) (with effect from November 9, 1985) for :
+(186)[^186]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 8(b) (with effect from November 9, 1985) for :
 
 (2)
 
@@ -4587,19 +4587,19 @@ When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it s
 
  
 
-(187)[^187)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 12(a) (with effect from August 21, 2002) : "in joint sitting".
+(187)[^187)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 12(a) (with effect from August 21, 2002) : "in joint sitting".
 
 (188)[^188]  Substituted by , Article 3(1), Sch. item 12(a) (with effect from ) for "by the votes of the majority of the members of both Houses present and voting".
 
-(189)[^189]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 26(iii) (with effect from April 19, 2010).
+(189)[^189]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(iii) (with effect from April 19, 2010).
 
-(190)[^190]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(190)[^190]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(191)[^191]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(191)[^191]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(192)[^192]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 2(i) (with effect from January 1, 2011).
+(192)[^192]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 2(i) (with effect from January 1, 2011).
 
-(193)[^193]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 2(ii) (with effect from January 1, 2011) for :
+(193)[^193]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 2(ii) (with effect from January 1, 2011) for :
 
 (b)
 
@@ -4607,39 +4607,39 @@ the administrative expenses, including the remuneration payable to officers and 
 
 (194)[^194]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "servants".
 
-(195)[^195]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(195)[^195]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(196)[^196]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(196)[^196]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(197)[^197]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(197)[^197]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (198)[^198)   For the National Assembly Secretariat (Recruitment)Rules 1973, see Gazette of Pakistan, 1973, Extraordinary, part 11 pages 2279-2286. For the Senate Secretariat (Recruitment) Rules, 1973, see ibid., Pages 2301-2307.  
 
 (199)[^199)   For the National Assembly (Finance Committee) Rules, 1973, see Gazette of Pakistan, 1973, Extraordinary, Part II, pages 2451-2454. For the Senate (Finance Committee) Rules, 1973, see ibid., pages 2479-2482.  
 
-(200)[^200]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(i) (with effect from April 19, 2010).
+(200)[^200]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(i) (with effect from April 19, 2010).
 
-(201)[^201]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(201)[^201]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(202)[^202]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(202)[^202]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(203)[^203]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.html), Section 2(a) (with effect from March 19, 1985) for "is with respect to a matter in Part I of the Federal Legislative List".
+(203)[^203]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 2(a) (with effect from March 19, 1985) for "is with respect to a matter in Part I of the Federal Legislative List".
 
-(204)[^204]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(a) (with effect from April 19, 2010) for "four months".
+(204)[^204]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for "four months".
 
-(205)[^205]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(a) (with effect from April 19, 2010) for ";".
+(205)[^205]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for ";".
 
-(206)[^206]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(a) (with effect from April 19, 2010).
+(206)[^206]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010).
 
-(207)[^207]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.html), Section 2(b) (with effect from March 19, 1985) for "is with respect to a matter in Part II of the Federal Legislative List or a matter in the Concurrent Legislative List".
+(207)[^207]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 2(b) (with effect from March 19, 1985) for "is with respect to a matter in Part II of the Federal Legislative List or a matter in the Concurrent Legislative List".
 
-(208)[^208]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(b) (with effect from April 19, 2010) for "four months".
+(208)[^208]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "four months".
 
-(209)[^209]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(b) (with effect from April 19, 2010) for "; and".
+(209)[^209]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "; and".
 
-(210)[^210]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(ii)(b) (with effect from April 19, 2010).
+(210)[^210]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010).
 
-(211)[^211]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 27(iii) (with effect from April 19, 2010) for :
+(211)[^211]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(iii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -4936,7 +4936,7 @@ The Attorney-General may, by writing under his hand addressed to the President, 
 
 ### Notes
 
-(212)[^212]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 20 (with effect from March 2, 1985) for :
+(212)[^212]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 20 (with effect from March 2, 1985) for :
 
 **90**
 
@@ -5126,7 +5126,7 @@ If a resolution referred to in clause (1) is not passed, another such resolution
 
  
 
-(213)[^213]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 28 (with effect from April 19, 2010) for :
+(213)[^213]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 28 (with effect from April 19, 2010) for :
 
 **90**
 
@@ -5158,11 +5158,11 @@ prevent the Majlis-e-Shoora (Parliament) from conferring by law functions on aut
 
  
 
-(214)[^214]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 9 (with effect from November 9, 1985)
+(214)[^214]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985)
 
-(215)[^215]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 9 (with effect from November 9, 1985).
+(215)[^215]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985).
 
-(216)[^216]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 29 (with effect from April 19, 2010) for :
+(216)[^216]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 29 (with effect from April 19, 2010) for :
 
 **91**
 
@@ -5234,11 +5234,11 @@ Nothing contained in this Article shall be construed as disqualifying the Prime 
 
  
 
-(217)[^217]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(a) (with effect from November 9, 1985).
+(217)[^217]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(a) (with effect from November 9, 1985).
 
-(218)[^218]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(b) (with effect from November 9, 1985).
+(218)[^218]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(b) (with effect from November 9, 1985).
 
-(219)[^219]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(c) (with effect from November 9, 1985) for :
+(219)[^219]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(c) (with effect from November 9, 1985) for :
 
 (5)
 
@@ -5246,13 +5246,13 @@ The Prime Minister shall hold office during the pleasure of the President, but t
 
  
 
-(220)[^220]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(i) (with effect from April 19, 2010) for "(7) and (8)".
+(220)[^220]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(i) (with effect from April 19, 2010) for "(7) and (8)".
 
-(221)[^221]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(ii) (with effect from April 19, 2010) for ".".
+(221)[^221]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010) for ".".
 
-(222)[^222]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(ii) (with effect from April 19, 2010).
+(222)[^222]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010).
 
-(223)[^223)   The following was omitted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 1(3) (with effect from September 13, 1977) : :
+(223)[^223)   The following was omitted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 1(3) (with effect from September 13, 1977) : :
 
  (224)[^224]\[
 
@@ -5294,21 +5294,21 @@ If, on the final count of the votes cast at the referendum the Prime Minister fa
 
 \] (224)[^224)
 
-(224)[^224]  Inserted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 2 (with effect from April 21, 1977).
+(224)[^224]  Inserted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 2 (with effect from April 21, 1977).
 
-(225)[^225]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(225)[^225]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(226)[^226]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(226)[^226]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(227)[^227]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(227)[^227]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (228)[^228)  
 
-(229)[^229]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(i) (with effect from April 19, 2010) for "President".
+(229)[^229]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "President".
 
-(230)[^230]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(i) (with effect from April 19, 2010) for "in his name".
+(230)[^230]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "in his name".
 
-(231)[^231]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(ii) (with effect from April 19, 2010) for :
+(231)[^231]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(ii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -5316,7 +5316,7 @@ The President shall also make rules for the allocation and transaction of the bu
 
  
 
-(232)[^232]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 32 (with effect from April 19, 2010).
+(232)[^232]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 32 (with effect from April 19, 2010).
 
 * * *
 
@@ -5473,7 +5473,7 @@ The provisions of clause  (262)[^262]\[(2)\] (262)[^262) of Article 48 shall h
 
 ### Notes
 
-(233)[^233]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 33(i) (with effect from April 19, 2010) for :
+(233)[^233]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 33(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -5481,25 +5481,25 @@ There shall be a Governor for each Province, who shall be appointed by the Presi
 
  
 
-(234)[^234]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 22(1) (with effect from March 2, 1985).
+(234)[^234]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22(1) (with effect from March 2, 1985).
 
-(235)[^235]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(1) (with effect from November 9, 1985).
+(235)[^235]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(1) (with effect from November 9, 1985).
 
-(236)[^236]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 13 (with effect from August 21, 2002) for " (237)[^237]\[on the advice of\] (237)[^237)".
+(236)[^236]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 13 (with effect from August 21, 2002) for " (237)[^237]\[on the advice of\] (237)[^237)".
 
-(237)[^237]  Substituted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.html), Section 3 (with effect from April 3, 1997) for "after consultation with".
+(237)[^237]  Substituted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 3 (with effect from April 3, 1997) for "after consultation with".
 
-(238)[^238]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 33(ii) (with effect from April 19, 2010).
+(238)[^238]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 33(ii) (with effect from April 19, 2010).
 
-(239)[^239]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976) for ".".
+(239)[^239]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976) for ".".
 
-(240)[^240)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(aa) (with effect from November 9, 1985) : :
+(240)[^240)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(aa) (with effect from November 9, 1985) : :
 
  (241)[^241]\[**Provided** that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\] (241)[^241)
 
-(241)[^241]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976).
+(241)[^241]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
 
-(242)[^242)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(b) (with effect from November 9, 1985) : :
+(242)[^242)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(b) (with effect from November 9, 1985) : :
 
  (243)[^243]\[
 
@@ -5511,23 +5511,23 @@ Nothing contained in the proviso to clause (2) shall apply during the period tha
 
 \] (243)[^243)
 
-(243)[^243]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976).
+(243)[^243]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
 
-(244)[^244]  Substituted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 3 (with effect from April 21, 1977) for "an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under".
+(244)[^244]  Substituted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 3 (with effect from April 21, 1977) for "an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under".
 
-(245)[^245]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 6 (with effect from May 4, 1974).
+(245)[^245]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 6 (with effect from May 4, 1974).
 
-(246)[^246]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 22 (with effect from March 2, 1985).
+(246)[^246]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22 (with effect from March 2, 1985).
 
-(247)[^247]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(c) (with effect from November 9, 1985).
+(247)[^247]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(c) (with effect from November 9, 1985).
 
-(248)[^248]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(248)[^248]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(249)[^249]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(249)[^249]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(250)[^250]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(250)[^250]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(251)[^251]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 34 (with effect from April 19, 2010) for :
+(251)[^251]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 34 (with effect from April 19, 2010) for :
 
 **104**
 
@@ -5536,7 +5536,7 @@ When the governor is absent from Pakistan or is unable to perform the functions 
 
  
 
-(252)[^252]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 23 (with effect from March 2, 1985) for :
+(252)[^252]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 23 (with effect from March 2, 1985) for :
 
 **105**
 
@@ -5556,19 +5556,19 @@ The question whether any, and if so what, was tendered to the Governor by the Ch
 
  
 
-(253)[^253]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+(253)[^253]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(254)[^254]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(i) (with effect from November 9, 1985) for "Chief Minister or appropriate Minister".
+(254)[^254]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(i) (with effect from November 9, 1985) for "Chief Minister or appropriate Minister".
 
-(255)[^255]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(ii) (with effect from November 9, 1985) for :
+(255)[^255]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(ii) (with effect from November 9, 1985) for :
 
 **Provided** that the Governor may require the Cabinet to reconsider such advice, whether generally or otherwise, and the Governor shall act in accordance with the advice tendered after such reconsideration.
 
-(256)[^256]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+(256)[^256]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(257)[^257]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+(257)[^257]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(258)[^258)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(iii) (with effect from November 9, 1985) : :
+(258)[^258)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(iii) (with effect from November 9, 1985) : :
 
 **Provided** further that, in respect of the following matters, the Governor shall, subject to the previous approval of the President, act in his discretion, namely :-
 
@@ -5584,9 +5584,9 @@ dismissal of a Cabinet which has lost the confidence of the Provincial Assembly;
 
 dissolution of the Provincial Assembly, when an appeal to the electorate is necessary.
 
-(259)[^259]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(b) (with effect from November 9, 1985) for "the Cabinet or a Minister".
+(259)[^259]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(b) (with effect from November 9, 1985) for "the Cabinet or a Minister".
 
-(260)[^260]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(ii) (with effect from April 19, 2010) for :
+(260)[^260]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(ii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -5594,7 +5594,7 @@ Where the Governor dissolves the Provincial Assembly, he shall appoint, in his d
 
  
 
-(261)[^261)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(iii) (with effect from April 19, 2010) : :
+(261)[^261)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(iii) (with effect from April 19, 2010) : :
 
 (4)
 
@@ -5602,7 +5602,7 @@ The powers conferred by the Article on the President shall be exercised by him i
 
  
 
-(262)[^262]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(c) (with effect from November 9, 1985) for "(3)".
+(262)[^262]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(c) (with effect from November 9, 1985) for "(3)".
 
 * * *
 
@@ -6247,7 +6247,7 @@ Without prejudice to the provisions of clause (2), an Ordinance laid before the 
 
 ### Notes
 
-(263)[^263]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 36 (with effect from August 21, 2002) for :
+(263)[^263]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 36 (with effect from August 21, 2002) for :
 
 **106**
 
@@ -6366,7 +6366,7 @@ Khyber Pakhtunkhwa 99 22 3 124
 
 (265)[^265]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(II) (with effect from May 31, 2018).
 
-(266)[^266]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(1) (with effect from August 21, 2002) for :
+(266)[^266]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -6390,17 +6390,17 @@ Sind
 
  
 
-(267)[^267]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(2) (with effect from August 21, 2002) for " (268)[^268]\[twenty-one\] (268)[^268)".
+(267)[^267]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(2) (with effect from August 21, 2002) for " (268)[^268]\[twenty-one\] (268)[^268)".
 
-(268)[^268]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for "eighteen".
+(268)[^268]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for "eighteen".
 
-(269)[^269]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for ":".
+(269)[^269]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for ":".
 
-(270)[^270)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) : :
+(270)[^270)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) : :
 
 **Provided** that, for the purpose of the first general election to the Provincial Assembly or an election to a seat falling vacant before the holding of the second general election to the Assembly, paragraph (b) shall have effect as if for the word "eighteen" the word "twenty-one" were substituted.
 
-(271)[^271]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(3) (with effect from August 21, 2002) for :
+(271)[^271]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(3) (with effect from August 21, 2002) for :
 
  (272)[^272]\[
 
@@ -6464,7 +6464,7 @@ Explanation.- Where no independent seat is allocated to a minority in a Province
 
 \] (272)[^272)
 
-(272)[^272]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for :
+(272)[^272]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
 
 (3)
 
@@ -6488,17 +6488,17 @@ Sind
 
  
 
-(273)[^273]  Inserted by [Constitution (Second Amendment) Act, 1974 (49 of 1974)](/pakistan/constitution/amendments/2amendment.html), Section 2 (with effect from September 17, 1974).
+(273)[^273]  Inserted by [Constitution (Second Amendment) Act, 1974 (49 of 1974)](/pakistan/constitution/amendments/2amendment.md), Section 2 (with effect from September 17, 1974).
 
-(274)[^274]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 7 (with effect from November 21, 1975) for "or".
+(274)[^274]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "or".
 
-(275)[^275]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 7 (with effect from November 21, 1975) for "3".
+(275)[^275]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "3".
 
-(276)[^276]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(2) (with effect from October 9, 2002) for :
+(276)[^276]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for :
 
 **Provided** that a political party securing less than five per centum of the total number of seats in the Provincial Assembly shall not be entitled to any seat reserved for women and non-Muslims.
 
-(277)[^277)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(4) (with effect from August 21, 2002) : :
+(277)[^277)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(4) (with effect from August 21, 2002) : :
 
 (4)
 
@@ -6524,9 +6524,9 @@ As soon as practicable after the general election to a Provincial Assembly, the 
 
 \] (280)[^280)
 
-(278)[^278]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 13 (with effect from November 9, 1985) for "second".
+(278)[^278]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 13 (with effect from November 9, 1985) for "second".
 
-(279)[^279]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for :
+(279)[^279]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
 
 (5)
 
@@ -6534,9 +6534,9 @@ As soon as practicable after the general election to a Provincial Assembly, the 
 
  
 
-(280)[^280]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985).
+(280)[^280]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985).
 
-(281)[^281]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 37 (with effect from April 19, 2010) for :
+(281)[^281]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 37 (with effect from April 19, 2010) for :
 
 **112**
 
@@ -6582,23 +6582,23 @@ The Governor in case of dissolution of the Provisional Assembly under paragraph 
 
  
 
-(282)[^282]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14 (with effect from November 9, 1985)
+(282)[^282]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14 (with effect from November 9, 1985)
 
-(283)[^283]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14(a) (with effect from November 9, 1985) for "resolution for a vote of no-confidence has been moved".
+(283)[^283]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14(a) (with effect from November 9, 1985) for "resolution for a vote of no-confidence has been moved".
 
-(284)[^284]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14(b) (with effect from November 9, 1985).
+(284)[^284]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14(b) (with effect from November 9, 1985).
 
-(285)[^285)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.html), Section 2 (with effect from April 3, 1997) : :
+(285)[^285)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
 
 (b)
 
 a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-(286)[^286]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 15 (with effect from August 21, 2002).
+(286)[^286]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 15 (with effect from August 21, 2002).
 
-(287)[^287]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 4 (with effect from December 31, 2003).
+(287)[^287]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 4 (with effect from December 31, 2003).
 
-(288)[^288]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 25 (with effect from March 2, 1985) for :
+(288)[^288]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 25 (with effect from March 2, 1985) for :
 
 **113**
 
@@ -6622,7 +6622,7 @@ he possesses such other qualifications as may be prescribed by Act of Parliament
 
  
 
-(289)[^289]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 26 (with effect from March 2, 1985) for :
+(289)[^289]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 26 (with effect from March 2, 1985) for :
 
 **116**
 
@@ -6652,11 +6652,11 @@ No Act of a Provincial Assembly, and no provision in any such Act, shall be inva
 
  
 
-(290)[^290]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(i) (with effect from April 19, 2010) for " (291)[^291]\[thirty\] (291)[^291)".
+(290)[^290]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(i) (with effect from April 19, 2010) for " (291)[^291]\[thirty\] (291)[^291)".
 
-(291)[^291]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 15(a) (with effect from November 9, 1985) for "forty-five>".
+(291)[^291]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 15(a) (with effect from November 9, 1985) for "forty-five>".
 
-(292)[^292]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 15(b) (with effect from November 9, 1985) for :
+(292)[^292]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 15(b) (with effect from November 9, 1985) for :
 
 (3)
 
@@ -6664,29 +6664,29 @@ When the Governor has returned a Bill to the Provincial Assembly, if it is again
 
  
 
-(293)[^293]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(ii) (with effect from April 19, 2010) for "not withhold assent therefrom".
+(293)[^293]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(ii) (with effect from April 19, 2010) for "not withhold assent therefrom".
 
-(294)[^294]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(iii) (with effect from April 19, 2010).
+(294)[^294]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(iii) (with effect from April 19, 2010).
 
-(295)[^295)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 39 (with effect from April 19, 2010) : :
+(295)[^295)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 39 (with effect from April 19, 2010) : :
 
 **Provided** that, for a period of ten years from the commencing day or the holding of the second general election to the Provincial Assembly, whichever occurs later, a demand shall be deemed to have been assented to unless, by the votes of a majority of the total membership of the Assembly, it is refused or assented to subject to a reduction of the amount specified therein.
 
-(296)[^296]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(296)[^296]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(297)[^297)   The following was omitted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(a) (with effect from May 4, 1974) : "and".
+(297)[^297)   The following was omitted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(a) (with effect from May 4, 1974) : "and".
 
-(298)[^298]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(b) (with effect from May 4, 1974) for ".".
+(298)[^298]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(b) (with effect from May 4, 1974) for ".".
 
-(299)[^299]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(c) (with effect from May 4, 1974).
+(299)[^299]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(c) (with effect from May 4, 1974).
 
-(300)[^300]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 40 (with effect from April 19, 2010) for "seventy".
+(300)[^300]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 40 (with effect from April 19, 2010) for "seventy".
 
-(301)[^301]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010) for "three months".
+(301)[^301]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "three months".
 
-(302)[^302]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010) for "; and".
+(302)[^302]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "; and".
 
-(303)[^303]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010).
+(303)[^303]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010).
 
 * * *
 
@@ -6989,7 +6989,7 @@ Elections to the local governments shall be held by the Election Commission of P
 
 ### Notes
 
-(304)[^304]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 27 (with effect from March 2, 1985) for :
+(304)[^304]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 27 (with effect from March 2, 1985) for :
 
 **129**
 
@@ -7054,7 +7054,7 @@ The member elected under clause (3) shall be called upon by the Governor to assu
 
  
 
-(305)[^305]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 42 (with effect from April 19, 2010) for :
+(305)[^305]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 42 (with effect from April 19, 2010) for :
 
 **129**
 
@@ -7063,7 +7063,7 @@ The executive authority of the Province shall vest in the Governor and shall be 
 
  
 
-(306)[^306]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 43 (with effect from April 19, 2010) for :
+(306)[^306]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 43 (with effect from April 19, 2010) for :
 
 **130**
 
@@ -7135,11 +7135,11 @@ Nothing contained in this Article shall be construed as disqualifying the Chief 
 
  
 
-(307)[^307]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(a) (with effect from November 9, 1985).
+(307)[^307]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(a) (with effect from November 9, 1985).
 
-(308)[^308]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(b) (with effect from November 9, 1985).
+(308)[^308]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(b) (with effect from November 9, 1985).
 
-(309)[^309]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(c) (with effect from November 9, 1985) for :
+(309)[^309]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(c) (with effect from November 9, 1985) for :
 
 (5)
 
@@ -7147,7 +7147,7 @@ The Chief Minister shall hold office during the pleasure of the Governor, but th
 
  
 
-(310)[^310]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 44 (with effect from April 19, 2010) for :
+(310)[^310]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 44 (with effect from April 19, 2010) for :
 
 **131**
 
@@ -7168,9 +7168,9 @@ if the Governor so requires, to submit for consideration of the Cabinet any matt
 
  
 
-(311)[^311]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 45 (with effect from April 19, 2010) for "(7) and (8)".
+(311)[^311]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 45 (with effect from April 19, 2010) for "(7) and (8)".
 
-(312)[^312)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 29 (with effect from March 2, 1985) : :
+(312)[^312)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
 
 **134**
 
@@ -7196,7 +7196,7 @@ If the Provincial Assembly is in session at the time when the Chief Minister res
 
  
 
-(313)[^313)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 29 (with effect from March 2, 1985) : :
+(313)[^313)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
 
 **135**
 
@@ -7228,7 +7228,7 @@ In this Article, "most senior Provincial Minister" means the Provincial Minister
 
  
 
-(314)[^314]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 30 (with effect from March 2, 1985) for :
+(314)[^314]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 30 (with effect from March 2, 1985) for :
 
 **136.**
 
@@ -7272,11 +7272,11 @@ If a resolution referred to in clause (1) is not passed, another such resolution
 
  
 
-(315)[^315]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(315)[^315]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(316)[^316]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(316)[^316]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(317)[^317]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 31 (with effect from March 2, 1985) for :
+(317)[^317]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 31 (with effect from March 2, 1985) for :
 
 **139.**
 
@@ -7296,9 +7296,9 @@ The Provincial Government may regulate the allocation and transaction of its bus
 
  
 
-(318)[^318]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 46(i) (with effect from April 19, 2010) for "Governor".
+(318)[^318]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 46(i) (with effect from April 19, 2010) for "Governor".
 
-(319)[^319]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 46(iii) (with effect from April 19, 2010) for :
+(319)[^319]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 46(iii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -7306,9 +7306,9 @@ The Governor shall also make rules for the allocation and transaction of the bus
 
  
 
-(320)[^320]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 47 (with effect from April 19, 2010).
+(320)[^320]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 47 (with effect from April 19, 2010).
 
-(321)[^321]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 48 (with effect from April 19, 2010) for :
+(321)[^321]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 48 (with effect from April 19, 2010) for :
 
  (322)[^322]\[
 
@@ -7321,7 +7321,7 @@ Each Province shall, by law, establish a local government system and devolve pol
 
 \] (322)[^322)
 
-(322)[^322]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 16 (with effect from August 21, 2002).
+(322)[^322]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 16 (with effect from August 21, 2002).
 
 * * *
 
@@ -7411,35 +7411,35 @@ If  (337)[^337]\[one\] (337)[^337) or more Provincial Assemblies pass resoluti
 
 ### Notes
 
-(323)[^323]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(323)[^323]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(324)[^324]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(324)[^324]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(325)[^325]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(i) (with effect from April 19, 2010) for :
+(325)[^325]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(i) (with effect from April 19, 2010) for :
 
 (b)
 
  (326)[^326]\[Majlis-e-Shoora (Parliament)\] (326)[^326), and a Provincial Assembly also, shall have power to make laws with respect to any matter in the Concurrent Legislative List;
 
-(326)[^326]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(326)[^326]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(327)[^327]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(ii) (with effect from April 19, 2010) for :
+(327)[^327]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(ii) (with effect from April 19, 2010) for :
 
 (c)
 
 A Provincial Assembly shall, and  (328)[^328]\[Majlis-e-Shoora (Parliament)\] (328)[^328) shall not, have power to make laws with respect to any matter not enumerated in either the Federal Legislative List or the Concurrent Legislative List; and
 
-(328)[^328]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(328)[^328]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(329)[^329]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(iii) (with effect from April 19, 2010) for :
+(329)[^329]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(iii) (with effect from April 19, 2010) for :
 
 (d)
 
  (330)[^330]\[Majlis-e-Shoora (Parliament)\] (330)[^330) shall have exclusive power to make laws with respect to matters not enumerated in either of the Lists for such areas in the Federation as are not included in any Province.
 
-(330)[^330]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(330)[^330]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(331)[^331]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 50 (with effect from April 19, 2010) for :
+(331)[^331]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 50 (with effect from April 19, 2010) for :
 
 **143**
 
@@ -7448,25 +7448,25 @@ If any provision of an Act of a Provincial Assembly is repugnant to any provisio
 
  
 
-(332)[^332]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(332)[^332]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(333)[^333]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(333)[^333]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(334)[^334]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(334)[^334]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(335)[^335]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(335)[^335]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(336)[^336]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(i) (with effect from April 19, 2010) for "two".
+(336)[^336]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
 
-(337)[^337]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(i) (with effect from April 19, 2010) for "two".
+(337)[^337]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
 
-(338)[^338]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(338)[^338]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(339)[^339]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(ii) (with effect from April 19, 2010) for "in either List".
+(339)[^339]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(ii) (with effect from April 19, 2010) for "in either List".
 
-(340)[^340]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(340)[^340]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(341)[^341)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 17 (with effect from November 9, 1985) : :
+(341)[^341)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 17 (with effect from November 9, 1985) : :
 
 (2)
 
@@ -7474,7 +7474,7 @@ The provisions of Article 71 shall apply to a Bill with respect to a matter whic
 
  
 
-(342)[^342]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(342)[^342]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -7654,13 +7654,13 @@ The Federation may, if it deems necessary to acquire any land situate in a Provi
 
 ### Notes
 
-(343)[^343]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(343)[^343]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(344)[^344]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 52 (with effect from April 19, 2010) for ".".
+(344)[^344]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 52 (with effect from April 19, 2010) for ".".
 
-(345)[^345]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), 52 (with effect from April 19, 2010).
+(345)[^345]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), 52 (with effect from April 19, 2010).
 
-(346)[^346)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 53 (with effect from April 19, 2010) : :
+(346)[^346)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 53 (with effect from April 19, 2010) : :
 
 (2)
 
@@ -7668,9 +7668,9 @@ The executive authority of the Federation shall also extend to the giving of dir
 
  
 
-(347)[^347]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(347)[^347]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(348)[^348]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(348)[^348]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -7997,7 +7997,7 @@ Nothing in this article shall be construed as restricting the powers of the Fede
 
 ### Notes
 
-(349)[^349)   The following was omitted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 5 (with effect from December 31, 2003) : :
+(349)[^349)   The following was omitted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 5 (with effect from December 31, 2003) : :
 
  (350)[^350]\[
 
@@ -8027,11 +8027,11 @@ Meetings of the National Security Council may be convened by the President eithe
 
 \] (350)[^350)
 
-(350)[^350]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 17 (with effect from August 21, 2002).
+(350)[^350]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 17 (with effect from August 21, 2002).
 
 (351)[^351]  Substituted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002) (with effect from ) for "within the time frame indicated by him".
 
-(352)[^352)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 18 (with effect from November 9, 1985) : :
+(352)[^352)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 18 (with effect from November 9, 1985) : :
 
  (353)[^353]\[
 
@@ -8055,9 +8055,9 @@ The National Security Council shall consist of the President, the Prime Minister
 
 \] (353)[^353)
 
-(353)[^353]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 32 (with effect from March 2, 1985).
+(353)[^353]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 32 (with effect from March 2, 1985).
 
-(354)[^354]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(i) (with effect from April 19, 2010) for :
+(354)[^354]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(i) (with effect from April 19, 2010) for :
 
 (2)
 
@@ -8073,7 +8073,7 @@ an equal number of members from the Federal Government to be nominated by the Pr
 
  
 
-(355)[^355)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(ii) (with effect from April 19, 2010) : :
+(355)[^355)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(ii) (with effect from April 19, 2010) : :
 
 (3)
 
@@ -8081,11 +8081,11 @@ The Prime Minister, if he is a member of the Council, shall be the Chairman of t
 
  
 
-(356)[^356]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(356)[^356]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(357)[^357]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(iii) (with effect from April 19, 2010).
+(357)[^357]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(iii) (with effect from April 19, 2010).
 
-(358)[^358]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(i) (with effect from April 19, 2010) for :
+(358)[^358]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -8093,31 +8093,31 @@ The Council shall formulate and regulate policies in relation to matters in Part
 
  
 
-(359)[^359]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010).
+(359)[^359]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010).
 
-(360)[^360]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(2)".
+(360)[^360]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(2)".
 
-(361)[^361]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(3)".
+(361)[^361]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(3)".
 
-(362)[^362]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(362)[^362]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(363)[^363]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(4)".
+(363)[^363]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(4)".
 
-(364)[^364]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(364)[^364]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(365)[^365]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(365)[^365]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(366)[^366]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(5)".
+(366)[^366]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(5)".
 
-(367)[^367]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(367)[^367]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (368)[^368)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 7 (with effect from May 31, 2018) : "or the Federally Administered Tribal Areas".
 
-(369)[^369]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 56 (with effect from April 19, 2010).
+(369)[^369]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 56 (with effect from April 19, 2010).
 
-(370)[^370]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(370)[^370]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(371)[^371]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 57 (with effect from April 19, 2010) for :
+(371)[^371]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 57 (with effect from April 19, 2010) for :
 
 **156**
 
@@ -8139,11 +8139,11 @@ The National Economic Council shall review the overall economic condition of the
 
  
 
-(372)[^372]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(i) (with effect from April 19, 2010) for ".".
+(372)[^372]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010) for ".".
 
-(373)[^373]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(i) (with effect from April 19, 2010).
+(373)[^373]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010).
 
-(374)[^374]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(ii) (with effect from April 19, 2010).
+(374)[^374]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(ii) (with effect from April 19, 2010).
 
 * * *
 
@@ -8378,19 +8378,19 @@ Every judgment or order of any court or tribunal, including the Supreme Court an
 
 (375)[^375)   For the notification constituting the National Finance Commission, see Gazette of Pakistan, 1974, Extraordinary, Part II, pages 191-192.  
 
-(376)[^376]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(376)[^376]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(377)[^377]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 3 (with effect from September 16, 1976) for :
+(377)[^377]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 3 (with effect from September 16, 1976) for :
 
 (ii)
 
 taxes on sales and purchase;
 
-(378)[^378]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 59 (with effect from April 19, 2010).
+(378)[^378]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 59 (with effect from April 19, 2010).
 
 (379)[^379)   For such Order, see the Distribution of Revenues and Grants-in-Aid Order, 1975 (President's Order No.2 of 1975).  
 
-(380)[^380]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 60 (with effect from April 19, 2010) for :
+(380)[^380]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 60 (with effect from April 19, 2010) for :
 
 (1)
 
@@ -8398,17 +8398,17 @@ Notwithstanding the provisions of Article 78 the net proceeds of the Federal dut
 
  
 
-(381)[^381]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(381)[^381]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(382)[^382]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(382)[^382]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(383)[^383]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(383)[^383]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(384)[^384]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(384)[^384]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(385)[^385]  Inserted by [Constitution (Amendment) Order, 1985 (President's Order No. 11 of 1985)](/pakistan/constitution/orders/po11_1985.html), Art 2 (with effect from February 24, 1985).
+(385)[^385]  Inserted by [Constitution (Amendment) Order, 1985 (President's Order No. 11 of 1985)](/pakistan/constitution/orders/po11_1985.md), Art 2 (with effect from February 24, 1985).
 
-(386)[^386]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(386)[^386]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -8576,11 +8576,11 @@ The reports of the Auditor-General relating to the accounts of the Federation sh
 
 ### Notes
 
-(387)[^387]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(387)[^387]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(388)[^388]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 61 (with effect from April 19, 2010).
+(388)[^388]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 61 (with effect from April 19, 2010).
 
-(389)[^389]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(i) (with effect from April 19, 2010) for :
+(389)[^389]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(i) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -8588,21 +8588,21 @@ The terms and conditions of service, including the term of office, of the Audito
 
  
 
-(390)[^390]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(390)[^390]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (391)[^391)   For such Order, see the Pakistan (Audit and Accounts) Order, 1973 (President's Order No. 21 of 1973).  
 
-(392)[^392]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(ii) (with effect from April 19, 2010).
+(392)[^392]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(ii) (with effect from April 19, 2010).
 
-(393)[^393]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(iii) (with effect from April 19, 2010) for "such other person as the President may direct shall".
+(393)[^393]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(iii) (with effect from April 19, 2010) for "such other person as the President may direct shall".
 
-(394)[^394]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(394)[^394]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(395)[^395]  )   Renumbered by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 63 (with effect from April 19, 2010)
+(395)[^395]  )   Renumbered by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010)
 
-(396)[^396]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 63 (with effect from April 19, 2010).
+(396)[^396]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010).
 
-(397)[^397]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 64 (with effect from April 19, 2010) for "National Assembly".
+(397)[^397]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 64 (with effect from April 19, 2010) for "National Assembly".
 
 * * *
 
@@ -8909,19 +8909,19 @@ The Committee may make rules for regulating its procedure.
 
 ### Notes
 
-(400)[^400]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 66 (with effect from April 19, 2010).
+(400)[^400]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
 
-(401)[^401]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 3 (with effect from January 1, 2011) for :
+(401)[^401]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 3 (with effect from January 1, 2011) for :
 
  (402)[^402]\[ Explanation:- The words "High Court" wherever occurring in the Constitution shall include the High Court for the Islamabad Capital Territory. \] (402)[^402)
 
-(402)[^402]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 66 (with effect from April 19, 2010).
+(402)[^402]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
 
-(403)[^403]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "five".
+(403)[^403]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "five".
 
 (404)[^404]  Inserted by Constitution (Twenty-third Amendment) Act, 2017 (12 of 2017), Article 2 (with effect from March 30, 2017).
 
-(405)[^405)   The following was omitted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.html), Section 1(3) (with effect from January 7, 2019) : :
+(405)[^405)   The following was omitted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.md), Section 1(3) (with effect from January 7, 2019) : :
 
  (406)[^406]\[**Provided** that the provisions of this Article shall have no application to the trial of persons under any of the Acts metnioned at serial No. 6, 7, 8 and 9 of sub-part III or Part I of the First Schedule, who claims, or is known, to belong to any terrorist group or organization using the name of religion or a sect.
 
@@ -8929,15 +8929,15 @@ Explanation:- In this proviso, the expression ‘sect’ means a sect of religio
 
 \] (406)[^406)
 
-(406)[^406]  Inserted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.html), Article 2 (with effect from January 7, 2015).
+(406)[^406]  Inserted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.md), Article 2 (with effect from January 7, 2015).
 
-(407)[^407]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 67 (with effect from April 19, 2010).
+(407)[^407]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 67 (with effect from April 19, 2010).
 
-(408)[^408]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(a)(i) (with effect from January 1, 2011) for "two".
+(408)[^408]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(a)(i) (with effect from January 1, 2011) for "two".
 
-(409)[^409]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(a)(ii) (with effect from January 1, 2011) for "two".
+(409)[^409]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(a)(ii) (with effect from January 1, 2011) for "two".
 
-(410)[^410]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(b)(i) (with effect from January 1, 2011) for :
+(410)[^410]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(b)(i) (with effect from January 1, 2011) for :
 
 (iv)
 
@@ -8945,25 +8945,25 @@ Explanation:- In this proviso, the expression ‘sect’ means a sect of religio
 
 a senior advocate to be nominated by the Provincial Bar Council for a period of two years:
 
-(411)[^411]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(b)(ii) (with effect from January 1, 2011) for :
+(411)[^411]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(b)(ii) (with effect from January 1, 2011) for :
 
 **Provided** that for appointment of Chief Justice of a High Court, the most senior Judge of the Court shall be substituted by a former Chief Justice or former Judge of that Court, to be nominated by the Chief Justice of Pakistan in consultation with the two member Judges of the Commission in clause (2):
 
 **Provided** further that if for any reason the Chief Justice of High Court is not available, he shall also be substituted in the manner as provided in the foregoing proviso.
 
-(412)[^412]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(c) (with effect from January 1, 2011).
+(412)[^412]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(c) (with effect from January 1, 2011).
 
-(413)[^413]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(d) (with effect from January 1, 2011) for ".".
+(413)[^413]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011) for ".".
 
-(414)[^414]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(d) (with effect from January 1, 2011).
+(414)[^414]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011).
 
-(415)[^415]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(e)(i) (with effect from January 1, 2011) for :
+(415)[^415]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(e)(i) (with effect from January 1, 2011) for :
 
 **Provided** that the Committee may not confirm the nomination by three-fourth majority of its total membership within the said period, in which case the Commission shall send another nomination.
 
-(416)[^416]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(e)(ii) (with effect from January 1, 2011).
+(416)[^416]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(e)(ii) (with effect from January 1, 2011).
 
-(417)[^417]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(f) (with effect from January 1, 2011) for :
+(417)[^417]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(f) (with effect from January 1, 2011) for :
 
 (13)
 
@@ -8971,9 +8971,9 @@ The Committee shall forward the name of the nominee confirmed by it or deemed to
 
  
 
-(418)[^418]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(g) (with effect from January 1, 2011).
+(418)[^418]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011).
 
-(419)[^419]  )   Renumbered from "(15)". by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 4(g) (with effect from January 1, 2011)
+(419)[^419]  )   Renumbered from "(15)". by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011)
 
 * * *
 
@@ -9298,9 +9298,9 @@ Subject to the Constitution and law, the Supreme Court may make rules regulating
 
 ### Notes
 
-(420)[^420]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(420)[^420]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(421)[^421]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 68 (with effect from April 19, 2010) for :
+(421)[^421]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 68 (with effect from April 19, 2010) for :
 
 (1)
 
@@ -9308,7 +9308,7 @@ The Chief Justice of Pakistan shall be appointed by the President, and each of t
 
  
 
-(422)[^422]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 6 (with effect from December 31, 2003) for :
+(422)[^422]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 6 (with effect from December 31, 2003) for :
 
 **179**
 
@@ -9324,11 +9324,11 @@ A Judge of the Supreme Court shall hold office until he attains the age of  (42
 
  
 
-(423)[^423]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 5 (with effect from September 16, 1976)
+(423)[^423]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976)
 
-(424)[^424]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(4) (with effect from October 9, 2002) for "sixty-five years".
+(424)[^424]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-five years".
 
-(425)[^425)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 34 (with effect from March 2, 1985) : :
+(425)[^425)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 34 (with effect from March 2, 1985) : :
 
  (426)[^426]\[
 
@@ -9374,25 +9374,25 @@ Notwithstanding anything contained in clause (1) or clause (2), a Chief Justice 
 
 \] (427)[^427)
 
-(426)[^426]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 5 (with effect from September 16, 1976).
+(426)[^426]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976).
 
-(427)[^427]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.html), Section 2 (with effect from December 13, 1976).
+(427)[^427]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.md), Section 2 (with effect from December 13, 1976).
 
-(428)[^428]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Section 6 (with effect from March 2, 1985) for "the most senior of the other Judges of the Supreme Court".
+(428)[^428]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Section 6 (with effect from March 2, 1985) for "the most senior of the other Judges of the Supreme Court".
 
-(429)[^429]  Inserted by [Constitution (Amendment) Order, 1982 (President's Order No. 2 of 1982)](/pakistan/constitution/orders/po2_1982.html), Section 2 (with effect from February 27, 1982).
+(429)[^429]  Inserted by [Constitution (Amendment) Order, 1982 (President's Order No. 2 of 1982)](/pakistan/constitution/orders/po2_1982.md), Section 2 (with effect from February 27, 1982).
 
-(430)[^430]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 5 (with effect from January 1, 2011).
+(430)[^430]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 5 (with effect from January 1, 2011).
 
 (431)[^431)   For appointment of Rawalpindi as the seat of the Supreme Court, see Gazette of Pakistan, 1974, Part III, page 1387.  
 
-(432)[^432]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(432)[^432]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(433)[^433]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 36 (with effect from March 2, 1985).
+(433)[^433]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 36 (with effect from March 2, 1985).
 
-(434)[^434]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 7 (with effect from September 16, 1976) for "The".
+(434)[^434]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 7 (with effect from September 16, 1976) for "The".
 
-(435)[^435]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(435)[^435]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -9788,7 +9788,7 @@ Each High Court shall supervise and control all courts subordinate to it.
 
 ### Notes
 
-(436)[^436]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 8 (with effect from December 1, 1976) for :
+(436)[^436]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 8 (with effect from December 1, 1976) for :
 
 (2)
 
@@ -9812,9 +9812,9 @@ The agreement referred to in clause (2) shall contain such incidental and conseq
 
 (437)[^437)   For such Order in respect of establishment of High Courts for Baluchistan and Sind, see the President's Order No. 6 of 1976 of November 29, 1976, Gazette of Pakistan, 1976, Extraordinary, Part I, pages 595-99.  
 
-(438)[^438]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(438)[^438]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(439)[^439]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 69(i) (with effect from April 19, 2010) for :
+(439)[^439]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 69(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -9832,17 +9832,17 @@ except where the appointment is that of Chief Justice, with the Chief Justice of
 
  
 
-(440)[^440]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 69(ii) (with effect from August 21, 2002) for " (441)[^441]\[forty-five\] (441)[^441)".
+(440)[^440]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 69(ii) (with effect from August 21, 2002) for " (441)[^441]\[forty-five\] (441)[^441)".
 
-(441)[^441]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(4) (with effect from October 9, 2002) for "forty".
+(441)[^441]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "forty".
 
-(442)[^442]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 8 (with effect from May 4, 1974).
+(442)[^442]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 8 (with effect from May 4, 1974).
 
-(443)[^443]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 70 (with effect from April 19, 2010) for ".".
+(443)[^443]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010) for ".".
 
-(444)[^444]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 70 (with effect from April 19, 2010).
+(444)[^444]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010).
 
-(445)[^445]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 7 (with effect from December 31, 2003) for :
+(445)[^445]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 7 (with effect from December 31, 2003) for :
 
 **195**
 
@@ -9858,11 +9858,11 @@ A Judge of a High Court shall hold office until he attains the age of  (447)[^4
 
  
 
-(446)[^446]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 9 (with effect from September 16, 1976)
+(446)[^446]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976)
 
-(447)[^447]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(4) (with effect from October 9, 2002) for "sixty-two years".
+(447)[^447]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-two years".
 
-(448)[^448)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 37 (with effect from March 2, 1985) : :
+(448)[^448)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 37 (with effect from March 2, 1985) : :
 
  (449)[^449]\[
 
@@ -9908,25 +9908,25 @@ Notwithstanding anything contained in clause (1) or clause (2), a Chief Justice 
 
 \] (450)[^450)
 
-(449)[^449]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 9 (with effect from September 16, 1976).
+(449)[^449]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976).
 
-(450)[^450]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.html), Section 3 (with effect from December 13, 1976).
+(450)[^450]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.md), Section 3 (with effect from December 13, 1976).
 
-(451)[^451]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 38 (with effect from March 2, 1985) for " (452)[^452]\[one of the Judges of the High Court who have not previously held the office of Chief Justice of the High Court otherwise than under this Article\] (452)[^452)".
+(451)[^451]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 38 (with effect from March 2, 1985) for " (452)[^452]\[one of the Judges of the High Court who have not previously held the office of Chief Justice of the High Court otherwise than under this Article\] (452)[^452)".
 
-(452)[^452]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 9 (with effect from September 16, 1976) for "the most senior of the other Judges of the High Court".
+(452)[^452]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976) for "the most senior of the other Judges of the High Court".
 
-(453)[^453]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 39 (with effect from March 2, 1985)
+(453)[^453]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985)
 
-(454)[^454]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 71(i) (with effect from April 19, 2010).
+(454)[^454]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 71(i) (with effect from April 19, 2010).
 
-(455)[^455]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 39 (with effect from March 2, 1985).
+(455)[^455]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985).
 
-(456)[^456]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 70(ii)(a) (with effect from April 19, 2010).
+(456)[^456]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(a) (with effect from April 19, 2010).
 
-(457)[^457]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 70(ii)(b) (with effect from April 19, 2010).
+(457)[^457]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(b) (with effect from April 19, 2010).
 
-(458)[^458]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 9 (with effect from May 4, 1974) for :
+(458)[^458]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 9 (with effect from May 4, 1974) for :
 
 (3)
 
@@ -9934,7 +9934,7 @@ An order shall not be made under clause (1) on application made by or in relatio
 
  
 
-(459)[^459)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 40(1) (with effect from March 2, 1985) : :
+(459)[^459)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(1) (with effect from March 2, 1985) : :
 
  (460)[^460]\[
 
@@ -10014,9 +10014,9 @@ The provisions of clauses (3A) and (3B) shall also apply to the disposal of an a
 
 \] (461)[^461)
 
-(460)[^460]  Inserted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.html), Section 2 (with effect from May 26, 1980).
+(460)[^460]  Inserted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.md), Section 2 (with effect from May 26, 1980).
 
-(461)[^461]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 11 (with effect from September 16, 1976) for :
+(461)[^461]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 11 (with effect from September 16, 1976) for :
 
  (462)[^462]\[
 
@@ -10036,11 +10036,11 @@ for the grant of bail to a person detained, under any law providing for preventi
 
 \] (462)[^462)
 
-(462)[^462]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Section 8(a) (with effect from November 21, 1975).
+(462)[^462]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Section 8(a) (with effect from November 21, 1975).
 
-(463)[^463]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 40(2) (with effect from March 2, 1985).
+(463)[^463]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(2) (with effect from March 2, 1985).
 
-(464)[^464]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 72 (with effect from April 19, 2010) for :
+(464)[^464]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 72 (with effect from April 19, 2010) for :
 
  (465)[^465]\[
 
@@ -10052,29 +10052,29 @@ An interim order made by a High Court on an application made to it to question t
 
 \] (465)[^465)
 
-(465)[^465]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Section 8(b) (with effect from November 21, 1975).
+(465)[^465]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Section 8(b) (with effect from November 21, 1975).
 
-(466)[^466]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 40(3)(a) (with effect from March 2, 1985).
+(466)[^466]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(a) (with effect from March 2, 1985).
 
-(467)[^467]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 40(3)(b) (with effect from March 2, 1985) for "sixty days".
+(467)[^467]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(b) (with effect from March 2, 1985) for "sixty days".
 
-(468)[^468]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 18 (with effect from August 21, 2002) for "unless the case is finally decided, or the interim order is withdrawn, by the Court earlier".
+(468)[^468]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 18 (with effect from August 21, 2002) for "unless the case is finally decided, or the interim order is withdrawn, by the Court earlier".
 
-(469)[^469]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 40(4) (with effect from March 2, 1985).
+(469)[^469]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(4) (with effect from March 2, 1985).
 
-(470)[^470]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 12 (with effect from September 16, 1976) for ".".
+(470)[^470]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976) for ".".
 
-(471)[^471)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 73(i) (with effect from April 19, 2010) : :
+(471)[^471)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 73(i) (with effect from April 19, 2010) : :
 
  (472)[^472]\[**Provided** that such consent, or consultation with the Chief Justices of the High Courts, shall not be necessary if such transfer is for a period not exceeding  (473)[^473]\[two years\] (473)[^473) at a time.\] (472)[^472)
 
-(472)[^472]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 12 (with effect from September 16, 1976).
+(472)[^472]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976).
 
-(473)[^473]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 41 (with effect from March 2, 1985) for "one year".
+(473)[^473]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for "one year".
 
-(474)[^474]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 3(a) (with effect from March 19, 1985).
+(474)[^474]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 3(a) (with effect from March 19, 1985).
 
-(475)[^475]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 41 (with effect from March 2, 1985) for :
+(475)[^475]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for :
 
 (2)
 
@@ -10082,11 +10082,11 @@ When a judge is so transferred, he shall, during the period for which he serves 
 
  
 
-(476)[^476]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 10 (with effect from May 4, 1974).
+(476)[^476]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 10 (with effect from May 4, 1974).
 
-(477)[^477]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 41 (with effect from March 2, 1985).
+(477)[^477]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985).
 
-(478)[^478)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 73(ii) (with effect from April 19, 2010) : :
+(478)[^478)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 73(ii) (with effect from April 19, 2010) : :
 
  (479)[^479]\[
 
@@ -10098,7 +10098,7 @@ A Judge of a High Court who does not accept transfer to another High Court under
 
 \] (479)[^479)
 
-(479)[^479]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 3(c) (with effect from March 19, 1985).
+(479)[^479]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 3(c) (with effect from March 19, 1985).
 
 * * *
 
@@ -10591,29 +10591,29 @@ Until rules are made under clause (1), the Shariat Benches of Superior Courts Ru
 
 ### Notes
 
-(480)[^480]  Substituted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.html), Section 3 (with effect from May 26, 1980) for [Chapter 3A: "Shariat Bench of Superior Courts"](part7.ch3A_po1_1980_subs.html)
+(480)[^480]  Substituted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.md), Section 3 (with effect from May 26, 1980) for [Chapter 3A: "Shariat Bench of Superior Courts"](part7.ch3A_po1_1980_subs.md)
 
-(481)[^481]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 2(a) (with effect from March 22, 1982) for :
+(481)[^481]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) for :
 
 (a)
 
 "Chairman" means chairman of the Court;"
 
-(482)[^482]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 2(a) (with effect from March 22, 1982).
+(482)[^482]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982).
 
-(483)[^483]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Section 2, Sch. item 42 (with effect from March 2, 1985) for " (484)[^484]\[five\] (484)[^484)".
+(483)[^483]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Section 2, Sch. item 42 (with effect from March 2, 1985) for " (484)[^484]\[five\] (484)[^484)".
 
-(484)[^484]  Substituted by [Constitution (Second Amendment) Order, 1984 (President's Order No. 2 of 1984)](/pakistan/constitution/orders/po2_1984.html), Section 2 (with effect from April 26, 1984) for " (485)[^485]\[four\] (485)[^485)".
+(484)[^484]  Substituted by [Constitution (Second Amendment) Order, 1984 (President's Order No. 2 of 1984)](/pakistan/constitution/orders/po2_1984.md), Section 2 (with effect from April 26, 1984) for " (485)[^485]\[four\] (485)[^485)".
 
-(485)[^485]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.html), Section 2 (with effect from May 19, 1983) for "three".
+(485)[^485]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for "three".
 
-(486)[^486)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 2(a) (with effect from March 22, 1982) : :
+(486)[^486)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) : :
 
 (d)
 
 'member' means member of the Court.
 
-(487)[^487]  Substituted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.html), Section 2 (with effect from May 27, 1981) for :
+(487)[^487]  Substituted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.md), Section 2 (with effect from May 27, 1981) for :
 
 (2)
 
@@ -10621,15 +10621,15 @@ The Court shall consist of five  (491)[^491]\[Muslim\] (491)[^491)members incl
 
  
 
-(488)[^488]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(a) (with effect from March 22, 1982) for "members".
+(488)[^488]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(a) (with effect from March 22, 1982) for "members".
 
-(489)[^489]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(489)[^489]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(490)[^490]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(i) (with effect from April 19, 2010).
+(490)[^490]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(i) (with effect from April 19, 2010).
 
-(491)[^491]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 2(a) (with effect from June 21, 1980).
+(491)[^491]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(a) (with effect from June 21, 1980).
 
-(492)[^492]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 4(a) (with effect from March 19, 1985) for :
+(492)[^492]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 4(a) (with effect from March 19, 1985) for :
 
 (3)
 
@@ -10637,27 +10637,27 @@ The Chairman shall be a person who is, or has been or is qualified to be a Judge
 
  
 
-(493)[^493]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(ii) (with effect from April 19, 2010) for "who are well-versed in Islamic law".
+(493)[^493]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(ii) (with effect from April 19, 2010) for "who are well-versed in Islamic law".
 
-(494)[^494]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(494)[^494]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(495)[^495]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(495)[^495]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(496)[^496)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(iii) (with effect from April 19, 2010) : " for a period exceeding  (497)[^497]\[two years\] (497)[^497)".
+(496)[^496)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(iii) (with effect from April 19, 2010) : " for a period exceeding  (497)[^497]\[two years\] (497)[^497)".
 
-(497)[^497]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 4(b) (with effect from March 19, 1985) for "one year".
+(497)[^497]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 4(b) (with effect from March 19, 1985) for "one year".
 
-(498)[^498]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 2(b) (with effect from June 21, 1980).
+(498)[^498]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(b) (with effect from June 21, 1980).
 
-(499)[^499]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 2(c) (with effect from June 21, 1980).
+(499)[^499]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(c) (with effect from June 21, 1980).
 
-(500)[^500]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(500)[^500]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(501)[^501]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(501)[^501]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(502)[^502]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 43 (with effect from March 2, 1985).
+(502)[^502]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 43 (with effect from March 2, 1985).
 
-(503)[^503]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(iv) (with effect from April 19, 2010) for :
+(503)[^503]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(iv) (with effect from April 19, 2010) for :
 
 (4B)
 
@@ -10679,7 +10679,7 @@ require a Judge to perform such other functions as the President may deem fit; a
 
  
 
-(504)[^504)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(v) (with effect from April 19, 2010) : :
+(504)[^504)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
 
 (4C)
 
@@ -10687,7 +10687,7 @@ While he is performing the functions which he is required under clause (4B) to p
 
  
 
-(505)[^505)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(v) (with effect from April 19, 2010) : :
+(505)[^505)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
 
 (5)
 
@@ -10695,37 +10695,37 @@ A Judge of a High Court who does not accept appointment as a  (506)[^506]\[Judg
 
  
 
-(506)[^506]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(506)[^506]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(507)[^507]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(507)[^507]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(508)[^508]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(508)[^508]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(509)[^509]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(509)[^509]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(510)[^510]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(510)[^510]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(511)[^511]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(511)[^511]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(512)[^512]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(512)[^512]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(513)[^513]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(513)[^513]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(514)[^514]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 74(vi) (with effect from April 19, 2010).
+(514)[^514]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(vi) (with effect from April 19, 2010).
 
-(515)[^515]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(515)[^515]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(516)[^516]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
+(516)[^516]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
 
-(517)[^517]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 3(c) (with effect from March 22, 1982) for "member".
+(517)[^517]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(518)[^518]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
+(518)[^518]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
 
-(519)[^519]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002) for ".".
+(519)[^519]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002) for ".".
 
-(520)[^520]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002).
+(520)[^520]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002).
 
-(521)[^521)   The following was omitted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.html), Section 3 (with effect from May 27, 1981) : :
+(521)[^521)   The following was omitted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.md), Section 3 (with effect from May 27, 1981) : :
 
  (522)[^522]\[
 
@@ -10749,21 +10749,21 @@ The Chairman shall, in all cases before the Court, request the Ulema not exceedi
 
 \] (522)[^522)
 
-(522)[^522]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.html), Section 2 (with effect from April 13, 1981).
+(522)[^522]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
 
-(523)[^523]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 4 (with effect from March 22, 1982).
+(523)[^523]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 4 (with effect from March 22, 1982).
 
-(524)[^524]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.html), Section 2(a) (with effect from February 14, 1984).
+(524)[^524]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(a) (with effect from February 14, 1984).
 
-(525)[^525)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 75 (with effect from April 19, 2010) : "or the Concurrent Legislative List".
+(525)[^525)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010) : "or the Concurrent Legislative List".
 
-(526)[^526]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 75 (with effect from April 19, 2010).
+(526)[^526]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010).
 
-(527)[^527]  Substituted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.html), Section 2(b) (with effect from February 14, 1984) for ".".
+(527)[^527]  Substituted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984) for ".".
 
-(528)[^528]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.html), Section 2(b) (with effect from February 14, 1984).
+(528)[^528]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984).
 
-(529)[^529)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 3 (with effect from June 21, 1980) : :
+(529)[^529)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 3 (with effect from June 21, 1980) : :
 
 (4)
 
@@ -10771,7 +10771,7 @@ A decision of the Court shall be expressed in terms of the opinion of the majori
 
  
 
-(530)[^530]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 5 (with effect from March 22, 1982) for :
+(530)[^530]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 5 (with effect from March 22, 1982) for :
 
  (531)[^531]\[
 
@@ -10784,19 +10784,19 @@ The Court shall have such other jurisdiction as may be conferred on it by or und
 
 \] (531)[^531)
 
-(531)[^531]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 4 (with effect from June 21, 1980).
+(531)[^531]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 4 (with effect from June 21, 1980).
 
-(532)[^532]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 5 (with effect from June 21, 1980).
+(532)[^532]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 5 (with effect from June 21, 1980).
 
-(533)[^533]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.html), Section 2 (with effect from April 13, 1981).
+(533)[^533]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
 
-(534)[^534]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.html), Section 2 (with effect from May 19, 1983) for ".".
+(534)[^534]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for ".".
 
-(535)[^535]  Inserted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.html), Section 2 (with effect from May 19, 1983).
+(535)[^535]  Inserted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983).
 
-(536)[^536]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 6 (with effect from March 22, 1982).
+(536)[^536]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 6 (with effect from March 22, 1982).
 
-(537)[^537]  Substituted by [Constitution (Third Amendment) Order, 1982 (President's Order No. 12 of 1982)](/pakistan/constitution/orders/po12_1982.html), Section 2 (with effect from August 15, 1982) for :
+(537)[^537]  Substituted by [Constitution (Third Amendment) Order, 1982 (President's Order No. 12 of 1982)](/pakistan/constitution/orders/po12_1982.md), Section 2 (with effect from August 15, 1982) for :
 
 (3)
 
@@ -10804,9 +10804,9 @@ For the purpose of the exercise of the jurisdiction conferred by this Article, t
 
  
 
-(538)[^538]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 7 (with effect from March 22, 1982).
+(538)[^538]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 7 (with effect from March 22, 1982).
 
-(539)[^539)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 8 (with effect from March 22, 1982) : :
+(539)[^539)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 8 (with effect from March 22, 1982) : :
 
 **203I**
 
@@ -10815,11 +10815,11 @@ The Federal Government shall make all such administrative arrangements, and make
 
  
 
-(540)[^540)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 6 (with effect from June 21, 1980) : "and".
+(540)[^540)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) : "and".
 
-(541)[^541]  Substituted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 6 (with effect from June 21, 1980) for ".".
+(541)[^541]  Substituted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) for ".".
 
-(542)[^542]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.html), Section 6 (with effect from June 21, 1980).
+(542)[^542]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980).
 
 * * *
 
@@ -11134,7 +11134,7 @@ An appeal to the Supreme Court from a judgment, decree, order or sentence of an 
 
 ### Notes
 
-(544)[^544]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 44 (with effect from March 2, 1985) for :
+(544)[^544]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 44 (with effect from March 2, 1985) for :
 
 **204**
 
@@ -11158,7 +11158,7 @@ A Court shall have the power to punish a person for contempt of Court in accorda
 
  
 
-(545)[^545]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 13 (with effect from December 1, 1976) for :
+(545)[^545]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 13 (with effect from December 1, 1976) for :
 
 (2)
 
@@ -11190,15 +11190,15 @@ The exercise of the power conferred on a Court by this Article may be regulated 
 
  
 
-(546)[^546]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 14 (with effect from September 16, 1976)
+(546)[^546]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976)
 
-(547)[^547]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 14 (with effect from September 16, 1976).
+(547)[^547]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976).
 
-(548)[^548]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.html), Section 9 (with effect from March 22, 1982).
+(548)[^548]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 9 (with effect from March 22, 1982).
 
-(549)[^549]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 11 (with effect from May 4, 1974).
+(549)[^549]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 11 (with effect from May 4, 1974).
 
-(550)[^550]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 76 (with effect from April 19, 2010) for :
+(550)[^550]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 76 (with effect from April 19, 2010) for :
 
 (5)
 
@@ -11214,23 +11214,23 @@ may have been guilty of misconduct, the President shall direct the  (552)[^552]
 
  
 
-(551)[^551]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 20(i) (with effect from August 21, 2002) for "received from the Council or from any other source".
+(551)[^551]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(i) (with effect from August 21, 2002) for "received from the Council or from any other source".
 
-(552)[^552]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 20(ii) (with effect from August 21, 2002) for "Council to".
+(552)[^552]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(ii) (with effect from August 21, 2002) for "Council to".
 
-(553)[^553]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 12(a)(i)(and deemed to have always been so) for "establish".
+(553)[^553]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so) for "establish".
 
-(554)[^554]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 12(a)(i)(and deemed to have always been so).
+(554)[^554]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
 
-(555)[^555]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 12(a)(i)(and deemed to have always been so).
+(555)[^555]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
 
-(556)[^556]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 15 (with effect from September 16, 1976).
+(556)[^556]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 15 (with effect from September 16, 1976).
 
-(557)[^557]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(557)[^557]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (558)[^558)   For such law, see the Provincial Service Tribunals (Extension of Provisions of the Constitution) Act, 1974 (32 of 1974).  
 
-(559)[^559)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 45 (with effect from December 30, 1985) : :
+(559)[^559)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 45 (with effect from December 30, 1985) : :
 
  (560)[^560]\[
 
@@ -11260,9 +11260,9 @@ Notwithstanding anything herein before contained, where any Military Court or Tr
 
 \] (560)[^560)
 
-(560)[^560]  Inserted by [Constitution (Second Amendment) Order, 1979 (President's Order No. 21 of 1979)](/pakistan/constitution/orders/po21_1979.html), Section 2 (with effect from July 5, 1977).
+(560)[^560]  Inserted by [Constitution (Second Amendment) Order, 1979 (President's Order No. 21 of 1979)](/pakistan/constitution/orders/po21_1979.md), Section 2 (with effect from July 5, 1977).
 
-(561)[^561)   The following was omitted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.html), Section 2 (with effect from July 28, 1994) : :
+(561)[^561)   The following was omitted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1994) : :
 
  (562)[^562]\[
 
@@ -11330,7 +11330,7 @@ Notwithstanding anything contained in the Constitution, no Court shall exercise 
 
 \] (562)[^562)
 
-(562)[^562]  Inserted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.html), Section 2 (with effect from July 28, 1991).
+(562)[^562]  Inserted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1991).
 
 * * *
 
@@ -11594,9 +11594,9 @@ Until  (612)[^612]\[Majlis-e-Shoora (Parliament)\] (612)[^612) by law otherwis
 
 (563)[^563]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "Commissions".
 
-(564)[^564)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 77(i) (with effect from April 19, 2010) : " (565)[^565]\[in his discretion.\] (565)[^565)".
+(564)[^564)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 77(i) (with effect from April 19, 2010) : " (565)[^565]\[in his discretion.\] (565)[^565)".
 
-(565)[^565]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 46 (with effect from March 2, 1985).
+(565)[^565]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 46 (with effect from March 2, 1985).
 
 (566)[^566]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(i) (with effect from June 8, 2016) for :
 
@@ -11606,7 +11606,7 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
  
 
-(567)[^567]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 77(ii) (with effect from April 19, 2010).
+(567)[^567]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 77(ii) (with effect from April 19, 2010).
 
 (568)[^568]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(ii) (with effect from June 8, 2016) for ".".
 
@@ -11616,7 +11616,7 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
 **Provided** that in case there is no consensus between the Prime Minister and the Leader of the Opposition, each shall forward separate lists to the Parliamentary Committee for consideration which may confirm any one name:
 
-(571)[^571]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 6(i) (with effect from January 1, 2011) for :
+(571)[^571]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 6(i) (with effect from January 1, 2011) for :
 
 **Provided** further that the total strength of the Parliamentary Committee shall not exceed twelve members out of which one-third shall be from the Senate:
 
@@ -11624,19 +11624,19 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
 (573)[^573]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iii)(c) (with effect from June 8, 2016) for "also".
 
-(574)[^574]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.html), Section 6(ii) (with effect from January 1, 2011) for "Parliamentary Committee shall comprise".
+(574)[^574]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 6(ii) (with effect from January 1, 2011) for "Parliamentary Committee shall comprise".
 
 (575)[^575]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iv) (with effect from June 8, 2016).
 
-(576)[^576)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 3(a) (with effect from February 28, 2012) : "Commissioner's".
+(576)[^576)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 3(a) (with effect from February 28, 2012) : "Commissioner's".
 
-(577)[^577]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 3(b) (with effect from February 28, 2012).
+(577)[^577]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 3(b) (with effect from February 28, 2012).
 
-(578)[^578]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(a) (with effect from February 28, 2012).
+(578)[^578]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(a) (with effect from February 28, 2012).
 
-(579)[^579]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(b)(i) (with effect from February 28, 2012).
+(579)[^579]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(b)(i) (with effect from February 28, 2012).
 
-(580)[^580]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 78(i) (with effect from April 19, 2010) for "five".
+(580)[^580]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010) for "five".
 
 (581)[^581]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(i) (with effect from June 8, 2016) for :
 
@@ -11644,27 +11644,27 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
  (584)[^584]\[\] (584)[^584)
 
-(582)[^582]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 78(i) (with effect from April 19, 2010).
+(582)[^582]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010).
 
-(583)[^583]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(b)(ii) (with effect from February 28, 2012).
+(583)[^583]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(b)(ii) (with effect from February 28, 2012).
 
-(584)[^584)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 78(ii) (with effect from April 19, 2010) : :
+(584)[^584)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(ii) (with effect from April 19, 2010) : :
 
 **Provided** that the National Assembly may by resolution extend the term of the Commissioner by a period not exceeding one year.
 
-(585)[^585]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(c)(i) (with effect from February 28, 2012).
+(585)[^585]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(c)(i) (with effect from February 28, 2012).
 
-(586)[^586]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(c)(ii) (with effect from February 28, 2012).
+(586)[^586]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(c)(ii) (with effect from February 28, 2012).
 
-(587)[^587]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 4(d) (with effect from February 28, 2012).
+(587)[^587]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(d) (with effect from February 28, 2012).
 
 (588)[^588]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(ii) (with effect from June 8, 2016).
 
-(589)[^589]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 5(a) (with effect from February 28, 2012).
+(589)[^589]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(a) (with effect from February 28, 2012).
 
-(590)[^590]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 5(b) (with effect from February 28, 2012).
+(590)[^590]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(b) (with effect from February 28, 2012).
 
-(591)[^591]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 5(c) (with effect from February 28, 2012).
+(591)[^591]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(c) (with effect from February 28, 2012).
 
 (592)[^592]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 6 (with effect from June 8, 2016) for ":".
 
@@ -11678,9 +11678,9 @@ this clause shall not be construed as preventing a person who was a Judge of the
 
  (595)[^595]\[\] (595)[^595)
 
-(594)[^594]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 79(i) (with effect from April 19, 2010).
+(594)[^594]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 79(i) (with effect from April 19, 2010).
 
-(595)[^595)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 79(ii) (with effect from April 19, 2010) : :
+(595)[^595)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 79(ii) (with effect from April 19, 2010) : :
 
 (b)
 
@@ -11688,7 +11688,7 @@ a person who has held office as Commissioner may, with the concurrence of both H
 
 (596)[^596]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 7 (with effect from June 8, 2016) for "a Judge of the Supreme Court nominated by the Chief Justice of Pakistan".
 
-(597)[^597]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 80(i) (with effect from April 19, 2010) for :
+(597)[^597]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 80(i) (with effect from April 19, 2010) for :
 
  (598)[^598]\[
 
@@ -11700,7 +11700,7 @@ For the purpose of election to both Houses of Majlis-e-Shoora (Parliament), Prov
 
 \] (598)[^598)
 
-(598)[^598]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 21(1) (with effect from August 21, 2002) for :
+(598)[^598]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -11708,7 +11708,7 @@ For the purpose of each general election to the National Assembly and to a Provi
 
  
 
-(599)[^599]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 80(ii) (with effect from April 19, 2010) for :
+(599)[^599]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 80(ii) (with effect from April 19, 2010) for :
 
 (2)
 
@@ -11730,15 +11730,15 @@ the Commissioner who shall be Chairman of the Commission; and
 
 four members, each of whom has been a Judge of a High Court from each Province, appointed by the President in the manner provided for appointment of the Commissioner in clauses (2A) and (2B) of Article 213.
 
-(601)[^601]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 21(2)(i) (with effect from August 21, 2002) for "two".
+(601)[^601]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(i) (with effect from August 21, 2002) for "two".
 
-(602)[^602]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 21(2)(ii) (with effect from August 21, 2002).
+(602)[^602]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(ii) (with effect from August 21, 2002).
 
-(603)[^603)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 6 (with effect from February 28, 2012) : "constituted in relation to an election".
+(603)[^603)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 6 (with effect from February 28, 2012) : "constituted in relation to an election".
 
 (604)[^604]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(i) (with effect from June 8, 2016) for "Commissioner".
 
-(605)[^605]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 81(i) (with effect from April 19, 2010) for "Commissioner".
+(605)[^605]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(i) (with effect from April 19, 2010) for "Commissioner".
 
 (606)[^606]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(ii) (with effect from June 8, 2016) for :
 
@@ -11746,23 +11746,23 @@ four members, each of whom has been a Judge of a High Court from each Province, 
 
 preparing electoral rolls for election to the National Assembly and the Provincial Assemblies, and revising such rolls annually,
 
-(607)[^607]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 81(ii) (with effect from April 19, 2010) for ".".
+(607)[^607]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010) for ".".
 
-(608)[^608]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 81(ii) (with effect from April 19, 2010).
+(608)[^608]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010).
 
-(609)[^609]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 7 (with effect from February 28, 2012) for ".".
+(609)[^609]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012) for ".".
 
-(610)[^610]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 7 (with effect from February 28, 2012).
+(610)[^610]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012).
 
 (611)[^611]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(i) (with effect from June 8, 2016) for "servants".
 
-(612)[^612]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(612)[^612]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(613)[^613]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 82 (with effect from April 19, 2010).
+(613)[^613]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010).
 
 (614)[^614]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "servants".
 
-(615)[^615)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 82 (with effect from April 19, 2010) : "Commissioner or an".
+(615)[^615)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010) : "Commissioner or an".
 
 (616)[^616]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "Election Commission".
 
@@ -12006,7 +12006,7 @@ All elections under the Constitution, other than those of the Prime Minister and
 
 ### Notes
 
-(617)[^617]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(617)[^617]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (618)[^618]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 11(i) (with effect from June 8, 2016).
 
@@ -12018,7 +12018,7 @@ All elections under the Constitution, other than those of the Prime Minister and
 
 (622)[^622]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(iii) (with effect from June 8, 2016) for "an".
 
-(623)[^623]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 83(i) (with effect from April 19, 2010) for :
+(623)[^623]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -12028,25 +12028,25 @@ A general election to the National Assembly or a Provincial Assembly shall be he
 
  
 
-(624)[^624]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 22(a)(i) (with effect from August 21, 2002) for "preceding".
+(624)[^624]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(i) (with effect from August 21, 2002) for "preceding".
 
-(625)[^625]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002) for ".".
+(625)[^625]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002) for ".".
 
-(626)[^626]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002).
+(626)[^626]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002).
 
-(627)[^627]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 83(ii) (with effect from April 19, 2010).
+(627)[^627]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(ii) (with effect from April 19, 2010).
 
-(628)[^628]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 8(a)(i) (with effect from February 28, 2012) for "selected".
+(628)[^628]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(i) (with effect from February 28, 2012) for "selected".
 
-(629)[^629]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 8(a)(ii) (with effect from February 28, 2012).
+(629)[^629]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(ii) (with effect from February 28, 2012).
 
-(630)[^630]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 8(a)(iii) (with effect from February 28, 2012) for "further".
+(630)[^630]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(iii) (with effect from February 28, 2012) for "further".
 
-(631)[^631)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 2(a) (with effect from April 19, 2010) : " (632)[^632]\[general\] (632)[^632)".
+(631)[^631)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : " (632)[^632]\[general\] (632)[^632)".
 
-(632)[^632]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 22(b) (with effect from August 21, 2002).
+(632)[^632]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(b) (with effect from August 21, 2002).
 
-(633)[^633)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 2(a) (with effect from April 19, 2010) : :
+(633)[^633)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : :
 
  (634)[^634]\[
 
@@ -12064,17 +12064,17 @@ When a care-taker Cabinet is appointed, on dissolution of the National Assembly 
 
 \] (634)[^634)
 
-(634)[^634]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 22(c) (with effect from August 21, 2002).
+(634)[^634]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(c) (with effect from August 21, 2002).
 
-(635)[^635]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 83(iii) (with effect from August 21, 2002).
+(635)[^635]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(iii) (with effect from August 21, 2002).
 
-(636)[^636]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 8(b) (with effect from February 28, 2012) for ".".
+(636)[^636]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(b) (with effect from February 28, 2012) for ".".
 
-(637)[^637]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 8(c) (with effect from February 28, 2012).
+(637)[^637]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(c) (with effect from February 28, 2012).
 
-(638)[^638]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.html), Section 9 (with effect from February 28, 2012).
+(638)[^638]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 9 (with effect from February 28, 2012).
 
-(639)[^639]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 84 (with effect from April 19, 2010) for :
+(639)[^639]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 84 (with effect from April 19, 2010) for :
 
 **226**
 
@@ -12083,7 +12083,7 @@ All elections under the Constitution  (640)[^640]\[\] (640)[^640) shall be by 
 
  
 
-(640)[^640)   The following was omitted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.html), Section 5 (with effect from March 19, 1985) : "other than those of the Prime Minister and a Chief Minister".
+(640)[^640)   The following was omitted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 5 (with effect from March 19, 1985) : "other than those of the Prime Minister and a Chief Minister".
 
 * * *
 
@@ -12254,15 +12254,15 @@ The proceedings of the Islamic Council shall be regulated by rules of  (649)[^6
 
 ### Notes
 
-(641)[^641]  Inserted by [Constitution (Third Amendment) Order, 1980 (President's Order No. 14 of 1980)](/pakistan/constitution/orders/po14_1980.html), Section 2 (with effect from September 17, 1980).
+(641)[^641]  Inserted by [Constitution (Third Amendment) Order, 1980 (President's Order No. 14 of 1980)](/pakistan/constitution/orders/po14_1980.md), Section 2 (with effect from September 17, 1980).
 
 (642)[^642)   For the notification constituting the Council of Islamic Ideology, see Gazette of Pakistan, 1974, Extraordinary, part II, Page 165. For the Council of Islamic Ideology (Terms and Conditions of Members) Rules, 1974, see Gazette of Pakistan, 1974, Extraordinary, Part II, page 1727.  
 
-(643)[^643]  Substituted by [Constitution (Fourth Amendment) Order, 1980 (President's Order No. 16 of 1980)](/pakistan/constitution/orders/po16_1980.html), Section 2 (with effect from November 30, 1980) for "fifteen".
+(643)[^643]  Substituted by [Constitution (Fourth Amendment) Order, 1980 (President's Order No. 16 of 1980)](/pakistan/constitution/orders/po16_1980.md), Section 2 (with effect from November 30, 1980) for "fifteen".
 
-(644)[^644]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 85 (with effect from April 19, 2010) for "four".
+(644)[^644]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 85 (with effect from April 19, 2010) for "four".
 
-(645)[^645]  Substituted by [Constitution (Fourth Amendment) Order, 1982 (President's Order No. 13 of 1982)](/pakistan/constitution/orders/po13_1982.html), Section 2 (with effect from September 22, 1982) for :
+(645)[^645]  Substituted by [Constitution (Fourth Amendment) Order, 1982 (President's Order No. 13 of 1982)](/pakistan/constitution/orders/po13_1982.md), Section 2 (with effect from September 22, 1982) for :
 
 (4)
 
@@ -12270,11 +12270,11 @@ The President shall appoint one of the members referred to in paragraph (b) of c
 
  
 
-(646)[^646]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(646)[^646]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(647)[^647]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(647)[^647]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(648)[^648]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(648)[^648]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (649)[^649)   For the Council of Islamic Ideology (Procedure) Rules, 1974, see Gazette of Pakistan, 1974, Extraordinary, Part II, pages 771-773.  
 
@@ -12538,11 +12538,11 @@ Nothing in the Constitution shall prevent  (679)[^679]\[Majlis-e-Shoora (Parlia
 
 ### Notes
 
-(650)[^650]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 86 (with effect from April 19, 2010).
+(650)[^650]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
 
-(651)[^651]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 86 (with effect from April 19, 2010).
+(651)[^651]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
 
-(652)[^652]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 47 (with effect from March 2, 1985) for :
+(652)[^652]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 47 (with effect from March 2, 1985) for :
 
 (a)
 
@@ -12550,23 +12550,23 @@ Parliament shall have power to make laws for a province, or any part thereof, wi
 
 (653)[^653)   For such Order, in respect of N.W.F.P., see S.R.O. No. 22 (I)/75, dated February 16, 1975, Gazette of Pakistan, 1975, Extraordinary, Part II, page 329, since rescinded by S.R.O. No. 522 (I)/75, dated May 3, 1975, see Gazette of Pakistan, 1975, Extraordinary, Part II, page 727; and For such Order, in respect of the Province of Baluchistan, see S.R.O. No. 641 (I)/76, dated June 30, 1976, Gazette of Pakistan, 1976, Extraordinary, Part II, page 1207, since rescinded by S.R.O. No. 1161 (I)/76, dated December 6, 1976, see Gazette of Pakistan, 1976, Extraordinary, Part II, page 2279.  
 
-(654)[^654]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(654)[^654]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(655)[^655]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(655)[^655]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(656)[^656]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(656)[^656]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(657)[^657]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(657)[^657]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(658)[^658]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(658)[^658]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(659)[^659]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(659)[^659]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(660)[^660]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(660)[^660]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(661)[^661]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(661)[^661]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(662)[^662]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.html), Section 3 (with effect from February 13, 1975) for :
+(662)[^662]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Section 3 (with effect from February 13, 1975) for :
 
 (b)
 
@@ -12576,37 +12576,37 @@ may by resolution of a  (663)[^663) joint sitting, be continued in force for a 
 
 (664)[^664)   The Order suspending the right to move any court for the enforcement of certain Fundamental Rights issued vide Gazette of Pakistan, 1973, Extraordinary, part I, 602, has been rescinded by S.R.O. 1093 (I)/74, dated August 14, 1974. See Gazette of Pakistan, 1974, Extraordinary, Part II, page 1548.  
 
-(665)[^665]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 87 (with effect from April 19, 2010) for :
+(665)[^665]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 87 (with effect from April 19, 2010) for :
 
  (666)[^666) a joint sitting
 
 (666)[^666)   The joint sitting passed the following resolution on September 6, 1973:- "That the joint sitting approves under clause (7) of Article 232 of the Constitution, read with clause (3) of the Article 233 thereof, the President's Order of the 14th of August, 1973, made under clause (2) of the said Article 233 and the continuance in force of the said Order for the period of six months following the expiration of the period mentioned in paragraph (a) of the said clause (7) of Article 232.". For resolution approving the continuance in force of the President's Order of the 14th of August , 1973, for a further period of six months, see Gazette of Pakistan, 1974, Extraordinary, Part III, page 343.  
 
-(667)[^667)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 88(i) (with effect from April 19, 2010) : "or otherwise".
+(667)[^667)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 88(i) (with effect from April 19, 2010) : "or otherwise".
 
-(668)[^668]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 88(ii) (with effect from April 19, 2010) for "at a joint sitting".
+(668)[^668]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 88(ii) (with effect from April 19, 2010) for "at a joint sitting".
 
-(669)[^669]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(669)[^669]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(670)[^670]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(670)[^670]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(671)[^671]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(671)[^671]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(672)[^672]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(672)[^672]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(673)[^673]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(673)[^673]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(674)[^674]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(674)[^674]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(675)[^675]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(675)[^675]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(676)[^676]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(676)[^676]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(677)[^677]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(677)[^677]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(678)[^678]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(678)[^678]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(679)[^679]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(679)[^679]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
@@ -12684,9 +12684,9 @@ For the removal of doubt, it is hereby declared that there is no limitation what
 
 ### Notes
 
-(680)[^680]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(680)[^680]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(681)[^681]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.html), Section 3 (with effect from March 19, 1985) for :
+(681)[^681]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 3 (with effect from March 19, 1985) for :
 
  (682)[^682]\[
 
@@ -12740,7 +12740,7 @@ For the removal of doubt, it is hereby declared that there is no limitation what
 
 \] (682)[^682)
 
-(682)[^682]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 48 (with effect from March 2, 1985) for :
+(682)[^682]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 48 (with effect from March 2, 1985) for :
 
 **239**
 
