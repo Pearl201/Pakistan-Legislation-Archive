@@ -1,6 +1,6 @@
 # THE  CONSTITUTION OF THE ISLAMIC REPUBLIC OF PAKISTAN
 
-[As modified upto the 31 st May, 20 18 ]
+[As modified upto the 31 st May, 2018 ]
 
 NATIONAL ASSEMBLY OF PAKISTAN
 
@@ -484,12 +484,12 @@ Do hereby, through our representatives in the National Assembly, adopt, enact an
 
 ### 1. The Republic and its territories
 
-(^1) 1. (1) Pakistan shall be Federal Republic to be known as the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
-(^2) [(2) The territories of Pakistan shall comprise—
+[^1]: 1. (1) Pakistan shall be Federal Republic to be known as the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
+[^2]: [(2) The territories of Pakistan shall comprise—
 (a) the Provinces of^3 [Balochistan], the^4 [Khyber Pakhtunkhwa], the Punjab and^5 [Sindh];
 (b) the Islamabad Capital Territory, hereinafter referred to as the Federal Capital; 6 [and]
-(^6) [(c) * * * * * *]
-(^6) [(c)] such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
+[^6]: [(c) * * * * * *]
+[^6]: [(c)] such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
 (3) 7 [Majlis-e-Shoora (Parliament)] may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.]
 
 ### 2. Islam to be State religion
@@ -498,17 +498,17 @@ Do hereby, through our representatives in the National Assembly, adopt, enact an
 
 ### 2A. The Objectives Resolution to form part of substantive provisions
 
-(^8) [2A. The principles and provisions set out in the Objectives Resolution reproduced in the Annex are hereby made substantive part of the Constitution and shall have effect accordingly].
-(^1) The provisions of the Constitution except those of Articles 6, 8 to 28, (both inclusive), clauses 2 and (2a) of Article 101, Articles 199, 213 to 216 (both inclusive) and 270-A, brought into force with effect from 10th
+[^8]: [2A. The principles and provisions set out in the Objectives Resolution reproduced in the Annex are hereby made substantive part of the Constitution and shall have effect accordingly].
+[^1]: The provisions of the Constitution except those of Articles 6, 8 to 28, (both inclusive), clauses 2 and (2a) of Article 101, Articles 199, 213 to 216 (both inclusive) and 270-A, brought into force with effect from 10th
 March, 1985, ride S.R.O. No. 212(I)/85. dated 10th March, 1985, Gazette of Pakistan, Extraordinary, Part-II, page 279 and the aforesaid Articles brought into force with effect from 30th December, 1985, vide S.R.O.
 2 No. 1273(I)/85 dated 29th December. 1985, Gazette of Pakistan, Extraordinary, Part-I1, page 3185.^
 Subs. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 2, for "clauses (2), (3) and (4)" (w.e.f; the
 3 4th May, 1974).^
 4 Subs. By the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 3 for “Balochistan.”^
 Subs. ibid., for “North-West-Frontier”.
-(^5) Subs. ibid., for “Sindh”.
-(^6) Amended by the Constitution (Twenty-fifth Amdt.) Act, 201 8 ( 37 of 201 8 ), s. 2. w.e.f. 31- 05 - 2018.
-(^7) Subs. by the Revival of the Constitution of 1973 Order, 1985 (P.O. No. 14 of 1985),
+[^5]: Subs. ibid., for “Sindh”.
+[^6]: Amended by the Constitution (Twenty-fifth Amdt.) Act, 201 8 ( 37 of 201 8 ), s. 2. w.e.f. 31- 05 - 2018.
+[^7]: Subs. by the Revival of the Constitution of 1973 Order, 1985 (P.O. No. 14 of 1985),
 8 Art. 2 and Sch., for "Parliament".^
 New Article 2A Ins. Ibid.
 
@@ -547,16 +547,16 @@ hold in abeyance, the Constitution by use of force or show of force or by any ot
 
 (2) Any person aiding or abetting^3 [or collaborating] the acts mentioned in clause (1) shall likewise be guilty of high treason.
 
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "basic".
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act. 2010 (10 of 2010), s.4 for “clause (1)”.
-(^3) Ins. Ibid.
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "basic".
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act. 2010 (10 of 2010), s.4 for “clause (1)”.
+[^3]: Ins. Ibid.
 
 
-(^1) [(2A) An act of high treason mentioned in clause (1) or clause (2) shall not be validated by any court including the Supreme Court and a High Court.]
+[^1]: [(2A) An act of high treason mentioned in clause (1) or clause (2) shall not be validated by any court including the Supreme Court and a High Court.]
 (3) 2 [Majlis-e-Shoora (Parliament)] shall by law provide for the punishment of persons found guilty of high treason.
 _________
-(^1) New clause (2A) ins. ibid.
-(^2) See footnote 6 on page 3, supra.
+[^1]: New clause (2A) ins. ibid.
+[^2]: See footnote 6 on page 3, supra.
 
 
 ##### PART II
@@ -581,10 +581,10 @@ _________
 ```
 (a) any law relating to members of the Armed Forces, or of the police or of such other forces as are charged with the maintenance of public order, for the purpose of ensuring the proper discharge of their duties or the maintenance of discipline among them; or
 ```
-(^2) [(b) (^) any of the —
+[^2]: [(b) (^) any of the —
 (i) laws specified in the First Schedule as in force immediately before the commencing day or as amended by any of the laws specified in that Schedule;
-(^1) See footnote 6 on page 3, supra
-(^2) Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 2, for "paragraph (b)", (w.e.f the 21st November, 1985), which was previously amended by Act 33 of 1974, s. 3, (w.e.f 4th May, 1974).
+[^1]: See footnote 6 on page 3, supra
+[^2]: Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 2, for "paragraph (b)", (w.e.f the 21st November, 1985), which was previously amended by Act 33 of 1974, s. 3, (w.e.f 4th May, 1974).
 
 
 ```
@@ -622,7 +622,7 @@ detained in custody beyond the said period with out the authority of a magistrat
 who is arrested or detained under any law providing for preventive
 detention.
 
-(^1) Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of I975), s. 2, for "the First Schedule, not being a law
+[^1]: Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of I975), s. 2, for "the First Schedule, not being a law
 2 which relates to, or is connected with, economic reforms."^
 See footnote 6 on page 3, supra
 
@@ -673,7 +673,7 @@ interest to disclose.
 (6) The authority making the order shall furnish to the
 appropriate Review Board all documents relevant to the case unless a
 
-(^1) Subs. by the Constitution (Third Amdt.) Act, 1975 (22 of 1975), s. 2, for "one month" (w.e.,f. the 13th
+[^1]: Subs. by the Constitution (Third Amdt.) Act, 1975 (22 of 1975), s. 2, for "one month" (w.e.,f. the 13th
 2 February. 1975).^
 Subs. ibid., for "as soon as may be, but not later than one week" (w.e.f. the 13th February, 1975).
 
@@ -722,8 +722,8 @@ prohibited.
 (3) No child below the age of fourteen years shall be engaged in
 any factory or mine or any other hazardous employment.
 
-(^1) Added by the Constitution (Third Amdt.) Act, 1975 (22 of 1975), s. 2.
-(^2) New Article 10 A ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 5.
+[^1]: Added by the Constitution (Third Amdt.) Act, 1975 (22 of 1975), s. 2.
+[^2]: New Article 10 A ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 5.
 
 
 (4) Nothing in this Article shall be deemed to affect compulsory
@@ -793,7 +793,7 @@ interest of public order.
 
 ### 17. Freedom of association
 
-(^1) [17. (1) Every citizen shall have the right to form associations or
+[^1]: [17. (1) Every citizen shall have the right to form associations or
 unions, subject to any reasonable restrictions imposed by law in the
 interest of sovereignty or integrity of Pakistan, public order or morality.
 (2)^ Every citizen, not being in the service of Pakistan, shall have
@@ -825,7 +825,7 @@ system; or
 (b) the regulation of trade, commerce or industry
 in the interest of free competition therein; or
 ```
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 6.for “Article 17”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 6.for “Article 17”.
 
 
 ```
@@ -848,7 +848,7 @@ offence.
 
 ### 19A. Right to information.
 
-(^2) [19A. Every citizen shall have the right to have access to information in
+[^2]: [19A. Every citizen shall have the right to have access to information in
 all matters of public importance subject to regulation and reasonable
 restrictions imposed by law].
 
@@ -871,7 +871,7 @@ religious institutions.
 of which are to be spent on the propagation or maintenance of any religion
 other than his own.
 
-(^1) Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 4, for "defamation" (w.e.f the 21st
+[^1]: Subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 4, for "defamation" (w.e.f the 21st
 2 November, 1975).^
 New Article 19A ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 7.
 
@@ -994,7 +994,7 @@ any special provision for the protection of women and children.
 
 ### 25. Right to education
 
-(^2) [25A. The State shall provide free and compulsory education to all
+[^2]: [25A. The State shall provide free and compulsory education to all
 children of the age of five to sixteen years in such manner as may be
 determined by law.]
 
@@ -1025,9 +1025,9 @@ posts or services may be reserved for members of either sex if such posts
 or services entail the performance of duties and functions which cannot be
 adequately performed by members of the other sex 4 [:]
 
-(^1) The word “alone” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 8.
-(^2) New Article 25A ins. ibid., s. 9.
-(^3) Subs. and shall be deemed always to have been so subs. by the Constitution (Sixteenth Amendment) Act,
+[^1]: The word “alone” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 8.
+[^2]: New Article 25A ins. ibid., s. 9.
+[^3]: Subs. and shall be deemed always to have been so subs. by the Constitution (Sixteenth Amendment) Act,
 1999 (7 of 1999), s. 2, for "twenty", which was previously subs. by P.O. No. 14 of 1985, Art. 2 and Sch., for
 4 "ten".^
 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 10 for the full-stop.
@@ -1069,14 +1069,14 @@ resources.
 affairs of the Federation, and the Governor of each Province in relation to
 the affairs of his Province, shall cause to be prepared and laid before
 
-(^2) [each House of Majlis-e-Shoora (Parliament)] or, as the case may be, the
+[^2]: [each House of Majlis-e-Shoora (Parliament)] or, as the case may be, the
 Provincial Assembly, a report on the observance and implementation of
 the Principles of Policy, and provision shall be made in the rules of
 procedure of the National Assembly^3 [and the Senate] or, as the case may
 be, the Provincial Assembly, for discussion on such report.
-(^1) New proviso ins. ibid.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 11, for “the National Assembly”.
-(^3) Ins. ibid.
+[^1]: New proviso ins. ibid.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 11, for “the National Assembly”.
+[^3]: Ins. ibid.
 
 
 ### 30. Responsibility with respect to Principles of Policy
@@ -1123,7 +1123,7 @@ and mosques.
 of elected representatives of the areas concerned and in such institutions
 special representation will be given to peasants, workers and women.
 
-(^1) Ins.by P.O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Ins.by P.O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 33. Parochial and other similar prejudices to be discouraged
@@ -1232,11 +1232,11 @@ Pakistan;^1 *
 ```
 (f) eliminate riba as early as possible 2 [; and]
 ```
-(^1) The word “and” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 12.
-(^2) Subs. ibid; for the full-stop.
+[^1]: The word “and” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 12.
+[^2]: Subs. ibid; for the full-stop.
 
 
-(^1) [(g) ensure that the shares of the Provinces in all Federal services,
+[^1]: [(g) ensure that the shares of the Provinces in all Federal services,
 including autonomous bodies and corporations established
 by, or under the control of, the Federal Government, shall be
 secured and any omission in the allocation of the shares of
@@ -1257,7 +1257,7 @@ disputes by peaceful means.
 
 ##### ____________
 
-(^1) New paragraph (g) added ibid.
+[^1]: New paragraph (g) added ibid.
 
 
 ## PART III
@@ -1275,7 +1275,7 @@ Head of State and shall represent the unity of the Republic.
 unless he is a Muslim of not less than forty-five years of age and is
 qualified to be elected as member of the National Assembly.
 
-(^1) [(3) The President (^2) * * * shall be elected in accordance with the
+[^1]: [(3) The President [^2]: * * * shall be elected in accordance with the
 provisions of the Second Schedule by the members of an electoral college
 consisting of—
 (a) the members of both Houses; and
@@ -1293,10 +1293,10 @@ aforesaid because the National Assembly is dissolved, it shall be held
 within thirty days of the general election to the Assembly.
 (6) The validity of the election of the President shall not be
 called in question by or before any court or other authority.
-(^3) * * * * * * *
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch.. for "clause (3)".
-(^2) Certain words omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 13.
-(^3) Clauses (7) to (9) Omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 13.
+[^3]: * * * * * * *
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch.. for "clause (3)".
+[^2]: Certain words omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 13.
+[^3]: Clauses (7) to (9) Omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 13.
 
 
 ### 42. Oath of President
@@ -1338,12 +1338,12 @@ the Speaker of the National Assembly, resign his office.
 respite, and to remit, suspend or commute any sentence passed by any
 court, tribunal or other authority.
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ### 46. President to be kept informed
 
-(^1) [46. The Prime Minister shall keep the President informed on all
+[^1]: [46. The Prime Minister shall keep the President informed on all
 matters of internal and foreign policy and on all legislative proposals the
 Federal Government intends to bring before Majlis-e-Shoora
 (Parliament).]
@@ -1385,17 +1385,17 @@ declaring that the President is unfit to hold the office due to incapacity or
 is guilty of violating the Constitution or of gross misconduct, the President
 shall cease to hold office immediately on the passing of the resolution.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 14, for “Article 46”.
-(^2) Ins. by the P.O. 14 of 1985, Art 2 and Sch.
-(^3) Subs. ibid., for "clauses (1) and (2)".
-(^4) See footnote 6 on page 3 supra.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 14, for “Article 46”.
+[^2]: Ins. by the P.O. 14 of 1985, Art 2 and Sch.
+[^3]: Subs. ibid., for "clauses (1) and (2)".
+[^4]: See footnote 6 on page 3 supra.
 
 
 ### 48. President to act on advice, etc.
 
-(^1) [ 48. (1) In the exercise of his functions, the President shall act 2 [on
+[^1]: [ 48. (1) In the exercise of his functions, the President shall act 2 [on
 and] in accordance with the advice of the Cabinet^3 [or the Prime Minister]:
-(^4) [Provided that (^2) [within fifteen days] the President may require the
+[^4]: [Provided that [^2]: [within fifteen days] the President may require the
 Cabinet or, as the case may be, the Prime Minister to reconsider such
 advice, either generally or otherwise, and the President shall^2 [, within ten
 days,] act in accordance with the advice tendered after such
@@ -1405,12 +1405,12 @@ President shall act in his discretion in respect of any matter in respect of
 which he is empowered by the Constitution to do so^5 [and the validity of
 anything done by the President in his discretion shall not be called in
 question on any ground whatsoever].
-(^6) * * * * * * *
+[^6]: * * * * * * *
 (4) The question whether any, and if so what, advice was
 tendered to the President by the Cabinet, the Prime Minister, a Minister or
 Minister of State shall not be inquired into in, or by, any court, tribunal or
 other authority.
-(^7) [(5) Where the President dissolves the National Assembly,
+[^7]: [(5) Where the President dissolves the National Assembly,
 notwithstanding anything contained in clause (1), he shall,—
 (a) appoint a date, not later than ninety days from the
 date of the dissolution, for the holding of a general
@@ -1418,21 +1418,21 @@ election to the Assembly ; and
 (b) appoint a care-taker Cabinet^8 [in accordance with the
 provisions of Article 224 or, as the case may be,
 Article 224A]]
-(^7) [(6) If at any time the Prime Minister considers it necessary to
+[^7]: [(6) If at any time the Prime Minister considers it necessary to
 hold a referendum on any matter of national importance, he may refer the
 matter to a joint sitting of the Majlis-e-Shoora (Parliament) and if it is
 approved in a joint sitting, the Prime Minister may cause such matter to
 be referred to a referendum in the form of a question that is capable of
 being answered by either “Yes” or “No”.]
-(^1) Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., for "Article 48".
-(^2) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 15.
-(^3) Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 2, for ",the Prime Minister, or a
+[^1]: Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., for "Article 48".
+[^2]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 15.
+[^3]: Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 2, for ",the Prime Minister, or a
 appropriate Minister".
-(^4) Subs. ibid., for "the original proviso".
-(^5) Added ibid.,
-(^6) Clause (3) omitted, ibid.,
-(^7) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 15, for “clauses (5) and (6)”.
-(^8) Added by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.2.
+[^4]: Subs. ibid., for "the original proviso".
+[^5]: Added ibid.,
+[^6]: Clause (3) omitted, ibid.,
+[^7]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 15, for “clauses (5) and (6)”.
+[^8]: Added by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.2.
 
 
 (7) An Act of Majlis-e-Shoora (Parliament) may lay down the
@@ -1461,13 +1461,13 @@ CHAPTER 2. – THE 1 [MAJLIS-E-SHOORA (PARLIAMENT)]
 
 ### 50. Majlis-e-Shoora (Parliament)
 
-(^2) [50. There shall be a Majlis-e-Shoora (Parliament) of Pakistan
+[^2]: [50. There shall be a Majlis-e-Shoora (Parliament) of Pakistan
 consisting of the President and two Houses to be known respectively as
 the National Assembly and the Senate.]
 
 ### 51. National Assembly
 
-(^3) [51. (1) There shall be (^4) [three hundred and thirty-six] seats for
+[^3]: [51. (1) There shall be [^4]: [three hundred and thirty-six] seats for
 members in the National Assembly, including seats reserved for women
 and non-Muslims.
 (2) A person shall be entitled to vote if—
@@ -1475,16 +1475,16 @@ and non-Muslims.
 (b) he is not less than eighteen years of age;
 (c) his name appears on the electoral roll; and
 (d) he is not declared by a competent court to be unsound mind.
-(^1) See footnote 6 on page 3 supra.
-(^2) Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., for "Article 50".
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 16 for “Article 51” and shall be
+[^1]: See footnote 6 on page 3 supra.
+[^2]: Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., for "Article 50".
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 16 for “Article 51” and shall be
 4 deemed always to have been so subs. with effect from the 21st^ day of August, 2002.^
 Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2 018 ( 37 of 201 8 ), s. 3 for “three hundred and forty-
 two” w.e.f. 31- 05 - 2018.
 
 
 (^)
-(^1) [(3) The seats in the National Assembly referred to in clause
+[^1]: [(3) The seats in the National Assembly referred to in clause
 (1), except the seats mentioned in clause ( 4 ), shall be allocated to each
 Province and the Federal Capital as under:—
 
@@ -1498,7 +1498,7 @@ Province and the Federal Capital as under:—
 | Total              | 266           | 60          | 326         |
 
 
-(^2) [(3A) Notwithstanding anything contained in clause (3) or any
+[^2]: [(3A) Notwithstanding anything contained in clause (3) or any
 other law for the time being in force, the members of the National
 Assembly from the Federally Administered Tribal Areas to be elected in
 the general elections, 2018 shall continue till dissolution of the National
@@ -1506,7 +1506,7 @@ Assembly and therefore this clause shall stand omitted.]
 ( 4 ) In addition to the number of seats referred to in clause (3),
 there shall be, in the National Assembly, ten seats reserved for non-
 Muslims.
-(^1) [( 5 ) 3 [**] The seats in the National Assembly shall be allocated to
+[^1]: [( 5 ) 3 [**] The seats in the National Assembly shall be allocated to
 each province and the Federal Capital on the basis of population in
 accordance with the last preceding census officially published:
 Provided that for purposes of the next general elections to be held
@@ -1523,9 +1523,9 @@ reserved for women which are allocated to the respective
 Provinces under clause (3);
 (c) the constituency for all seats reserved for non-Muslims shall
 be the whole country;
-(^1) Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31- 05 - 2018.
-(^2) Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31 - 05 - 2018.
-(^3) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31- 05 - 2018.
+[^1]: Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31- 05 - 2018.
+[^2]: Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31 - 05 - 2018.
+[^3]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 3. w.e.f. 31- 05 - 2018.
 
 
 ```
@@ -1617,12 +1617,12 @@ next Assembly enters upon his office.
 
 ### 54. Summoning and prorogation of Majlis-e-Shoora (Parliament)
 
-(^1) 54. (1) The President may, from time to time, summon either
+[^1]: 54. (1) The President may, from time to time, summon either
 House or both Houses or^2 [Majlis-e-Shoora (Parliament)] in joint sitting to
 meet at such time and place as he thinks fit and may also prorogue the
 same.
 (2) There shall be at least^3 [three] sessions of the National
-(^1) Article 54, had, until the 31st day of December, 1973, effect as if the proviso to clause (2) thereof were
+[^1]: Article 54, had, until the 31st day of December, 1973, effect as if the proviso to clause (2) thereof were
 omitted, see the Removal of Difficulties (Sittings of National Assembly) Order 1973 (P.O. No. 23 of 1973),
 2 Art. 2.^
 3 See footnote 6 on page 3, supra.^
@@ -1636,7 +1636,7 @@ the date appointed for its first sitting in the next session:
 Provided that the National Assembly shall meet for not less than
 one hundred and^1 [thirty] working days in each year.
 
-(^2) [Explanation.– In this clause, "working days" includes any day on
+[^2]: [Explanation.– In this clause, "working days" includes any day on
 which there is a joint sitting and any period, not exceeding two days, for
 which the National Assembly is adjourned].
 (3) On a requisition signed by not less than one-fourth of the
@@ -1664,19 +1664,19 @@ such membership is present.
 assembled together and may for that purpose require the attendance of the
 members.
 
-(^4) [(2) The President may send messages to either House, whether
+[^4]: [(2) The President may send messages to either House, whether
 with respect to a Bill then pending in the Majlis-e-Shoora (Parliament) or
 otherwise, and a House to which any message is so sent shall with all
 convenient despatch consider any matter required by the message to be
 taken into consideration.
-(^1) Subs. by the Constitution (Tenth Amdt.) Act, 1987 (1 of 1987). s. 2. for "sixty" which was previously
+[^1]: Subs. by the Constitution (Tenth Amdt.) Act, 1987 (1 of 1987). s. 2. for "sixty" which was previously
 2 amended by P.O. No.14 of 1985, Art. 2 and Sch.^
 Explanation added by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 6 (w.e.f. the 21st
 3 November, 1975).^
 Re-numbered and added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
-(^1) [(3) At the commencement of the first session after each
+[^1]: [(3) At the commencement of the first session after each
 general election to the National Assembly and at the commencement of
 the first session of each year the President shall address both Houses
 assembled together and inform the Majlis-e-Shoora (Parliament) of the
@@ -1695,7 +1695,7 @@ this Article be entitled to vote.
 
 ### 58. Dissolution of National Assembly................................................................
 
-(^3) [58. (1) The President shall dissolve the National Assembly if so
+[^3]: [58. (1) The President shall dissolve the National Assembly if so
 advised by the Prime Minister; and the National Assembly shall, unless
 sooner dissolved, stand dissolved at the expiration of forty-eight hours
 after the Prime Minister has so advised.
@@ -1712,14 +1712,14 @@ Prime Minister, no other member of the National Assembly command the
 confidence of the majority of the members of the National Assembly in
 accordance with the provisions of the Constitution, as ascertained in a
 session of the National Assembly summoned for the purpose.]
-(^1) Subs. by the Constitution (Eighth Amdt.) Act, 1985, (18 of 1985), s. 4, for "clause (3)."
-(^2) See footnote 6 on page 3, supra.
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 17, for “Article 58”.
+[^1]: Subs. by the Constitution (Eighth Amdt.) Act, 1985, (18 of 1985), s. 4, for "clause (3)."
+[^2]: See footnote 6 on page 3, supra.
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 17, for “Article 58”.
 
 
 ### 59. The Senate
 
-(^1) [59. (1) The Senate shall consist of (^2) [ninety-six] members, of
+[^1]: [59. (1) The Senate shall consist of [^2]: [ninety-six] members, of
 whom,—
 (a) fourteen shall be elected by the members of each Provincial
 Assembly;
@@ -1748,10 +1748,10 @@ years;
 (b) 4 [* * * * * * *]
 (c) of the members referred to in paragraph (c) of the aforesaid
 clause,—
-(^1) Subs. ibid., s. 18, for “Article 59”.
-(^2) Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 4. w.e.f. 31- 05 - 2018.
-(^3) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 4. w.e.f. 31- 05 - 2018.
-(^4) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 3. w.e.f. 31- 05 - 2018.
+[^1]: Subs. ibid., s. 18, for “Article 59”.
+[^2]: Subs. by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 4. w.e.f. 31- 05 - 2018.
+[^3]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 4. w.e.f. 31- 05 - 2018.
+[^4]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 (37 of 2018) s. 3. w.e.f. 31- 05 - 2018.
 
 
 ```
@@ -1805,7 +1805,7 @@ filled.]
 first meeting and to the exclusion of any other business. elect from
 amongst its members a Chairman and a Deputy Chairman and, so often as
 
-(^1) Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 4. w.e.f. 31- 05 - 2018.
+[^1]: Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 4. w.e.f. 31- 05 - 2018.
 
 
 the Office of Chairman or Deputy Chairman becomes vacant, the Senate
@@ -1831,7 +1831,7 @@ provisions as to Members of^5 [Majlis-e-Shoora (Parliament)]
 ```
 ### 62. Qualifications for membership of Majlis-e-Shoora (Parliament)
 
-(^6) [62. (1) A person shall not be qualified to be elected or chosen as a
+[^6]: [62. (1) A person shall not be qualified to be elected or chosen as a
 member of Majlis-e-Shoora (Parliament) unless—
 (a) he is a citizen of Pakistan;
 (b) he is, in the case of the National Assembly, not less than
@@ -1843,12 +1843,11 @@ seat reserved for non-Muslims; and
 membership for election to a seat reserved for women.
 (c) he is, in the case of the Senate, not less than thirty years of
 age and is enrolled as a voter in any area in a Province or,
-(^1) Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 7, for “two”.
-(^2) Added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 5 (w.e.f. the 14th May, 1974).
-(^3) Subs. by the Constitution (Tenth Amdt.) Act, 1987 (1 of 1987), s. 3, which was previously amended by P. O.
-4 No. 24 of 1985. Art. 2.^
-5 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 19, for “ninety”.^
-6 See footnote 6 on page 3 supra.^
+[^1]: Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 7, for “two”.
+[^2]: Added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 5 (w.e.f. the 14th May, 1974).
+[^3]: Subs. by the Constitution (Tenth Amdt.) Act, 1987 (1 of 1987), s. 3, which was previously amended by P. O. 4 No. 24 of 1985. Art. 2.^
+[^5]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 19, for “ninety”.^
+[^6]: See footnote 6 on page 3 supra.^
 Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 20, for “Article 62”.
 
 
@@ -1881,7 +1880,7 @@ have good moral reputation.]
 
 ### 63. Disqualifications for membership of Majlis-e-Shoora (Parliament)
 
-(^2) [63. (1) A person shall be disqualified from being elected or chosen
+[^2]: [63. (1) A person shall be disqualified from being elected or chosen
 as, and from being, a member of the Majlis-e-Shoora (Parliament), if—
 (a) he is of unsound mind and has been so declared by a
 competent court; or
@@ -1894,8 +1893,8 @@ or
 (e) he is in the service of any statutory body or any body which
 is owned or controlled by the Government or in which the
 Government has a controlling share or interest; or
-(^1) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 5. w.e.f. 31- 05 - 2018.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 21, for “Article 63”.
+[^1]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 5. w.e.f. 31- 05 - 2018.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 21, for “Article 63”.
 
 
 (f) being a citizen of Pakistan by virtue of section 14B of the
@@ -2042,7 +2041,7 @@ a member and his seat shall become vacant.]
 
 ### 63A. Disqualification on grounds of defection, etc.
 
-(^1) [63A. (1) If a member of a Parliamentary Party composed of a single
+[^1]: [63A. (1) If a member of a Parliamentary Party composed of a single
 political party in a House—
 (a) resigns from membership of his political party or joins
 another Parliamentary party; or
@@ -2050,7 +2049,7 @@ another Parliamentary party; or
 direction issued by the Parliamentary Party to which he
 belongs, in relation to—
 (i) election of the Prime Minister or the Chief Minister; or
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.22, for “Article 63A”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.22, for “Article 63A”.
 
 
 ```
@@ -2122,7 +2121,7 @@ Provided that till Article 63A substituted as aforesaid
 comes into effect the provisions of existing Article 63A shall
 remain operative].
 ```
-(^1) *
+[^1]: *
 
 ### 64. Vacation of seats
 
@@ -2143,20 +2142,20 @@ before the House oath in the form set out in the Third Schedule.
 
 66. (1) Subject to the Constitution and to the rules of procedure of
 
-(^2) [Majlis-e-Shoora (Parliament)], there shall be freedom of speech in
-(^2) [Majlis-e-Shoora (Parliament)] and no member shall be liable to any
+[^2]: [Majlis-e-Shoora (Parliament)], there shall be freedom of speech in
+[^2]: [Majlis-e-Shoora (Parliament)] and no member shall be liable to any
 proceedings in any court in respect of anything said or any vote given by
 him in^2 [Majlis-e-Shoora (Parliament)], and no person shall be so liable in
 respect of the publication by or under the authority of^2 [Majlis-e-Shoora
 (Parliament)] of any report, paper, votes or proceedings.
-(^1) For existing Article 63A see Addendum at p. 220.
-(^2) See footnote 6 on page 3, supra.
+[^1]: For existing Article 63A see Addendum at p. 220.
+[^2]: See footnote 6 on page 3, supra.
 
 
 ```
 (2) In other respects, the powers, immunities and privileges of
 ```
-(^2) [Majlis-e-Shoora (Parliament)], and the immunities and privileges of the
+[^2]: [Majlis-e-Shoora (Parliament)], and the immunities and privileges of the
 members of^2 [Majlis-e-Shoora (Parliament)], shall be such as may from
 time to time be defined by law and, until so defined, shall be such as were,
 immediately before the commencing day, enjoyed by the National
@@ -2173,7 +2172,7 @@ confidential matters from disclosure as may be made by the
 President.
 (4) The provisions of this Article shall apply to persons who
 have the right to speak in, and otherwise to take part in the proceedings of,
-(^1) [Majlis-e-Shoora (Parliament)] as they apply to members.
+[^1]: [Majlis-e-Shoora (Parliament)] as they apply to members.
 (5) In this Article.^1 [Majlis-e-Shoora (Parliament)] means
 either House or a joint sitting, or a committee thereof.
 
@@ -2191,8 +2190,8 @@ the proceedings.
 (2) Until rules are made under clause (1), the procedure and
 conduct of business in a House shall be regulated by the rules of procedure
 
-(^1) See footnote 6 on page 3, supra.
-(^2) For the rules of Procedure and Conduct of business in the Senate. see Gaz. of Pak. 1973. Ext., Pt. II. pp.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: For the rules of Procedure and Conduct of business in the Senate. see Gaz. of Pak. 1973. Ext., Pt. II. pp.
 1543 - 1620.
 For the Rules of Procedure and Conduct of Business in the National Assembly. 1973. see Gaz. of Pak., 1973,
 Ext., Pt. II, pp. 1897-1957.
@@ -2225,7 +2224,7 @@ same meaning as in Article 66.
 
 70. Introduction and passing of Bills
 
-(^2) [70. (1) A Bill with respect to any matter in the Federal Legislative
+[^2]: [70. (1) A Bill with respect to any matter in the Federal Legislative
 List may originate in either House and shall, if it is passed by the House in
 which it originated, be transmitted to the other House; and, if the Bill is
 passed without amendment by the other House also, it shall be presented
@@ -2237,8 +2236,8 @@ presented to the President for assent.
 (3) If a Bill transmitted to a House under clause (1) is rejected
 or is not passed within ninety days of its laying in the House or a Bill sent
 to a House under clause (2) with amendments is not passed by that House
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 23, for “Article 70”.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 23, for “Article 70”.
 
 
 with such amendments, the Bill, at the request of the House in which it
@@ -2283,17 +2282,17 @@ National Assembly, a copy thereof shall be transmitted to the Senate
 which may, within fourteen days, make recommendations thereon to the
 National Assembly.]
 
-(^3) [(1A) The National Assembly shall, consider the
+[^3]: [(1A) The National Assembly shall, consider the
 recommendations of the Senate and after the Bill has been passed by the
-(^1) For the Parliament (Joint Sitting), Rules 1973, see Gaz. of Pak. 1973, Ext. Pt. 11, pp. 1657-1672.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 25, for “clause (1)”.
-(^3) New clause (1) ins., ibid.
+[^1]: For the Parliament (Joint Sitting), Rules 1973, see Gaz. of Pak. 1973, Ext. Pt. 11, pp. 1657-1672.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 25, for “clause (1)”.
+[^3]: New clause (1) ins., ibid.
 
 
 Assembly with or without incorporating the recommendations of the
 Senate, it shall he presented to the President for assent.]
 
-(^1) * * * * * * * *
+[^1]: * * * * * * * *
 (2) For the purposes of this Chapter, a Bill or amendment shall
 be deemed to be a Money Bill if it contains provisions dealing with all or
 any of the following matters, namely: —
@@ -2323,7 +2322,7 @@ local purposes.
 (4) If any question arises whether a Bill is a Money Bill or not,
 the decision of the Speaker of the National Assembly thereon shall be
 final.
-(^1) Existing clause (1A) stands omitted as consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see
+[^1]: Existing clause (1A) stands omitted as consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see
 section 2.
 
 
@@ -2344,7 +2343,7 @@ the Federal Government.
 
 ### 75. President’s assent to Bills
 
-(^2) [75. (1) When a Bill is presented to the President for assent, the
+[^2]: [75. (1) When a Bill is presented to the President for assent, the
 President shall, within^3 [ten] days,—
 (a) assent to the Bill; or
 (b) in the case of a Bill other than a Money Bill, return the Bill
@@ -2352,7 +2351,7 @@ to the Majlis-e-Shoora (Parliament) with a message
 requesting that the Bill or any specified provision thereof,
 be reconsidered and that any amendment specified in the
 message be considered.
-(^4) [(2) When the President has returned a Bill to the Majlis-e-
+[^4]: [(2) When the President has returned a Bill to the Majlis-e-
 Shoora (Parliament), it shall be reconsidered by the Majlis-e-Shoora
 (Parliament) in joint sitting and, if it is again passed, with or without
 amendment, by the Majlis-e-Shoora (Parliament), by the votes of the
@@ -2364,11 +2363,11 @@ to have been given.]
 (3) When the President has assented^5 [or is deemed to have
 assented] to a Bill, it shall become law and be called an Act of Majlis-e-
 Shoora (Parliament).
-(^1) See footnote 6 on page 3. supra.
-(^2) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Article 75".
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 26, for "thirty".
-(^4) Subs. ibid., for clause (2).
-(^5) Ins. ibid.
+[^1]: See footnote 6 on page 3. supra.
+[^2]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Article 75".
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 26, for "thirty".
+[^4]: Subs. ibid., for clause (2).
+[^5]: Ins. ibid.
 
 
 (4) No Act of Majlis-e-Shoora (Parliament), and no provision
@@ -2417,7 +2416,7 @@ Federation;
 ```
 shall be credited to the Public Account of the Federation.
 
-(^1) See footnote 6 on page 3. supra.
+[^1]: See footnote 6 on page 3. supra.
 
 
 ### 79. Custody, etc., of Federal Consolidated Fund and Public Account
@@ -2469,8 +2468,8 @@ Islamabad High Court];
 ```
 (ii) the Chief Election Commissioner;
 ```
-(^1) See footnote 6 on page 3, supra.
-(^2) Added by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 2.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Added by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 2.
 
 
 ```
@@ -2483,7 +2482,7 @@ Assembly;
 ```
 (v) the Auditor-General;
 ```
-(^1) [(b) the administrative expenses, including the remuneration
+[^1]: [(b) the administrative expenses, including the remuneration
 payable to officers and^2 [staff], of the Supreme Court, the
 Islamabad High Court, the department of the Auditor-
 General, the Office of the Chief Election Commissioner
@@ -2497,7 +2496,7 @@ debt on the security of the Federal Consolidated Fund;
 (d) any sums required to satisfy any judgement, decree or
 award against Pakistan by any court or tribunal; and
 (e) any other sums declared by the Constitution or by Act of
-(^3) [Majlis-e-Shoora (Parliament)] to be so charged.
+[^3]: [Majlis-e-Shoora (Parliament)] to be so charged.
 
 ### 82. Procedure relating to Annual Budget Statement
 
@@ -2515,9 +2514,9 @@ reduction of the amount specified therein:
 Provided that, for a period of ten years from the commencing day
 or the holding of the second general election to the National Assembly,
 
-(^1) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011), s. 2.
-(^2) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 2.
-(^3) See footnote 6 on page 3, supra.
+[^1]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011), s. 2.
+[^2]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 2.
+[^3]: See footnote 6 on page 3, supra.
 
 
 whichever occurs later, a demand shall be deemed to have been assented
@@ -2615,8 +2614,8 @@ with the approval of the President, make rules^2 regulating the recruitment,
 and the conditions of service, of persons appointed to the secretarial staff
 of the National Assembly or the Senate.
 
-(^1) See footnote 6 on page 3, supra.
-(^2) For the National Assembly Secretariat (Recruitment) Rules, 1973, see Gaz. of Pak.. 1973, Ext., Part-II. pp.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: For the National Assembly Secretariat (Recruitment) Rules, 1973, see Gaz. of Pak.. 1973, Ext., Part-II. pp.
 2279 - 2286.
 For the Senate Secretariat (Recruitment) Rules. 1973, see ibid.. pp. 2301-2307.
 
@@ -2663,14 +2662,14 @@ expiration of that period a resolution disapproving it
 is passed by the Assembly, upon the passing of that
 resolution 6 [:]
 ```
-(^1) For the National Assembly (Finance Committee) Rules, 1973, see Gaz. of Pak., 1973. Ext., Part II, pp. 2451-
+[^1]: For the National Assembly (Finance Committee) Rules, 1973, see Gaz. of Pak., 1973. Ext., Part II, pp. 2451-
 2454.
 For the Senate (Finance Committee) Rules, 1973, see ibid., pp. 2479 - 2482.
-(^2) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27.
-(^3) See footnote 6 on page 3, supra.
-(^4) Subs. by the Constitution (Second Amdt.) Order, 1985 (P. O. No. 20 of 1985), Art. 2, for certain words.
-(^5) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “four months”.
-(^6) Subs. ibid, for the semi-colon.
+[^2]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27.
+[^3]: See footnote 6 on page 3, supra.
+[^4]: Subs. by the Constitution (Second Amdt.) Order, 1985 (P. O. No. 20 of 1985), Art. 2, for certain words.
+[^5]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “four months”.
+[^6]: Subs. ibid, for the semi-colon.
 
 
 ```
@@ -2709,26 +2708,26 @@ period may be made only once; and]
 ```
 (b) may be withdrawn at any time by the President.
 ```
-(^6) [(3) without prejudice to the provisions of clause (2),—
+[^6]: [(3) without prejudice to the provisions of clause (2),—
 (a) an Ordinance laid before the National Assembly under sub-
 paragraph (i) of paragraph (a) of clause (2) shall be deemed
 to be a Bill introduced in the National Assembly; and
 (b) an Ordinance laid before both Houses under sub-paragraph
 (ii) of paragraph (a) of clause (2) shall be deemed to be a
 Bill introduced in the House where it was first laid.]
-(^1) New Provisos ins. ibid.
-(^2) Subs. by P.O. 20 of 1985 Art. 3 for certain words.
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “four months”.
-(^4) Subs. by Act 10 of 2010, s. 27, for “;and”.
-(^5) New Provisos ins. ibid.
-(^6) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “clause (93)”.
+[^1]: New Provisos ins. ibid.
+[^2]: Subs. by P.O. 20 of 1985 Art. 3 for certain words.
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “four months”.
+[^4]: Subs. by Act 10 of 2010, s. 27, for “;and”.
+[^5]: New Provisos ins. ibid.
+[^6]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 27, for “clause (93)”.
 
 
 ## CHAPTER 3. – THE FEDERAL GOVERNMENT
 
 ### 90. Exercise of executive authority of the Federation
 
-(^1) [ (^2) [90. —(1) Subject to the Constitution, the executive authority of the
+[^1]: [ [^2]: [90. —(1) Subject to the Constitution, the executive authority of the
 Federation shall be exercised in the name of the President by the Federal
 Government, consisting of the Prime Minister and the Federal Ministers,
 which shall act through the Prime Minister, who shall be the chief
@@ -2739,7 +2738,7 @@ Minister.]
 
 ### 91. The Cabinet
 
-(^3) [91. (1) There shall be a Cabinet of Ministers, with the Prime
+[^3]: [91. (1) There shall be a Cabinet of Ministers, with the Prime
 Minister at its head, to aid and advise the President in the exercise of his
 functions.
 (2) The National Assembly shall meet on the twenty-first day
@@ -2759,9 +2758,9 @@ have been elected as Prime Minister:
 Provided further that, if the number of votes secured by two or
 more members securing the highest number of votes is equal, further poll
 shall be held between them until one of them secures a majority of votes
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for Articles "90, 91, 92, 93, 94, 95 and 96."
-(^2) Subs. ibid., s. 29, for “Article 91”.
-(^3) Subs. ibid., s. 29, for “Article 91”.
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for Articles "90, 91, 92, 93, 94, 95 and 96."
+[^2]: Subs. ibid., s. 29, for “Article 91”.
+[^3]: Subs. ibid., s. 29, for “Article 91”.
 
 
 of the members present and voting.
@@ -2810,7 +2809,7 @@ shall appoint Federal Ministers and Ministers of State from amongst the
 members of Majlis-e-Shoora (Parliament) on the advice of the Prime
 Minister :
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 30, for “(7) and (8)”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 30, for “(7) and (8)”.
 
 
 Provided that the number of Federal Ministers and Ministers of
@@ -2857,8 +2856,8 @@ may be passed against the Prime Minister by the National Assembly.
 upon before the expiration of three days, or later than seven days, from the
 day on which such resolution is moved in the National Assembly.
 
-(^1) Subs. ibid., for the full-stop.
-(^2) Provisos ins. ibid.
+[^1]: Subs. ibid., for the full-stop.
+[^2]: Provisos ins. ibid.
 
 
 (3) A resolution referred to in clause (1) shall not be moved in
@@ -2895,21 +2894,21 @@ authorities subordinate to the Federal Government.
 
 ### 99. Conduct of business of Federal Government
 
-(^2) [99. (1) All executive actions of the Federal Government shall be
+[^2]: [99. (1) All executive actions of the Federal Government shall be
 expressed to be taken in the name of the President.
 (2) The^3 [Federal Government] shall by rules specify the
 manner in which orders and other instruments made and executed^4 [in his
 name of the President] shall be authenticated, and the validity of any order
 or instrument so authenticated shall not be questioned in any court on the
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 99."
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010) s. 31, for “President”.
-(^4) Subs. ibid., for “in his name”
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 99."
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010) s. 31, for “President”.
+[^4]: Subs. ibid., for “in his name”
 
 
 ground that it was not made or executed by the President.
 
-(^1) [(3) The Federal Government shall also make rules for the
+[^1]: [(3) The Federal Government shall also make rules for the
 allocation and transaction of its business.]]
 
 ### 100. Attorney-General for Pakistan
@@ -2933,8 +2932,8 @@ addressed to the President, resign his office.
 
 ##### ___________
 
-(^1) Subs. ibid., s. 31, for “clause (3)”.
-(^2) Added ibid., s. 32.
+[^1]: Subs. ibid., s. 31, for “clause (3)”.
+[^2]: Added ibid., s. 32.
 
 
 ## PART IV
@@ -2964,7 +2963,7 @@ as the President may determine].
 (4) The Governor may, by writing under his hand addressed to
 the President, resign his office.
 
-(^6) [(5) The President may make such provision as he thinks fit for
+[^6]: [(5) The President may make such provision as he thinks fit for
 the discharge of the functions of a Governor^7 [in any contingency not
 provided for in this Part.]
 
@@ -2974,11 +2973,11 @@ provided for in this Part.]
 Chief Justice of the High Court oath in the form set out in the Third
 Schedule.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 33, for “clause (1)”.
-(^2) Added ibid.
-(^3) Subs. by the Constitution (Fifth Amdt.) Act. 1976 (62 of 1976), s. 2, for the full-stop (w.e.f. the 13th
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 33, for “clause (1)”.
+[^2]: Added ibid.
+[^3]: Subs. by the Constitution (Fifth Amdt.) Act. 1976 (62 of 1976), s. 2, for the full-stop (w.e.f. the 13th
 September, 1976).
-(^4) Proviso and clause (2A) omitted by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 11 which was
+[^4]: Proviso and clause (2A) omitted by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 11 which was
 5 previously amended by Act^ 62 of 1976, s.2.^
 6 Added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 6, (w.e.f. the 4th May, 1974).^
 7 Added by P. O. No. 14 of 1985, Art. 2 and Sch.,^
@@ -3001,7 +3000,7 @@ he enters upon his office.
 104. Speaker Provincial Assembly to act as, or perform functions of
 Governor in his absence
 
-(^2) [104. When the Governor, by reason of absence from Pakistan or for any
+[^2]: [104. When the Governor, by reason of absence from Pakistan or for any
 other cause, is unable to perform his functions, the Speaker of the
 Provincial Assembly and in his absence any other person as the President
 may nominate shall perform the functions of Governor until the Governor
@@ -3009,10 +3008,10 @@ returns to Pakistan or, as the case may be, resumes his functions.]
 
 ### 105. Governor to act on advice, etc.
 
-(^3) [105. (1) Subject to Constitution, in the performance of his functions,
+[^3]: [105. (1) Subject to Constitution, in the performance of his functions,
 the Governor shall act 4 [on and] in accordance with the advice of the
 Cabinet^3 [or the Chief Minister] :
-(^5) [Provided that (^4) [within fifteen days] the Governor may require the
+[^5]: [Provided that [^4]: [within fifteen days] the Governor may require the
 Cabinet or, as the case may be, the Chief Minister to reconsider such
 advice, whether generally or otherwise, and the Governor shall 4 [, within
 ten days,] act in accordance with the advice tendered after such
@@ -3021,22 +3020,22 @@ reconsideration.]
 (2) The question whether any, and if so what, advice was
 tendered to the Governor by the Chief Minister 7 [or the Cabinet] shall not
 be inquired into in, or by, any court, tribunal or other authority.
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 34, for “Article 104”.
-(^3) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Article 105".
-(^4) Ins. by Act No. 10 of 2010, s. 35.
-(^5) Subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985), s. 12, for “proviso,”
-(^6) Proviso omitted ibid.
-(^7) Subs. ibid., for "the Cabinet or a Minister".
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 34, for “Article 104”.
+[^3]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Article 105".
+[^4]: Ins. by Act No. 10 of 2010, s. 35.
+[^5]: Subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985), s. 12, for “proviso,”
+[^6]: Proviso omitted ibid.
+[^7]: Subs. ibid., for "the Cabinet or a Minister".
 
 
-(^1) [(3) Where the Governor dissolves the Provincial Assembly,
+[^1]: [(3) Where the Governor dissolves the Provincial Assembly,
 notwithstanding anything contained in clause (1), he shall,—
 (a) appoint a date, not later than ninety days from the date of
 dissolution, for the holding of a general election to the
 Assembly; and
 (b) appoint a care-taker Cabinet.]
-(^2) * * * * * * * * *
+[^2]: * * * * * * * * *
 (5) The provisions of clause^3 [(2) of Article 48 shall have
 effect in relation to a Governor as if reference therein to "President" were
 reference to "Governor".]
@@ -3045,7 +3044,7 @@ reference to "Governor".]
 
 ### 106. Constitution of Provincial Assemblies
 
-(^4) [106. (1) Each Provincial Assembly shall consist of general seats and
+[^4]: [106. (1) Each Provincial Assembly shall consist of general seats and
 seats reserved for women and non-Muslims as specified herein below:-
 |            | General Seats | Women Seats | Non-Muslim Seats | Total Seats |
 |--------------------|---------------|-------------|------------------|-------------|
@@ -3062,10 +3061,10 @@ Provided that elections to the aforesaid seats shall be held within
 one year after the general elections, 2018.
 (1B) After elections to seats referred to in clause (1A), both
 clause (1A) and this clause shall stand omitted.]
-(^1) Subs. by Act No. 10 of 2010, s. 35, for “clause (3)”.
-(^2) Clause (4) omitted, ibid.
-(^3) Subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 12 for "(3)".
-(^4) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 36, for “Article 106” and shall be
+[^1]: Subs. by Act No. 10 of 2010, s. 35, for “clause (3)”.
+[^2]: Clause (4) omitted, ibid.
+[^3]: Subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 12 for "(3)".
+[^4]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 36, for “Article 106” and shall be
 5 deemed always to have been so, subs. with effect from 21st^ day of August, 2002.^
 6 Subs. by the Constitution (Twenty-fifth^ Amdt.) Act,^2018 (^37 of^2018 ) s.^6.^ w.e.f. 31-^05 -^2018.^
 Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 6. w.e.f. 31- 05 - 2018.
@@ -3154,7 +3153,7 @@ this Article be entitled to vote.
 
 ### 112. Dissolution of Provincial Assembly
 
-(^1) [112. (1) The Governor shall dissolve the Provincial Assembly if so
+[^1]: [112. (1) The Governor shall dissolve the Provincial Assembly if so
 advised by the Chief Minister; and the Provincial Assembly shall, unless
 sooner dissolved, stand dissolved at the expiration of forty-eight hours
 after the Chief Minister has so advised.
@@ -3170,13 +3169,13 @@ Minister, no other member of the Provincial Assembly commands the
 confidence of the majority of the members of the Provincial Assembly in
 accordance with the provisions of the Constitution, as ascertained in a
 session of the Provincial Assembly summoned for the purpose.]
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 37, for “Article 112”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 37, for “Article 112”.
 
 
 113. Qualifications and disqualifications for membership of
 Provincial Assembly
 
-(^1) [113. The qualifications and disqualifications for membership of the
+[^1]: [113. The qualifications and disqualifications for membership of the
 National Assembly set out in Articles 62 and 63 shall also apply for
 membership of a Provincial Assembly as if reference therein to "National
 Assembly" were a reference to "Provincial Assembly".]
@@ -3222,7 +3221,7 @@ such charge;
 (e) the receipt of moneys on account of the Public Account of
 the Province, the custody or issue of such moneys; and
 ```
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 113".
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 113".
 
 
 ```
@@ -3251,7 +3250,7 @@ for all purposes and shall not be called in question.
 
 ### 116. Governor’s assent to Bills
 
-(^1) [116. (1) When a Bill has been passed by the Provincial Assembly, it
+[^1]: [116. (1) When a Bill has been passed by the Provincial Assembly, it
 shall be presented to the Governor for assent.
 (2) When a Bill is presented to the Governor for assent, the
 Governor shall, within^2 [ten] days,—
@@ -3261,12 +3260,12 @@ to the Provincial Assembly with a message requesting that
 the Bill, or any specified provision thereof, be reconsidered
 and that any amendment specified in the message be
 considered.
-(^3) [(3) When the Governor has returned a Bill to the Provincial
+[^3]: [(3) When the Governor has returned a Bill to the Provincial
 Assembly, it shall be reconsidered by the Provincial Assembly and, if it is
 again passed, with or without amendment, by the Provincial Assembly, by
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 116"
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 38, for “thirty”.
-(^3) Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 15, for "clause (3)".
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Art. 116"
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 38, for “thirty”.
+[^3]: Subs. by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s. 15, for "clause (3)".
 
 
 the votes of the majority of the members of the Provincial Assembly
@@ -3312,7 +3311,7 @@ court established under the authority of the Province;
 ```
 shall be credited to the Public Account of the Province.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 38, for “not withhold his assent
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 38, for “not withhold his assent
 2 thereform”.^
 Ins. ibid.
 
@@ -3401,7 +3400,7 @@ demands for grants, and that Assembly shall have power to assent to, or to
 refuse to assent to, any demand, or to assent to any demand subject to a
 reduction of the amount specified therein:
 
-(^1) * * * * * * * *
+[^1]: * * * * * * * *
 (3) No demand for a grant shall be made except on the
 recommendation of the Provincial Government.
 
@@ -3420,7 +3419,7 @@ upon the Provincial Consolidated Fund but not exceeding,
 in the case of any sum, the sum shown in the statement
 previously laid before the Assembly.
 ```
-(^1) Proviso omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.39.
+[^1]: Proviso omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.39.
 
 
 (2) The schedule so authenticated shall be laid before the
@@ -3516,11 +3515,11 @@ of Pakistan shall be read as a reference to the Provincial
 Assembly in existence immediately before the commencing
 day^3 [; and]
 ```
-(^4) [(g) the said clause (2) of Article 54 shall have effect as if, in
+[^4]: [(g) the said clause (2) of Article 54 shall have effect as if, in
 the proviso thereto, for the words "one hundred and thirty"
 the word “^5 [one hundred]” were substituted.]
-(^1) See footnote 6 on page 3, supra.
-(^2) The word "and" omitted by the Constitution (First Amdt.) Act. 1974 (33 of 1974), s.7 (w.e.f the 4th May.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: The word "and" omitted by the Constitution (First Amdt.) Act. 1974 (33 of 1974), s.7 (w.e.f the 4th May.
 3 1974).^
 4 Subs. ibid., s. 7 for full stop.^
 5 Paragraph (g) added ibid.,^
@@ -3546,7 +3545,7 @@ promulgation or, if before the expiration of that period a
 resolution disapproving it is passed by the Assembly, upon
 the passing of that resolution 2 [:]
 
-(^3) [Provided that the Provincial Assembly may by a
+[^3]: [Provided that the Provincial Assembly may by a
 resolution extend the Ordinance for a further period of
 ninety days and it shall stand repealed at the expiration of
 the extended period, or if before the expiration of that
@@ -3563,13 +3562,13 @@ Bill introduced in the Provincial Assembly.
 
 ### 129. Exercise of executive authority of the Province
 
-(^4) [129. (1) Subject to the Constitution, the executive authority of the
+[^4]: [129. (1) Subject to the Constitution, the executive authority of the
 Province shall be exercised in the name of the Governor by the Provincial
 Government, consisting of the Chief Minister and Provincial Ministers,
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 41, for “three months”.
-(^2) Subs. ibid., for “; and”.
-(^3) Provisos Ins. ibid.
-(^4) Subs. ibid., s. 42, for “Article 129”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 41, for “three months”.
+[^2]: Subs. ibid., for “; and”.
+[^3]: Provisos Ins. ibid.
+[^4]: Subs. ibid., s. 42, for “Article 129”.
 
 
 which shall act through the Chief Minister.
@@ -3580,7 +3579,7 @@ Ministers.]
 
 ### 130. The Cabinet
 
-(^1) [130. (1) There shall be a Cabinet of Ministers, with the Chief
+[^1]: [130. (1) There shall be a Cabinet of Ministers, with the Chief
 Minister at its head, to aid and advise the Governor in the exercise of his
 functions.
 (2) The Provincial Assembly shall meet on the twenty-first day
@@ -3611,7 +3610,7 @@ for the office of the Chief Minister.
 Provincial Assembly and the total strength of the Cabinet shall not exceed
 fifteen members or eleven percent of the total membership of a Provincial
 Assembly, whichever is higher:
-(^1) Subs. ibid., s. 43, for “Article 130”.
+[^1]: Subs. ibid., s. 43, for “Article 130”.
 
 
 Provided that the aforesaid limit shall be effective from the next
@@ -3645,20 +3644,20 @@ Advisors.]
 
 ### 131. Governor to be kept informed
 
-(^1) [131. The Chief Minister shall keep the Governor informed on matters
+[^1]: [131. The Chief Minister shall keep the Governor informed on matters
 relating to Provincial administration and on all legislative proposals the
 Provincial Government intends to bring before the Provincial Assembly.]
 
 ### 132. Provincial Ministers
 
-(^2) [132. (1) Subject to clauses (^3) [( 9 ) and ( 10 )] of Article 130, the
+[^2]: [132. (1) Subject to clauses [^3]: [( 9 ) and ( 10 )] of Article 130, the
 Governor shall appoint Provincial Ministers from amongst members of the
 Provincial Assembly on the advice of the Chief Minister.
 (2) Before entering upon office, a Provincial Minister shall
 make before the Governor oath in the form set out in the Third Schedule.
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 44, for “Article 131”.
-(^2) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Articles 132 and 133".
-(^3) Subs. by the Act, No. 10 of 2010, s. 45, for “(7) and (8)”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 44, for “Article 131”.
+[^2]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Articles 132 and 133".
+[^3]: Subs. by the Act, No. 10 of 2010, s. 45, for “(7) and (8)”.
 
 
 (3) A Provincial Minister may, by writing under his hand
@@ -3682,7 +3681,7 @@ Omitted by P.O. No. 14 of 1985, Art. 2 and Sch.
 
 ### 136. Vote of no-confidence against Chief Minister
 
-(^1) [136. (1) A resolution for a vote of no-confidence moved by not less
+[^1]: [136. (1) A resolution for a vote of no-confidence moved by not less
 than twenty per centum of the total membership of the Provincial
 Assembly may be passed against the Chief Minister by the Provincial
 Assembly.
@@ -3706,8 +3705,8 @@ subject to, and limited by, the executive authority expressly conferred by
 the Constitution or by law made by^2 [Majlis-e-Shoora (Parliament)] upon
 the Federal Government or authorities thereof.
 
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch.. for "Art. 136".
-(^2) See footnote 6 on page 3, supra.
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch.. for "Art. 136".
+[^2]: See footnote 6 on page 3, supra.
 
 
 ### 138. Conferring of functions on subordinate authorities
@@ -3718,14 +3717,14 @@ authorities subordinate to the Provincial Government.
 
 ### 139. Conduct of business of Provincial Government
 
-(^1) [139. (1) All executive actions of the Provincial Government shall be
+[^1]: [139. (1) All executive actions of the Provincial Government shall be
 expressed to be taken in the name of the Governor.
 (2) The^2 [Provincial Government] shall by rules specify the
 manner in which orders and other instruments made and executed^3 [in the
 name of Governor] shall be authenticated, and the validity of any order or
 instrument so authenticated shall not be questioned in any court on the
 ground that it was not made or executed by the Governor.
-(^4) [(3) The Provincial Government shall also make rules for the
+[^4]: [(3) The Provincial Government shall also make rules for the
 allocation and transaction of its business.]]
 
 ### 140. Advocate General for a Province
@@ -3750,13 +3749,13 @@ addressed to the Governor, resign his office.
 
 ### 140A. Local Government
 
-(^7) [140A. (1) Each Province shall, by law, establish a local
-(^1) Subs. by P O. No. 14 of 1985, Art. 2 and Sch., for "Article 139".
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 46, for “Governor”.
-(^3) Subs. ibid., for “in his name”.
-(^4) Subs. ibid., for “clause (3)”
-(^5) Added ibid., s. 47.
-(^6) Existing Article 140A stands omitted as a consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see
+[^7]: [140A. (1) Each Province shall, by law, establish a local
+[^1]: Subs. by P O. No. 14 of 1985, Art. 2 and Sch., for "Article 139".
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 46, for “Governor”.
+[^3]: Subs. ibid., for “in his name”.
+[^4]: Subs. ibid., for “clause (3)”
+[^5]: Added ibid., s. 47.
+[^6]: Existing Article 140A stands omitted as a consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see
 7 section 2.^
 New Article 140A ins. ibid., s. 48.
 
@@ -3792,30 +3791,30 @@ Province or any part thereof.
 to make laws with respect to any matter in the Federal
 Legislative List;
 ```
-(^2) [(b) Majlis-e-Shoora (Parliament) and a Provincial Assembly
+[^2]: [(b) Majlis-e-Shoora (Parliament) and a Provincial Assembly
 shall have power to make laws with respect to criminal law,
 criminal procedure and evidence;]
-(^3) [(c) Subject to paragraph (b), a Provincial Assembly shall, and
+[^3]: [(c) Subject to paragraph (b), a Provincial Assembly shall, and
 Majlis-e-Shoora (Parliament) shall not, have power to make
 laws with respect to any matter not enumerated in the
 Federal Legislative List;]
-(^4) [(d) Majlis-e-Shoora (Parliament) shall have exclusive power to
+[^4]: [(d) Majlis-e-Shoora (Parliament) shall have exclusive power to
 make laws with respect to all matters pertaining to such
 areas in the Federation as are not included in any Province].
 
 ### 143. Inconsistency between Federal and Provincial law
 
-(^5) [143. If any provision of an Act of a Provincial Assembly is repugnant to
+[^5]: [143. If any provision of an Act of a Provincial Assembly is repugnant to
 any provision of an Act of Majlis-e-Shoora (Parliament) which Majlis-e-
 Shoora (Parliament) is competent to enact, then the Act of Majlis-e-
 Shoora (Parliament), whether passed before or after the Act of the
 Provincial Assembly, shall prevail and the Act of the Provincial Assembly
 shall, to the extent of the repugnancy, be void.]
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 49, for “Paragraph (b)”.
-(^3) Subs. ibid; for “Paragraph (c)”.
-(^4) Subs. ibid; for “Paragraph (d)”.
-(^5) Subs. ibid; s. 50 for “Article 143”.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 49, for “Paragraph (b)”.
+[^3]: Subs. ibid; for “Paragraph (c)”.
+[^4]: Subs. ibid; for “Paragraph (d)”.
+[^5]: Subs. ibid; s. 50 for “Article 143”.
 
 
 144. Power of Majlis-e-Shoora (Parliament) to legislate for 1 [One]
@@ -3857,10 +3856,10 @@ standing that it relates to a matter with respect to which a Provincial
 Assembly has no power to make laws, confer powers and impose duties
 upon a Province or officers and authorities thereof.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 51, for “Two”.
-(^2) See footnote 6 on page 3, supra.
-(^3) Subs. by Act No. 10 of 2010, s.51. for “either list”.
-(^4) Clause (2) omitted by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s.17.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 51, for “Two”.
+[^2]: See footnote 6 on page 3, supra.
+[^3]: Subs. by Act No. 10 of 2010, s.51. for “either list”.
+[^4]: Clause (2) omitted by the Constitution (Eighth Amdt.) Act, 1985 (18 of 1985), s.17.
 
 
 (3) Where by virtue of this Article powers and duties have
@@ -3907,9 +3906,9 @@ the Federal Government to be necessary for that purpose.
 
 3 * * * * * * * *
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 52, for the full-stop.
-(^2) Proviso added, ibid.
-(^3) Clause (2) omitted ibid., s. 53.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 52, for the full-stop.
+[^2]: Proviso added, ibid.
+[^3]: Clause (2) omitted ibid., s. 53.
 
 
 (3) The executive authority of the Federation shall also extend
@@ -3959,7 +3958,7 @@ area in Pakistan.
 (4) An Act of a Provincial Assembly which imposes any
 reasonable restriction in the interest of public health, public order or
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 morality, or for the purpose of protecting animals or plants from disease or
@@ -3992,20 +3991,20 @@ enactments.
 153. (1) There shall be a Council of Common Interests, in this
 Chapter referred to as the Council, to be appointed by the President.
 
-(^2) [(2) The Council shall consist of—
+[^2]: [(2) The Council shall consist of—
 (a) the Prime Minister who shall be the Chairman of the
 Council;
 (b) the Chief Ministers of the Provinces; and
 (c) three members from the Federal Government to be
 nominated by the Prime Minister from time to time.]
-(^3) * * * * * * * * *
+[^3]: * * * * * * * * *
 (4) The Council shall be responsible to^1 [Majlis-e-Shoora
 (Parliament) 4 [and shall submit an Annual Report to both Houses of
 Majlis-e-Shoora (Parliament).]]
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 54, for “clause (2)”.
-(^3) Clause (3) omitted ibid.
-(^4) Added by Act, No. 10 of 2010, s. 54.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 54, for “clause (2)”.
+[^3]: Clause (3) omitted ibid.
+[^4]: Added by Act, No. 10 of 2010, s. 54.
 
 
 ### 154. Functions and rules of procedure
@@ -4014,24 +4013,24 @@ Majlis-e-Shoora (Parliament).]]
 relation to matters in Part II of the Federal Legislative List and shall
 exercise supervision and control over related institutions.]
 
-(^2) [(2) The Council shall be constituted within thirty days of the
+[^2]: [(2) The Council shall be constituted within thirty days of the
 Prime Minister taking oath of office.
 (3) The Council shall have a permanent Secretariat and shall
 meet at least once in ninety days:
 Provided that the Prime Minister may convene a meeting
 on the request of a Province on an urgent matter.]
-(^3) [(4)] The decisions of the Council shall be expressed in terms of
+[^3]: [(4)] The decisions of the Council shall be expressed in terms of
 the opinion of the majority.
-(^3) [( 5 )] Until (^4) [Majlis-e-Shoora (Parliament)] makes provision by
+[^3]: [( 5 )] Until [^4]: [Majlis-e-Shoora (Parliament)] makes provision by
 law in this behalf, the Council may make its rules of procedure.
-(^3) [( 6 )] 4 [Majlis-e-Shoora (Parliament)] in joint sitting may from
+[^3]: [( 6 )] 4 [Majlis-e-Shoora (Parliament)] in joint sitting may from
 time to time by resolution issue directions through the Federal
 Government to the Council generally or in a particular matter to take
 action as^4 [Majlis-e-Shoora (Parliament)] may deem just and proper and
 such directions shall be binding on the Council.
-(^3) [( 7 )] If the Federal Government or a Provincial Government is
+[^3]: [( 7 )] If the Federal Government or a Provincial Government is
 dissatisfied with a decision of the Council, it may refer the matter to
-(^4) [Majlis-e-Shoora (Parliament)] in a joint sitting whose decision in this
+[^4]: [Majlis-e-Shoora (Parliament)] in a joint sitting whose decision in this
 behalf shall be final.
 
 ### 155. Complaints as to interference with water supplies
@@ -4039,15 +4038,15 @@ behalf shall be final.
 155. (1) If the interests of a Province, the Federal Capital 5 [**] or
 any of the inhabitants thereof, in water from any natural source of supply
 
-(^6) [or reservoir] have been or are likely to be affected prejudicially by —
+[^6]: [or reservoir] have been or are likely to be affected prejudicially by —
 (a) any executive act or legislation taken or passed or proposed
 to be taken or passed, or
-(^1) Subs. ibid. s. 55, for “clause (1)”.
-(^2) New clauses (2) and (3) ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 55.
-(^3) Clauses (2), (3), (4) and (5) renumbered ibid.
-(^4) See footnote 6 on page 3, supra.
-(^5) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 7. w.e.f. 31- 05 - 2018.
-(^6) Ins. by Act. No. 10 of 2010, s. 56.
+[^1]: Subs. ibid. s. 55, for “clause (1)”.
+[^2]: New clauses (2) and (3) ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 55.
+[^3]: Clauses (2), (3), (4) and (5) renumbered ibid.
+[^4]: See footnote 6 on page 3, supra.
+[^5]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 7. w.e.f. 31- 05 - 2018.
+[^6]: Ins. by Act. No. 10 of 2010, s. 56.
 
 
 ```
@@ -4091,10 +4090,10 @@ Council under this Article.
 
 ### 156. National Economic Council
 
-(^2) [156. (1) The President shall constitute a National Economic Council
+[^2]: [156. (1) The President shall constitute a National Economic Council
 which shall consist of: —
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.57, for “Article 156”.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.57, for “Article 156”.
 
 
 ```
@@ -4148,8 +4147,8 @@ any Province, shall consult the Provincial Government concerned.]
 national grid, require supply to be made in bulk for
 transmission and distribution within the Province;
 ```
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.58, for the full stop.
-(^2) Proviso Ins. ibid.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.58, for the full stop.
+[^2]: Proviso Ins. ibid.
 
 
 ```
@@ -4201,7 +4200,7 @@ shall be exercised subject to such conditions as may be imposed by the
 Federal Government, including, notwithstanding anything contained in the
 Constitution, any conditions with respect to finance, but it shall not be
 
-(^1) New clause (3) added ibid.
+[^1]: New clause (3) added ibid.
 
 
 lawful for the Federal Government so to impose any conditions regulating
@@ -4272,9 +4271,9 @@ following taxes raised under the authority of^2 [Majlis-e-Shoora
 including taxes on income consisting of remuneration paid
 out of the Federal Consolidated Fund ;
 ```
-(^3) [(ii) taxes on the sales and purchases of goods imported,
+[^3]: [(ii) taxes on the sales and purchases of goods imported,
 exported, produced, manufactured or consumed ;]
-(^1) For the notification constituting the National Finance Commission, see Gaz. of Pak. 1974, Ext., Part II. pp.
+[^1]: For the notification constituting the National Finance Commission, see Gaz. of Pak. 1974, Ext., Part II. pp.
 2 191 - 192.^
 3 See footnote 6 on page 3, supra.^
 Subs. by the Constitution (Fifth Arndt.) Act, 1976 (62 of 1976), s. 3, for the "original paragraph (ii)", (w.e.f.
@@ -4292,7 +4291,7 @@ and
 ```
 (v) such other taxes as may be specified by the President.
 ```
-(^1) [(3A) The share of the Provinces, in each Award of National
+[^1]: [(3A) The share of the Provinces, in each Award of National
 Finance Commission shall not be less than the share given to the
 Provinces in the previous Award.
 (3B) The Federal Finance Minister and Provincial Finance
@@ -4319,8 +4318,8 @@ or expedient.
 (7) The President may, by Order, make grants-in-aid of the
 revenues of the Provinces in need of assistance and such grants shall be
 charged upon the Federal Consolidated Fund.
-(^1) New Clauses (3A), (3B) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 59.
-(^2) For such Order, see the Distribution of Revenues and Grants-in-Aid Order, 1975 (P. O. No. 2 of 1975).
+[^1]: New Clauses (3A), (3B) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 59.
+[^2]: For such Order, see the Distribution of Revenues and Grants-in-Aid Order, 1975 (P. O. No. 2 of 1975).
 
 
 ### 161. Natural gas and hydro-electric power
@@ -4367,7 +4366,7 @@ provisions of this Chapter moneys are or may be distributable to
 Provinces, shall be introduced or moved in the National Assembly except
 with the previous sanction of the President.
 
-(^1) Subs. by the Act 10 of 2010, s. 60 for “clause (1)”.
+[^1]: Subs. by the Act 10 of 2010, s. 60 for “clause (1)”.
 
 
 ### 163. Provincial taxes in respect of professions, etc.
@@ -4410,11 +4409,11 @@ for services rendered.
 165A Power of Majlis-e-Shoora (Parliament) to impose tax on the
 income of certain corporations, etc.
 
-(^2) [165A. (1) For the removal of doubt, it is hereby declared that
-(^1) [Majlis-e-Shoora (Parliament)] has, and shall be deemed always to have
+[^2]: [165A. (1) For the removal of doubt, it is hereby declared that
+[^1]: [Majlis-e-Shoora (Parliament)] has, and shall be deemed always to have
 had, the power to make a law to provide for the levy and recovery of a tax
-(^1) See footnote 6 on page 3, supra.
-(^2) Added by the Constitution (Arndt.) Order. 1985 (P. O. No. 11 of 1985), Art. 2.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Added by the Constitution (Arndt.) Order. 1985 (P. O. No. 11 of 1985), Art. 2.
 
 
 on the income of a corporation, company or other body or institution
@@ -4462,7 +4461,7 @@ guarantees within such limits, if any, as may be so fixed.
 (2) The Federal Government may, subject to such conditions, if
 any, as it may think fit to impose, make loans to, or, so long as any limits
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 fixed under Article 166 are not exceeded give guarantees in respect of
@@ -4493,11 +4492,11 @@ appointed by the President.
 make before the Chief Justice of Pakistan oath in the form set out in the
 Third Schedule.
 
-(^2) (3) The Auditor-General shall, unless he sooner resigns or is
+[^2]: (3) The Auditor-General shall, unless he sooner resigns or is
 removed from office in accordance with clause (5), hold office for a term
 of four years from the date on which he assumes such office or attains the
 age of sixty-five years, whichever is earlier.]
-(^3) [(3A) The other terms and conditions of service of the Auditor-
+[^3]: [(3A) The other terms and conditions of service of the Auditor-
 General shall be determined by Act of Majlis-e-Shoora (Parliament); and,
 until so determined, by Order of the President.]
 (4) A person who has held office as Auditor-General shall not
@@ -4507,9 +4506,9 @@ expiration of two years after he has ceased to hold that office.
 except in the like manner and on the like grounds as a Judge of the
 Supreme Court.
 (6) At any time when the office of the Auditor-General is
-(^1) New clause (4) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 61.
-(^2) Subs. ibid., s. 62, for “clause (3)”.
-(^3) New clause (3A) Ins. by the Constitution (Eighteenth Amdt.), Act, 2010, (10 of 2010), s. 62.
+[^1]: New clause (4) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 61.
+[^2]: Subs. ibid., s. 62, for “clause (3)”.
+[^3]: New clause (3A) Ins. by the Constitution (Eighteenth Amdt.), Act, 2010, (10 of 2010), s. 62.
 
 
 vacant or the Auditor-General is absent or is unable to perform the
@@ -4553,11 +4552,11 @@ reports of the Auditor-General relating to the accounts of a Province shall
 be submitted to the Governor of the Province, who shall cause them to be
 laid before the Provincial Assembly.
 
-(^1) Subs. ibid., for certain words.
-(^2) See footnote 6 on page 3, supra.
-(^3) For such Order, see the Pakistan (Audit and Accounts) Order, 1973 (P. O. No. 21 of 1973).
-(^4) Re-numbered (1) and new clause (2) added by the Act 10 of 2010, s. 63.
-(^5) Subs. ibid., s. 64, for “National Assembly”.
+[^1]: Subs. ibid., for certain words.
+[^2]: See footnote 6 on page 3, supra.
+[^3]: For such Order, see the Pakistan (Audit and Accounts) Order, 1973 (P. O. No. 21 of 1973).
+[^4]: Re-numbered (1) and new clause (2) added by the Act 10 of 2010, s. 63.
+[^5]: Subs. ibid., s. 64, for “National Assembly”.
 
 
 ## CHAPTER 3. – PROPERTY, CONTRACTS, LIABILITIES AND SUITS
@@ -4572,7 +4571,7 @@ case, in the Federal Government.
 continental shelf or underlying the ocean^1 [beyond] the territorial waters of
 Pakistan shall vest in the Federal Government.
 
-(^2) [(3) Subject to the existing commitments and obligations,
+[^2]: [(3) Subject to the existing commitments and obligations,
 mineral oil and natural gas within the Province or the territorial water
 adjacent thereto shall vest jointly and equally in that Province and the
 Federal Government.]
@@ -4602,8 +4601,8 @@ authorize.
 be personally liable in respect of any contract or assurance made or
 executed in the exercise of the executive authority of the Federation or, as
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.65, for “within”.
-(^2) Ins. ibid.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.65, for “within”.
+[^2]: Ins. ibid.
 
 
 the case may be, the Province, nor shall any person making or executing
@@ -4643,8 +4642,8 @@ conferred on it by the Constitution or by or under any law.
 (3) The Judiciary shall be separated progressively from the
 Executive within^3 [fourteen] years from the commencing day 5 [:]
 
-(^4) [* * * * * * * * *]
-(^5) [“Provided that the provisions of this Article shall have no
+[^4]: [* * * * * * * * *]
+[^5]: [“Provided that the provisions of this Article shall have no
 application to the trial of persons under any of the Acts mentioned at
 Serial No. 6 and 7 of sub-part III of Part I of the First Schedule, who
 claim, or are known, to belong to any terrorist group or organization
@@ -4654,14 +4653,14 @@ of religion and does not include any religious or political party regulated
 under the Political Parties Order, 2002.”.]
 175 A. Appointment of Judges to the Supreme Court, High Courts
 and the Federal Shariat Court
-(^6) [ 175 A. (1) There shall be a Judicial Commission of Pakistan,
+[^6]: [ 175 A. (1) There shall be a Judicial Commission of Pakistan,
 hereinafter in this Article referred to as the Commission, for appointment
 of Judges of the Supreme Court, High Courts and the Federal Shariat
 Court, as hereinafter provided.
-(^1) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.66.
-(^2) Explanation added ibid.
-(^3) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "five".
-(^4) Ins. by the Constitution (Twenty-first Amendment) Act, 2015 (I of 2015) and shall cease to form part of the
+[^1]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.66.
+[^2]: Explanation added ibid.
+[^3]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "five".
+[^4]: Ins. by the Constitution (Twenty-first Amendment) Act, 2015 (I of 2015) and shall cease to form part of the
 5 Constitution and shall stand repealed on the expiration of two years.^
 Subs. & Ins. by the Constitution (Twenty-third Amendment) Act, 2017 (XII of 2017) and shall cease to form
 6 part of the Constitution and shall stand repealed on the expiration of two years.^
@@ -4711,8 +4710,8 @@ years practice in the High Court to be
 nominated by the concerned Bar Council
 for a term of two years:
 
-(^1) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4 for “two”.
-(^2) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
+[^1]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4 for “two”.
+[^2]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
 
 
 Provided that for appointment of the Chief Justice
@@ -4761,14 +4760,14 @@ as the case may be.
 referred to as the Committee, shall consist of the following eight members,
 namely:—
 
-(^1) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
+[^1]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
 
 
 ```
 (i) four members from the Senate; and
 (ii) four members from the National Assembly:
 ```
-(^1) [Provided that when the National Assembly is
+[^1]: [Provided that when the National Assembly is
 dissolved, the total membership of the Parliamentary
 Committee shall consist of the members from the Senate
 only mentioned in paragraph (i) and the provisions of this
@@ -4784,30 +4783,30 @@ Committee.
 Commission may confirm the nominee by majority of its total membership
 within fourteen days, failing which the nomination shall be deemed to
 have been confirmed:
-(^1) [Provided that the Committee, for reasons to be recorded, may not
+[^1]: [Provided that the Committee, for reasons to be recorded, may not
 confirm the nomination by three-fourth majority of its total membership
 within the said period:]
-(^2) [Provided further that if a nomination is not confirmed by the
+[^2]: [Provided further that if a nomination is not confirmed by the
 Committee it shall forward its decision with reasons so recorded to the
 Commission through the Prime Minister:
 Provided further that if a nomination is not confirmed, the
 Commission shall send another nomination.]
-(^1) [(13) The Committee shall send the name of the nominee
+[^1]: [(13) The Committee shall send the name of the nominee
 confirmed by it or deemed to have been confirmed to the Prime Minister
 who shall forward the same to the President for appointment.]
 (14) No action or decision taken by the Commission or a
 Committee shall be invalid or called in question only on the ground of the
 existence of a vacancy therein or of the absence of any member from any
 meeting thereof.
-(^1) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
-(^2) Inserted and re-numbered by Act 1 of 2011 s. 4.
+[^1]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 4.
+[^2]: Inserted and re-numbered by Act 1 of 2011 s. 4.
 
 
-(^1) [(15) The meetings of the Committee shall be held in camera and
+[^1]: [(15) The meetings of the Committee shall be held in camera and
 the record of its proceedings shall be maintained.
 (16) The provisions of Article 68 shall not apply to the
 proceedings of the Committee.]
-(^1) [(17)] The Committee may make rules for regulating its
+[^1]: [(17)] The Committee may make rules for regulating its
 procedure.
 
 ## CHAPTER 2. – THE SUPREME COURT OF PAKISTAN
@@ -4846,14 +4845,14 @@ make before the President, and any other Judge of the Supreme Court shall
 make before the Chief Justice, oath in the form set out in the Third
 Schedule.
 
-(^1) Inserted and re-numbered by Act 1 of 2011 s. 4.
-(^2) See footnote 6 on page 3, supra.
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.68, for “clause (1)”.
+[^1]: Inserted and re-numbered by Act 1 of 2011 s. 4.
+[^2]: See footnote 6 on page 3, supra.
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.68, for “clause (1)”.
 
 
 ### 179. Retiring age
 
-(^1) [179. A Judge of the Supreme Court shall hold office until he attains the
+[^1]: [179. A Judge of the Supreme Court shall hold office until he attains the
 age of sixty-five years, unless he sooner resigns or is removed from office
 in accordance with the Constitution.].
 
@@ -4887,7 +4886,7 @@ appoint a Judge of a High Court who is qualified for appointment as a
 Judge of the Supreme Court to act temporarily as a Judge of the Supreme
 Court.
 
-(^3) [Explanation.—In this clause, ‘Judge of a High Court’ includes a
+[^3]: [Explanation.—In this clause, ‘Judge of a High Court’ includes a
 person who has retired as a Judge of a High Court.]
 (2) An appointment under this Article shall continue in force
 until it is revoked by the President.
@@ -4897,7 +4896,7 @@ until it is revoked by the President.
 182. If at any time it is not possible for want of quorum of Judges of the
 Supreme Court to hold or continue any sitting of the Court, or for any
 
-(^1) Article 179 subs. by the Constitution (Seventeenth Arndt.) Act, 2003 (3 of 2003), s.6. which was previously
+[^1]: Article 179 subs. by the Constitution (Seventeenth Arndt.) Act, 2003 (3 of 2003), s.6. which was previously
 2 amended by various enactments (see^ also Article 267B).^
 3 Subs. by P. O. No. 14 of 1985. Art. 2 and Sch., for certain words.^
 Explanation added by the Constitution (Amdt.) Order, 1982 (P. O. No. 2 of 1982), Art. 2.
@@ -4951,8 +4950,8 @@ Government and the Provincial Governments.
 ```
 (3) Without prejudice to the provisions of Article 199, the
 ```
-(^1) Inserted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 5.
-(^2) For appointment of Rawalpindi as the seat of the Supreme Court, see Gaz. of Pak., 1974, Pt. 11, p. 1387.
+[^1]: Inserted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 5.
+[^2]: For appointment of Rawalpindi as the seat of the Supreme Court, see Gaz. of Pak., 1974, Pt. 11, p. 1387.
 
 
 Supreme Court shall, if it considers that a question of public importance
@@ -5006,7 +5005,7 @@ decree or final order of the court immediately below; or
 (f) if the High Court certifies that the case involves a sub-
 stantial question of law as to the interpretation of the
 ```
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ```
@@ -5028,7 +5027,7 @@ and report its opinion on the question to the President.
 
 ### 186A. Power of Supreme Court to transfer cases
 
-(^1) [186A. The Supreme Court may, if it considers it expedient to do
+[^1]: [186A. The Supreme Court may, if it considers it expedient to do
 so in the interest of justice, transfer any case, appeal or other proceedings
 pending before any High Court to any other High Court.]
 
@@ -5052,8 +5051,8 @@ Supreme Court on the question shall be final.
 
 ### 188. Review of judgments of orders by the Supreme Court
 
-(^1) New Art. 186A ins. by P. O. No 14 of 1985, Art. 2 and Sch.,
-(^2) Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 7, for "The" (w.e.f. the 13th September,
+[^1]: New Art. 186A ins. by P. O. No 14 of 1985, Art. 2 and Sch.,
+[^2]: Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 7, for "The" (w.e.f. the 13th September,
 1976).
 
 
@@ -5086,7 +5085,7 @@ rules regulating the practice and procedure of the Court.
 other Judges as may be determined by law or, until so determined, as may
 be fixed by the President.
 
-(^2) [(2) The Sindh and Balochistan High Court shall cease to
+[^2]: [(2) The Sindh and Balochistan High Court shall cease to
 function as a common High Court for the Provinces of Balochistan and
 Sindh.
 (3) The President shall, by^3 Order, establish a High Court for
@@ -5097,8 +5096,8 @@ pending in the common High Court immediately before the establishment
 of two High Courts and, generally, for matters consequential or ancillary
 to the common High Court ceasing to function and the establishment of
 the two High Courts as he may deem fit.]
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 8, for the "original clauses (2) to (4)"
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 8, for the "original clauses (2) to (4)"
 3 (w.e.f. the 1st December, 1976).^
 For such Order, in respect of establishment of High Courts for Balochistan and Sindh, see the P O. No. 6 of
 1976, dated the 29th November, 1976, see Gaz. of Pak. 1976, Ext., Pt. 1, pp.595—599.
@@ -5134,7 +5133,7 @@ District Judge in Pakistan; or
 (c) he has, for a period of not less than ten years, held a
 judicial office in Pakistan.
 ```
-(^4) [Explanation.—In computing the period during which a person
+[^4]: [Explanation.—In computing the period during which a person
 has been an advocate of a High Court or held judicial office, there shall be
 included any period during which he has held judicial office after he
 became an advocate or, as the case may be, the period during which he has
@@ -5147,9 +5146,9 @@ civil court of original jurisdiction.
 194. Before entering upon office, the Chief Justice of a High Court shall
 make before the Governor, and any other Judge of the Court shall make
 
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.69, for “clause (1).
-(^3) Subs. ibid. for “forty” and shall be deemed always to have been so, subs. with effect from 21st day of August,
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.69, for “clause (1).
+[^3]: Subs. ibid. for “forty” and shall be deemed always to have been so, subs. with effect from 21st day of August,
 4 2002.^
 Explanation added by the Constitution (First Arndt.) Act, 1974 (33 of 1974), s. 8, (w.e.f. the 4th May, 1974).
 
@@ -5162,7 +5161,7 @@ oath before the Chief Justice of the Islamabad High Court.]
 
 ### 195. Retiring age
 
-(^3) [195. A Judge of a High Court shall hold office until he attains the age of
+[^3]: [195. A Judge of a High Court shall hold office until he attains the age of
 sixty-two years, unless he sooner resigns or is removed from office in
 accordance with the Constitution].
 
@@ -5200,9 +5199,9 @@ qualified for appointment as a Judge of the High Court to
 be Additional Judge of the Court for such period as the
 President may determine, being a period not exceeding
 ```
-(^1) Subs. by Act No. 10 of 2010, s. 70, for the full-stop.
-(^2) New proviso added ibid.
-(^3) Article 195 subs. by the Constitution (Seventeenth Amdt.) Act, 2003 (3 of 2003), s.7 which was previously
+[^1]: Subs. by Act No. 10 of 2010, s. 70, for the full-stop.
+[^2]: New proviso added ibid.
+[^3]: Article 195 subs. by the Constitution (Seventeenth Amdt.) Act, 2003 (3 of 2003), s.7 which was previously
 4 amended by various enactments (see^ also Article 267B).^
 Subs. by P.O. No. 14 of 1985 Art. 2 and Sch., for certain words.
 
@@ -5219,7 +5218,7 @@ where it had such seat before that day.
 2 [(1A) The High Court for Islamabad Capital Territory shall have
 its principal seat at Islamabad.]
 
-(^3) [(2) Each High Court and the Judges and divisional courts
+[^3]: [(2) Each High Court and the Judges and divisional courts
 thereof shall sit at its principal seat and the seats of its Benches and may
 hold, at any place within its territorial jurisdiction, circuit courts consisting
 of such of the Judges as may be nominated by the Chief Justice.
@@ -5241,11 +5240,11 @@ say,—
 (a) assigning the area in relation to which each Bench shall
 exercise jurisdiction vested in the High Court; and
 (b) for all incidental, supplemental or consequential matters.]
-(^1) Re-numbered (1) ibid.,
-(^2) New clause (1A) ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 71.
-(^3) Added by P. O. No. 14 of 1985, Art. 2 and Sch.
-(^4) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 71.
-(^5) Added ibid.
+[^1]: Re-numbered (1) ibid.,
+[^2]: New clause (1A) ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 71.
+[^3]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.
+[^4]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 71.
+[^5]: Added ibid.
 
 
 ### 199. Jurisdiction of High Court
@@ -5302,7 +5301,7 @@ for the enforcement of any of the Fundamental Rights conferred by
 Chapter 1 of Part II shall not be abridged.
 
 
-(^1) [(3) An order shall not be made under clause (1) on application
+[^1]: [(3) An order shall not be made under clause (1) on application
 made by or in relation to a person who is a member of the Armed Forces
 of Pakistan, or who is for the time being subject to any law relating to any
 of those Forces, in respect of his terms and conditions of service, in
@@ -5326,7 +5325,7 @@ for reasons to be recorded in writing, is satisfied that the interim order—
 (ii) would have the effect of suspending an order or
 proceeding which on the face of the record is
 without jurisdiction.
-(^4) [(4A) An interim order made by a High Court on an application
+[^4]: [(4A) An interim order made by a High Court on an application
 made to it to question the validity or legal effect of any order made,
 proceeding taken or act done by any authority or person, which has been
 made, taken or done or purports to have been made taken or done under
@@ -5334,7 +5333,7 @@ any law which is specified in Part I of the First Schedule or relates to, or is
 connected with, State property or assessment or collection of public
 revenues shall cease to have effect on the expiration of a period of six
 months following the day on which it is made:
-(^1) Subs. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 9, for "clause (3)", (w.e.f. the 4th May,
+[^1]: Subs. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 9, for "clause (3)", (w.e.f. the 4th May,
 2 1974).^
 Clauses (3A), (3B) and (3C) omitted by P. O. No. 14 of 1985, Art. 2 and Sch., which was previously
 3 amended by various enactments.^
@@ -5345,7 +5344,7 @@ Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 72, for 
 Provided that the matter shall be finally decided by the High Court
 within six months from the date on which the interim order is made.]
 
-(^1) * * * * * * * * *
+[^1]: * * * * * * * * *
 (5) In this Article, unless the context otherwise requires,—
 "person" includes any body politic or corporate, any
 authority of or under the control of the Federal Government
@@ -5367,17 +5366,17 @@ one High Court to another High Court, but no Judge shall be so transferred
 except with his consent and after consultation by the President with the
 Chief Justice of Pakistan and the Chief Justices of both High Courts 2 [:]
 
-(^3) * * * * * * * * *
+[^3]: * * * * * * * * *
 Explanation.—In this Article, "Judge" does not include a Chief
 Justice^4 [but includes a Judge for the time being acting as Chief Justice of
 a High Court other than a Judge of the Supreme Court acting as such in
 pursuance of a request made under paragraph (b) of Article 196].]
-(^5) [(2) Where a Judge is so transferred or is appointed to an office
+[^5]: [(2) Where a Judge is so transferred or is appointed to an office
 other than that of Judge at a place other than the principal seat of the High
 Court, he shall, during the period for which he serves as a Judge of the
-(^1) Clause (4B) omitted by the Chief Executive’s Order, 2002 (24 of 2002), Art. 2 and Sch. which was
+[^1]: Clause (4B) omitted by the Chief Executive’s Order, 2002 (24 of 2002), Art. 2 and Sch. which was
 previously amended by P.O. No. 14 of 1985, Art. 2 and Sch.
-(^2) Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 12, for full-stop (w.e.f. the 13th
+[^2]: Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 12, for full-stop (w.e.f. the 13th
 3 September, 1976).^
 4 Proviso omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 73.^
 5 Added by the Constitution (Third Amdt.) Order, 1985 (P. O. No. 24 of 1985), Art. 3.^
@@ -5388,7 +5387,7 @@ High Court to which he is transferred, or holds such other office, be
 entitled to such allowances and privileges, in addition to his salary, as the
 President may, by Order, determine.]
 
-(^1) [(3) If at any time it is necessary for any reason to increase
+[^1]: [(3) If at any time it is necessary for any reason to increase
 temporarily the number of Judges of a High Court, the Chief Justice of
 that Court may require a Judge of any other High Court to attend sittings
 of the former High Court for such period as may be necessary and, while
@@ -5398,9 +5397,9 @@ Provided that a Judge shall not be so required except with his
 consent and the approval of the President and after consultation with the
 Chief Justice of Pakistan and the Chief Justice of the High Court of which
 he is a Judge.]
-(^2) [Explanation.— In this Article, "High Court" includes a Bench of
+[^2]: [Explanation.— In this Article, "High Court" includes a Bench of
 a High Court.]
-(^3) * * * * * * * * *
+[^3]: * * * * * * * * *
 
 ### 201. Decision of High Court binding on subordinate Courts
 
@@ -5419,14 +5418,14 @@ subordinate to it.
 203. Each High Court shall supervise and control all courts subordinate
 to it.
 
-(^4) [CHAPTER 3A. – FEDERAL SHARIAT COURT
+[^4]: [CHAPTER 3A. – FEDERAL SHARIAT COURT
 
 ### 203A. Provisions of Chapter to override other provisions of Constitution
 
-(^1) Clause (3) added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 10, (w.e.f. the 4th May, 1974)
-(^2) Explanation added by P. O. No. 14 of 1985, Art. 2 and Sch.,
-(^3) Clause (4) omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.73.
-(^4) Subs. by the Constitution (Amdt) Order, 1980 (P.O. No. 1 of 1980). Art. 3, for the "existing Chapter 3A"
+[^1]: Clause (3) added by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 10, (w.e.f. the 4th May, 1974)
+[^2]: Explanation added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^3]: Clause (4) omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.73.
+[^4]: Subs. by the Constitution (Amdt) Order, 1980 (P.O. No. 1 of 1980). Art. 3, for the "existing Chapter 3A"
 (w.e.f. 26th May, 1980).
 
 
@@ -5438,10 +5437,10 @@ anything contained in the Constitution.
 203B. In this Chapter, unless there is anything repugnant in the subject or
 context,—
 
-(^1) [(a) "Chief Justice" means Chief Justice of the Court;]
+[^1]: [(a) "Chief Justice" means Chief Justice of the Court;]
 (b) "Court" means the Federal Shariat Court constituted in
 pursuance of Article 203C ;
-(^2) [(bb) "Judge" means Judge of the Court;]
+[^2]: [(bb) "Judge" means Judge of the Court;]
 (c) "law" includes any custom or usage having the force of law
 but does not include the Constitution, Muslim personal law,
 any law relating to the procedure of any court or tribunal
@@ -5449,29 +5448,29 @@ or, until the expiration of^3 [ten] years from the
 commencement of this Chapter, any fiscal law or any law
 relating to the levy and collection of taxes and fees or
 banking or insurance practice and procedure ; and
-(^4) * * * * * * * * *
+[^4]: * * * * * * * * *
 
 ### 203C. The Federal Shariat Court
 
 203C. (1) There shall be constituted for the purposes of this Chapter a
 Court to be called the Federal Shariat Court.
 
-(^5) [(2) The Court shall consist of not more than eight Muslim
-(^6) [Judges], including the (^7) [Chief Justice], to be appointed by the President
-(^8) [in accordance with Article 175A].
-(^9) [(3) The Chief Justice shall be a person who is, or has been, or
+[^5]: [(2) The Court shall consist of not more than eight Muslim
+[^6]: [Judges], including the [^7]: [Chief Justice], to be appointed by the President
+[^8]: [in accordance with Article 175A].
+[^9]: [(3) The Chief Justice shall be a person who is, or has been, or
 is qualified to be, a Judge of the Supreme Court or who is or has been a
 permanent Judge of a High Court.
-(^1) Subs. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 2. for “paragraph (a)”.
-(^2) Ins. ibid.,
-(^3) Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., which was previously amended by various enactments for
+[^1]: Subs. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 2. for “paragraph (a)”.
+[^2]: Ins. ibid.,
+[^3]: Subs. by P.O. No. 14 of 1985, Art. 2 and Sch., which was previously amended by various enactments for
 4 “five”.^
 Paragraph (d) omitted by P. O. No. 5 of 1982, Art. 2.
-(^5) Subs. by the Constitution (Second Amdt.) Order, 1981 (P. O. No. 7 of 1981), Art. 2, for "clause (2)".
-(^6) Subs. by P. O. No. 5 of 1982, Art. 3, for "members".
-(^7) Subs. ibid., for "Chairman".
-(^8) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74.
-(^9) Subs. by the Constitution (Third Amdt.) Order 1985 (P. O. No. 24 of 1985), Art. 4, for "clause(3)".
+[^5]: Subs. by the Constitution (Second Amdt.) Order, 1981 (P. O. No. 7 of 1981), Art. 2, for "clause (2)".
+[^6]: Subs. by P. O. No. 5 of 1982, Art. 3, for "members".
+[^7]: Subs. ibid., for "Chairman".
+[^8]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74.
+[^9]: Subs. by the Constitution (Third Amdt.) Order 1985 (P. O. No. 24 of 1985), Art. 4, for "clause(3)".
 
 
 (3A) Of the Judges, not more than four shall be persons each one
@@ -5488,37 +5487,37 @@ a^8 [Judge]^4 * * * except with his consent and^5 [,^ except where the Judge
 is himself the Chief Justice,] after consultation by the President with the
 Chief Justice of the High Court.
 
-(^6) [(4A) The (^7) [Chief Justice], if he is not a Judge of the Supreme
+[^6]: [(4A) The [^7]: [Chief Justice], if he is not a Judge of the Supreme
 Court, and a^8 [Judge] who is not a Judge of a High Court, may, by writing
 under his hand addressed to the President, resign his office.]
-(^7) [(4B) The Chief Justice and a Judge shall not be removed from
+[^7]: [(4B) The Chief Justice and a Judge shall not be removed from
 office except in the like manner and on the like grounds as a Judge of the
 Supreme Court.]
-(^8) * * * * * * * * *
+[^8]: * * * * * * * * *
 (6) The principal seat of the Court shall be at Islamabad, but
 the Court may from time to time sit in such other places in Pakistan as the
-(^9) [Chief Justice] may, with the approval of the President, appoint.
+[^9]: [Chief Justice] may, with the approval of the President, appoint.
 (7) Before entering upon office, the^1 [Chief Justice] and a
-(^10) [Judge] shall make before the President or a person nominated by him
+[^10]: [Judge] shall make before the President or a person nominated by him
 oath in the form set out in the Third Schedule.
 (8) At any time when the^1 [Chief Justice] or a^2 [Judge] is
 absent or is unable to perform the functions of his office, the President
 shall appoint another person qualified for the purpose to act as 1 [Chief
 Justice] or, as the case may be,^2 [Judge].
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74, for certain words.
-(^2) Subs. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 3, for "Chairman".
-(^3) Subs. ibid., for "members".
-(^4) Certain words omitted by Act No. 10 of 2010, s. 74.
-(^5) Subs. by the Constitution (Third Amdt.) Order 1985 (P. O. No. 24 of 1985), Art. 4, for "one year".
-(^6) Ins. by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art. 2.
-(^7) Subs. by Act No. 10 of 2010, s. 74, for clause (4B) for which was previously ins. by P. O. No. 14 of 1985,
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74, for certain words.
+[^2]: Subs. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 3, for "Chairman".
+[^3]: Subs. ibid., for "members".
+[^4]: Certain words omitted by Act No. 10 of 2010, s. 74.
+[^5]: Subs. by the Constitution (Third Amdt.) Order 1985 (P. O. No. 24 of 1985), Art. 4, for "one year".
+[^6]: Ins. by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art. 2.
+[^7]: Subs. by Act No. 10 of 2010, s. 74, for clause (4B) for which was previously ins. by P. O. No. 14 of 1985,
 8 Art. 2 and Sch.^
 9 Clauses (4C) and (5) omitted ibid.^
 10 Subs. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 3, for "Chairman".^
 Subs. ibid., for "members".
 
 
-(^1) [(9) A Chief Justice who is not a Judge of the Supreme Court
+[^1]: [(9) A Chief Justice who is not a Judge of the Supreme Court
 shall be entitled to the same remuneration, allowances and privileges as
 are admissible to a Judge of the Supreme Court and a Judge who is not a
 Judge of a High Court shall be entitled to the same remuneration,
@@ -5542,13 +5541,13 @@ provision of law is repugnant to the Injunctions of Islam, as laid down in
 the Holy Quran and the Sunnah of the Holy Prophet, hereinafter referred
 to as the Injunctions of Islam.
 
-(^3) [( 1 A) Where the Court takes up the examination of any law or
+[^3]: [( 1 A) Where the Court takes up the examination of any law or
 provision of law under clause (1) and such law or provision of law appears
 to it to be repugnant to the Injunctions of Islam, the Court shall cause to be
 given to the Federal Government in the case of a law with respect to a
 matter in the Federal Legislative List 4 * * * or to the Provincial
 Government in the case of a law with respect to a matter not enumerated
-(^5) [in the Federal Legislative List], a notice specifying the particular
+[^5]: [in the Federal Legislative List], a notice specifying the particular
 provisions that appear to it to be so repugnant, and afford to such
 Government adequate opportunity to have its point of view placed before
 the Court.]
@@ -5556,18 +5555,18 @@ the Court.]
 repugnant to the Injunctions of Islam, it shall set out in its decision :—
 (a) the reasons for its holding that opinion; and
 (b) the extent to which such law or provision is so repugnant;
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74, and shall be deemed always to
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 74, and shall be deemed always to
 have been so, subs. with affect from the 21st day of August 2002 for “clause (9)”.
-(^2) Ins. by the Constitution (Second Amdt.) Order, 1982 (5 of 1982), Art. 4.
-(^3) Ins. by the Constitution (Amdt.) Order, 1984 (P. O. No. 1 of 1984), Art. 2.
-(^4) The words “or the Concurrent Legislative List” omitted by the Constitution (Eighteenth Amdt.) Act, 2010
+[^2]: Ins. by the Constitution (Second Amdt.) Order, 1982 (5 of 1982), Art. 4.
+[^3]: Ins. by the Constitution (Amdt.) Order, 1984 (P. O. No. 1 of 1984), Art. 2.
+[^4]: The words “or the Concurrent Legislative List” omitted by the Constitution (Eighteenth Amdt.) Act, 2010
 5 (10 of 2010), s. 75.^
 Subs. ibid., for the words “in the either of those lists”.
 
 
 and specify the day on which the decision shall take effect 1 [:]
 
-(^2) [Provided that no such decision shall be deemed to take effect
+[^2]: [Provided that no such decision shall be deemed to take effect
 before the expiration of the period within which an appeal therefrom may
 be preferred to the Supreme Court or, where an appeal has been so
 preferred, before the disposal of such appeal.]
@@ -5576,17 +5575,17 @@ repugnant to the Injunctions of Islam,—
 (a) the President in the case of a law with respect to a matter in
 the Federal Legislative List^3 * * * or the Governor in the
 case of a law with respect to a matter not enumerated in
-(^4) [said List] shall take steps to amend the law so as to bring
+[^4]: [said List] shall take steps to amend the law so as to bring
 such law or provision into conformity with the Injunctions
 of Islam; and
 (b) such law or provision shall, to the extent to which it is held
 to be so repugnant, cease to have effect on the day on
 which the decision of the Court takes effect.
-(^5) * * * * * * * * *
+[^5]: * * * * * * * * *
 
 ### 203DD. Revisional and other jurisdiction of the Court
 
-(^6) [203DD. (1) The Court may call for and examine the record of any case
+[^6]: [203DD. (1) The Court may call for and examine the record of any case
 decided by any criminal court under any law relating to the enforcement of
 Hudood for the purpose of satisfying itself as to the correctness, legality or
 propriety of any finding, sentence or order recorded or passed by, and as
@@ -5596,7 +5595,7 @@ and, if the accused is in confinement, that he be released on bail or on his
 own bond pending the examination of the record.
 (2) In any case the record of which has been called for by the
 Court, the Court may pass such order as it may deem fit and may enhance
-(^1) Subs. and shall be deemed always to have been so subs. by the Constitution (Amdt.) order, 1984 (P.O. No. 1
+[^1]: Subs. and shall be deemed always to have been so subs. by the Constitution (Amdt.) order, 1984 (P.O. No. 1
 2 of 1984), Art. 2, for the full stop.^
 3 Proviso added and shall be deemed always to have been so added ibid.^
 The words “or the Concurrent Legislative List” stand omitted as consequence of the (Eighteenth Amdt.) Act,
@@ -5670,7 +5669,7 @@ before it and render such assistance as may be required of him.
 (8) No court fee shall be payable in respect of any petition or
 application made to the Court under^1 [Article 203D.]
 
-(^2) [(9) The Court shall have power to review any decision given or
+[^2]: [(9) The Court shall have power to review any decision given or
 order made by it.]
 
 ### 203F. Appeal to Supreme Court
@@ -5680,13 +5679,13 @@ Article 203D aggrieved by the final decision of the Court in such
 proceedings may, within sixty days of such decision, prefer an appeal to
 the Supreme Court [:]^3
 
-(^4) [Provided that an appeal on behalf of the Federation or of a
+[^4]: [Provided that an appeal on behalf of the Federation or of a
 Province may be preferred within six months of such decision.]
 (2) The provisions of clauses (2) and (3) of Article 203D and
 clauses (4) to (8) of Article 203E shall apply to and in relation to the
 Supreme Court as if reference in those provisions to Court were a
 reference to the Supreme Court.
-(^5) [(2A) An appeal shall lie to the Supreme Court from any
+[^5]: [(2A) An appeal shall lie to the Supreme Court from any
 judgment, final order or sentence of the Federal Shariat Court—
 (a) if the Federal Shariat Court has on appeal reversed an order
 of acquittal of an accused person and sentenced him to
@@ -5695,11 +5694,11 @@ exceeding fourteen years; or, on revision, has enhanced a
 sentence as aforesaid; or
 (b) if the Federal Shariat Court has imposed any punishment
 on any person for contempt of the Court.
-(^1) Subs. by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art.. 5, for "this Article".
-(^2) New clause (9) added by the Constitution (Amdt.) Order, 1981 (P. O. No. 5 of 1981), Art. 3.
-(^3) Subs. by the Constitution (Third Arndt.) Order, 1983 (P. O. No. 9 of 1983), Art. 2, for the full-stop.
-(^4) Proviso added ibid.
-(^5) New "clauses (2A) and (2B)" ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982),
+[^1]: Subs. by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art.. 5, for "this Article".
+[^2]: New clause (9) added by the Constitution (Amdt.) Order, 1981 (P. O. No. 5 of 1981), Art. 3.
+[^3]: Subs. by the Constitution (Third Arndt.) Order, 1983 (P. O. No. 9 of 1983), Art. 2, for the full-stop.
+[^4]: Proviso added ibid.
+[^5]: New "clauses (2A) and (2B)" ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982),
 Art. 6.
 
 
@@ -5708,7 +5707,7 @@ order or sentence of the Federal Shariat Court in a case to which the
 preceding clauses do not apply shall lie only if the Supreme Court grants
 leave to appeal.]
 
-(^1) [(3) For the purpose of the exercise of the jurisdiction conferred
+[^1]: [(3) For the purpose of the exercise of the jurisdiction conferred
 by this Article, there shall be constituted in the Supreme Court a Bench to
 be called the Shariat Appellate Bench and consisting of—
 (a) three Muslim Judges of the Supreme Court; and
@@ -5736,14 +5735,14 @@ power or jurisdiction of the Court.
 
 ### 203GG.Decision of Court binding on High Court and courts subordinate to it
 
-(^2) [203GG. Subject to Articles 203D and 203F, any decision of the Court
+[^2]: [203GG. Subject to Articles 203D and 203F, any decision of the Court
 in the exercise of its jurisdiction under this Chapter shall be binding on a
 High Court and on all courts subordinate to a High Court.]
 
 ### 203H. Pending proceedings to continue, etc.
 
-(^1) Subs. by the Constitution (Third Amdt.) Order, 1982 (P. O. No. 12 of 1982), Art. 2, for "clause (3)".
-(^2) New Article 203GG ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 7.
+[^1]: Subs. by the Constitution (Third Amdt.) Order, 1982 (P. O. No. 12 of 1982), Art. 2, for "clause (3)".
+[^2]: New Article 203GG ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982), Art. 7.
 
 
 203H. (1) Subject to clause (2) nothing in this Chapter shall be
@@ -5789,11 +5788,11 @@ Court; *^1
 (b) the form of oath to be made by a Jurisconsult, expert or
 witness appearing before the Court^2 [ ; ]
 ```
-(^1) The word "and" omitted by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art. 6.
-(^2) Subs. ibid., for the full-stop.
+[^1]: The word "and" omitted by the Constitution (Second Amdt.) Order, 1980 (P. O. No. 4 of 1980), Art. 6.
+[^2]: Subs. ibid., for the full-stop.
 
 
-(^1) [(c) the powers and functions of the Court being exercised or
+[^1]: [(c) the powers and functions of the Court being exercised or
 performed by Benches consisting of one or more members
 constituted by the Chairman;
 (d) the decision of the Court being expressed in terms of the
@@ -5810,7 +5809,7 @@ continue in force.]
 
 ### 204. Contempt of Court
 
-(^2) [204. (1) In this Article, "Court" means the Supreme Court or a High
+[^2]: [204. (1) In this Article, "Court" means the Supreme Court or a High
 Court.
 (2) A Court shall have power to punish any person who—
 (a) abuses, interferes with or obstructs the process of the
@@ -5830,8 +5829,8 @@ Court.]
 205. The remuneration and other terms and conditions of service of a
 Judge of the Supreme Court or of a High Court shall be as provided in the
 
-(^1) Paragraphs (c), (d) and (e) added ibid.
-(^2) Subs. by P O. No. 14 of 1985, Art. 2 and Sch., for "Article 204".
+[^1]: Paragraphs (c), (d) and (e) added ibid.
+[^2]: Subs. by P O. No. 14 of 1985, Art. 2 and Sch., for "Article 204".
 
 
 Fifth Schedule.
@@ -5842,7 +5841,7 @@ Fifth Schedule.
 Resignation. resign his office by writing under his hand addressed to the
 President.
 
-(^2) [(2) A Judge of a High Court who does not accept appointment
+[^2]: [(2) A Judge of a High Court who does not accept appointment
 as a Judge of the Supreme Court shall be deemed to have retired from his
 office and, on such retirement, shall be entitled to receive a pension
 calculated on the basis of the length of his service as Judge and total
@@ -5883,7 +5882,7 @@ before any authority within its jurisdiction; and
 immediately before the coming into force of the
 Province of West Pakistan (Dissolution) Order, 1970,
 ```
-(^1) Article 206 renumbered as clause (1) of that Article, by the Constitution (Fifth Amdt.) Act, 1976 (62 of
+[^1]: Article 206 renumbered as clause (1) of that Article, by the Constitution (Fifth Amdt.) Act, 1976 (62 of
 2 1976), s. 14, (w.e.f. the 13th September, 1976).^
 New clause (2) added ibid.
 
@@ -5938,8 +5937,8 @@ Judges referred to in paragraph (b) of clause (2), and
 (b) if such member is the Chief Justice of a High Court, the
 Chief Justice of another High Court who is next in seniority
 ```
-(^1) Ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982) Art. 9.
-(^2) Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 11, (w.e.f. the 4th May, 1974).
+[^1]: Ins. by the Constitution (Second Amdt.) Order, 1982 (P. O. No. 5 of 1982) Art. 9.
+[^2]: Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 11, (w.e.f. the 4th May, 1974).
 
 
 ```
@@ -5952,7 +5951,7 @@ difference of opinion amongst its members, the opinion of the majority
 shall prevail, and the report of the Council to the President shall be
 expressed in terms of the view of the majority.
 
-(^1) [(5) If, on information from any source, the Council or the
+[^1]: [(5) If, on information from any source, the Council or the
 President is of the opinion that a Judge of the Supreme Court or of a High
 Court—
 (a) may be incapable of properly performing the duties of his
@@ -5979,7 +5978,7 @@ orders for securing the attendance of any person or the discovery or
 production of any document; and any such direction or order shall be
 enforceable as if it had been issued by the Supreme Court.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 76, for “clause (5)”.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 76, for “clause (5)”.
 
 
 (2) The provisions of Article 204 shall apply to the Council as
@@ -6001,7 +6000,7 @@ jurisdiction in respect of—
 ```
 (a) matters relating to the terms and conditions of persons
 ```
-(^2) [who are or have been] in the service of Pakistan,
+[^2]: [who are or have been] in the service of Pakistan,
 including disciplinary matters ;
 (b) matters relating to claims arising from tortious acts of
 Government, or any person in the service of Pakistan, or of
@@ -6020,10 +6019,10 @@ of any such matter which may be pending before such other court
 immediately before the establishment of the Administrative Court or
 Tribunal^4 [^ ;^ other than an appeal pending before the Supreme Court,] shall
 abate on such establishment] :
-(^1) Subs. and shall be deemed always to have been so subs. by the Constitution (First Amdt.) Act, 1974 (33 of
+[^1]: Subs. and shall be deemed always to have been so subs. by the Constitution (First Amdt.) Act, 1974 (33 of
 1974), s. 12, for "establish".
-(^2) Ins. and shall be deemed always to have been so ins. ibid.
-(^3) Ins. and shall be deemed always to have been so ins. by the Constitution (First Amdt.) Act, 1974 (33 of
+[^2]: Ins. and shall be deemed always to have been so ins. ibid.
+[^3]: Ins. and shall be deemed always to have been so ins. by the Constitution (First Amdt.) Act, 1974 (33 of
 4 1974) s. 12.^
 Ins. and shall be deemed always to have been so ins. by the Constitution (Fifth Amdt.) Act, 1976 (62 of
 1976) s. 15.
@@ -6058,8 +6057,8 @@ Repealed by the Constitution (Twelfth Amdt.) Act, 1991 (14 of1991), s. 1
 ```
 __________
 ```
-(^1) See footnote 6 on page 3, supra.
-(^2) For such law see the Provincial Service Tribunals (Extension of Provisions of the Constitution) Act, 1974 (32
+[^1]: See footnote 6 on page 3, supra.
+[^2]: For such law see the Provincial Service Tribunals (Extension of Provisions of the Constitution) Act, 1974 (32
 of 1974).
 
 
@@ -6076,8 +6075,8 @@ of 1974).
 213. (1) There shall be a Chief Election Commissioner (in this Part
 referred to as the Commissioner), who shall be appointed by the President
 
-(^2) * * *.
-(^3) [(2) No person shall be appointed to be Commissioner unless he
+[^2]: * * *.
+[^3]: [(2) No person shall be appointed to be Commissioner unless he
 has been a Judge of the Supreme Court or has been a senior civil servant
 or is a technocrat and is not more than sixty-eight years of age.
 Explanation 1.—“senior civil servant” means civil servant who has
@@ -6101,12 +6100,12 @@ Speaker shall comprise fifty percent members from the Treasury Benches
 and fifty percent from the Opposition Parties, based on their strength in
 Majlis-e-Shoora (Parliament), to be nominated by the respective
 Parliamentary Leaders:
-(^1) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 3.
-(^2) The words “in his discretion” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 77.
-(^3) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
-(^4) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 77.
-(^5) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
-(^6) Proviso Ins. Ibid, s 4.
+[^1]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 3.
+[^2]: The words “in his discretion” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 77.
+[^3]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
+[^4]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 77.
+[^5]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
+[^6]: Proviso Ins. Ibid, s 4.
 
 
 ##### 1 [***]
@@ -6118,7 +6117,7 @@ the Senate:]
 Provided^4 [further] that when the National Assembly is dissolved
 and a vacancy occurs in the office of the Chief Election Commissioner,
 
-(^5) [total membership of the Parliamentary Committee shall consist of] the
+[^5]: [total membership of the Parliamentary Committee shall consist of] the
 members from the Senate only and the foregoing provisions of this clause
 shall, mutatis mutandis, apply.]
 (3) The Commissioner^6 [or a member] shall have such powers
@@ -6144,17 +6143,17 @@ next two and a half years:
 Provided further that the Commission shall for the first term of
 office of members draw a lot as to which two members shall retire after
 the first two a half years:
-(^1) Omitted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
-(^2) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 6.
-(^3) Omitted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
-(^4) Substituted Ibid, s 4.
-(^5) Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 6 for “Parliamentary
+[^1]: Omitted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
+[^2]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 6.
+[^3]: Omitted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4.
+[^4]: Substituted Ibid, s 4.
+[^5]: Substituted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 6 for “Parliamentary
 6 Committee shall comprise”.^
 7 Ins. by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 4^
 Omitted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.3.
-(^8) Ins. Ibid, s 3.
-(^9) Ins. Ibid, s 4.
-(^10) Added Ibid, s 4.
+[^8]: Ins. Ibid, s 3.
+[^9]: Ins. Ibid, s 4.
+[^10]: Added Ibid, s 4.
 (^11) Subs by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 78, for “three”.
 (^12) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 5.
 
@@ -6175,7 +6174,7 @@ member].
 (3) The Commissioner 3 [or a member] may, by writing under
 his hand addressed to the President, resign his office.
 
-(^4) [(4) Vacancy in the office of the Commissioner or a member
+[^4]: [(4) Vacancy in the office of the Commissioner or a member
 shall be filled within forty-five days.]
 
 216. Commissioner 5 [and members] not to hold office of profit
@@ -6190,21 +6189,21 @@ neration for the rendering of services.
 member] shall not hold any office of profit in the service of Pakistan
 before the expiration of two years after he has ceased to hold that office
 
-(^8) [.]
+[^8]: [.]
 
 ##### 9 * * * * * * * * *
 
-(^10) * * * * * * * * *
-(^1) Omitted, by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 78.
-(^2) Ins. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.3.
-(^3) Ins. Ibid, s.3.
-(^4) Ins. by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 5
-(^5) Ins. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.5.
-(^6) Ins. Ibid, s.5.
-(^7) Ins. Ibid, s.5.
-(^8) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 6.
-(^9) Omitted Proviso Ibid, s 6.
-(^10) Omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 79.
+[^10]: * * * * * * * * *
+[^1]: Omitted, by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 78.
+[^2]: Ins. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.3.
+[^3]: Ins. Ibid, s.3.
+[^4]: Ins. by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 5
+[^5]: Ins. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012), s.5.
+[^6]: Ins. Ibid, s.5.
+[^7]: Ins. Ibid, s.5.
+[^8]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 6.
+[^9]: Omitted Proviso Ibid, s 6.
+[^10]: Omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 79.
 
 
 ### 217. Acting Commissioner
@@ -6218,7 +6217,7 @@ before the expiration of two years after he has ceased to hold that office
 (b) the Commissioner is absent or is unable to perform the
 functions of his office due to any other cause,
 ```
-(^1) [the most senior member in age of the members of Commission] shall act
+[^1]: [the most senior member in age of the members of Commission] shall act
 as Commissioner.
 
 ### 218. Election Commission
@@ -6228,10 +6227,10 @@ Shoora (Parliament), Provincial Assemblies and for election to such other
 public offices as may be specified by law, a permanent Election
 Commission shall be constituted in accordance with this Article.]
 
-(^3) [(2) The Election Commission shall consist of—
+[^3]: [(2) The Election Commission shall consist of—
 (a) the Commissioner who shall be Chairman of the
 Commission; and
-(^3) [(b) four members, one from each Province, each of whom shall
+[^3]: [(b) four members, one from each Province, each of whom shall
 be a person who has been a judge of a High Court or has
 been a senior civil servant or is a technocrat and is not more
 than sixty-five years of age, to be appointed by the
@@ -6244,28 +6243,28 @@ have the same meaning as given in clause (2) of Article
 to organize and conduct the election and to make such arrangements as are
 necessary to ensure that the election is conducted honestly, justly, fairly
 and in accordance with law, and that corrupt practices are guarded against.
-(^1) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 7.
-(^2) Subs. ibid., s. 80, for "clauses (1) and (2)".
-(^3) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 8.
-(^4) Omitted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.6.
+[^1]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 7.
+[^2]: Subs. ibid., s. 80, for "clauses (1) and (2)".
+[^3]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 8.
+[^4]: Omitted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.6.
 
 
 ### 219. Duties of Commission
 
 219. The^1 [Commission] shall be charged with the duty of—
 
-(^2) [(a) preparing electoral rolls for election to the National
+[^2]: [(a) preparing electoral rolls for election to the National
 Assembly, Provincial Assemblies and local governments,
 and revising such rolls periodically to keep them up-to-
 date;]
 (b) organizing and conducting election to the Senate or to fill
 casual vacancies in a House or a Provincial Assembly; and
 (c) appointing Election Tribunals 3 [;]
-(^4) [(d) the holding of general elections to the National Assembly,
+[^4]: [(d) the holding of general elections to the National Assembly,
 Provincial Assemblies and the local governments; and
 (e) such other functions as may be specified by an Act of
 Majlis-e-Shoora (Parliament) 5 [:] ]
-(^6) [Provided that till such time as the members of the
+[^6]: [Provided that till such time as the members of the
 Commission are first appointed in accordance with the provisions
 of paragraph (b) of clause (2) of Article 218 pursuant to the
 Constitution (Eighteenth Amendment) Act, 2010, and enter upon
@@ -6290,16 +6289,16 @@ and^11 [staff] to be employed in connection with the functions of the^12 [* *
 *] Election Commission and for their terms and conditions of
 employment.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 81, for “Commissioner”.
-(^2) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 9.
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 81, for the full stop.
-(^4) New Paragraph (d) and (e) added ibid.
-(^5) Subs. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.7.
-(^6) Inserted Ibid, s.7
-(^7) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 10.
-(^8) See footnote 6 on page 3 , supra.
-(^9) Subs. by Act No. 10 of 2010, s. 82, for “Commissioner”.
-(^10) Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 10.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 81, for “Commissioner”.
+[^2]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 9.
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s 81, for the full stop.
+[^4]: New Paragraph (d) and (e) added ibid.
+[^5]: Subs. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.7.
+[^6]: Inserted Ibid, s.7
+[^7]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 10.
+[^8]: See footnote 6 on page 3 , supra.
+[^9]: Subs. by Act No. 10 of 2010, s. 82, for “Commissioner”.
+[^10]: Substituted by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 10.
 (^11) Substituted Ibid, s 10.
 (^12) Omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 82.
 
@@ -6357,10 +6356,10 @@ Part.
 (d) a House or a Provincial Assembly in respect of more than
 one seat.
 ```
-(^1) Added by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 11.
-(^2) Inserted & omitted Ibid, s 11.
-(^3) Added Ibid, s 11.
-(^4) Substituted Ibid, s 11.
+[^1]: Added by the Constitution (Twenty-second Amendment) Act, 2016 (XXV of 2016), s 11.
+[^2]: Inserted & omitted Ibid, s 11.
+[^3]: Added Ibid, s 11.
+[^4]: Substituted Ibid, s 11.
 
 
 (2) Nothing in clause (1) shall prevent a person from being a
@@ -6394,7 +6393,7 @@ following the day on which the term of the Assembly is due to expire,
 unless the Assembly has been sooner dissolved, and the results of the
 election shall be declared not later than fourteen days before that day.]^
 
-(^2) [(1A) On dissolution of the Assembly on completion of its term,
+[^2]: [(1A) On dissolution of the Assembly on completion of its term,
 or in case it is dissolved under Article 58 or Article 112, the President, or
 the Governor, as the case may be, shall appoint a care-taker Cabinet:
 Provided that the care-taker Prime Minister shall be^3 [appointed]
@@ -6403,12 +6402,12 @@ the Opposition in the outgoing National Assembly, and a care-taker Chief
 Minister shall be appointed by the Governor in consultation with the Chief
 Minister and the Leader of the Opposition in the outgoing Provincial
 Assembly:
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 83, for “clause (1)”.
-(^2) New clauses (1A), (1B) and explanation ins. ibid.
-(^3) Subs, inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.8.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 83, for “clause (1)”.
+[^2]: New clauses (1A), (1B) and explanation ins. ibid.
+[^3]: Subs, inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.8.
 
 
-(^3) [Provided further that if the Prime Minister or a Chief Minister
+[^3]: [Provided further that if the Prime Minister or a Chief Minister
 and their respective Leader of the Opposition do not agree on any person
 to be appointed as a care-taker Prime Minister or the care-taker Chief
 Minister, as the case may be, the provisions of Article 224A shall be
@@ -6438,13 +6437,13 @@ sixty days from the occurrence of the vacancy.
 (5) When a seat in the Senate has become vacant, an election to
 fill the seat shall be held within thirty days from the occurrence of the
 vacancy.
-(^1) [(6) When a seat reserved for women or non-Muslims in the
+[^1]: [(6) When a seat reserved for women or non-Muslims in the
 National Assembly or a Provincial Assembly falls vacant, on account of
 death, resignation or disqualification of a member, it shall be filled by the
 next person in order of precedence from the party list of the candidates to
 be submitted to the Election Commission by the political party whose
 member has vacated such seat.]
-(^1) New Clauses (6) ins. and shall be deemed always to have been so ins. with effect from the 21 st day of
+[^1]: New Clauses (6) ins. and shall be deemed always to have been so ins. with effect from the 21 st day of
 August 2002 by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 83.
 
 
@@ -6492,8 +6491,8 @@ Minister and the care-taker Chief Minister, as the case may be.
 members of the Opposition are less than five in the Majlis-e-Shoora
 (Parliament) and less than four in any Provincial Assembly, then all of
 
-(^1) Added by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.8 & 9.
-(^2) Clause (7) stands omitted as a consequence (Eighteenth Amdt.) Act, 2010 (10 of 2010), see section 2.
+[^1]: Added by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.8 & 9.
+[^2]: Clause (7) stands omitted as a consequence (Eighteenth Amdt.) Act, 2010 (10 of 2010), see section 2.
 
 
 them shall be members of the Committee mentioned in the aforesaid
@@ -6508,11 +6507,11 @@ such manner as may be determined by Act of^1 [Majlis-e-Shoora
 
 ### 226. Elections by secret ballot
 
-(^2) [226. All elections under the Constitution, other than those of the Prime
+[^2]: [226. All elections under the Constitution, other than those of the Prime
 Minister and the Chief Minister, shall be by secret ballot.]
 _____________
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by Act 10 of 2010, s. 84, for “Article 226”.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by Act 10 of 2010, s. 84, for “Article 226”.
 
 
 ## PART IX
@@ -6526,7 +6525,7 @@ Injunctions of Islam as laid down in the Holy Quran and Sunnah, in this
 part referred to as the Injunctions of Islam, and no law shall be enacted
 which is repugnant to such Injunctions.
 
-(^1) [Explanation.—In the application of this clause to the personal
+[^1]: [Explanation.—In the application of this clause to the personal
 law of any Muslim sect, the expression "Quran and Sunnah" shall mean
 the Quran and Sunnah as interpreted by the sect.]
 (2) Effect shall be given to the provisions of clause (1) only in
@@ -6559,8 +6558,8 @@ represented in the Council;
 is, or has been a Judge of the Supreme Court or of a High
 Court;
 ```
-(^1) Explanation added by the Constitution (Third Amdt.) Order, 1980 (P. O. No. 14 of 1980), Art. 2.
-(^2) For the notification constituting the Council of Islamic Ideology, see Gaz. of Pak.. 1974, Ext., Pt. II, p. 165.
+[^1]: Explanation added by the Constitution (Third Amdt.) Order, 1980 (P. O. No. 14 of 1980), Art. 2.
+[^2]: For the notification constituting the Council of Islamic Ideology, see Gaz. of Pak.. 1974, Ext., Pt. II, p. 165.
 For the Council of Islamic Ideology (Terms and Conditions of Members) Rules, 1974, see Gaz. of Pak., Ext.,
 3 Pt. II, p. 1727.^
 Subs. by the Constitution (Fourth Amdt.) Order, 1980 (P. O. No. 16 of 1980), Art. 2, for "fifteen".
@@ -6574,7 +6573,7 @@ fifteen years, in Islamic research or instruction; and
 ```
 (d) at least one member is a woman.
 ```
-(^2) [(4) The President shall appoint one of the members of the
+[^2]: [(4) The President shall appoint one of the members of the
 Islamic Council to be the Chairman thereof.]
 (5) Subject to clause (6), a member of the Islamic Council shall
 hold office for a period of three years.
@@ -6612,9 +6611,9 @@ Injunctions of Islam;
 (c) to make recommendations as to the measures for bringing
 existing laws into conformity with the Injunctions of Islam
 ```
-(^1) Subs by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 85, for “four”.
-(^2) Subs. by the Constitution (Third Amdt.) Order, 1982 (P. O. No. 13 of 1982), Art. 2, for "clause (4)".
-(^3) See footnote 6 on page 3, supra.
+[^1]: Subs by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 85, for “four”.
+[^2]: Subs. by the Constitution (Third Amdt.) Order, 1982 (P. O. No. 13 of 1982), Art. 2, for "clause (4)".
+[^3]: See footnote 6 on page 3, supra.
 
 
 ```
@@ -6659,8 +6658,8 @@ of procedure^2 to be made by the Council with approval of the President.
 ```
 __________
 ```
-(^1) See footnote 6 on page 3, supra.
-(^2) For the Council of Islamic Ideology (Procedure Rules), 1974, see Gaz. of Pak., 1974. Ext., Pt. II, pp. 771-
+[^1]: See footnote 6 on page 3, supra.
+[^2]: For the Council of Islamic Ideology (Procedure Rules), 1974, see Gaz. of Pak., 1974. Ext., Pt. II, pp. 771-
 773.
 
 
@@ -6688,7 +6687,7 @@ e-Shoora (Parliament) for approval by each House within ten days.]
 (2) Notwithstanding anything in the Constitution, while a
 Proclamation of Emergency is in force—
 
-(^3) [(a) Majlis-e-Shoora (Parliament) shall have power to make
+[^3]: [(a) Majlis-e-Shoora (Parliament) shall have power to make
 laws for a Province, or any part thereof, with respect to
 any matter not enumerated in the Federal Legislative
 List 4 * * *]
@@ -6700,10 +6699,10 @@ and
 direct the Governor of a Province to assume on behalf of
 the Federal Government, all or any of the functions of the
 Government of the Province, and all or any of the powers
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 86, for the full stop.
-(^2) New proviso ins. ibid.
-(^3) Subs. by P. O. No. 14 of 1985. Art. 2 and Sch.. for paragraph (a).
-(^4) The words “or the Concurrent Legislative List” stand omitted as a consequence of the (Eighteenth Amdt.)
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 86, for the full stop.
+[^2]: New proviso ins. ibid.
+[^3]: Subs. by P. O. No. 14 of 1985. Art. 2 and Sch.. for paragraph (a).
+[^4]: The words “or the Concurrent Legislative List” stand omitted as a consequence of the (Eighteenth Amdt.)
 5 Act, 2010 (10 of 2010), see section 2.^
 For such Order, in respect of N.W.F.P., see S.R.O. No. 202(I)/75, dated the 16th February, 1975, see Gaz. of
 Pak 1975, Ext.. Pt. II, p. 329. since rescinded by S R.O. No. 522(I)/75, dated the 3rd May, 1975, see Gaz. of
@@ -6741,13 +6740,13 @@ Provincial Assembly to make any law which under the Constitution it has
 power to make, but if any provision of a Provincial law is repugnant to
 any provision of an Act of^1 [Majlis-e-Shoora (Parliament)] which
 
-(^1) [Majlis-e-Shoora (Parliament)] has under this Article power to make, the
+[^1]: [Majlis-e-Shoora (Parliament)] has under this Article power to make, the
 Act of^1 [Majlis-e-Shoora (Parliament)], whether passed before or after the
 Provincial law, shall prevail and the Provincial law shall, to the extent of
 the repugnancy, but so long only as the Act of^1 [Majlis-e-Shoora
 (Parliament)] continues to have effect, be void.
 (5) A law made by^1 [Majlis-e-Shoora (Parliament)] which
-(^1) [Majlis-e-Shoora (Parliament)] would not but for the issue of a
+[^1]: [Majlis-e-Shoora (Parliament)] would not but for the issue of a
 Proclamation of Emergency have been competent to make, shall, to the
 extent of the incompetency, cease to have effect on the expiration of a
 period of six months after the Proclamation of Emergency has ceased to be
@@ -6758,7 +6757,7 @@ Shoora (Parliament)] may by law extend the term of the National
 Assembly for a period not exceeding one year and not extending in any
 case beyond a period of six months after the Proclamation has ceased to be
 in force.
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 (7) A Proclamation of Emergency shall be laid before a joint
@@ -6770,7 +6769,7 @@ days of the Proclamation being issued and—
 unless before the expiration of that period it has been
 approved by a resolution^1 of the joint sitting; and
 ```
-(^2) [(b) (^) shall, subject to the provisions of paragraph (a), cease to be
+[^2]: [(b) (^) shall, subject to the provisions of paragraph (a), cease to be
 in force upon a resolution disapproving the proclamation
 being passed by the votes of the majority of the total
 membership of the two Houses in joint sitting.]
@@ -6793,7 +6792,7 @@ the incompetency, cease to have effect, and shall be deemed to have been
 repealed, at the time when the Proclamation is revoked or has ceased to be
 in force.
 
-(^1) The joint sitting passed the following resolution on the 5th September, 1973 :-
+[^1]: The joint sitting passed the following resolution on the 5th September, 1973 :-
 "That the joint sitting approves under clause (7) of Art. 232 of the Constitution read with Art. 280 thereof,
 the Proclamation of Emergency issued on the 23rd day of November, 1971, and the continuance in force of
 the said Proclamation for the period of six months following the expiration of the period mentioned in
@@ -6842,11 +6841,11 @@ of the powers vested in, or exercisable by, any body or
 authority in the Province, other than the Provincial
 Assembly ;
 ```
-(^1) The Order suspending the right to move any court for the enforcement of certain Fundamental Rights issued
+[^1]: The Order suspending the right to move any court for the enforcement of certain Fundamental Rights issued
 vide see Gaz. of Pak., 1973, Ext., Pt. I. p. 602, has been rescinded by S.R.O. 1093(I)/74, dated the 14th
 August. 1974., see Gaz. of Pak. 1974, Ext. Pt. II, p. 1548.
-(^2) Subs. the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 87 for “a Joint Sitting”.
-(^3) For the Order issued on 28- 5 - 1998 suspending of Fundamental Rights, (See Notifications No. 7-3/98-Min. I,
+[^2]: Subs. the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 87 for “a Joint Sitting”.
+[^3]: For the Order issued on 28- 5 - 1998 suspending of Fundamental Rights, (See Notifications No. 7-3/98-Min. I,
 dated 28- 5 - 1998. Gaz. of Pak., 1998, Part I, Page 31).
 The joint sitting passed the following resolution on the 6th September, 1973 :-
 “That the joint sitting approves under clause (7) of Article 232 of the Constitution, read with clause (3) of
@@ -6910,7 +6909,7 @@ on the President the power to make laws with respect to
 any matter within the legislative competence of the
 Provincial Assembly ;
 ```
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ```
@@ -6961,7 +6960,7 @@ directions may include a provision requiring a reduction of the salary and
 allowances of all or any class of persons serving in connection with the
 affairs of a Province.
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 (3) While a Proclamation issued under this Article is in force
@@ -6991,7 +6990,7 @@ restoration of order in any area in Pakistan.
 
 ##### __________
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ## PART XI
@@ -7002,11 +7001,11 @@ restoration of order in any area in Pakistan.
 
 238. Subject to this Part, the Constitution may be amended by Act of
 
-(^1) [Majlis-e-Shoora (Parliament)].
+[^1]: [Majlis-e-Shoora (Parliament)].
 
 ### 239. Constitution, amendment Bill....................................................................
 
-(^2) [239. (1) A Bill to amend the Constitution may originate in either
+[^2]: [239. (1) A Bill to amend the Constitution may originate in either
 House and, when the Bill has been passed by the votes of not less than
 two-thirds of the total membership of the House, it shall be transmitted to
 the other House.
@@ -7032,8 +7031,8 @@ question in any court on any ground whatsoever.
 no limitation whatever on the power of the Majlis-e-Shoora (Parliament)
 to amend any of the provisions of the Constitution.]
 ___________
-(^1) See footnote 6 on page 3, supra.
-(^2) Subs. by the Constitution (Second Amdt.) Order, 1985 (P. O. No. 20 of 1985), Art. 3, for Art. 239, which
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Subs. by the Constitution (Second Amdt.) Order, 1985 (P. O. No. 20 of 1985), Art. 3, for Art. 239, which
 was previously subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "the original Article 239."
 
 
@@ -7079,15 +7078,15 @@ the Federation, and the Provincial Assembly of a Province in relation to
 the affairs of the Province may, by law provide for the establishment and
 constitution of a Public Service Commission.
 
-(^2) [(1A) The Chairman of the Public Service Commission
+[^2]: [(1A) The Chairman of the Public Service Commission
 constituted in relation to the affairs of the Federation shall be appointed by
 the President 3 [on the advice of the Prime Minister.]]
-(^1) See footnote 6 on page 3, supra.
-(^2) Ins. by P.O. No. 14 of 1985, Art. 2 and Sch.
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 89 for “in his discretion”.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Ins. by P.O. No. 14 of 1985, Art. 2 and Sch.
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 89 for “in his discretion”.
 
 
-(^1) [(1B) The Chairman of the Public Service Commission
+[^1]: [(1B) The Chairman of the Public Service Commission
 constituted in relation to affairs of a Province shall be appointed by the
 Governor on advice of the Chief Minister.]
 (2) A Public Service Commission shall perform such functions
@@ -7097,7 +7096,7 @@ as may be prescribed by law.
 
 ### 243. Command of Armed Forces
 
-(^2) [243. (1) The Federal Government shall have control and command
+[^2]: [243. (1) The Federal Government shall have control and command
 of the Armed Forces.
 (2) Without prejudice to the generality of the foregoing
 provision, the Supreme Command of the Armed Forces shall vest in the
@@ -7119,8 +7118,8 @@ and shall also determine their salaries and allowances.]
 244. Every member of the Armed Forces shall make oath in the form set
 out in the Third Schedule.
 
-(^1) New clause (1B) ins. ibid.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.90 for “Article 243”.
+[^1]: New clause (1B) ins. ibid.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s.90 for “Article 243”.
 
 
 ### 245. Functions of Armed Forces
@@ -7129,7 +7128,7 @@ out in the Third Schedule.
 Government defend Pakistan against external aggression or threat of war,
 and, subject to law, act in aid of civil power when called upon to do so.
 
-(^2) [(2) The validity of any direction issued by the Federal
+[^2]: [(2) The validity of any direction issued by the Federal
 Government under clause (1) shall not be called in question in any court.
 (3) A High Court shall not exercise any jurisdiction under
 Article 199 in relation to any area in which the Armed Forces of Pakistan
@@ -7158,16 +7157,16 @@ Areas, and includes—
 Pakhtunkhwa] Province 5 *.
 (ii) the former States of Amb, Chitral, Dir and Swat;
 ```
-(^6) [ * * * * * * *]
+[^6]: [ * * * * * * *]
 (b) "Provincially Administered Tribal Areas" means—
 (i) the districts of Chitral, Dir and Swat (which
-(^1) Re-numbered as clause (1) by the Constitution (Seventh Amdt) Act, 1977 (23 of 1977), s. 4 (w.e.f. the 21st
+[^1]: Re-numbered as clause (1) by the Constitution (Seventh Amdt) Act, 1977 (23 of 1977), s. 4 (w.e.f. the 21st
 April, 1977).
-(^2) Added by the Constitution (Seventh Amdt.) Act, 1977 (23 of 1977), s. 4, (w.e.f. the 21st April, 1977).
-(^3) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 91, for “Balochistan”.
-(^4) Subs ibid., for “North-West-Frontier”.
-(^5) The word “and” omitted ibid.
-(^6) Sub paragraphs (iii) and (iv) omitted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s.7.
+[^2]: Added by the Constitution (Seventh Amdt.) Act, 1977 (23 of 1977), s. 4, (w.e.f. the 21st April, 1977).
+[^3]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 91, for “Balochistan”.
+[^4]: Subs ibid., for “North-West-Frontier”.
+[^5]: The word “and” omitted ibid.
+[^6]: Sub paragraphs (iii) and (iv) omitted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s.7.
 
 
 ```
@@ -7179,32 +7178,32 @@ of Amb; and
 Tehsil), Dalbandin Tehsil of Chagai district and
 Marri and Bugti Tribal territories of Sibi district;
 ```
-(^3) [**]
+[^3]: [**]
 (c) "Federally Administered Tribal Areas" includes —
 (i) Tribal Areas, adjoining Peshawar district;
 (ii) Tribal Areas adjoining Kohat district;
 (iii) Tribal Areas adjoining Bannu district;
-(^4) [(iiia) Tribal Areas adjoining Lakki Marwat district;]
+[^4]: [(iiia) Tribal Areas adjoining Lakki Marwat district;]
 (iv) Tribal Areas adjoining Dera Ismail Khan district;
-(^3) [(iva) Tribal Areas adjoining Tank district;]
-(^5) [(v) Bajaur Agency;
+[^3]: [(iva) Tribal Areas adjoining Tank district;]
+[^5]: [(v) Bajaur Agency;
 (va) Orakzai Agency;]
 (vi) Mohmand Agency;
 (vii) Khyber Agency;
 (viii) Kurram Agency;
 (ix) North Waziristan Agency; and
 (x) South Waziristan Agency 6 [; and]
-(^7) [(d) On the commencement of the Constitution (Twenty-fifth
+[^7]: [(d) On the commencement of the Constitution (Twenty-fifth
 Amendment) Act, 2018, the areas mentioned in—
 (i) paragraph (b),—
 (a) in sub-paragraph (i), shall stand merged in
 the Province of Khyber Pakhtunkhwa; and
-(^1) Ins. and shall be deemed to have been so ins. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s. 4,
+[^1]: Ins. and shall be deemed to have been so ins. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s. 4,
 2 (w.e.f. the 1st October, 1976).^
 3 Subs. and shall be deemed to have been so subs. ibid., for "Hazara".^
 Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 8. w.e.f. 31- 05 - 2018.
-(^4) Inserted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 7.
-(^5) Subs. and shall be deemed to have been so subs. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s.
+[^4]: Inserted by the Constitution (Nineteenth Amendment) Act, 2011 (1 of 2011) s. 7.
+[^5]: Subs. and shall be deemed to have been so subs. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s.
 6 4, for the original sub-paragraph (v), (w.e.f.^ the 1st December, 1973).^
 7 Subs.^ by the Constitution (Twenty-fifth^ Amdt.) Act,^2018 (^37 of^2018 ) s.^8.^ for^ (.)^ w.e.f. 31-^05 -^2018.^
 Ins. by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 8. w.e.f. 31- 05 - 2018.
@@ -7252,7 +7251,7 @@ of the proceedings, the cause of action, the name, description and place of
 residence of the party by whom the proceedings are to be instituted and
 the relief which the party claims.
 
-(^1) Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 9. w.e.f. 31- 05 - 2018.
+[^1]: Omitted by the Constitution (Twenty-fifth Amdt.) Act, 2018 ( 37 of 2018 ) s. 9. w.e.f. 31- 05 - 2018.
 
 
 ### 249. Legal proceedings
@@ -7300,7 +7299,7 @@ President, the Speaker or Deputy Speaker or member of the
 National Assembly of Pakistan or a Provincial Assembly, a
 Federal Minister, a Minister of State, 1 * * a Chief Minister,
 ```
-(^1) The words and comma "a Governor," omitted by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 13,
+[^1]: The words and comma "a Governor," omitted by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 13,
 (w.e.f. the 4th May, 1974).
 
 
@@ -7356,7 +7355,7 @@ purposes within fifteen years from the commencing day.
 (2) Subject to clause (1), the English language may be used for
 official purposes until arrangements are made for its replacement by Urdu.
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 (3) Without prejudice to the status of the National language, a
@@ -7405,7 +7404,7 @@ within a particular period and it is not done within that period, the doing of
 the act or thing shall not be invalid or other-wise ineffective by reason
 only that it was not done within that period.
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ### 255. Oath of Office
@@ -7450,9 +7449,9 @@ any foreign State except with the approval of the Federal Government.
 Federal Government or any Provincial Government on any citizen, but the
 President may award decorations in recognition of gallantry^3 [,meritorious
 
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for “be made in”.
-(^2) See footnote 6 on page 3, supra.
-(^3) Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 14, (w.e.f. the 4th May, 1974).
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for “be made in”.
+[^2]: See footnote 6 on page 3, supra.
+[^3]: Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 14, (w.e.f. the 4th May, 1974).
 
 
 service in the Armed Forces]^1 [,academic distinction or distinction in the
@@ -7474,7 +7473,7 @@ to them, that is to say,—
 ```
 "Act of^3 [Majlis-e-Shoora (Parliament)]" means an Act passed by
 ```
-(^1) [Majlis-e-Shoora (Parliament)] or the National Assembly and
+[^1]: [Majlis-e-Shoora (Parliament)] or the National Assembly and
 assented to, or deemed to have been assented to, by the President;
 "Act of Provincial Assembly" means an Act passed by the Provincial
 Assembly of a Province and assented to, or deemed to have been
@@ -7486,11 +7485,11 @@ purposes of the law relating to income-tax;
 "loans" shall be construed accordingly;
 "Chairman" means the Chairman of the Senate and, except in Article
 49, includes a person acting as Chairman of the Senate;
-(^4) ["Chief Justice", in relation to the Supreme Court or a High Court,
+[^4]: ["Chief Justice", in relation to the Supreme Court or a High Court,
 includes the Judge for the time being acting as Chief Justice of the
 Court;]
 "citizen" means a citizen of Pakistan as defined by law;
-(^1) Subs. by the Constitution (Third Amdt.) Order, 1981 (P. O. No. 12 of 1981), Art. 2, for "or academic
+[^1]: Subs. by the Constitution (Third Amdt.) Order, 1981 (P. O. No. 12 of 1981), Art. 2, for "or academic
 2 distinction".^
 3 Ins. and shall be deemed always to have been so ins. by Act, 33 of 1974, s. 14, (w.e.f. the 4th May, 1974).^
 4 See^ footnote 6 on page 3, supra.^
@@ -7500,7 +7499,7 @@ Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 15.
 ```
 "clause" means clause of the Article in which it occurs;
 ```
-(^1) * * * * * * * * *
+[^1]: * * * * * * * * *
 "corporation tax" means any tax on income that is payable by
 companies and in respect of which the following conditions
 apply:—
@@ -7518,7 +7517,7 @@ guarantee, and "debt charges" shall be construed accordingly;
 "estate duty" means a duty assessed on, or by reference to, the value of
 property passing upon death;
 "existing law" has the same meaning as in clause (7) of Article 268;
-"Federal law" means a law made by or under the authority of (^2) [Majlis-
+"Federal law" means a law made by or under the authority of [^2]: [Majlis-
 e-Shoora (Parliament)];
 "financial year" means a year commencing on the first day of July;
 "goods" includes all materials, commodities and articles;
@@ -7528,7 +7527,7 @@ for the time being acting as the Governor of a Province;
 commencing day to make payments in the event of the profits of an
 undertaking falling short of a specified amount;
 "House" means the Senate or the National Assembly;
-(^1) The “definition of Expression consultation” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of
+[^1]: The “definition of Expression consultation” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of
 2 2010), s. 92.^
 See footnote 6 on page 3, supra.
 
@@ -7592,11 +7591,11 @@ with the affairs of the Federation or of a Province, and includes an
 All-Pakistan Service, service in the Armed Forces and any other
 service declared to be a service of Pakistan by or under Act of
 ```
-(^1) [Majlis-e-Shoora (Parliament)] or of a Provincial Assembly, but
+[^1]: [Majlis-e-Shoora (Parliament)] or of a Provincial Assembly, but
 does not include service as Speaker, Deputy Speaker, Chairman,
 Deputy Chairman, Prime Minister, Federal Minister, Minister of
 State, Chief Minister, Provincial Minister,^2 [Attorney-General,
-(^3) [Advocate-General,] Parliamentary Secretary] or (^4) [Chairman or
+[^3]: [Advocate-General,] Parliamentary Secretary] or [^4]: [Chairman or
 member of a Law Commission, Chairman or member of the
 Council of Islamic Ideology, Special Assistant to the Prime
 Minister, Adviser to the Prime Minister, Special Assistant to a
@@ -7613,15 +7612,15 @@ a business profits tax.
 (Parliament)]" or "Federal law" or "Act of Provincial Assembly" or
 "Provincial law" shall include an Ordinance promulgated by the President
 or, as the case may be, a Governor.
-(^5) [(3) (^) In the Constitution and all enactments and other legal
+[^5]: [(3) (^) In the Constitution and all enactments and other legal
 instruments, unless there is anything repugnant in the subject or context,—
 (a) "Muslim" means a person who believes in the unity and
 oneness of Almighty Allah, in the absolute and unqualified
-(^1) See footnote 6 on page 3, supra.
-(^2) Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 15, (w.e.f. the 4th May, 1974).
-(^3) Ins. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 16, (w.e.f. the 13th September, 1976).
-(^4) Ins. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s. 5, (w.e.f. the 31st December, 1976).
-(^5) Subs. by the Constitution (Third Amdt.) Order, 1985 (P. O. No. 24 of 1985), Art. 6, for "clause (3)", which
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 15, (w.e.f. the 4th May, 1974).
+[^3]: Ins. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 16, (w.e.f. the 13th September, 1976).
+[^4]: Ins. by the Constitution (Sixth Amdt.) Act, 1976 (84 of 1976), s. 5, (w.e.f. the 31st December, 1976).
+[^5]: Subs. by the Constitution (Third Amdt.) Order, 1985 (P. O. No. 24 of 1985), Art. 6, for "clause (3)", which
 was previously added by Act 49 of 1974, s. 3, (w.e.f. the 17th September, 1974).
 
 
@@ -7768,7 +7767,7 @@ between the two Houses, until such resolution is passed at a joint sitting.
 
 ### 267A. Power to remove difficulties
 
-(^1) [267A. If any difficulty arises in giving effect to the provisions of
+[^1]: [267A. If any difficulty arises in giving effect to the provisions of
 the Constitution (Eighteenth Amendment) Act, 2010, hereinafter in this
 Article referred to as the Act, or for bringing the provisions of the Act into
 effective operation, the matter shall be laid before both Houses in a joint
@@ -7777,7 +7776,7 @@ shall, during such period as may be specified in the resolution, have effect,
 subject to such adaptations, whether by way of modification, addition or
 omission, as may be deemed necessary or expedient:
 Provided that this power shall be available for a period of one year
-(^1) New Articles 267A and 267B ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 93.
+[^1]: New Articles 267A and 267B ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 93.
 
 
 from the commencement of the Act.
@@ -7826,8 +7825,8 @@ accord with the provisions of the Constitution.
 Ordinances, Orders-in-Council, Orders, rules, bye-laws, regulations and
 Letters Patent constituting a High Court, and any notifications and other
 
-(^1) Clause (2) omitted ibid., s. 94.
-(^2) For such authorization, see Gaz. of Pak., 1973, Ext., Pt. II, p. 2001.
+[^1]: Clause (2) omitted ibid., s. 94.
+[^2]: For such authorization, see Gaz. of Pak., 1973, Ext., Pt. II, p. 2001.
 
 
 legal instruments having the force of law) in force in Pakistan or any part
@@ -7875,7 +7874,7 @@ manner prescribed for legislation for a matter in Part I of the Federal
 Legislative List validate all Proclamations, President's Orders, Martial
 Law Regulations, Martial Law Orders and other laws made between the
 
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 twenty-fifth day of March, one thousand nine hundred and sixty-nine, and
@@ -7885,7 +7884,7 @@ one (both days inclusive).
 ```
 (2) Notwithstanding a judgment of any court, a law made by
 ```
-(^1) [Majlis-e-Shoora (Parliament)] under clause (1) shall not be questioned in
+[^1]: [Majlis-e-Shoora (Parliament)] under clause (1) shall not be questioned in
 any court on any ground, whatsoever.
 (3) Notwithstanding the provisions of clause (1), and a
 judgment of any court to the contrary, for a period of two years from the
@@ -7912,16 +7911,16 @@ whatsoever.
 
 ### 270A. Affirmation of President’s Orders, etc.
 
-(^2) [ (^3) [270A.— (1) The Proclamation of the fifth day of July, 1977, all
+[^2]: [ [^3]: [270A.— (1) The Proclamation of the fifth day of July, 1977, all
 President's Orders, Ordinances, Martial Law Regulations, Martial
 Law Orders, including the Referendum Order, 1984 (P.O. No. 11 of
 1984), 4 * * * the Revival of the Constitution of 1973 Order, 1985 (P.O.
 No. 14 of 1985), the Constitution (Second Amendment) Order, 1985 (P.O.
 No. 20 of 1985), the Constitution (Third Amendment) Order, 1985 (P.O.
 No. 24 of 1985), and all other laws made between the fifth day of July,
-(^1) See footnote 6 on page 3, supra.
-(^2) Articles 270A and 270B ins. by P. O. No. 14 of 1985, Art. 2 and Sch.,
-(^3) Article 270A subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 19, for "Art. 270A" (w.e.f.
+[^1]: See footnote 6 on page 3, supra.
+[^2]: Articles 270A and 270B ins. by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^3]: Article 270A subs. by the Constitution (Eighth Amdt.) Act. 1985 (18 of 1985) s. 19, for "Art. 270A" (w.e.f.
 30 - 12 - 1985) vide S.R.O. No. 1279(1)/85, dated 29- 12 - 85 read with Proclamation of Withdrawal of Martial
 4 Law, dated 30-^12 - 85, see^ Gaz. of Pak., 1985, Ext., Pt. 1. pp. 431-432.^
 Certain words omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 95.
@@ -7983,13 +7982,13 @@ proceedings taken, acts done or purporting to be made, taken or done by
 any authority or person shall be deemed to have been made, taken or done
 in good faith and for the purpose intended to be served thereby.
 
-(^1) [(6) The laws referred to in clause (1) may be amended by the
+[^1]: [(6) The laws referred to in clause (1) may be amended by the
 appropriate Legislature in the manner provided for amendment of such
 laws.]
 
 ### 270AA. Declaration and continuance of laws etc.
 
-(^2) [270AA. (1) The Proclamation of Emergency of the fourteenth day of
+[^2]: [270AA. (1) The Proclamation of Emergency of the fourteenth day of
 October, 1999, the Provisional Constitution Order No. 1 of 1999, the Oath
 of Office (Judges) Order, 2000 (No. 1 of 2000), Chief Executive's Order
 No. 12 of 2002, Chief Executive's Order No. 19 of 2002, the amendment
@@ -8016,8 +8015,8 @@ Legislature; and
 (b) in respect of notification, rules, orders and bye-laws, the
 authority in which the power to make, alter, repeal or
 amend the same vests under the law.
-(^1) Subs. by the Constitution (Eighteenth Amendment) Act, 2010, (10 of 2010), s. 95, for “clause (6)”.
-(^2) Subs. ibid. for “Article 270AA” s. 96.
+[^1]: Subs. by the Constitution (Eighteenth Amendment) Act, 2010, (10 of 2010), s. 95, for “clause (6)”.
+[^2]: Subs. ibid. for “Article 270AA” s. 96.
 
 
 (3) Notwithstanding anything contained in the Constitution or
@@ -8103,12 +8102,12 @@ Constitution and shall have effect accordingly.
 
 270BB. General Elections 2008
 
-(^2) [270BB. Notwithstanding anything contained in the Constitution, or
+[^2]: [270BB. Notwithstanding anything contained in the Constitution, or
 any other law for the time being in force, the General Elections 2008, to
 the National Assembly and the Provincial Assemblies held on the
 eighteenth day of February, two thousand and eight shall be deemed to
 have been held under the Constitution and shall have effect accordingly.].
-(^1) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 97, and shall be deemed always to
+[^1]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 97, and shall be deemed always to
 2 have been so, ins. with affect from the 21st^ day of August 2002.^
 New Article 270BB Ins., ibid., s. 98.
 
@@ -8117,9 +8116,9 @@ New Article 270BB Ins., ibid., s. 98.
 
 ### 271. First National Assembly
 
-(^2) [271. (1) Notwithstanding anything contained in the Constitution but
+[^2]: [271. (1) Notwithstanding anything contained in the Constitution but
 subject to^3 [Article 63,] Article 64 and Article 223,—
-(^4) [(a) the first National Assembly shall consist of—
+[^4]: [(a) the first National Assembly shall consist of—
 (i) persons who have taken oath in the National
 Assembly of Pakistan existing immediately before
 the commencing day ; and
@@ -8141,7 +8140,7 @@ Provided that no person holding an office of profit in the
 service of Pakistan shall continue to be a member of the first
 National Assembly after the expiration of three months from the
 commencing day.
-(^1) Article 270C stands omitted as a consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see section
+[^1]: Article 270C stands omitted as a consequence of the (Eighteenth Amdt.) Act, 2010 (10 of 2010), see section
 2 2 and Article 270AA.^
 Art. 271 shall, during the period of five years from the 27th October, 1973, have effect as if,—
 (a) after clause (2) thereof, the following new clause was ins., namely:—"(2A) A person referred to in
@@ -8175,7 +8174,7 @@ his seat shall become vacant at the expiration of that period.
 
 272. First^1 [constitution of] Senate
 
-(^2) 272. 3 *Notwithstanding anything contained in the Constitution, but
+[^2]: 272. 3 *Notwithstanding anything contained in the Constitution, but
 subject to^4 [Article 63 and] Article 223,—
 (a) the Senate shall, until the first National Assembly under
 Constitution continues in existences, consist of forty-five
@@ -8185,8 +8184,8 @@ as if, in paragraph (a) of clause (1) thereof, for the word
 clause for the word "five" the word "three", were
 substituted, and reference to "total membership" of the
 Senate in the Constitution shall be construed accordingly;
-(^1) Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 16, (w.e.f. the 4th May, 1974).
-(^2) Article 272 had, between the 9th June, 1973, and the 14th August, 1974, effect subject to the following
+[^1]: Ins. by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 16, (w.e.f. the 4th May, 1974).
+[^2]: Article 272 had, between the 9th June, 1973, and the 14th August, 1974, effect subject to the following
 modifications made by the Election to the Senate Order, 1973 (P.O. No. 8 of 1973), namely:-
 In the said Article, after clause (1), the following new clause shall be added, namely:-
 "(2) Until Parliament by law makes provision in that behalf, the President may, for the purpose of the due
@@ -8241,12 +8240,12 @@ be the unexpired term of the members of the second group.
 ```
 ### 273. First Provincial Assembly
 
-(^1) 273. (1) Notwithstanding anything contained in the Constitution,
+[^1]: 273. (1) Notwithstanding anything contained in the Constitution,
 but subject to^2 [Article 63,] Article 64 and Article 223,—
-(^3) [(a) the first Assembly of a Province under the Constitution
+[^3]: [(a) the first Assembly of a Province under the Constitution
 shall consist of—
 (i) the members of the Assembly of that Province in
-(^1) Article 273 shall, during the period of five years from the 27th October, 1973, have effect as if, in clause (2)
+[^1]: Article 273 shall, during the period of five years from the 27th October, 1973, have effect as if, in clause (2)
 thereof, after the words "elections petitions", the words "or otherwise" were ins., see. the Removal of
 2 Difficulties (Bar against Double Membership) Order, 1973 (P.O. No. 22 of 1973).^
 3 Ins. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 11, (w.e.f.^ the 21st November, 1975).^
@@ -8302,7 +8301,7 @@ expiration of that period.
 
 274. (1) All property and assets which, immediately before the
 
-(^1) Ins. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 11, (w.e.f. the 21st November, 1975).
+[^1]: Ins. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 11, (w.e.f. the 21st November, 1975).
 
 
 commencing day, were vested in the President or the Federal Government
@@ -8407,7 +8406,7 @@ functions immediately before the commencing day shall, as
 from that day, continue to exercise their respective
 functions.
 ```
-(^1) See footnote 6 on page 3, supra.
+[^1]: See footnote 6 on page 3, supra.
 
 
 ### 276. Oath of first President
@@ -8479,11 +8478,11 @@ Part II. ]
 
 ##### ____________
 
-(^1) Added and shall be deemed always to have been so added by the Constitution (Fifth Amdt) Act, 1976 (62 of
+[^1]: Added and shall be deemed always to have been so added by the Constitution (Fifth Amdt) Act, 1976 (62 of
 1976), s. 17.
 
 
-(^1) [ANNEX
+[^1]: [ANNEX
 (Article 2A)
 The Objectives Resolution
 (In the name of Allah, the most beneficent, the most merciful.)
@@ -8502,7 +8501,7 @@ Wherein the Muslims shall be enabled to order their lives in the
 individual and collective spheres in accordance with the teachings and
 requirements of Islam as set-out in the Holy Quran and the Sunnah;
 Wherein adequate provision shall be made for the minorities to
-(^2) [freely] profess and practise their religions and develop their cultures;
+[^2]: [freely] profess and practise their religions and develop their cultures;
 Wherein the territories now included in or in accession with
 Pakistan and such other territories as may hereafter be included in or
 accede to Pakistan shall form a Federation wherein the units will be
@@ -8512,8 +8511,8 @@ Wherein shall be guaranteed fundamental rights including equality
 of status, of opportunity and before law, social, economic and political
 justice, and freedom of thought, expression, belief, faith, worship and
 association, subject to law and public morality;
-(^1) New Annex ins. by P.O. No. 14 of 1985, Art. 2 and Sch.
-(^2) Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 99.
+[^1]: New Annex ins. by P.O. No. 14 of 1985, Art. 2 and Sch.
+[^2]: Ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 99.
 
 
 Wherein adequate provision shall be made to safeguard the
@@ -8533,7 +8532,7 @@ humanity.]
 __________
 
 
-(^1) [FIRST SCHEDULE
+[^1]: [FIRST SCHEDULE
 [Article 8(3) (b) and (4)]
 
 ## Laws exempted from the operation of Article 8 (1) and (2)
@@ -8562,13 +8561,13 @@ Regulation, 1974 (III of 1974).
 Settlement of Disputes of Immovable Property) (Amendment) Regulation,
 1975 (II of 1975).
 
-(^2) [7. The Settlement of Disputes of Immovable Property (Chitral)
+[^2]: [7. The Settlement of Disputes of Immovable Property (Chitral)
 (Amendment) Regulation, 1976 (II of 1976)].
 III. Federal Acts
 
 1. The Land Reforms (Amendment) Act, 1974 (XXX of 1974).
 
-(^1) The First Schedule as amended by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 17, (w.e.f. the 4th
+[^1]: The First Schedule as amended by the Constitution (First Amdt.) Act, 1974 (33 of 1974), s. 17, (w.e.f. the 4th
 May, 1974), has been subs. by the Constitution (Fourth Amdt.) Act, 1975 (71 of 1975), s. 12, (w.e.f. the 21st
 2 November, 1975).^
 Entry 7 added by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 18, (w.e.f. the 13th September,
@@ -8577,7 +8576,7 @@ Entry 7 added by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 18, (
 
 2. The Land Reforms (Amendment) Act, 1975 (XXXIX of 1975).
 
-(^1) [3. The Flour Milling Control and Development Act, 1976 (LVII of
+[^1]: [3. The Flour Milling Control and Development Act, 1976 (LVII of
 1976).
 
 4. The Rice Milling Control and Development Act, 1976 (LVIII of
@@ -8585,8 +8584,8 @@ Entry 7 added by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 18, (
 5. The Cotton Ginning Control and Development Act, 1976 (LIX of
     1976).]
 
-(^2) [ * * * * * * * * *]
-(^3) [6. The Pakistan Army Act, 1952 (XXXIX of 1952).
+[^2]: [ * * * * * * * * *]
+[^3]: [6. The Pakistan Army Act, 1952 (XXXIX of 1952).
 
 7. The Anti-Terrorism Act, 1997 (XXVII of 1997), only to the extent
     of sub-clause (iv) of clause (d) of sub-section (1) of section 2 of
@@ -8607,13 +8606,13 @@ V. Provincial Acts
 2. The Land Reforms (Pat Feeder Canal Regulation) (Amendment)
 Act, 1975 (Balochistan Act VII of 1975).
 
-(^4) [VI. Provincial Ordinance
+[^4]: [VI. Provincial Ordinance
 The Land Reforms (Pat Feeder Canal) (Amendment) Ordinance,
 1976].
 __________
-(^1) Entries 3 to 5 added by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 18, (w.e.f. the 13th
+[^1]: Entries 3 to 5 added by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 18, (w.e.f. the 13th
 September, 1976).
-(^2) Added by the Constitution (Twenty-first Amendment) Act, 2015 (I of 2015) and shall cease to form part of
+[^2]: Added by the Constitution (Twenty-first Amendment) Act, 2015 (I of 2015) and shall cease to form part of
 3 the Constitution and shall stand repealed on the expiration of two years.^
 Added by the Constitution (Twenty-third Amendment) Act, 2017 (XII of 2017) and shall cease to form part
 4 of the Constitution and shall stand repealed on the expiration of two years.^
@@ -8739,7 +8738,7 @@ Ordinance No. VIII of 1971).]
 ___________
 ```
 
-(^1) [SECOND SCHEDULE
+[^1]: [SECOND SCHEDULE
 [Article 41 (3)]
 
 ## Election of President
@@ -8779,8 +8778,8 @@ been deposited, and a candidate who has given a notice of withdrawal of
 his candidature under this paragraph shall not be allowed to cancel that
 notice.
 
-(^1) Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Second Schedule."
-(^2) Subs. & inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.10.
+[^1]: Subs. by P. O. No. 14 of 1985, Art. 2 and Sch., for "Second Schedule."
+[^2]: Subs. & inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.10.
 
 
 7. If all but one of the candidates have withdrawn, that one shall be
@@ -8908,7 +8907,7 @@ out the purposes of this Schedule.]
 
 ##### ___________
 
-(^1) Subs. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.10.
+[^1]: Subs. by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.10.
 
 
 ## THIRD SCHEDULE
@@ -8956,11 +8955,11 @@ any person any matter which shall be brought under my consideration or
 shall become known to me as President of Pakistan, except as may be
 required for the due discharge of my duties as President.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### PRIME MINISTER
@@ -9004,10 +9003,10 @@ any person any matter which shall be brought under my consideration or
 shall become known to me as Prime Minister, except as may be required
 for the due discharge of my duties as Prime Minister.
 
-(^2) [May Allah Almighty help and guide me (A’meen).]
+[^2]: [May Allah Almighty help and guide me (A’meen).]
 __________
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100, for (3).
-(^2) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100, for (3).
+[^2]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### FEDERAL MINISTER OR MINISTER OF STATE
@@ -9046,11 +9045,11 @@ except as may be required for the due discharge of my duties as Federal
 Minister (or Minister of State), or as may be specially permitted by the
 Prime Minister.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### SPEAKER OF NATIONAL ASSEMBLY OR
@@ -9087,11 +9086,11 @@ Islamic Republic of Pakistan :
 And that, in all circumstances, I will do right to all manner of
 people, according to law, without fear or favour, affection or ill-will.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### DEPUTY SPEAKER OF NATIONAL ASSEMBLY OR
@@ -9127,11 +9126,11 @@ Islamic Republic of Pakistan :
 And that, in all circumstances, I will do right to all manner of
 people, according to law, without fear or favour, affection or ill-will.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### MEMBER OF NATIONAL ASSEMBLY OR
@@ -9160,11 +9159,11 @@ basis for the creation of Pakistan.
 And that I will preserve, protect and defend the Constitution of the
 Islamic Republic of Pakistan.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### __________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### GOVERNOR OF PROVINCE
@@ -9203,8 +9202,8 @@ shall become known to me as Governor of the Province of
 ..........................except as may be required for the due discharge of
 my duties as Governor.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: [May Allah Almighty help and guide me (A’meen).]
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### CHIEF MINISTER OR PROVINCIAL MINISTER
@@ -9243,12 +9242,12 @@ shall become known to me as Chief Minister (or Minister) except as may
 be required for the due discharge of my duties as Chief Minister (or
 Minister or as may be specially permitted by the Chief Minister).
 
-(^2) [May Allah Almighty help and guide me (A’meen).]
+[^2]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “131(4)”.
-(^2) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “131(4)”.
+[^2]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### SPEAKER OF A PROVINCIAL ASSEMBLY
@@ -9282,12 +9281,12 @@ Islamic Republic of Pakistan :
 And that, in all circumstances, I will do right to all manner of
 people, according to law, without fear or favour, affection or ill-will.
 
-(^2) [May Allah Almighty help and guide me (A’meen).]
+[^2]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “I will discharge”.
-(^2) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “I will discharge”.
+[^2]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### DEPUTY SPEAKER OF A PROVINCIAL ASSEMBLY
@@ -9321,11 +9320,11 @@ Islamic Republic of Pakistan :
 And that, in all circumstances, I will do right to all manner of
 people, according to law, without fear or favour, affection or ill-will.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### MEMBER OF A PROVINCIAL ASSEMBLY
@@ -9352,11 +9351,11 @@ basis for the creation of Pakistan :
 And that I will preserve, protect and defend the Constitution of the
 Islamic Republic of Pakistan :
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### AUDITOR-GENERAL OF PAKISTAN
@@ -9377,11 +9376,11 @@ best of my knowledge, ability and judgement, without fear or favour,
 affection or ill-will, and that I will not allow my personal interest to
 influence my official conduct or my official decisions.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ____________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### CHIEF JUSTICE OF PAKISTAN OR OF A HIGH COURT
@@ -9418,14 +9417,14 @@ Islamic Republic of Pakistan :
 And that, in all circumstances, I will do right to all manner of
 people, according to law, without fear or favour, affection or ill-will.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
+[^1]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
-(^1) [CHIEF JUSTICE OR JUDGE OF THE
+[^1]: [CHIEF JUSTICE OR JUDGE OF THE
 FEDERAL SHARIAT COURT
 [Article 203C (7)]
 (In the name of Allah, the most Beneficent, the most Merciful.)
@@ -9447,7 +9446,7 @@ May Allah Almighty help and guide me (A’meen).]
 
 ##### ___________
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “Oath of Chief Justice or a
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 100 for “Oath of Chief Justice or a
 Judge of the Federal Shariat Court”.
 
 
@@ -9469,12 +9468,12 @@ with the Constitution of the Islamic Republic of Pakistan and the law, and
 without fear or favour, affection or ill-will, and that I will not allow my
 personal interest to influence my official conduct or my official decisions.
 
-(^2) [May Allah Almighty help and guide me (A’meen).]
+[^2]: [May Allah Almighty help and guide me (A’meen).]
 
 ##### __________
 
-(^1) Added & inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.11.
-(^2) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: Added & inserted by the Constitution (Twentieth Amendment) Act, 2012 (V of 2012) s.11.
+[^2]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ##### MEMBERS OF THE ARMED FORCES
@@ -9492,8 +9491,8 @@ that I will not engage myself in any political activities whatsoever and that
 I will honestly and faithfully serve Pakistan in the Pakistan Army (or Navy
 or Air Force) as required by and under the law.
 
-(^1) [May Allah Almighty help and guide me (A’meen).]
-(^1) Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
+[^1]: [May Allah Almighty help and guide me (A’meen).]
+[^1]: Added by P. O. No. 14 of 1985, Art. 2 and Sch.,
 
 
 ## FOURTH SCHEDULE
@@ -9569,18 +9568,18 @@ of nuclear energy;
 ```
 (c) ionizing radiations. 1 [; and]
 ```
-(^2) [(d) boilers.]
+[^2]: [(d) boilers.]
 
 19. Port quarantine, seamen's and marine hospitals and hospitals
 connected with port quarantine.
 20. Maritime shipping and navigation, including shipping and
 navigation on tidal waters; Admiralty jurisdiction.
 
-(^1) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101 for the full stop.
-(^2) New sub-entry (d) added ibid.
+[^1]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101 for the full stop.
+[^2]: New sub-entry (d) added ibid.
 
 
-(^1) * * * * * * * * * *
+[^1]: * * * * * * * * * *
 
 22. Aircraft and air navigation; the provision of aerodromes; regulation
 and organisation of air traffic and of aerodromes.
@@ -9612,13 +9611,13 @@ by a Province and carrying on business only within that Province, or
 cooperative societies, and of corporations, whether trading or not, with
 objects not confined to a Province, but not including universities.
 
-(^2) [32. International treaties, conventions and agreements and
+[^2]: [32. International treaties, conventions and agreements and
 International arbitration.]
-(^1) Entry “21” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
-(^2) Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101 for “entry 32”.
+[^1]: Entry “21” omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
+[^2]: Subs. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101 for “entry 32”.
 
 
-(^1) * * * * * * * * * *
+[^1]: * * * * * * * * * *
 
 34. National highways and strategic roads.
 35. Federal surveys including geological surveys and Federal
@@ -9630,11 +9629,11 @@ or air force works), but, as regards property situate in a Province, subject
 always to Provincial legislation, save in so far as Federal law otherwise
 provides.
 
-(^1) * * * * * * * * * *
+[^1]: * * * * * * * * * *
 
 39. Establishment of standards of weights and measures.
 
-(^1) * * * * * * * * * *
+[^1]: * * * * * * * * * *
 
 41. Elections to the office of President, to the National Assembly, the
 Senate and the Provincial Assemblies; Chief Election Commissioner and
@@ -9649,22 +9648,22 @@ give evidence or produce documents before committees thereof.
 44. Duties of excise, including duties on salt, but not including duties
 on alcoholic liquors, opium and other narcotics.
 
-(^2) * * * * * * * * * *
-(^2) * * * * * * * * * *
+[^2]: * * * * * * * * * *
+[^2]: * * * * * * * * * *
 
 47. Taxes on income other than agricultural income.
 48. Taxes on corporations.
 
-(^1) Entries 33, 38 and 40 omitted ibid.
-(^2) Entries 45 and 46 omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
+[^1]: Entries 33, 38 and 40 omitted ibid.
+[^2]: Entries 45 and 46 omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
 
 
-(^1) [49. Taxes on the sales and purchases of goods imported, exported,
+[^1]: [49. Taxes on the sales and purchases of goods imported, exported,
 produced, manufactured or consumed 2 [, except sales tax on services.]]
 
 50. Taxes on the capital value of the assets, not including taxes on
 
-(^3) * * * on immovable property.
+[^3]: * * * on immovable property.
 
 51. Taxes on mineral oil, natural gas and minerals for use in generation
 of nuclear energy.
@@ -9692,7 +9691,7 @@ Part.
 
 ##### ___________
 
-(^1) Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 19, for the "original entry 49" (w.e.f. the
+[^1]: Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 19, for the "original entry 49" (w.e.f. the
 2 13th September,1976).^
 3 Added by Act 10 of 2010, s. 101.^
 4 The words “on capital gains” omitted ibid.^
@@ -9714,7 +9713,7 @@ projects and schemes of such institutions, establishments, bodies and
 corporations, industries, projects and undertakings owned wholly or
 partially by the Federation or by a corporation set up by the Federation.
 
-(^2) [4. Electricity.
+[^2]: [4. Electricity.
 
 5. Major ports, that is to say, the declaration and delimitation of such
 ports, and the constitution and powers of port authorities therein.
@@ -9731,7 +9730,7 @@ Province; extension of the powers and jurisdiction of members of a police
 force belonging to any Province to railway areas outside that Province.
 11. Legal, medical and other professions.
 
-(^1) Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 19, for "West Pakistan Water and Power
+[^1]: Subs. by the Constitution (Fifth Amdt.) Act, 1976 (62 of 1976), s. 19, for "West Pakistan Water and Power
 Development Authority and the West Pakistan Industrial Development Corporation" (w.e.f. the 13th
 2 September, 1976).^
 New entries 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 ins. by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of
@@ -9742,21 +9741,21 @@ New entries 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 ins. by the Constitution (Eighte
 scientific and technical institutions.
 13. Inter-provincial matters and co-ordination.]
 
-(^1) [14.] Council of Common Interests.
-(^1) [15.] Fees in respect of any of the matters in this Part but not including
+[^1]: [14.] Council of Common Interests.
+[^1]: [15.] Fees in respect of any of the matters in this Part but not including
 fees taken in any court.
-(^1) [ 1 6.] Offences against laws with respect to any of the matters in this
+[^1]: [ 1 6.] Offences against laws with respect to any of the matters in this
 Part.
-(^1) [ 1 7.] Inquiries and statistics for the purposes of any of the matters in this
+[^1]: [ 1 7.] Inquiries and statistics for the purposes of any of the matters in this
 Part.
-(^1) [18.] Matters incidental or ancillary to any matter enumerated in this
+[^1]: [18.] Matters incidental or ancillary to any matter enumerated in this
 Part.
-(^2) * * * * * * * * * *
+[^2]: * * * * * * * * * *
 
 ##### ___________
 
-(^1) Re-numbered entries 4,5, 6, 7, and 8 the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
-(^2) Concurrent Legislative List and the Entries 1 to 47 omitted ibid.
+[^1]: Re-numbered entries 4,5, 6, 7, and 8 the Constitution (Eighteenth Amdt.) Act, 2010 (10 of 2010), s. 101.
+[^2]: Concurrent Legislative List and the Entries 1 to 47 omitted ibid.
 
 
 ##### FIFTH SCHEDULE
@@ -9774,7 +9773,7 @@ THE SUPREME COURT
 ```
 1. There shall be paid to the Chief Justice of Pakistan a salary of Rs.
 
-(^1) [9,900] per mensem, and to every other Judge of the Supreme Court a
+[^1]: [9,900] per mensem, and to every other Judge of the Supreme Court a
 salary of Rs.^1 [9,500] per mensem^2 [,or such higher salary as the President
 may, from time to time, determine.]
 
@@ -9785,7 +9784,7 @@ determined, to the privileges, allowances and rights to which, immediately
 before the commencing day, the Judges of the Supreme Court of Pakistan
 were entitled.
 
-(^3) [3. The pension payable to a retired Judge of the Supreme Court per
+[^3]: [3. The pension payable to a retired Judge of the Supreme Court per
 mensem shall not be less or more than the amount specified in the table
 below, depending on the length of his service as Judge in that Court or a
 High Court :
@@ -9811,7 +9810,7 @@ Subs. by the Constitution (Twelfth Amdt.) Act., 1991 (14 of 1991), s. 3, for "7,
 Subs. ibid., for "paragraph 3rd."
 
 
-(^1) [4. The widow of a Judge of the Supreme Court shall be entitled to a
+[^1]: [4. The widow of a Judge of the Supreme Court shall be entitled to a
 pension at the following rates, namely :—
 (a) if the Judge dies after retirement–50 per cent of the net pension
 payable to him; or
@@ -9832,7 +9831,7 @@ age, until they attain that age; and
 twenty-one years of age, until they attain that age or are
 married, whichever first occurs.]
 ```
-(^1) Added by P. O. No. 6 of 1985, Art. 2, (w.e.f. the 1st July, 1981).
+[^1]: Added by P. O. No. 6 of 1985, Art. 2, (w.e.f. the 1st July, 1981).
 
 
 ##### THE HIGH COURT
@@ -9847,7 +9846,7 @@ pension, as may be determined by the President, and until so determined,
 to the privileges, allowances and rights to which, immediately before the
 commencing day, the Judges of the High Court were entitled.
 
-(^3) [3. The pension payable per mensem to a Judge of a High Court who
+[^3]: [3. The pension payable per mensem to a Judge of a High Court who
 retires after having put in not less than five years service as such Judge
 shall not be less or more than the amount specified in the table below,
 depending on the length of his service as Judge and total service, if any, in
@@ -9860,7 +9859,7 @@ Maximum
 amount.
 Chief Justice Rs. 5,640 Rs. 7,050
 Other Judge Rs. 5,040 Rs. 6,300.]
-(^4) [4. The widow of a Judge of the High Court shall be entitled to a
+[^4]: [4. The widow of a Judge of the High Court shall be entitled to a
 pension at the following rates, namely :—
 (a) if the Judge dies after retirement—50 per cent of the net
 pension payable to him; or
@@ -9872,7 +9871,7 @@ retirement or resignation or removal shall be entitled to the minimum pension eq
 the completion of 5 years service for pension as Judge and an extra pension @ 2% of such salary for each
 subsequent completed year of service as Chief Justice or the Judge including his service if any the maximum
 pension not exceeding 80% of the salary.
-(^1) Subs. by the Constitution (Twelfth Amdt.) Act., 1991 (14 of 1991). s. 3, for "7,200" and "6,500". which was
+[^1]: Subs. by the Constitution (Twelfth Amdt.) Act., 1991 (14 of 1991). s. 3, for "7,200" and "6,500". which was
 2 previously amended by P.O. No. 6 of 1985. Art. 2 (w.e.f. 1-^7 - 1983).^
 3 Added ibid.,^
 4 Subs. ibid., for "paragraph 3rd".^
@@ -9897,9 +9896,9 @@ age, until they attain that age; and
 twenty-one years of age, until they attain that age or are
 married, whichever first occurs.]
 ```
-(^1) * * * * * * * * * *
+[^1]: * * * * * * * * * *
 __________
-(^1) Sixth Schedule and Seventh Schedule omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of
+[^1]: Sixth Schedule and Seventh Schedule omitted by the Constitution (Eighteenth Amdt.) Act, 2010 (10 of
 2010), s. 102.
 
 
