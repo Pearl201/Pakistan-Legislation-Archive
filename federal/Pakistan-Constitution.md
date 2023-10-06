@@ -61,7 +61,7 @@ Pakistan shall be a Federal Republic to be known as the Islamic Republic of Paki
 
  
 
- (1)[^1]\[
+ (1)[^1]:\[
 
 (2)
 
@@ -69,15 +69,15 @@ The territories of Pakistan shall comprise:-
 
 (a)
 
-the Provinces of  (2)[^2]\[Balochistan\] (2)[^2), the  (3)[^3]\[Khyber Pakthunkhwa\] (3)[^3), the Punjab and  (4)[^4]\[Sindh\] (4)[^4) ;
+the Provinces of  (2)[^2]:\[Balochistan\]: (2)[^2), the  (3)[^3]:\[Khyber Pakthunkhwa\]: (3)[^3), the Punjab and  (4)[^4]:\[Sindh\]: (4)[^4) ;
 
 (b)
 
-the Islamabad Capital Territory, hereinafter referred to as the Federal Capital;  (5)[^5]\[and\] (5)[^5)
+the Islamabad Capital Territory, hereinafter referred to as the Federal Capital;  (5)[^5]:\[and\]: (5)[^5)
 
- (6)[^6]\[\] (6)[^6)
+ (6)[^6]:\[\]: (6)[^6)
 
- (7)[^7]\[(c)\] (7)[^7)
+ (7)[^7]:\[(c)\]: (7)[^7)
 
 such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
 
@@ -85,11 +85,11 @@ such States and territories as are or may be included in Pakistan, whether by ac
 
 (3)
 
- (8)[^8]\[Majlis-e-Shoora (Parliament)\] (8)[^8) may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.
+ (8)[^8]:\[Majlis-e-Shoora (Parliament)\]: (8)[^8) may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.
 
  
 
-\] (1)[^1)
+\]: (1)[^1)
 
  
 
@@ -100,7 +100,7 @@ Islam shall be the State religion of Pakistan.
 
  
 
- (9)[^9]\[
+ (9)[^9]:\[
 
 **2A**
 
@@ -109,7 +109,7 @@ The principles and provisions set out in the Objectives Resolution reproduced in
 
  
 
-\] (9)[^9)
+\]: (9)[^9)
 
 **3**
 
@@ -160,7 +160,7 @@ Loyalty to the State is the basic duty of every citizen.
 
 (2)
 
-Obedience to the Constitution and law is the  (10)[^10]\[inviolable\] (10)[^10) obligation of every citizen wherever he may be and of every other person for the time being within Pakistan.
+Obedience to the Constitution and law is the  (10)[^10]:\[inviolable\]: (10)[^10) obligation of every citizen wherever he may be and of every other person for the time being within Pakistan.
 
  
 
@@ -169,7 +169,7 @@ Obedience to the Constitution and law is the  (10)[^10]\[inviolable\] (10)[^10
 **6**
 
 **High treason**  
- (11)[^11]\[
+ (11)[^11]:\[
 
 (1)
 
@@ -177,15 +177,15 @@ Any person who abrogates or subverts or suspends or holds in abeyance, or attemp
 
  
 
-\] (11)[^11)
+\]: (11)[^11)
 
 (2)
 
-Any person aiding or abetting  (12)[^12]\[or collaborating\] (12)[^12) the acts mentioned in clause (1) shall likewise be guilty of high treason.
+Any person aiding or abetting  (12)[^12]:\[or collaborating\]: (12)[^12) the acts mentioned in clause (1) shall likewise be guilty of high treason.
 
  
 
- (13)[^13]\[
+ (13)[^13]:\[
 
 (2A)
 
@@ -193,11 +193,11 @@ An act of high treason mentioned in clause (1) or clause (2) shall not be valida
 
  
 
-\] (13)[^13)
+\]: (13)[^13)
 
 (3)
 
- (14)[^14]\[Majlis-e-Shoora (Parliament)\] (14)[^14) shall by law provide for the punishment of persons found guilty of high treason.
+ (14)[^14]:\[Majlis-e-Shoora (Parliament)\]: (14)[^14) shall by law provide for the punishment of persons found guilty of high treason.
 
  
 
@@ -207,7 +207,7 @@ An act of high treason mentioned in clause (1) or clause (2) shall not be valida
 
 ### Notes
 
-(1)[^1]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 2 (with effect from May 4, 1974) for :
+(1)[^1]:  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 2 (with effect from May 4, 1974) for :
 
 (2)
 
@@ -243,13 +243,13 @@ Parliament may by law admit into the Federation new States or areas on such term
 
  
 
-(2)[^2]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Baluchistan".
+(2)[^2]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Baluchistan".
 
-(3)[^3]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "North-West Frontier".
+(3)[^3]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "North-West Frontier".
 
-(4)[^4]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Sind".
+(4)[^4]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 3 (with effect from April 19, 2010) for "Sind".
 
-(5)[^5]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(i) (with effect from May 31, 2018).
+(5)[^5]:  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(i) (with effect from May 31, 2018).
 
 (6)[^6)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(ii) (with effect from May 31, 2018) : :
 
@@ -257,15 +257,15 @@ Parliament may by law admit into the Federation new States or areas on such term
 
 Federally Administered Tribal Areas; and
 
-(7)[^7]  )   Renumbered from "(d)". by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(iii) (with effect from May 31, 2018)
+(7)[^7]:  )   Renumbered from "(d)". by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 2(iii) (with effect from May 31, 2018)
 
-(8)[^8]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(8)[^8]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(9)[^9]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art.2 and Sch.item 2 (with effect from March 2, 1985).
+(9)[^9]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art.2 and Sch.item 2 (with effect from March 2, 1985).
 
-(10)[^10]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 3 (with effect from March 2, 1985) for "basic".
+(10)[^10]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 3 (with effect from March 2, 1985) for "basic".
 
-(11)[^11]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(i) (with effect from April 19, 2010) for :
+(11)[^11]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 4(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -273,23 +273,16 @@ Any person who abrogates or attempts or conspires to abrogate, subverts or attem
 
  
 
-(12)[^12]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(ii) (with effect from April 19, 2010).
+(12)[^12]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 4(ii) (with effect from April 19, 2010).
 
-(13)[^13]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 4(iii) (with effect from April 19, 2010).
+(13)[^13]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 4(iii) (with effect from April 19, 2010).
 
-(14)[^14]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(14)[^14]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-  Chapter 1: "Fundamental Rights" of Part II: "Fundamental Rights and Principles of Policy"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part2.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
+[**The Constitution of Pakistan**]:(/pakistan/constitution/) on (/)
 
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -299,7 +292,7 @@ Part II: Fundamental Rights and Principles of Policy
 **7**
 
 **Definition of the State**  
-In this Part, unless the context otherwise requires, "the State" means the Federal Government,  (15)[^15]\[Majlis-e-Shoora (Parliament)\] (15)[^15), a Provincial Government, a Provincial Assembly, and such local or other authorities in Pakistan as are by law empowered to impose any tax or cess.
+In this Part, unless the context otherwise requires, "the State" means the Federal Government,  (15)[^15]:\[Majlis-e-Shoora (Parliament)\]: (15)[^15), a Provincial Government, a Provincial Assembly, and such local or other authorities in Pakistan as are by law empowered to impose any tax or cess.
 
  
 
@@ -330,7 +323,7 @@ The provisions of this Article shall not apply to :-
 
 any law relating to members of the Armed Forces, or of the police or of such other forces as are charged with the maintenance of public order, for the purpose of ensuring the proper discharge of their duties or the maintenance of discipline among them; or
 
- (16)[^16]\[
+ (16)[^16]:\[
 
 (b)
 
@@ -344,17 +337,17 @@ laws specified in the First Schedule as in force immediately before the commenci
 
 other laws specified in Part I of the First Schedule;
 
-\] (16)[^16) and no such law nor any provision thereof shall be void on the ground that such law or provision is inconsistent with, or repugnant to, any provision of this Chapter.
+\]: (16)[^16) and no such law nor any provision thereof shall be void on the ground that such law or provision is inconsistent with, or repugnant to, any provision of this Chapter.
 
  
 
 (4)
 
-Notwithstanding anything contained in paragraph (b) of clause (3), within a period of two years from the commencing day, the appropriate Legislature shall bring the laws specified in  (18)[^18]\[Part II of the First Schedule\] (18)[^18) into conformity with the rights conferred by this Chapter:
+Notwithstanding anything contained in paragraph (b) of clause (3), within a period of two years from the commencing day, the appropriate Legislature shall bring the laws specified in  (18)[^18]:\[Part II of the First Schedule\]: (18)[^18) into conformity with the rights conferred by this Chapter:
 
 **Provided** that the appropriate Legislature may by resolution extend the said period of two years by a period not exceeding six months.
 
-Explanation:- If in respect of any law  (19)[^19]\[Majlis-e-Shoora (Parliament)\] (19)[^19) is the appropriate Legislature, such resolution shall be a resolution of the National Assembly.
+Explanation:- If in respect of any law  (19)[^19]:\[Majlis-e-Shoora (Parliament)\]: (19)[^19) is the appropriate Legislature, such resolution shall be a resolution of the National Assembly.
 
  
 
@@ -397,7 +390,7 @@ Nothing in clauses (1) and (2) shall apply to any person who is arrested or deta
 
 (4)
 
-No law providing for preventive detention shall be made except to deal with persons acting in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof, or external affairs of Pakistan, or public order, or the maintenance of supplies or services, and no such law shall authorise the detention of a person for a period exceeding  (20)[^20]\[three months\] (20)[^20) unless the appropriate Review Board has, after affording him an opportunity of being heard in person, reviewed his case and reported, before the expiration of the said period, that there is, in its opinion, sufficient cause for such detention, and, if the detention is continued after the said period of  (21)[^21]\[three months\] (21)[^21), unless the appropriate Review Board has reviewed his case and reported, before the expiration of each period of three months, that there is, in its opinion, sufficient cause for such detention.
+No law providing for preventive detention shall be made except to deal with persons acting in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof, or external affairs of Pakistan, or public order, or the maintenance of supplies or services, and no such law shall authorise the detention of a person for a period exceeding  (20)[^20]:\[three months\]: (20)[^20) unless the appropriate Review Board has, after affording him an opportunity of being heard in person, reviewed his case and reported, before the expiration of the said period, that there is, in its opinion, sufficient cause for such detention, and, if the detention is continued after the said period of  (21)[^21]:\[three months\]: (21)[^21), unless the appropriate Review Board has reviewed his case and reported, before the expiration of each period of three months, that there is, in its opinion, sufficient cause for such detention.
 
 Explanation-I: In this Article, "the appropriate Review Board" means:-
 
@@ -415,7 +408,7 @@ Explanation-II: The opinion of a Review Board shall be expressed in terms of the
 
 (5)
 
-When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall,  (22)[^22]\[within fifteen days\] (22)[^22) from such detention, communicate to such person the grounds on which the order has been made, and shall afford him the earliest opportunity of making a representation against the order:
+When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall,  (22)[^22]:\[within fifteen days\]: (22)[^22) from such detention, communicate to such person the grounds on which the order has been made, and shall afford him the earliest opportunity of making a representation against the order:
 
 **Provided** that the authority making any such order may refuse to disclose facts which such authority considers it to be against the public interest to disclose.
 
@@ -431,7 +424,7 @@ The authority making the order shall furnish to the appropriate Review Board all
 
 Within a period of twenty-four months commencing on the day of his first detention in pursuance of an order made under a law providing for preventive detention, no person shall be detained in pursuance of any such order for more than a total period of eight months in the case of a person detained for acting in a manner prejudicial to public order and twelve months in any other case:
 
-**Provided** that this clause shall not apply to any person who is employed by, or works for, or acts on instructions received from, the enemy  (23)[^23]\[or who is acting or attempting to act in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof or who commits or attempts to commit any act which amounts to an anti-national activity as defined in a Federal law or is a member of any association which has for its objects, or which indulges in, any such anti-national activity\] (23)[^23).
+**Provided** that this clause shall not apply to any person who is employed by, or works for, or acts on instructions received from, the enemy  (23)[^23]:\[or who is acting or attempting to act in a manner prejudicial to the integrity, security or defence of Pakistan or any part thereof or who commits or attempts to commit any act which amounts to an anti-national activity as defined in a Federal law or is a member of any association which has for its objects, or which indulges in, any such anti-national activity\]: (23)[^23).
 
  
 
@@ -449,7 +442,7 @@ Nothing in this Article shall apply to any person who for the time being is an e
 
  
 
- (24)[^24]\[
+ (24)[^24]:\[
 
 **10A.**
 
@@ -458,7 +451,7 @@ For the determination of his civil rights and obligations or in any criminal cha
 
  
 
-\] (24)[^24)
+\]: (24)[^24)
 
 **11**
 
@@ -571,7 +564,7 @@ Every citizen shall have the right to assemble peacefully and without arms, subj
 
  
 
- (25)[^25]\[
+ (25)[^25]:\[
 
 **17.**
 
@@ -597,7 +590,7 @@ Every political party shall account for the source of its funds in accordance wi
 
  
 
-\] (25)[^25)
+\]: (25)[^25)
 
 **18**
 
@@ -623,11 +616,11 @@ the carrying on, by the Federal Government or a Provincial Government, or by a c
 **19**
 
 **Freedom of speech, etc.**  
-Every citizen shall have the right to freedom of speech and expression, and there shall be freedom of the press, subject to any reasonable restrictions imposed by law in the interest of the glory of Islam or the integrity, security or defence of Pakistan or any part thereof, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court,  (33)[^33]\[commission of\] (33)[^33) or incitement to an offence.
+Every citizen shall have the right to freedom of speech and expression, and there shall be freedom of the press, subject to any reasonable restrictions imposed by law in the interest of the glory of Islam or the integrity, security or defence of Pakistan or any part thereof, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court,  (33)[^33]:\[commission of\]: (33)[^33) or incitement to an offence.
 
  
 
- (34)[^34]\[
+ (34)[^34]:\[
 
 **19A.**
 
@@ -636,7 +629,7 @@ Every citizen shall have the right to have access to information in all matters 
 
  
 
-\] (34)[^34)
+\]: (34)[^34)
 
 **20**
 
@@ -783,7 +776,7 @@ All citizens are equal before law and are entitled to equal protection of law.
 
 (2)
 
-There shall be no discrimination on the basis of sex  (35)[^35]\[\] (35)[^35).
+There shall be no discrimination on the basis of sex  (35)[^35]:\[\]: (35)[^35).
 
  
 
@@ -795,7 +788,7 @@ Nothing in this Article shall prevent the State from making any special provisio
 
  
 
- (36)[^36]\[
+ (36)[^36]:\[
 
 **25A.**
 
@@ -804,7 +797,7 @@ The State shall provide free and compulsory education to all children of the age
 
  
 
-\] (36)[^36)
+\]: (36)[^36)
 
 **26.**
 
@@ -832,11 +825,11 @@ Nothing in clause (1) shall prevent the State from making any special provision 
 
 No citizen otherwise qualified for appointment in the service of Pakistan shall be discriminated against in respect of any such appointment on the ground only of race, religion, caste, sex, residence or place of birth:
 
-**Provided** that, for a period not exceeding  (37)[^37]\[forty\] (37)[^37) years from the commencing day, posts may be reserved for persons belonging to any class or area to secure their adequate representation in the service of Pakistan:
+**Provided** that, for a period not exceeding  (37)[^37]:\[forty\]: (37)[^37) years from the commencing day, posts may be reserved for persons belonging to any class or area to secure their adequate representation in the service of Pakistan:
 
-**Provided** further that, in the interest of the said service, specified posts or services may be reserved for members of either sex if such posts or services entail the performance of duties and functions which cannot be adequately performed by members of the other sex (39)[^39]\[:\] (39)[^39)
+**Provided** further that, in the interest of the said service, specified posts or services may be reserved for members of either sex if such posts or services entail the performance of duties and functions which cannot be adequately performed by members of the other sex (39)[^39]:\[:\]: (39)[^39)
 
- (40)[^40]\[**Provided** also that under-representation of any class or area in the service of Pakistan may be redressed in such manner as may be determined by an Act of Majlis-e-Shoora (Parliament).\] (40)[^40)
+ (40)[^40]:\[**Provided** also that under-representation of any class or area in the service of Pakistan may be redressed in such manner as may be determined by an Act of Majlis-e-Shoora (Parliament).\]: (40)[^40)
 
  
 
@@ -859,31 +852,31 @@ Subject to Article 251 any section of citizens having a distinct language, scrip
 
 ### Notes
 
-(15)[^15]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(15)[^15]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(16)[^16]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for :
+(16)[^16]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for :
 
 (b)
 
-any of the laws specified in the First Schedule as in force immediately before the commencing day  (17)[^17]\[or as amended by any of the laws specified in that Schedule\] (17)[^17);
+any of the laws specified in the First Schedule as in force immediately before the commencing day  (17)[^17]:\[or as amended by any of the laws specified in that Schedule\]: (17)[^17);
 
-(17)[^17]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 3 (with effect from May 4, 1974).
+(17)[^17]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 3 (with effect from May 4, 1974).
 
-(18)[^18]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for "the First Schedule, not being a law which relates to, or is connected with, economic reforms".
+(18)[^18]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 2 (with effect from November 21, 1975) for "the First Schedule, not being a law which relates to, or is connected with, economic reforms".
 
-(19)[^19]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(19)[^19]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(20)[^20]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
+(20)[^20]:  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)]:(/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
 
-(21)[^21]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
+(21)[^21]:  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)]:(/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "one month".
 
-(22)[^22]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "as soon as may be, but not later than one week".
+(22)[^22]:  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)]:(/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975) for "as soon as may be, but not later than one week".
 
-(23)[^23]  Inserted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975).
+(23)[^23]:  Inserted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)]:(/pakistan/constitution/amendments/3amendment.md), Article 2 (with effect from February 13, 1975).
 
-(24)[^24]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 5 (with effect from April 19, 2010).
+(24)[^24]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 5 (with effect from April 19, 2010).
 
-(25)[^25]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010) for :
+(25)[^25]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010) for :
 
 **17**
 
@@ -891,17 +884,17 @@ any of the laws specified in the First Schedule as in force immediately before t
 
 (1)
 
-Every citizen shall have the right to form associations or unions, subject to any reasonable restrictions imposed by law in the interest of  (26)[^26]\[sovereignty or integrity of Pakistan, public order or morality\] (26)[^26).
+Every citizen shall have the right to form associations or unions, subject to any reasonable restrictions imposed by law in the interest of  (26)[^26]:\[sovereignty or integrity of Pakistan, public order or morality\]: (26)[^26).
 
  
 
- (27)[^27]\[
+ (27)[^27]:\[
 
 (2)
 
-Every citizen, not being in the service of Pakistan, shall have the right to form or be a member of a political party, subject to any reasonable restrictions imposed by law in the interest of the sovereignty or integrity of Pakistan  (28)[^28]\[or public order\] (28)[^28)and such law shall provide that where the Federal Government declare that any political party has been formed or is operating in a manner prejudicial to the sovereignty or integrity of Pakistan  (29)[^29]\[or public order\] (29)[^29), the Federal Government shall, within fifteen days of such declaration, refer the matter to the Supreme Court whose decision on such reference shall be final (30)[^30]\[:\] (30)[^30)
+Every citizen, not being in the service of Pakistan, shall have the right to form or be a member of a political party, subject to any reasonable restrictions imposed by law in the interest of the sovereignty or integrity of Pakistan  (28)[^28]:\[or public order\]: (28)[^28)and such law shall provide that where the Federal Government declare that any political party has been formed or is operating in a manner prejudicial to the sovereignty or integrity of Pakistan  (29)[^29]:\[or public order\]: (29)[^29), the Federal Government shall, within fifteen days of such declaration, refer the matter to the Supreme Court whose decision on such reference shall be final (30)[^30]:\[:\]: (30)[^30)
 
- (31)[^31]\[**Provided** that no political party shall promote sectarian, ethnic, regional hatred or animosity, or be titled or constituted as a militant group or section.\] (31)[^31)
+ (31)[^31]:\[**Provided** that no political party shall promote sectarian, ethnic, regional hatred or animosity, or be titled or constituted as a militant group or section.\]: (31)[^31)
 
  
 
@@ -911,7 +904,7 @@ Every political party shall account for the source of its funds in accordance wi
 
  
 
-\] (27)[^27) (32)[^32]\[
+\]: (27)[^27) (32)[^32]:\[
 
 (4)
 
@@ -919,13 +912,13 @@ Every political party shall, subject to law, hold intra-party elections to elect
 
  
 
-\] (32)[^32)
+\]: (32)[^32)
 
  
 
-(26)[^26]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 3 (with effect from November 21, 1975) for "morality or public order".
+(26)[^26]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 3 (with effect from November 21, 1975) for "morality or public order".
 
-(27)[^27]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 4 (with effect from May 4, 1974) for :
+(27)[^27]:  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 4 (with effect from May 4, 1974) for :
 
 (2)
 
@@ -933,44 +926,34 @@ Every citizen not being in the service of Pakistan shall have the right to form 
 
  
 
-(28)[^28]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
+(28)[^28]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
 
-(29)[^29]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
+(29)[^29]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(a) (with effect from August 21, 2002).
 
-(30)[^30]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002) for ".".
+(30)[^30]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002) for ".".
 
-(31)[^31]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002).
+(31)[^31]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 1(b) (with effect from August 21, 2002).
 
-(32)[^32]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002).
+(32)[^32]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002).
 
-(33)[^33]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 4 (with effect from November 21, 1975) for "defamation".
+(33)[^33]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 4 (with effect from November 21, 1975) for "defamation".
 
-(34)[^34]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010).
+(34)[^34]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 6 (with effect from April 19, 2010).
 
-(35)[^35)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 8 (with effect from April 19, 2010) : "alone".
+(35)[^35)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 8 (with effect from April 19, 2010) : "alone".
 
-(36)[^36]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 9 (with effect from April 19, 2010).
+(36)[^36]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 9 (with effect from April 19, 2010).
 
-(37)[^37]  Substituted by [Constitution (Sixteenth Amendment) Act, 1999 (6 of 1999)](/pakistan/constitution/amendments/16amendment.md), Article 2 (with effect from August 5, 1999) for " (38)[^38]\[twenty\] (38)[^38)".
+(37)[^37]:  Substituted by [Constitution (Sixteenth Amendment) Act, 1999 (6 of 1999)]:(/pakistan/constitution/amendments/16amendment.md), Article 2 (with effect from August 5, 1999) for " (38)[^38]:\[twenty\]: (38)[^38)".
 
-(38)[^38]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 4 (with effect from March 2, 1985) for "ten".
+(38)[^38]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 4 (with effect from March 2, 1985) for "ten".
 
-(39)[^39]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010) for ".".
+(39)[^39]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010) for ".".
 
-(40)[^40]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(40)[^40]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 10 (with effect from April 19, 2010).
 
 * * *
 
-
-  Chapter 2: "Principles of Policy" of Part II: "Fundamental Rights and Principles of Policy"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part2.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -998,7 +981,7 @@ In so far as the observance of any particular Principle of Policy may be depende
 
 (3)
 
-In respect of each year, the President in relation to the affairs of the Federation, and the Governor of each Province in relation to the affairs of his Province, shall cause to be prepared and laid before the  (41)[^41]\[each House of Majlis-e-Shoora (Parliament)\] (41)[^41) or, as the case may be, the Provincial Assembly, a report on the observance and implementation of the Principles of Policy, and provision shall be made in the rules of procedure of the National Assembly  (42)[^42]\[and the Senate\] (42)[^42)or, as the case may be, the Provincial Assembly, for discussion on such report.
+In respect of each year, the President in relation to the affairs of the Federation, and the Governor of each Province in relation to the affairs of his Province, shall cause to be prepared and laid before the  (41)[^41]:\[each House of Majlis-e-Shoora (Parliament)\]: (41)[^41) or, as the case may be, the Provincial Assembly, a report on the observance and implementation of the Principles of Policy, and provision shall be made in the rules of procedure of the National Assembly  (42)[^42]:\[and the Senate\]: (42)[^42)or, as the case may be, the Provincial Assembly, for discussion on such report.
 
  
 
@@ -1046,7 +1029,7 @@ to promote unity and the observance of the Islamic moral standards; and
 
 (c)
 
-to secure the proper organisation of zakat,  (43)[^43]\[ushr, \] (43)[^43)auqaf and mosques.
+to secure the proper organisation of zakat,  (43)[^43]:\[ushr, \]: (43)[^43)auqaf and mosques.
 
  
 
@@ -1153,19 +1136,19 @@ provide basic necessities of life, such as food, clothing. housing, education an
 
 (e)
 
-reduce disparity in the income and earnings of individuals, including persons in the various classes of the service of Pakistan;  (44)[^44]\[\] (44)[^44)
+reduce disparity in the income and earnings of individuals, including persons in the various classes of the service of Pakistan;  (44)[^44]:\[\]: (44)[^44)
 
 (f)
 
-eliminate riba as early as possible (45)[^45]\[; and\] (45)[^45)
+eliminate riba as early as possible (45)[^45]:\[; and\]: (45)[^45)
 
- (46)[^46]\[
+ (46)[^46]:\[
 
 (g)
 
 the shares of the Provinces in all federal services, including autonomous bodies and corporations established by, or under the control of, the Federal Government, shall be secured and any omission in the allocation of the shares of the Provinces in the past shall be recitified.
 
-\] (46)[^46)
+\]: (46)[^46)
 
  
 
@@ -1187,29 +1170,22 @@ The State shall endeavour to preserve and strengthen fraternal relations among M
 
 ### Notes
 
-(41)[^41]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010) for "National Assembly".
+(41)[^41]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010) for "National Assembly".
 
-(42)[^42]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010).
+(42)[^42]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 11 (with effect from April 19, 2010).
 
-(43)[^43]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 5 (with effect from March 2, 1985).
+(43)[^43]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 5 (with effect from March 2, 1985).
 
-(44)[^44)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(i) (with effect from April 19, 2010) : "and".
+(44)[^44)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 12(i) (with effect from April 19, 2010) : "and".
 
-(45)[^45]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010) for ".".
+(45)[^45]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010) for ".".
 
-(46)[^46]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(46)[^46]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 12(ii) (with effect from April 19, 2010).
 
 * * *
 
-  Chapter 1: "The President" of Part III: "The Federation of Pakistan"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part3.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
+[**The Constitution of Pakistan**]:(/pakistan/constitution/) on (/)
 
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -1235,11 +1211,11 @@ A person shall not be qualified for election as President unless he is a Muslim 
 
  
 
- (47)[^47]\[
+ (47)[^47]:\[
 
 (3)
 
-The President  (48)[^48]\[\] (48)[^48) shall be elected in accordance with the provisions of the Second Schedule by the members of an electoral college consisting of:
+The President  (48)[^48]:\[\]: (48)[^48) shall be elected in accordance with the provisions of the Second Schedule by the members of an electoral college consisting of:
 
 (a)
 
@@ -1251,7 +1227,7 @@ the members of the Provincial Assemblies.
 
  
 
-\] (47)[^47)
+\]: (47)[^47)
 
 (4)
 
@@ -1275,7 +1251,7 @@ The validity of the election of the President shall not be called in question by
 
  
 
- (49)[^49]\[\] (49)[^49)
+ (49)[^49]:\[\]: (49)[^49)
 
  
 
@@ -1298,7 +1274,7 @@ The President shall not hold any office of profit in the service of Pakistan or 
 
 (2)
 
-The President shall not be a candidate for election as a member of  (54)[^54]\[Majlis-e-Shoora (Parliament)\] (54)[^54) or a Provincial Assembly; and, if a member of  (55)[^55]\[Majlis-e-Shoora (Parliament)\] (55)[^55) or a Provincial Assembly is elected as President, his seat in  (56)[^56]\[Majlis-e-Shoora (Parliament)\] (56)[^56) or, as the case may be, the Provincial Assembly shall become vacant on the day he enters upon his office.
+The President shall not be a candidate for election as a member of  (54)[^54]:\[Majlis-e-Shoora (Parliament)\]: (54)[^54) or a Provincial Assembly; and, if a member of  (55)[^55]:\[Majlis-e-Shoora (Parliament)\]: (55)[^55) or a Provincial Assembly is elected as President, his seat in  (56)[^56]:\[Majlis-e-Shoora (Parliament)\]: (56)[^56) or, as the case may be, the Provincial Assembly shall become vacant on the day he enters upon his office.
 
  
 
@@ -1337,7 +1313,7 @@ The President shall have power to grant pardon, reprieve and respite, and to rem
 
  
 
- (57)[^57]\[
+ (57)[^57]:\[
 
 **46.**
 
@@ -1346,12 +1322,12 @@ The Prime Minister shall keep the President informed on all matters of internal 
 
  
 
-\] (57)[^57)
+\]: (57)[^57)
 
 **47**
 
-**Removal  (59)[^59]\[or impeachment\] (59)[^59) of President.**  
- (60)[^60]\[
+**Removal  (59)[^59]:\[or impeachment\]: (59)[^59) of President.**  
+ (60)[^60]:\[
 
 (1)
 
@@ -1365,7 +1341,7 @@ Not less than one-half of the total membership of either House may give to the S
 
  
 
-\] (60)[^60)
+\]: (60)[^60)
 
 (3)
 
@@ -1399,13 +1375,13 @@ The President shall have the right to appear and be represented during the inves
 
 (8)
 
-If, after consideration of the result of the investigation, if any, a resolution is passed at the joint sitting by the votes of not less than two-thirds of the total membership of  (61)[^61]\[Majlis-e-Shoora (Parliament)\] (61)[^61) declaring that the President is unfit to hold the office due to incapacity or is guilty of violating the Constitution or of gross misconduct, the President shall cease to hold office immediately on the passing of the resolution.
+If, after consideration of the result of the investigation, if any, a resolution is passed at the joint sitting by the votes of not less than two-thirds of the total membership of  (61)[^61]:\[Majlis-e-Shoora (Parliament)\]: (61)[^61) declaring that the President is unfit to hold the office due to incapacity or is guilty of violating the Constitution or of gross misconduct, the President shall cease to hold office immediately on the passing of the resolution.
 
  
 
  
 
- (62)[^62]\[
+ (62)[^62]:\[
 
 **48**
 
@@ -1413,19 +1389,19 @@ If, after consideration of the result of the investigation, if any, a resolution
 
 (1)
 
-In the exercise of his functions, the President shall act  (63)[^63]\[on and\] (63)[^63) in accordance with the advice of the Cabinet  (64)[^64]\[or the Prime Minister\] (64)[^64):
+In the exercise of his functions, the President shall act  (63)[^63]:\[on and\]: (63)[^63) in accordance with the advice of the Cabinet  (64)[^64]:\[or the Prime Minister\]: (64)[^64):
 
- (65)[^65]\[**Provided** that  (66)[^66]\[after fifteen days\] (66)[^66) the President may require the Cabinet or as the case may be, the Prime Minister to reconsider such advice, either generally or otherwise, and the President shall  (67)[^67]\[, within ten days, \] (67)[^67) act in accordance with the advice tendered after such reconsideration.\] (65)[^65)
+ (65)[^65]:\[**Provided** that  (66)[^66]:\[after fifteen days\]: (66)[^66) the President may require the Cabinet or as the case may be, the Prime Minister to reconsider such advice, either generally or otherwise, and the President shall  (67)[^67]:\[, within ten days, \]: (67)[^67) act in accordance with the advice tendered after such reconsideration.\]: (65)[^65)
 
  
 
 (2)
 
-Notwithstanding anything contained in clause (1), the President shall act in his discretion in respect of any matter in respect of which he is empowered by the Constitution to do so  (68)[^68]\[and the validity of anything done by the President in his discretion shall not be called in question on any ground whatsoever\] (68)[^68).
+Notwithstanding anything contained in clause (1), the President shall act in his discretion in respect of any matter in respect of which he is empowered by the Constitution to do so  (68)[^68]:\[and the validity of anything done by the President in his discretion shall not be called in question on any ground whatsoever\]: (68)[^68).
 
  
 
- (69)[^69]\[\] (69)[^69)
+ (69)[^69]:\[\]: (69)[^69)
 
 (4)
 
@@ -1433,7 +1409,7 @@ The question whether any, and if so what, advice was tendered to the President b
 
  
 
- (70)[^70]\[
+ (70)[^70]:\[
 
 (5)
 
@@ -1445,11 +1421,11 @@ appoint a date, not later than ninety days from the date of the dissolution, for
 
 (b)
 
-appoint a care-taker Cabinet  (71)[^71]\[in accordance with the provisions of Article 224 or, as the case may be, Article 224-A\] (71)[^71).
+appoint a care-taker Cabinet  (71)[^71]:\[in accordance with the provisions of Article 224 or, as the case may be, Article 224-A\]: (71)[^71).
 
  
 
-\] (70)[^70) (73)[^73]\[
+\]: (70)[^70) (73)[^73]:\[
 
 (6)
 
@@ -1457,7 +1433,7 @@ If at any time the Prime Minister considers it necessary to hold a referendum on
 
  
 
-\] (73)[^73)
+\]: (73)[^73)
 
 (7)
 
@@ -1467,7 +1443,7 @@ An act of Majlis-e-Shoora (Parliament) may lay down the procedure for the holdin
 
  
 
-\] (62)[^62)
+\]: (62)[^62)
 
 **49**
 
@@ -1491,7 +1467,7 @@ When the President, by reason of absence from Pakistan or any other cause, is un
 
 ### Notes
 
-(47)[^47]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 6(1) (with effect from March 2, 1985) for :
+(47)[^47]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 6(1) (with effect from March 2, 1985) for :
 
 (3)
 
@@ -1499,11 +1475,11 @@ The President shall be elected by the members of Parliament in joint sitting in 
 
  
 
-(48)[^48)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 13(i) (with effect from April 19, 2010) : "to be elected after the expiration of the term specified in clause (7)".
+(48)[^48)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 13(i) (with effect from April 19, 2010) : "to be elected after the expiration of the term specified in clause (7)".
 
-(49)[^49)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 13(ii) (with effect from April 19, 2010) : :
+(49)[^49)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 13(ii) (with effect from April 19, 2010) : :
 
- (50)[^50]\[
+ (50)[^50]:\[
 
 (7)
 
@@ -1517,11 +1493,11 @@ shall relinquish the office of Chief Executive on such day as he may determine i
 
 having received the democratic mandate to serve the nation as President of Pakistan for a period of five years shall, on relinquishing the office of the Chief Executive, notwithstanding anything contained in this Article or Article 43 or any other provision of the Constitution or any other law for the time being in force, assume the office of President of Pakistan forthwith and shall hold office for a term of five years under the Constitution, and Article 44 and other provisions of the Constitution shall apply accordingly.
 
- (52)[^52]\[**Provided** that paragraph (d) of clause (1) of Article 63 shall become operative on and from the 31st day of December, 2004.\] (52)[^52)
+ (52)[^52]:\[**Provided** that paragraph (d) of clause (1) of Article 63 shall become operative on and from the 31st day of December, 2004.\]: (52)[^52)
 
  
 
-\] (50)[^50) (53)[^53]\[
+\]: (50)[^50) (53)[^53]:\[
 
 (8)
 
@@ -1537,11 +1513,11 @@ Notwithstanding anything contained in the Constitution or any other law for the 
 
  
 
-\] (53)[^53)
+\]: (53)[^53)
 
-(50)[^50]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002) for :
+(50)[^50]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 2 (with effect from August 21, 2002) for :
 
- (51)[^51]\[
+ (51)[^51]:\[
 
 (7)
 
@@ -1549,23 +1525,23 @@ Notwithstanding anything contained in this Article or Article 43, or any other A
 
  
 
-\] (51)[^51)
+\]: (51)[^51)
 
-(51)[^51]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 6(2) (with effect from March 2, 1985).
+(51)[^51]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 6(2) (with effect from March 2, 1985).
 
-(52)[^52]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 2(1) (with effect from December 31, 2003).
+(52)[^52]:  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 2(1) (with effect from December 31, 2003).
 
-(53)[^53]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 2(2) (with effect from December 31, 2003).
+(53)[^53]:  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 2(2) (with effect from December 31, 2003).
 
-(54)[^54]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(54)[^54]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(55)[^55]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(55)[^55]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(56)[^56]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(56)[^56]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(57)[^57]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 14 (with effect from April 19, 2010) for :
+(57)[^57]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 14 (with effect from April 19, 2010) for :
 
- (58)[^58]\[
+ (58)[^58]:\[
 
 **46**
 
@@ -1586,9 +1562,9 @@ if the President so requires, to submit for the consideration of the Cabinet any
 
  
 
-\] (58)[^58)
+\]: (58)[^58)
 
-(58)[^58]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 7 (with effect from March 2, 1985) for :
+(58)[^58]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 7 (with effect from March 2, 1985) for :
 
 **46**
 
@@ -1597,9 +1573,9 @@ The Prime Minister shall keep the President informed on matters of internal and 
 
  
 
-(59)[^59]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 8(1) (with effect from March 2, 1985).
+(59)[^59]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 8(1) (with effect from March 2, 1985).
 
-(60)[^60]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 8(2) (with effect from March 2, 1985) for :
+(60)[^60]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 8(2) (with effect from March 2, 1985) for :
 
 (1)
 
@@ -1613,9 +1589,9 @@ Not less than one-half of the total membership of either House may give to the S
 
  
 
-(61)[^61]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(61)[^61]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(62)[^62]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 9 (with effect from March 2, 1985) for :
+(62)[^62]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 9 (with effect from March 2, 1985) for :
 
 **48**
 
@@ -1641,21 +1617,21 @@ Save as otherwise provided in any rules made under Article 99, the orders of the
 
  
 
-(63)[^63]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(a) (with effect from April 19, 2010).
+(63)[^63]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(a) (with effect from April 19, 2010).
 
-(64)[^64]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(a)(i) (with effect from November 9, 1985) for "the Prime Minister or appropriate Minister".
+(64)[^64]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 2(a)(i) (with effect from November 9, 1985) for "the Prime Minister or appropriate Minister".
 
-(65)[^65]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(a)(ii) (with effect from November 9, 1985) for :
+(65)[^65]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 2(a)(ii) (with effect from November 9, 1985) for :
 
 **Provided** that the President may require the Cabinet to reconsider or consider such advice, as the case may be either generally or otherwise, and the President shall act in accordance with the advice tendered after such reconsideration or consideration.
 
-(66)[^66]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
+(66)[^66]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
 
-(67)[^67]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
+(67)[^67]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 15(i)(b) (with effect from April 19, 2010).
 
-(68)[^68]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(b) (with effect from November 9, 1985).
+(68)[^68]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 2(b) (with effect from November 9, 1985).
 
-(69)[^69)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(c) (with effect from November 9, 1985) : :
+(69)[^69)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 2(c) (with effect from November 9, 1985) : :
 
 (3)
 
@@ -1663,7 +1639,7 @@ If any question arises whether any matter is or is not a matter in respect of wh
 
  
 
-(70)[^70]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(ii) (with effect from April 19, 2010) for :
+(70)[^70]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 15(ii) (with effect from April 19, 2010) for :
 
 (5)
 
@@ -1671,7 +1647,7 @@ Where the President dissolves the National Assembly, he shall, in his discretion
 
 (a)
 
-appoint a date, not later than  (72)[^72]\[ninety\] (72)[^72) days from the date of the dissolution, for the holding of a general election to the Assembly; and
+appoint a date, not later than  (72)[^72]:\[ninety\]: (72)[^72) days from the date of the dissolution, for the holding of a general election to the Assembly; and
 
 (b)
 
@@ -1679,11 +1655,11 @@ appoint a care-taker Cabinet.
 
  
 
-(71)[^71]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 2 (with effect from February 28, 2012).
+(71)[^71]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 2 (with effect from February 28, 2012).
 
-(72)[^72]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 2(d) (with effect from November 9, 1985) for "one hundred".
+(72)[^72]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 2(d) (with effect from November 9, 1985) for "one hundred".
 
-(73)[^73]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 15(iii) (with effect from April 19, 2010) for :
+(73)[^73]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 15(iii) (with effect from April 19, 2010) for :
 
 (6)
 
@@ -1693,15 +1669,6 @@ If, at any time, the President, in his discretion, or on the advice of the Prime
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-  Chapter 2: "Majlis-e-Shoora (Parliament)" of Part III: "The Federation of Pakistan"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part3.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -1711,9 +1678,9 @@ Part III: The Federation of Pakistan
 Chapter 2: Majlis-e-Shoora (Parliament)
 ---------------------------------------
 
-### Composition, Duration and Meetings of  (74)[^74]\[Majlis-e-Shoora (Parliament)\] (74)[^74)
+### Composition, Duration and Meetings of  (74)[^74]:\[Majlis-e-Shoora (Parliament)\]: (74)[^74)
 
- (75)[^75]\[
+ (75)[^75]:\[
 
 **50**
 
@@ -1722,8 +1689,8 @@ There shall be a Majlis-e-Shoora (Parliament) of Pakistan consisting of the Pres
 
  
 
-\] (75)[^75)  
- (76)[^76]\[
+\]: (75)[^75)  
+ (76)[^76]:\[
 
 **51.**
 
@@ -1731,7 +1698,7 @@ There shall be a Majlis-e-Shoora (Parliament) of Pakistan consisting of the Pres
 
 (1)
 
-There shall be  (77)[^77]\[three hundred and thirty-six\] (77)[^77) seats for members in the National Assembly, including seats reserved for women and non-Muslims.
+There shall be  (77)[^77]:\[three hundred and thirty-six\]: (77)[^77) seats for members in the National Assembly, including seats reserved for women and non-Muslims.
 
  
 
@@ -1757,7 +1724,7 @@ he is not declared by a competent court to be of unsound mind;
 
  
 
- (78)[^78]\[
+ (78)[^78]:\[
 
 (3)
 
@@ -1819,7 +1786,7 @@ Total
 
  
 
-\] (78)[^78) (80)[^80]\[
+\]: (78)[^78) (80)[^80]:\[
 
 (3A)
 
@@ -1827,7 +1794,7 @@ Notwithstanding anything contained in clause (l) or any other law for the time b
 
  
 
-\] (80)[^80)
+\]: (80)[^80)
 
 (4)
 
@@ -1835,17 +1802,17 @@ In addition to the number of seats referred to in clause (3), there shall be, in
 
  
 
- (81)[^81]\[
+ (81)[^81]:\[
 
 (5)
 
- (82)[^82]\[\] (82)[^82) (83)[^83]\[The\] (83)[^83) seats in the National Assembly shall be allocated to each province and the Federal Capital on the basis of population in accordance with the last preceding census officially published:
+ (82)[^82]:\[\]: (82)[^82) (83)[^83]:\[The\]: (83)[^83) seats in the National Assembly shall be allocated to each province and the Federal Capital on the basis of population in accordance with the last preceding census officially published:
 
 **Provided** that for purposes of the next general elections to be held in 2018 and bye-elections related thereto, the allocation shall be made on the basis of provisional results of the 2017 census which shall be published by the Federal Government.
 
  
 
-\] (81)[^81)
+\]: (81)[^81)
 
 (6)
 
@@ -1879,7 +1846,7 @@ members to the seats reserved for non-Muslims shall be elected in accordance wit
 
  
 
-\] (76)[^76)
+\]: (76)[^76)
 
 **52**
 
@@ -1960,17 +1927,17 @@ When the National Assembly is dissolved the Speaker shall continue in his office
 
 (1)
 
-The President may, from time to time, summon either House or both Houses of  (100)[^100]\[Majlis-e-Shoora (Parliament)\] (100)[^100) in joint sitting to meet at such time and place as he thinks fit and may also prorogue the same.
+The President may, from time to time, summon either House or both Houses of  (100)[^100]:\[Majlis-e-Shoora (Parliament)\]: (100)[^100) in joint sitting to meet at such time and place as he thinks fit and may also prorogue the same.
 
  
 
 (2)
 
-There shall be at least  (101)[^101]\[three\] (101)[^101) sessions of the National Assembly every year, and not more than one hundred and twenty days shall intervene between the last sitting of the Assembly in one session and the date appointed for its first sitting in the next session:
+There shall be at least  (101)[^101]:\[three\]: (101)[^101) sessions of the National Assembly every year, and not more than one hundred and twenty days shall intervene between the last sitting of the Assembly in one session and the date appointed for its first sitting in the next session:
 
-**Provided** that the National Assembly shall meet for not less than one hundred and  (102)[^102]\[thirty\] (102)[^102) working days in each year.
+**Provided** that the National Assembly shall meet for not less than one hundred and  (102)[^102]:\[thirty\]: (102)[^102) working days in each year.
 
- (104)[^104]\[**Explanation:** In this clause, "working days" includes any day on which there is a joint sitting and any period, not exceeding two days for which the National Assembly is adjourned.\] (104)[^104)
+ (104)[^104]:\[**Explanation:** In this clause, "working days" includes any day on which there is a joint sitting and any period, not exceeding two days for which the National Assembly is adjourned.\]: (104)[^104)
 
  
 
@@ -2004,13 +1971,13 @@ If at any time during a sitting of the National Assembly the attention of the pe
 
 **Address by President**  
 
- (105)[^105]\[(1)\] (105)[^105)
+ (105)[^105]:\[(1)\]: (105)[^105)
 
 The President may address either House or both Houses assembled together and may for that purpose require the attendance of the members.
 
  
 
- (106)[^106]\[
+ (106)[^106]:\[
 
 (2)
 
@@ -2018,7 +1985,7 @@ The President may send messages to either House, whether with respect to a Bill 
 
  
 
- (107)[^107]\[
+ (107)[^107]:\[
 
 (3)
 
@@ -2026,7 +1993,7 @@ At the commencement of the first session after each general election to the Nati
 
  
 
-\] (107)[^107)
+\]: (107)[^107)
 
 (4)
 
@@ -2034,7 +2001,7 @@ Provision shall be made in the rules for regulating the procedure of a House and
 
  
 
-\] (106)[^106)
+\]: (106)[^106)
 
  
 
@@ -2045,7 +2012,7 @@ The Prime Minister, a Federal Minister, a Minister of State and the Attorney Gen
 
  
 
- (108)[^108]\[
+ (108)[^108]:\[
 
 **58.**
 
@@ -2067,8 +2034,8 @@ Notwithstanding anything contained in clause (2) or Article 48, the President ma
 
  
 
-\] (108)[^108)  
- (117)[^117]\[
+\]: (108)[^108)  
+ (117)[^117]:\[
 
 **59.**
 
@@ -2076,13 +2043,13 @@ Notwithstanding anything contained in clause (2) or Article 48, the President ma
 
 (1)
 
-The Senate shall consist of  (118)[^118]\[ninety-six\] (118)[^118), of whom-
+The Senate shall consist of  (118)[^118]:\[ninety-six\]: (118)[^118), of whom-
 
 (a)
 
 fourteen shall be elected by the members of each Provincial Assembly;
 
- (119)[^119]\[\] (119)[^119)
+ (119)[^119]:\[\]: (119)[^119)
 
 (c)
 
@@ -2118,7 +2085,7 @@ The Senate shall not be subject to dissolution but the term of its members, who 
 
 of the members referred to in paragraph (a) of clause (1), seven shall retire after the expiration of the first three years and seven shall retire after the expiration of the next three years;
 
- (120)[^120]\[\] (120)[^120)
+ (120)[^120]:\[\]: (120)[^120)
 
 (c)
 
@@ -2148,7 +2115,7 @@ of the members referred to in paragraph (f) of the aforesaid clause, two shall r
 
  
 
- (121)[^121]\[
+ (121)[^121]:\[
 
 (3A)
 
@@ -2156,7 +2123,7 @@ Notwithstanding the omission of paragraph (b) of clause (1) and the omission of 
 
  
 
-\] (121)[^121)
+\]: (121)[^121)
 
 (4)
 
@@ -2166,7 +2133,7 @@ The term of office of a person elected to fill a casual vacancy shall be the une
 
  
 
-\] (117)[^117)
+\]: (117)[^117)
 
 **60**
 
@@ -2180,7 +2147,7 @@ After the Senate has been duly constituted, it shall, at its first meeting and t
 
 (2)
 
-The term of office of the Chairman or Deputy Chairman shall be  (137)[^137]\[three\] (137)[^137) years from the day on which he enters upon his office.
+The term of office of the Chairman or Deputy Chairman shall be  (137)[^137]:\[three\]: (137)[^137) years from the day on which he enters upon his office.
 
  
 
@@ -2189,13 +2156,13 @@ The term of office of the Chairman or Deputy Chairman shall be  (137)[^137]\[th
 **61**
 
 **Other provisions relating to Senate.**  
-The provisions of clauses (2) to (7) of Article 53, clauses (2) and (3) of Article 54 and Article 55 shall apply to the Senate as they apply to the National Assembly and, in their application to the Senate, shall have effect as if references therein to the National Assembly, Speaker and Deputy Speaker were references, respectively, to the Senate, Chairman and Deputy Chairman  (138)[^138]\[and as if, in the proviso to the said clause (2) of Article 54, for the words " (139)[^139]\[one hundred and thirty\] (139)[^139)" the word " (141)[^141]\[one hundred and ten\] (141)[^141)" were substituted\] (138)[^138).
+The provisions of clauses (2) to (7) of Article 53, clauses (2) and (3) of Article 54 and Article 55 shall apply to the Senate as they apply to the National Assembly and, in their application to the Senate, shall have effect as if references therein to the National Assembly, Speaker and Deputy Speaker were references, respectively, to the Senate, Chairman and Deputy Chairman  (138)[^138]:\[and as if, in the proviso to the said clause (2) of Article 54, for the words " (139)[^139]:\[one hundred and thirty\]: (139)[^139)" the word " (141)[^141]:\[one hundred and ten\]: (141)[^141)" were substituted\]: (138)[^138).
 
  
 
-### Provisions as to Members of  (142)[^142]\[Parliament\] (142)[^142)
+### Provisions as to Members of  (142)[^142]:\[Parliament\]: (142)[^142)
 
- (143)[^143]\[
+ (143)[^143]:\[
 
 **62.**
 
@@ -2223,7 +2190,7 @@ any area in a Province from which she seeks membership for election to a seat re
 
 (c)
 
-he is, in the case of Senate, not less than thirty years of age and is enrolled as a voter in any area in a Province or, as the case may be, the Federal Capital  (144)[^144]\[\] (144)[^144), from where he seeks membership;
+he is, in the case of Senate, not less than thirty years of age and is enrolled as a voter in any area in a Province or, as the case may be, the Federal Capital  (144)[^144]:\[\]: (144)[^144), from where he seeks membership;
 
 (d)
 
@@ -2251,8 +2218,8 @@ The disqualifications specified in paragraphs (d) and (e) shall not apply to a p
 
  
 
-\] (143)[^143)  
- (146)[^146]\[
+\]: (143)[^143)  
+ (146)[^146]:\[
 
 **63.**
 
@@ -2376,8 +2343,8 @@ The Election Commission shall decide the question within ninety days from its re
 
  
 
-\] (146)[^146)  
- (154)[^154]\[
+\]: (146)[^146)  
+ (154)[^154]:\[
 
 **63A.**
 
@@ -2469,7 +2436,7 @@ Article 63A substituted as aforesaid shall come into effect from the next genera
 
  
 
-\] (154)[^154)
+\]: (154)[^154)
 
 **64**
 
@@ -2477,7 +2444,7 @@ Article 63A substituted as aforesaid shall come into effect from the next genera
 
 (1)
 
-A Member of  (157)[^157]\[Majlis-e-Shoora (Parliament)\] (157)[^157) may, by writing under his hand addressed to the Speaker or, as the case may be, the Chairman resign his seat, and thereupon his seat shall become vacant.
+A Member of  (157)[^157]:\[Majlis-e-Shoora (Parliament)\]: (157)[^157) may, by writing under his hand addressed to the Speaker or, as the case may be, the Chairman resign his seat, and thereupon his seat shall become vacant.
 
  
 
@@ -2502,13 +2469,13 @@ A person elected to a House shall not sit or vote until he has made before the H
 
 (1)
 
-Subject to the Constitution and to the rules of procedure of  (158)[^158]\[Majlis-e-Shoora (Parliament)\] (158)[^158), there shall be freedom of speech in  (159)[^159]\[Majlis-e-Shoora (Parliament)\] (159)[^159) and no member shall be liable to any proceedings in any court in respect of anything said or any vote given by him in  (160)[^160]\[Majlis-e-Shoora (Parliament)\] (160)[^160), and no person shall be so liable in respect of the publication by or under the authority of  (161)[^161]\[Majlis-e-Shoora (Parliament)\] (161)[^161) of any report, paper, votes or proceedings.
+Subject to the Constitution and to the rules of procedure of  (158)[^158]:\[Majlis-e-Shoora (Parliament)\]: (158)[^158), there shall be freedom of speech in  (159)[^159]:\[Majlis-e-Shoora (Parliament)\]: (159)[^159) and no member shall be liable to any proceedings in any court in respect of anything said or any vote given by him in  (160)[^160]:\[Majlis-e-Shoora (Parliament)\]: (160)[^160), and no person shall be so liable in respect of the publication by or under the authority of  (161)[^161]:\[Majlis-e-Shoora (Parliament)\]: (161)[^161) of any report, paper, votes or proceedings.
 
  
 
 (2)
 
-In other respects, the powers, immunities and privileges of  (162)[^162]\[Majlis-e-Shoora, (Parliament)\] (162)[^162), and the immunities and privileges of the members of  (163)[^163]\[Majlis-e-Shoora (Parliament)\] (163)[^163), shall be such as may from time to time be defined by law and, until so defined, shall be such as were, immediately before the commencing day, enjoyed by the National Assembly of Pakistan and the committees thereof and its members.
+In other respects, the powers, immunities and privileges of  (162)[^162]:\[Majlis-e-Shoora, (Parliament)\]: (162)[^162), and the immunities and privileges of the members of  (163)[^163]:\[Majlis-e-Shoora (Parliament)\]: (163)[^163), shall be such as may from time to time be defined by law and, until so defined, shall be such as were, immediately before the commencing day, enjoyed by the National Assembly of Pakistan and the committees thereof and its members.
 
  
 
@@ -2530,13 +2497,13 @@ shall have effect subject to such Order for safeguarding confidential matters fr
 
 (4)
 
-The provisions of this Article shall apply to person s who have the right to speak in, and otherwise to take part in the proceedings of,  (164)[^164]\[Majlis-e-Shoora (Parliament)\] (164)[^164) as they apply to members.
+The provisions of this Article shall apply to person s who have the right to speak in, and otherwise to take part in the proceedings of,  (164)[^164]:\[Majlis-e-Shoora (Parliament)\]: (164)[^164) as they apply to members.
 
  
 
 (5)
 
-In this Article,  (165)[^165]\[Majlis-e-Shoora (Parliament)\] (165)[^165) means either House or a joint sitting, or a committee thereof.
+In this Article,  (165)[^165]:\[Majlis-e-Shoora (Parliament)\]: (165)[^165) means either House or a joint sitting, or a committee thereof.
 
  
 
@@ -2565,7 +2532,7 @@ Until rules are made under clause (1), the procedure and conduct of business in 
 **68**
 
 **Restriction on discussion in Majlis-e-Shoora (Parliament).**  
-No discussion shall take place in  (167)[^167]\[Majlis-e-Shoora (Parliament)\] (167)[^167) with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties.
+No discussion shall take place in  (167)[^167]:\[Majlis-e-Shoora (Parliament)\]: (167)[^167) with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties.
 
  
 
@@ -2575,19 +2542,19 @@ No discussion shall take place in  (167)[^167]\[Majlis-e-Shoora (Parliament)\]�
 
 (1)
 
-The validity of any proceedings in  (168)[^168]\[Majlis-e-Shoora (Parliament)\] (168)[^168) shall not be called in question on the ground of any irregularity of procedure.
+The validity of any proceedings in  (168)[^168]:\[Majlis-e-Shoora (Parliament)\]: (168)[^168) shall not be called in question on the ground of any irregularity of procedure.
 
  
 
 (2)
 
-No officer or member of  (169)[^169]\[Majlis-e-Shoora (Parliament)\] (169)[^169) in whom powers are vested by or under the Constitution for regulating procedure or the conduct of business, or for maintaining order in  (170)[^170]\[Majlis-e-Shoora (Parliament)\] (170)[^170), shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.
+No officer or member of  (169)[^169]:\[Majlis-e-Shoora (Parliament)\]: (169)[^169) in whom powers are vested by or under the Constitution for regulating procedure or the conduct of business, or for maintaining order in  (170)[^170]:\[Majlis-e-Shoora (Parliament)\]: (170)[^170), shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.
 
  
 
 (3)
 
-In this Article,  (171)[^171]\[Majlis-e-Shoora (Parliament)\] (171)[^171) has the same meaning as in Article 66.
+In this Article,  (171)[^171]:\[Majlis-e-Shoora (Parliament)\]: (171)[^171) has the same meaning as in Article 66.
 
  
 
@@ -2595,7 +2562,7 @@ In this Article,  (171)[^171]\[Majlis-e-Shoora (Parliament)\] (171)[^171) has 
 
 ### Legislative Procedure
 
- (172)[^172]\[
+ (172)[^172]:\[
 
 **70.**
 
@@ -2627,8 +2594,8 @@ In this Article and the succeeding provisions of the Constitution, "Federal Legi
 
  
 
-\] (172)[^172)  
- (175)[^175]\[\] (175)[^175) (176)[^176]\[\] (176)[^176)
+\]: (172)[^172)  
+ (175)[^175]:\[\]: (175)[^175) (176)[^176]:\[\]: (176)[^176)
 
 **72**
 
@@ -2663,7 +2630,7 @@ Subject to the Constitution, all decisions at a joint sitting shall be taken by 
 **73**
 
 **Procedure with respect to Money Bill.**  
- (178)[^178]\[
+ (178)[^178]:\[
 
 (1)
 
@@ -2679,7 +2646,7 @@ The National Assembly shall consider the recommendations of the Senate and after
 
  
 
-\] (178)[^178)
+\]: (178)[^178)
 
 (2)
 
@@ -2746,11 +2713,11 @@ Every Money Bill presented to the President for assent shall bear a certificate 
 **74**
 
 **Federal Government's consent required for financial measures.**  
-A Money Bill or a Bill or amendment which if enacted and brought into operation would involve expenditure from the Federal Consolidated Fund or withdrawal from the Public Account of the Federation or affect the coinage or currency of Pakistan or the constitution or functions of the State Bank of Pakistan shall not be introduced or moved in  (181)[^181]\[Majlis-e-Shoora (Parliament)\] (181)[^181) except by or with the consent of the Federal Government.
+A Money Bill or a Bill or amendment which if enacted and brought into operation would involve expenditure from the Federal Consolidated Fund or withdrawal from the Public Account of the Federation or affect the coinage or currency of Pakistan or the constitution or functions of the State Bank of Pakistan shall not be introduced or moved in  (181)[^181]:\[Majlis-e-Shoora (Parliament)\]: (181)[^181) except by or with the consent of the Federal Government.
 
  
 
- (182)[^182]\[
+ (182)[^182]:\[
 
 **75**
 
@@ -2758,7 +2725,7 @@ A Money Bill or a Bill or amendment which if enacted and brought into operation 
 
 (1)
 
-When a Bill is presented to the President for assent, the President shall, within  (183)[^183]\[ten\] (183)[^183) days,-
+When a Bill is presented to the President for assent, the President shall, within  (183)[^183]:\[ten\]: (183)[^183) days,-
 
 (a)
 
@@ -2770,7 +2737,7 @@ in the case of a Bill other than a Money Bill, return the Bill to the Majlis-e-S
 
  
 
- (185)[^185]\[
+ (185)[^185]:\[
 
 (2)
 
@@ -2778,11 +2745,11 @@ When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it s
 
  
 
-\] (185)[^185)
+\]: (185)[^185)
 
 (3)
 
-When the President has assented  (189)[^189]\[or is deemed to have assented\] (189)[^189) to a Bill, it shall become law and be called an Act of Majlis-e-Shoora (Parliament).
+When the President has assented  (189)[^189]:\[or is deemed to have assented\]: (189)[^189) to a Bill, it shall become law and be called an Act of Majlis-e-Shoora (Parliament).
 
  
 
@@ -2794,7 +2761,7 @@ No act of Majlis-e-Shoora (Parliament), and no provision in any such Act, shall 
 
  
 
-\] (182)[^182)
+\]: (182)[^182)
 
 **76**
 
@@ -2823,7 +2790,7 @@ A Bill pending in the National Assembly, or a Bill which having been passed by t
 **77**
 
 **Tax to be levied by law only.**  
-No tax shall be levied for the purposes of the Federation except by or under the authority of Act of  (190)[^190]\[Majlis-e-Shoora (Parliament)\] (190)[^190)
+No tax shall be levied for the purposes of the Federation except by or under the authority of Act of  (190)[^190]:\[Majlis-e-Shoora (Parliament)\]: (190)[^190)
 
  
 
@@ -2858,7 +2825,7 @@ shall be credited to the Public Account of the Federation.
 **79**
 
 **Custody, etc., of Federal Consolidated Fund and Public Account.**  
-The custody of the Federal Consolidated Fund, the payment Or moneys into that Fund, the withdrawal of moneys therefrom, the custody of other moneys received by or on behalf of the Federal Government, their payment into, and withdrawal from, the Public Account of the Federation, and all matters connected with or ancillary to the matters aforesaid shall be regulated by Act of  (191)[^191]\[Majlis-e-Shoora (Parliament)\] (191)[^191) or, until provision in that behalf is so made, by rules made by the President.
+The custody of the Federal Consolidated Fund, the payment Or moneys into that Fund, the withdrawal of moneys therefrom, the custody of other moneys received by or on behalf of the Federal Government, their payment into, and withdrawal from, the Public Account of the Federation, and all matters connected with or ancillary to the matters aforesaid shall be regulated by Act of  (191)[^191]:\[Majlis-e-Shoora (Parliament)\]: (191)[^191) or, until provision in that behalf is so made, by rules made by the President.
 
  
 
@@ -2899,7 +2866,7 @@ the remuneration payable to the President and other expenditure relating to his 
 
 (i)
 
-the Judges of the Supreme Court  (192)[^192]\[and the Islamabad High Court\] (192)[^192);
+the Judges of the Supreme Court  (192)[^192]:\[and the Islamabad High Court\]: (192)[^192);
 
 (ii)
 
@@ -2917,13 +2884,13 @@ the Speaker and the Deputy Speaker of the National Assembly;
 
 the Auditor-General;
 
- (193)[^193]\[
+ (193)[^193]:\[
 
 (b)
 
-the administrative expenses, including the remuneration payable to officers and  (194)[^194]\[staff\] (194)[^194) of the Supreme Court, the Islamabad High Court, the department of the Auditor-General, the Office of the Chief Election Commissioner and of the Election Commission and the Secretariats of the Senate and the National Assembly;
+the administrative expenses, including the remuneration payable to officers and  (194)[^194]:\[staff\]: (194)[^194) of the Supreme Court, the Islamabad High Court, the department of the Auditor-General, the Office of the Chief Election Commissioner and of the Election Commission and the Secretariats of the Senate and the National Assembly;
 
-\] (193)[^193)
+\]: (193)[^193)
 
 (c)
 
@@ -2935,7 +2902,7 @@ any sums required to satisfy any judgment, decree or award against Pakistan by a
 
 (e)
 
-any other sums declared by the Constitution or by Act of  (195)[^195]\[Majlis-e-Shoora (Parliament)\] (195)[^195) to be so charged.
+any other sums declared by the Constitution or by Act of  (195)[^195]:\[Majlis-e-Shoora (Parliament)\]: (195)[^195) to be so charged.
 
  
 
@@ -3042,13 +3009,13 @@ Each House shall have a separate Secretariat
 
 (2)
 
- (196)[^196]\[Majlis-e-Shoora (Parliament)\] (196)[^196) may by law regulate the recruitment and the conditions of service of persons appointed to the Secretarial staff of either House.
+ (196)[^196]:\[Majlis-e-Shoora (Parliament)\]: (196)[^196) may by law regulate the recruitment and the conditions of service of persons appointed to the Secretarial staff of either House.
 
  
 
 (3)
 
-Until provision is made by  (197)[^197]\[Majlis-e-Shoora (Parliament)\] (197)[^197) under clause (2), the Speaker or, as the case may be, the Chairman may, with the approval of the President, make  (198)[^198) rules regulating the recruitment and the conditions of service, of persons appointed to the secretarial staff of the National Assembly or the Senate.
+Until provision is made by  (197)[^197]:\[Majlis-e-Shoora (Parliament)\]: (197)[^197) under clause (2), the Speaker or, as the case may be, the Chairman may, with the approval of the President, make  (198)[^198) rules regulating the recruitment and the conditions of service, of persons appointed to the secretarial staff of the National Assembly or the Senate.
 
  
 
@@ -3086,13 +3053,13 @@ The Finance Committee may make  (199)[^199) rules for regulating its procedure.
 
 (1)
 
-The President may, except when the  (200)[^200]\[Senate or\] (200)[^200) National Assembly is in session, if satisfied that circumstances exist which render it necessary to take immediate action, make and promulgate an Ordinance, as the circumstances may require.
+The President may, except when the  (200)[^200]:\[Senate or\]: (200)[^200) National Assembly is in session, if satisfied that circumstances exist which render it necessary to take immediate action, make and promulgate an Ordinance, as the circumstances may require.
 
  
 
 (2)
 
-An Ordinance promulgated under this Article shall have the same force and effect as an Act of  (201)[^201]\[Majlis-e-Shoora (Parliament)\] (201)[^201) and shall be subject to like restrictions as the power of  (202)[^202]\[Majlis-e-Shoora (Parliament)\] (202)[^202) to make law, but every such Ordinance-
+An Ordinance promulgated under this Article shall have the same force and effect as an Act of  (201)[^201]:\[Majlis-e-Shoora (Parliament)\]: (201)[^201) and shall be subject to like restrictions as the power of  (202)[^202]:\[Majlis-e-Shoora (Parliament)\]: (202)[^202) to make law, but every such Ordinance-
 
 (a)
 
@@ -3100,19 +3067,19 @@ shall be laid-
 
 (i)
 
-before the National Assembly if it  (203)[^203]\[contains provisions dealing with all or any of the matters specified in clause (2) of Article 73\] (203)[^203), and shall stand repealed at the expiration of  (204)[^204]\[one hundred and twenty days\] (204)[^204) from its promulgation or, if before the expiration of that period -a resolution disapproving it is passed by the Assembly, upon the passing of that resolution (205)[^205]\[:\] (205)[^205)
+before the National Assembly if it  (203)[^203]:\[contains provisions dealing with all or any of the matters specified in clause (2) of Article 73\]: (203)[^203), and shall stand repealed at the expiration of  (204)[^204]:\[one hundred and twenty days\]: (204)[^204) from its promulgation or, if before the expiration of that period -a resolution disapproving it is passed by the Assembly, upon the passing of that resolution (205)[^205]:\[:\]: (205)[^205)
 
- (206)[^206]\[**Provided** that the National Assembly may by a resolution extend the Ordinance for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution:
+ (206)[^206]:\[**Provided** that the National Assembly may by a resolution extend the Ordinance for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution:
 
-**Provided** further that extension for further period may be made only once.\] (206)[^206)
+**Provided** further that extension for further period may be made only once.\]: (206)[^206)
 
 (ii)
 
-before both Houses if it  (207)[^207]\[does not contain provisions dealing with any of the matters referred to in sub-paragraph (i)\] (207)[^207), and shall stand repealed at the expiration of  (208)[^208]\[one hundred and twenty days\] (208)[^208) from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by either House, upon the passing of that resolution (209)[^209]\[:\] (209)[^209)
+before both Houses if it  (207)[^207]:\[does not contain provisions dealing with any of the matters referred to in sub-paragraph (i)\]: (207)[^207), and shall stand repealed at the expiration of  (208)[^208]:\[one hundred and twenty days\]: (208)[^208) from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by either House, upon the passing of that resolution (209)[^209]:\[:\]: (209)[^209)
 
- (210)[^210]\[**Provided** that either House may by a resolution extend it for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by a House, upon the passing of that resolution:
+ (210)[^210]:\[**Provided** that either House may by a resolution extend it for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by a House, upon the passing of that resolution:
 
-**Provided** further that extension for a further period may be made only once.\] (210)[^210)
+**Provided** further that extension for a further period may be made only once.\]: (210)[^210)
 
 (b)
 
@@ -3120,7 +3087,7 @@ may be withdrawn at any time by the President.
 
  
 
- (211)[^211]\[
+ (211)[^211]:\[
 
 (3)
 
@@ -3136,7 +3103,7 @@ an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) o
 
  
 
-\] (211)[^211)
+\]: (211)[^211)
 
  
 
@@ -3144,9 +3111,9 @@ an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) o
 
 ### Notes
 
-(74)[^74]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(74)[^74]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(75)[^75]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 10 (with effect from March 2, 1985) for :
+(75)[^75]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 10 (with effect from March 2, 1985) for :
 
 **50**
 
@@ -3155,12 +3122,12 @@ There shall be a Parliament consisting of two houses to be known as the National
 
  
 
-(76)[^76]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 16 (with effect from August 21, 2002) for :
+(76)[^76]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 16 (with effect from August 21, 2002) for :
 
 **51**
 
 **National Assembly.**  
- (84)[^84]\[
+ (84)[^84]:\[
 
 (1)
 
@@ -3236,7 +3203,7 @@ Total
 
  
 
-\] (84)[^84)
+\]: (84)[^84)
 
 (2)
 
@@ -3248,7 +3215,7 @@ he is a citizen of Pakistan;
 
 (b)
 
-he is not less than  (85)[^85]\[eighteen\] (85)[^85) years of age;
+he is not less than  (85)[^85]:\[eighteen\]: (85)[^85) years of age;
 
 (c)
 
@@ -3256,13 +3223,13 @@ his name appears on the electoral roll; and
 
 (d)
 
-he is not declared by a competent court to be of unsound mind  (87)[^87]\[.\] (87)[^87)
+he is not declared by a competent court to be of unsound mind  (87)[^87]:\[.\]: (87)[^87)
 
- (88)[^88]\[\] (88)[^88)
+ (88)[^88]:\[\]: (88)[^88)
 
  
 
- (89)[^89]\[
+ (89)[^89]:\[
 
 (2A)
 
@@ -3270,7 +3237,7 @@ In addition to the number of seats referred to in clause (1A), there shall be, i
 
  
 
-\] (89)[^89)
+\]: (89)[^89)
 
 (3)
 
@@ -3278,7 +3245,7 @@ The seats in the National Assembly shall be allocated to each Province, the Fede
 
  
 
- (92)[^92]\[
+ (92)[^92]:\[
 
 (4)
 
@@ -3300,25 +3267,25 @@ the constituency for all seats reserved for non-Muslims shall be the whole count
 
 members to the seats reserved for women which are allocated to a Province under clause (1A) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of total number of general seats secured by each political party from the Province concerned in the National Assembly:
 
- (93)[^93]\[**Provided** that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\] (93)[^93)
+ (93)[^93]:\[**Provided** that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\]: (93)[^93)
 
 (e)
 
 members to the seats reserved for non-Muslims shall be elected in accordance with law through proportional representation system of political parties lists of candidates on the basis of total number of general seats won by each political party in the National Assembly:
 
- (94)[^94]\[**Provided** that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\] (94)[^94)
+ (94)[^94]:\[**Provided** that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\]: (94)[^94)
 
  
 
-\] (92)[^92) (97)[^97]\[\] (97)[^97)
+\]: (92)[^92) (97)[^97]:\[\]: (97)[^97)
 
  
 
-(77)[^77]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(i) (with effect from May 31, 2018) for "three hundred and forty-two".
+(77)[^77]:  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(i) (with effect from May 31, 2018) for "three hundred and forty-two".
 
-(78)[^78]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(ii) (with effect from May 31, 2018) for :
+(78)[^78]:  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(ii) (with effect from May 31, 2018) for :
 
- (79)[^79]\[
+ (79)[^79]:\[
 
 (3)
 
@@ -3388,9 +3355,9 @@ Total
 
  
 
-\] (79)[^79)
+\]: (79)[^79)
 
-(79)[^79]  Substituted by Constitution (Twenty-fourth Amendment) Act, 2017 (38 of 2017), Article 2(a) (with effect from December 22, 2017) for :
+(79)[^79]:  Substituted by Constitution (Twenty-fourth Amendment) Act, 2017 (38 of 2017), Article 2(a) (with effect from December 22, 2017) for :
 
 (3)
 
@@ -3460,9 +3427,9 @@ Total
 
  
 
-(80)[^80]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iii) (with effect from May 31, 2018).
+(80)[^80]:  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iii) (with effect from May 31, 2018).
 
-(81)[^81]  Substituted by Constitution (Twenty-fourth Amendment) Act, 2017 (38 of 2017), Article 2(b) (with effect from December 22, 2017) for :
+(81)[^81]:  Substituted by Constitution (Twenty-fourth Amendment) Act, 2017 (38 of 2017), Article 2(b) (with effect from December 22, 2017) for :
 
 (5)
 
@@ -3472,9 +3439,9 @@ The seats in the National Assembly shall be allocated to each Province, the Fede
 
 (82)[^82)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iv) (with effect from May 31, 2018) : "Save as provided in clause (3) in respect of the Federally Administered Tribal Areas,".
 
-(83)[^83]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iv) (with effect from May 31, 2018) for "the".
+(83)[^83]:  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 3(iv) (with effect from May 31, 2018) for "the".
 
-(84)[^84]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
+(84)[^84]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -3482,19 +3449,19 @@ The National Assembly shall consist of two hundred and seven Muslim members to b
 
  
 
-(85)[^85]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(2) (with effect from August 21, 2002) for " (86)[^86]\[twenty-one\] (86)[^86)".
+(85)[^85]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(2) (with effect from August 21, 2002) for " (86)[^86]:\[twenty-one\]: (86)[^86)".
 
-(86)[^86]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11 (with effect from March 2, 1985) for "eighteen".
+(86)[^86]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11 (with effect from March 2, 1985) for "eighteen".
 
-(87)[^87]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(b) (with effect from March 2, 1985) for ":".
+(87)[^87]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(b) (with effect from March 2, 1985) for ":".
 
-(88)[^88)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(c) (with effect from March 2, 1985) : :
+(88)[^88)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11(2)(c) (with effect from March 2, 1985) : :
 
 **Provided** that, for the purpose of the first general election to the National Assembly or an election to a seat falling vacant before the holding of a second general election to the Assembly paragraph (b) shall have effect as if for the word "eighteen" therein the word "twenty-one" were substituted.
 
-(89)[^89]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
+(89)[^89]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(1) (with effect from August 21, 2002) for :
 
- (90)[^90]\[
+ (90)[^90]:\[
 
 (2A)
 
@@ -3518,11 +3485,11 @@ Persons belonging to the Quadiani group or the Lahori group (who call themselves
 
  
 
-\] (90)[^90)
+\]: (90)[^90)
 
-(90)[^90]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(3) (with effect from March 2, 1985) for :
+(90)[^90]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11(3) (with effect from March 2, 1985) for :
 
- (91)[^91]\[
+ (91)[^91]:\[
 
 (2A)
 
@@ -3530,29 +3497,29 @@ In addition to the number of seats referred to in clause (1), there shall be in 
 
  
 
-\] (91)[^91)
+\]: (91)[^91)
 
-(91)[^91]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 5(a) (with effect from November 21, 1975).
+(91)[^91]:  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 5(a) (with effect from November 21, 1975).
 
-(92)[^92]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(3) (with effect from August 21, 2002) for :
+(92)[^92]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(3) (with effect from August 21, 2002) for :
 
 (4)
 
-Until the expiration of a period of ten years from the commencing day or the holding of the  (95)[^95]\[third\] (95)[^95) general election to the National Assembly, whichever occurs later,  (96)[^96]\[twenty seats\] (96)[^96) in addition to the number of seats referred to in clause (1) shall be reserved for women and allocated to the Provinces in accordance with the Constitution and law.
+Until the expiration of a period of ten years from the commencing day or the holding of the  (95)[^95]:\[third\]: (95)[^95) general election to the National Assembly, whichever occurs later,  (96)[^96]:\[twenty seats\]: (96)[^96) in addition to the number of seats referred to in clause (1) shall be reserved for women and allocated to the Provinces in accordance with the Constitution and law.
 
  
 
-(93)[^93]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(i) (with effect from October 9, 2002).
+(93)[^93]:  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(i) (with effect from October 9, 2002).
 
-(94)[^94]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(ii) (with effect from October 9, 2002).
+(94)[^94]:  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Section 2(1)(ii) (with effect from October 9, 2002).
 
-(95)[^95]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 3 (with effect from November 9, 1985) for "second".
+(95)[^95]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 3 (with effect from November 9, 1985) for "second".
 
-(96)[^96]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for "ten seats".
+(96)[^96]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for "ten seats".
 
-(97)[^97)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(5) (with effect from August 21, 2002) : :
+(97)[^97)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 3(5) (with effect from August 21, 2002) : :
 
- (98)[^98]\[
+ (98)[^98]:\[
 
 (4A)
 
@@ -3566,7 +3533,7 @@ As soon as practicable after the general election to the National Assembly, the 
 
  
 
-\] (98)[^98)
+\]: (98)[^98)
 
 (6)
 
@@ -3574,9 +3541,9 @@ Notwithstanding anything contained in this Article, the President may, by Order,
 
  
 
-(98)[^98]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for :
+(98)[^98]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 11(5) (with effect from March 2, 1985) for :
 
- (99)[^99]\[
+ (99)[^99]:\[
 
 (4A)
 
@@ -3584,7 +3551,7 @@ As soon as practicable after the general election to the National Assembly, the 
 
  
 
-\] (99)[^99)
+\]: (99)[^99)
 
 (5)
 
@@ -3592,23 +3559,23 @@ For the purpose of election to the seats allocated to a province under clause (4
 
  
 
-(99)[^99]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 5(b) (with effect from May 4, 1974).
+(99)[^99]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 5(b) (with effect from May 4, 1974).
 
-(100)[^100]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(100)[^100]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(101)[^101]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "two".
+(101)[^101]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "two".
 
-(102)[^102]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.md), Article 2 (with effect from March 25, 1987) for " (103)[^103]\[sixty\] (103)[^103)".
+(102)[^102]:  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)]:(/pakistan/constitution/amendments/10amendment.md), Article 2 (with effect from March 25, 1987) for " (103)[^103]:\[sixty\]: (103)[^103)".
 
-(103)[^103]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "thirty".
+(103)[^103]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 12 (with effect from March 2, 1985) for "thirty".
 
-(104)[^104]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 6 (with effect from November 21, 1975).
+(104)[^104]:  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 6 (with effect from November 21, 1975).
 
-(105)[^105]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985)
+(105)[^105]:  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985)
 
-(106)[^106]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985).
+(106)[^106]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 13 (with effect from March 2, 1985).
 
-(107)[^107]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 4 (with effect from November 9, 1985) for :
+(107)[^107]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 4 (with effect from November 9, 1985) for :
 
 (3)
 
@@ -3616,21 +3583,21 @@ At the commencement of each session of the Majlis-e-Shoora (Parliament), the Pre
 
  
 
-(108)[^108]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 17 (with effect from April 19, 2010) for :
+(108)[^108]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 17 (with effect from April 19, 2010) for :
 
 **58**
 
 **Dissolution of the National Assembly.**  
 
- (109)[^109]\[(1)\] (109)[^109)
+ (109)[^109]:\[(1)\]: (109)[^109)
 
 The President shall dissolve the National Assembly if so advised by the Prime Minister; and the National Assembly shall, unless sooner dissolved, stand dissolved at the expiration of forty-eight hours after the Prime Minister has so advised.
 
-Explanation:- Reference in this Article to "Prime Minister" shall not be construed to include reference to a Prime Minister against whom a  (110)[^110]\[notice of a resolution for a vote of no-confidence has been given\] (110)[^110) in the National Assembly but has not been voted upon or against whom such a resolution has been passed or who is continuing in office after his resignation or after the dissolution of the National Assembly  (111)[^111]\[\] (111)[^111).
+Explanation:- Reference in this Article to "Prime Minister" shall not be construed to include reference to a Prime Minister against whom a  (110)[^110]:\[notice of a resolution for a vote of no-confidence has been given\]: (110)[^110) in the National Assembly but has not been voted upon or against whom such a resolution has been passed or who is continuing in office after his resignation or after the dissolution of the National Assembly  (111)[^111]:\[\]: (111)[^111).
 
  
 
- (112)[^112]\[
+ (112)[^112]:\[
 
 (2)
 
@@ -3640,17 +3607,17 @@ Notwithstanding anything contained in clause (2) of Article 48, the President ma
 
 a vote of no-confidence having been passed against the Prime Minister, no other member of the National Assembly is likely to command the confidence of the majority of the members of the National Assembly in accordance with the provisions of the Constitution as ascertained in a session of the National Assembly summoned for the purpose; or
 
- (113)[^113]\[\] (113)[^113) (114)[^114]\[
+ (113)[^113]:\[\]: (113)[^113) (114)[^114]:\[
 
 (b)
 
 a situation has arisen in which the Government of the Federation cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-\] (114)[^114)
+\]: (114)[^114)
 
  
 
-\] (112)[^112) (116)[^116]\[
+\]: (112)[^112) (116)[^116]:\[
 
 (3)
 
@@ -3658,19 +3625,19 @@ The President in case of dissolution of the National Assembly under paragraph (b
 
  
 
-\] (116)[^116)
+\]: (116)[^116)
 
  
 
-(109)[^109]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985)
+(109)[^109]:  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985)
 
-(110)[^110]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 5(a) (with effect from November 9, 1985) for "resolution for a vote of no confidence has been moved".
+(110)[^110]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 5(a) (with effect from November 9, 1985) for "resolution for a vote of no confidence has been moved".
 
-(111)[^111)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985) : "or a Federal Minister performing the functions of Prime Minister under clause (1) or clause (3) of Article 95".
+(111)[^111)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 14(1) (with effect from March 2, 1985) : "or a Federal Minister performing the functions of Prime Minister under clause (1) or clause (3) of Article 95".
 
-(112)[^112]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 5(b) (with effect from November 9, 1985) for :
+(112)[^112]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 5(b) (with effect from November 9, 1985) for :
 
- (115)[^115]\[
+ (115)[^115]:\[
 
 (2)
 
@@ -3678,26 +3645,26 @@ The President may also dissolve the National Assembly in his discretion where, i
 
  
 
-\] (115)[^115)
+\]: (115)[^115)
 
-(113)[^113)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
+(113)[^113)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)]:(/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
 
 (b)
 
 a situation has arisen in which the Government of the Federation cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-(114)[^114]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 4 (with effect from August 21, 2002).
+(114)[^114]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 4 (with effect from August 21, 2002).
 
-(115)[^115]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 14(2) (with effect from March 2, 1985).
+(115)[^115]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 14(2) (with effect from March 2, 1985).
 
-(116)[^116]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 3 (with effect from December 31, 2003).
+(116)[^116]:  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 3 (with effect from December 31, 2003).
 
-(117)[^117]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 18 (with effect from April 19, 2010) for :
+(117)[^117]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 18 (with effect from April 19, 2010) for :
 
 **59**
 
 **The Senate**  
- (122)[^122]\[
+ (122)[^122]:\[
 
 (1)
 
@@ -3709,7 +3676,7 @@ fourteen shall be elected by the members of each Provincial Assembly;
 
 (b)
 
-eight shall be elected  (123)[^123]\[\] (123)[^123) from the Federally Administered Tribal Areas, in such manner as the President may, by Order, prescribe;
+eight shall be elected  (123)[^123]:\[\]: (123)[^123) from the Federally Administered Tribal Areas, in such manner as the President may, by Order, prescribe;
 
 (c)
 
@@ -3725,7 +3692,7 @@ four technocrats including ulema shall be elected by the members of each Provinc
 
  
 
-\] (122)[^122)
+\]: (122)[^122)
 
 (2)
 
@@ -3733,11 +3700,11 @@ Election to fill seats in the Senate allocated to each Province shall be held in
 
  
 
- (132)[^132]\[
+ (132)[^132]:\[
 
 (3)
 
-The Senate shall not be subject to dissolution but the term of its members, who shall retire as follows, shall be six years:-  (133)[^133]\[
+The Senate shall not be subject to dissolution but the term of its members, who shall retire as follows, shall be six years:-  (133)[^133]:\[
 
 (a)
 
@@ -3755,17 +3722,17 @@ of the members referred to in paragraph (c) of the aforesaid clause, one shall r
 
 of the members referred to in paragraph (d) of the aforesaid clause, two shall retire after the expiration of the first three years and three shall retire after the expiration of the next three years;
 
-\] (133)[^133)
+\]: (133)[^133)
 
-**Provided** that the term of office of a person elected  (134)[^134]\[\] (134)[^134) to fill a casual vacancy shall be the unexpired term of the member whose vacancy he has filled.
-
- 
-
-\] (132)[^132) (135)[^135]\[\] (135)[^135)
+**Provided** that the term of office of a person elected  (134)[^134]:\[\]: (134)[^134) to fill a casual vacancy shall be the unexpired term of the member whose vacancy he has filled.
 
  
 
-(118)[^118]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(1)(a) (with effect from May 31, 2018) for "one-hundred and four members".
+\]: (132)[^132) (135)[^135]:\[\]: (135)[^135)
+
+ 
+
+(118)[^118]:  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(1)(a) (with effect from May 31, 2018) for "one-hundred and four members".
 
 (119)[^119)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(1)(b) (with effect from May 31, 2018) : :
 
@@ -3779,13 +3746,13 @@ eight shall be elected from the Federally Administered Tribal Areas, in such man
 
 of the members referred to in paragraph (b) of the aforesaid clause, four shall retire of the expiration of the first three years and four shall retire after the expiration of the next three years;
 
-(121)[^121]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(3) (with effect from May 31, 2018).
+(121)[^121]:  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 4(3) (with effect from May 31, 2018).
 
-(122)[^122]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002) for :
+(122)[^122]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002) for :
 
 (1)
 
-The Senate shall consist of  (125)[^125]\[eighty-seven\] (125)[^125) members, of whom,:
+The Senate shall consist of  (125)[^125]:\[eighty-seven\]: (125)[^125) members, of whom,:
 
 (a)
 
@@ -3793,41 +3760,41 @@ fourteen shall be elected by the members of each Provincial Assembly;
 
 (b)
 
- (126)[^126]\[eight\] (126)[^126) shall be elected by the members from the Federally Administered Tribal Areas in the National Assembly;  (127)[^127]\[\] (127)[^127)
+ (126)[^126]:\[eight\]: (126)[^126) shall be elected by the members from the Federally Administered Tribal Areas in the National Assembly;  (127)[^127]:\[\]: (127)[^127)
 
 (c)
 
- (128)[^128]\[three\] (128)[^128) shall be  (129)[^129]\[elected\] (129)[^129) from the Federal Capital in such manner as the President may, by Order, prescribe  (130)[^130]\[; and\] (130)[^130)
+ (128)[^128]:\[three\]: (128)[^128) shall be  (129)[^129]:\[elected\]: (129)[^129) from the Federal Capital in such manner as the President may, by Order, prescribe  (130)[^130]:\[; and\]: (130)[^130)
 
- (131)[^131]\[
+ (131)[^131]:\[
 
 (d)
 
 five shall be elected by the members of each Provincial Assembly to represent ulema, technocrats and other professionals.
 
-\] (131)[^131)
+\]: (131)[^131)
 
  
 
-(123)[^123)   The following was omitted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002), Section 2(2) (with effect from August 21, 2002) : " (124)[^124]\[by direct and free vote\] (124)[^124)".
+(123)[^123)   The following was omitted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002), Section 2(2) (with effect from August 21, 2002) : " (124)[^124]:\[by direct and free vote\]: (124)[^124)".
 
-(124)[^124]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002).
+(124)[^124]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 5 (with effect from August 21, 2002).
 
-(125)[^125]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(a) (with effect from March 2, 1985) for "sixty-three".
+(125)[^125]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(a) (with effect from March 2, 1985) for "sixty-three".
 
-(126)[^126]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(i) (with effect from March 2, 1985) for "five".
+(126)[^126]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(i) (with effect from March 2, 1985) for "five".
 
-(127)[^127)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(ii) (with effect from March 2, 1985) : "and".
+(127)[^127)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(b)(ii) (with effect from March 2, 1985) : "and".
 
-(128)[^128]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(i) (with effect from March 2, 1985) for "two".
+(128)[^128]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(i) (with effect from March 2, 1985) for "two".
 
-(129)[^129]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(a) (with effect from November 9, 1985) for "chosen".
+(129)[^129]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 6(a) (with effect from November 9, 1985) for "chosen".
 
-(130)[^130]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(ii) (with effect from March 2, 1985) for ".".
+(130)[^130]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(c)(ii) (with effect from March 2, 1985) for ".".
 
-(131)[^131]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(d) (with effect from March 2, 1985).
+(131)[^131]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(1)(d) (with effect from March 2, 1985).
 
-(132)[^132]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(2) (with effect from March 2, 1985) for :
+(132)[^132]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(2) (with effect from March 2, 1985) for :
 
 (3)
 
@@ -3837,7 +3804,7 @@ The Senate shall not be subject to dissolution but the term of office of its mem
 
  
 
-(133)[^133]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(b)(i) (with effect from November 9, 1985) for :
+(133)[^133]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 6(b)(i) (with effect from November 9, 1985) for :
 
 (a)
 
@@ -3851,11 +3818,11 @@ of the members referred to in paragraph (b), two shall retire after the expirati
 
 of the members referred to in paragraph (c), one shall retire after the expiration of every two years.
 
-(134)[^134)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(b)(ii) (with effect from November 9, 1985) : "or chosen".
+(134)[^134)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 6(b)(ii) (with effect from November 9, 1985) : "or chosen".
 
-(135)[^135)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 6(c) (with effect from November 9, 1985) : :
+(135)[^135)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 6(c) (with effect from November 9, 1985) : :
 
- (136)[^136]\[
+ (136)[^136]:\[
 
 (4)
 
@@ -3863,23 +3830,23 @@ A casual vacancy in the office of a member referred to in paragraph (d) of claus
 
  
 
-\] (136)[^136)
+\]: (136)[^136)
 
-(136)[^136]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 15(3) (with effect from March 2, 1985).
+(136)[^136]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 15(3) (with effect from March 2, 1985).
 
-(137)[^137]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 7 (with effect from November 9, 1985) for "two".
+(137)[^137]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 7 (with effect from November 9, 1985) for "two".
 
-(138)[^138]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 5 (with effect from May 4, 1974).
+(138)[^138]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 5 (with effect from May 4, 1974).
 
-(139)[^139]  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)](/pakistan/constitution/amendments/10amendment.md), Article 3 (with effect from March 25, 1987) for " (140)[^140]\[one hundred and sixty\] (140)[^140)".
+(139)[^139]:  Substituted by [Constitution (Tenth Amendment) Act, 1985 (1 of 1987)]:(/pakistan/constitution/amendments/10amendment.md), Article 3 (with effect from March 25, 1987) for " (140)[^140]:\[one hundred and sixty\]: (140)[^140)".
 
-(140)[^140]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 2 (with effect from March 19, 1985) for "one hundred and thirty".
+(140)[^140]:  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 2 (with effect from March 19, 1985) for "one hundred and thirty".
 
-(141)[^141]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 19 (with effect from April 19, 2010) for "ninety".
+(141)[^141]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 19 (with effect from April 19, 2010) for "ninety".
 
-(142)[^142]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Majlis-e-Shoora (Parliament)".
+(142)[^142]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Majlis-e-Shoora (Parliament)".
 
-(143)[^143]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 20 (with effect from April 19, 2010) for :
+(143)[^143]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 20 (with effect from April 19, 2010) for :
 
 **62**
 
@@ -3890,7 +3857,7 @@ A person shall not be qualified to be elected or chosen as a member of Majlis-e-
 
 he is a citizen of Pakistan;
 
- (145)[^145]\[
+ (145)[^145]:\[
 
 (b)
 
@@ -3904,7 +3871,7 @@ any part of Pakistan, for election to a general seat or a seat reserved for non-
 
 any area in a Province from which he seeks membership for election to a seat reserved for women.
 
-\] (145)[^145)
+\]: (145)[^145)
 
 (c)
 
@@ -3940,15 +3907,15 @@ he possesses such other qualifications as may be prescribed by Act of Majlis-e-S
 
 (144)[^144)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 5 (with effect from May 31, 2018) : "or the Federally Administered Tribal Areas".
 
-(145)[^145]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 6 (with effect from August 21, 2002) for :
+(145)[^145]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 6 (with effect from August 21, 2002) for :
 
 (b)
 
 he is, in the case of National Assembly, not less than twenty-five years of age and is enrolled as a voter in any electoral roll for election to a Muslim seat or a non-Muslim seat as the case may be in that Assembly;
 
-(146)[^146]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 21 (with effect from April 19, 2010) for :
+(146)[^146]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 21 (with effect from April 19, 2010) for :
 
- (147)[^147]\[
+ (147)[^147]:\[
 
 **63**
 
@@ -3986,7 +3953,7 @@ being a citizen of Pakistan by virtue of section 14B of the Pakistan Citizenship
 
 he is propagating any opinion, or acting in any manner, prejudicial to the Ideology of Pakistan, or the sovereignty, integrity or security of Pakistan, or morality, or the maintenance of public order, or the integrity or independence of the judiciary of Pakistan, or which defames or brings into ridicule the judiciary or the Armed Forces of Pakistan; or
 
- (148)[^148]\[
+ (148)[^148]:\[
 
 (h)
 
@@ -4000,7 +3967,7 @@ he has been dismissed from the service of Pakistan or service of a corporation o
 
 he has been removed or compulsorily retired from the service of Pakistan or service of a corporation or office set up or controlled by the Federal Government, Provincial Government or a Local Government on the grounds of misconduct or moral turpitude; or
 
-\] (148)[^148)
+\]: (148)[^148)
 
 (k)
 
@@ -4054,7 +4021,7 @@ the Qaumi Razakars;
 
 any office the holder whereof, by virtue of such office, is liable to be called up for military training or military service under any law providing for the constitution or raising of a Force; or
 
- (149)[^149]\[
+ (149)[^149]:\[
 
 (p)
 
@@ -4066,19 +4033,19 @@ he has obtained a loan for a an amount of two million rupees or more, from any b
 
 (r)
 
-he or his spouse or any of his dependents has defaulted in payment of government dues and utility expenses, including telephone, electricity, gas and water charges in excess of ten thousand rupees, for over six months, at the time of filing his nomination papers (150)[^150]\[; or\] (150)[^150)
+he or his spouse or any of his dependents has defaulted in payment of government dues and utility expenses, including telephone, electricity, gas and water charges in excess of ten thousand rupees, for over six months, at the time of filing his nomination papers (150)[^150]:\[; or\]: (150)[^150)
 
-\] (149)[^149) (151)[^151]\[
+\]: (149)[^149) (151)[^151]:\[
 
 (s)
 
 he is for the time being disqualified from being elected or chosen as a member of the Majlis-e-Shoora (Parliament) or of a Provincial Assembly under any law for the time being in force.
 
-\] (151)[^151)
+\]: (151)[^151)
 
  
 
- (152)[^152]\[
+ (152)[^152]:\[
 
 (2)
 
@@ -4086,7 +4053,7 @@ If any question arises whether a member of Majlis-e-Shoora (Parliament) has beco
 
  
 
-\] (152)[^152) (153)[^153]\[
+\]: (152)[^152) (153)[^153]:\[
 
 (3)
 
@@ -4094,13 +4061,13 @@ Where a question is referred to the Chief Election Commissioner under clause (2)
 
  
 
-\] (153)[^153)
+\]: (153)[^153)
 
  
 
-\] (147)[^147)
+\]: (147)[^147)
 
-(147)[^147]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 16 (with effect from March 2, 1985) for :
+(147)[^147]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 16 (with effect from March 2, 1985) for :
 
 **63**
 
@@ -4140,7 +4107,7 @@ If any question arises whether a member of Parliament has become disqualified fr
 
  
 
-(148)[^148]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(a) (with effect from August 21, 2002) for :
+(148)[^148]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(a) (with effect from August 21, 2002) for :
 
 (h)
 
@@ -4154,17 +4121,17 @@ he has been dismissed from the service of Pakistan on the ground of misconduct, 
 
 he has been removed or compulsorily retired from the service of Pakistan on the ground of misconduct unless a period of three years has elapsed since his removal or compulsory retirement; or
 
-(149)[^149]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(b) (with effect from August 21, 2002) for :
+(149)[^149]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(1)(b) (with effect from August 21, 2002) for :
 
 (p)
 
 he is for the time being disqualified from being elected or chosen as a member of the Majlis-e-Shoora (Parliament) or of a Provincial Assembly under any law for the time being in force.
 
-(150)[^150]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for ".".
+(150)[^150]:  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for ".".
 
-(151)[^151]  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002).
+(151)[^151]:  Inserted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002).
 
-(152)[^152]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(2) (with effect from August 21, 2002) for :
+(152)[^152]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(2) (with effect from August 21, 2002) for :
 
 (2)
 
@@ -4172,11 +4139,11 @@ If any question arises whether a member of the Majlis-e-Shoora (Parliament) has 
 
  
 
-(153)[^153]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(3) (with effect from August 21, 2002).
+(153)[^153]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 7(3) (with effect from August 21, 2002).
 
-(154)[^154]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 22 (with effect from April 19, 2010) for :
+(154)[^154]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 22 (with effect from April 19, 2010) for :
 
- (155)[^155]\[
+ (155)[^155]:\[
 
 **63A.**
 
@@ -4258,11 +4225,11 @@ For the purpose of this Article -
 
  
 
-\] (155)[^155)
+\]: (155)[^155)
 
-(155)[^155]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 8 (with effect from August 21, 2002) for :
+(155)[^155]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 8 (with effect from August 21, 2002) for :
 
- (156)[^156]\[
+ (156)[^156]:\[
 
 **63A**
 
@@ -4328,43 +4295,43 @@ Notwithstanding anything contained in the Constitution, no court including the S
 
  
 
-\] (156)[^156)
+\]: (156)[^156)
 
-(156)[^156]  Inserted by [Constitution (Fourteenth Amendment) Act, 1997 (24 of 1997)](/pakistan/constitution/amendments/14amendment.md), Article 2 (with effect from July 3, 1997).
+(156)[^156]:  Inserted by [Constitution (Fourteenth Amendment) Act, 1997 (24 of 1997)]:(/pakistan/constitution/amendments/14amendment.md), Article 2 (with effect from July 3, 1997).
 
-(157)[^157]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(157)[^157]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(158)[^158]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(158)[^158]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(159)[^159]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(159)[^159]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(160)[^160]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(160)[^160]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(161)[^161]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(161)[^161]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(162)[^162]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(162)[^162]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(163)[^163]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(163)[^163]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(164)[^164]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(164)[^164]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(165)[^165]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(165)[^165]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (166)[^166)   For the Rules of Procedure and Conduct of Business in the Senate, see Gazette of Pakistan, 1973, Extraordinary, Part II, Pages 1543-1620. For the Rules of Procedure and Conduct of Business in the National Assembly, 1973, see Gazette of Pakistan, 1973, Extraordinary, Part II, pages 1897-1957.  
 
-(167)[^167]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(167)[^167]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(168)[^168]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(168)[^168]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(169)[^169]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(169)[^169]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(170)[^170]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(170)[^170]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(171)[^171]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(171)[^171]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(172)[^172]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 23 (with effect from April 19, 2010) for :
+(172)[^172]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 23 (with effect from April 19, 2010) for :
 
- (173)[^173]\[
+ (173)[^173]:\[
 
 **70**
 
@@ -4378,7 +4345,7 @@ A Bill with respect to any matter in the Federal Legislative List or in the Conc
 
 (2)
 
-if a Bill transmitted to a House under clause (1) is rejected or is not passed within ninety days of its receipt or is passed with amendment, the Bill, at the request of the House in which it originated, shall be  (174)[^174]\[referred to a Mediation Committee constituted under Article 71 for consideration and resolution thereon\] (174)[^174).
+if a Bill transmitted to a House under clause (1) is rejected or is not passed within ninety days of its receipt or is passed with amendment, the Bill, at the request of the House in which it originated, shall be  (174)[^174]:\[referred to a Mediation Committee constituted under Article 71 for consideration and resolution thereon\]: (174)[^174).
 
  
 
@@ -4396,9 +4363,9 @@ In this Article and the succeeding provisions of the Constitution, "Federal Legi
 
  
 
-\] (173)[^173)
+\]: (173)[^173)
 
-(173)[^173]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) for :
+(173)[^173]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) for :
 
 **70**
 
@@ -4440,9 +4407,9 @@ In this Article and the succeeding provisions of the Constitution, "Federal Legi
 
  
 
-(174)[^174]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 9 (with effect from August 21, 2002) for "considered in a joint sitting".
+(174)[^174]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 9 (with effect from August 21, 2002) for "considered in a joint sitting".
 
-(175)[^175)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) : :
+(175)[^175)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 17 (with effect from March 2, 1985) : :
 
 **71.**
 
@@ -4466,9 +4433,9 @@ If a request is made under clause (2), the President shall summon a joint sittin
 
  
 
-(176)[^176)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 24 (with effect from April 19, 2010) : :
+(176)[^176)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 24 (with effect from April 19, 2010) : :
 
- (177)[^177]\[
+ (177)[^177]:\[
 
 **71.**
 
@@ -4500,13 +4467,13 @@ The President may, in consultation with the Speaker of the National Assembly and
 
  
 
-\] (177)[^177)
+\]: (177)[^177)
 
-(177)[^177]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 10 (with effect from August 21, 2002).
+(177)[^177]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 10 (with effect from August 21, 2002).
 
-(178)[^178]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Sect. 25 (with effect from April 19, 2010) for :
+(178)[^178]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Sect. 25 (with effect from April 19, 2010) for :
 
- (179)[^179]\[
+ (179)[^179]:\[
 
 (1)
 
@@ -4522,21 +4489,21 @@ The National Assembly shall, consider the recommendations of the Senate and afte
 
  
 
-\] (179)[^179)
+\]: (179)[^179)
 
-(179)[^179]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 11 (with effect from August 21, 2002) for :
+(179)[^179]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 11 (with effect from August 21, 2002) for :
 
 (1)
 
-Notwithstanding anything contained in Article 70  (180)[^180]\[\] (180)[^180), a Money Bill shall originate in the National Assembly and after it has been passed by the Assembly it shall, without being transmitted to the Senate, be presented to the President for assent.
+Notwithstanding anything contained in Article 70  (180)[^180]:\[\]: (180)[^180), a Money Bill shall originate in the National Assembly and after it has been passed by the Assembly it shall, without being transmitted to the Senate, be presented to the President for assent.
 
  
 
-(180)[^180)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art. 2, Sch. item 18 (with effect from March 2, 1985) : "or Article 71".
+(180)[^180)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art. 2, Sch. item 18 (with effect from March 2, 1985) : "or Article 71".
 
-(181)[^181]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(181)[^181]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(182)[^182]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 19 (with effect from March 2, 1985) for :
+(182)[^182]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2 and Sched. item 19 (with effect from March 2, 1985) for :
 
 **75**
 
@@ -4562,23 +4529,23 @@ No Act of Parliament, and no provision in any such Act, shall be invalid by reas
 
  
 
-(183)[^183]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(i) (with effect from April 19, 2010) for " (184)[^184]\[thirty\] (184)[^184)".
+(183)[^183]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 26(i) (with effect from April 19, 2010) for " (184)[^184]:\[thirty\]: (184)[^184)".
 
-(184)[^184]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 8(a) (with effect from November 9, 1985) for "forty-five".
+(184)[^184]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 8(a) (with effect from November 9, 1985) for "forty-five".
 
-(185)[^185]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(ii) (with effect from April 19, 2010) for :
+(185)[^185]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 26(ii) (with effect from April 19, 2010) for :
 
- (186)[^186]\[
+ (186)[^186]:\[
 
 (2)
 
-When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it shall be reconsidered by the Majlis-e-Shoora (Parliament)  (187)[^187]\[\] (187)[^187) and, if it is again passed, with or without amendment, by the Majlis-e-Shoora (Parliament),  (188)[^188]\[in accordance with Article 70\] (188)[^188) it shall be deemed for the purposes of the Constitution to have been passed by both Houses and shall be presented to the President and the President shall not withhold assent therefrom.
+When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it shall be reconsidered by the Majlis-e-Shoora (Parliament)  (187)[^187]:\[\]: (187)[^187) and, if it is again passed, with or without amendment, by the Majlis-e-Shoora (Parliament),  (188)[^188]:\[in accordance with Article 70\]: (188)[^188) it shall be deemed for the purposes of the Constitution to have been passed by both Houses and shall be presented to the President and the President shall not withhold assent therefrom.
 
  
 
-\] (186)[^186)
+\]: (186)[^186)
 
-(186)[^186]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 8(b) (with effect from November 9, 1985) for :
+(186)[^186]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 8(b) (with effect from November 9, 1985) for :
 
 (2)
 
@@ -4586,59 +4553,59 @@ When the President has returned a Bill to the Majlis-e-Shoora (Parliament), it s
 
  
 
-(187)[^187)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 12(a) (with effect from August 21, 2002) : "in joint sitting".
+(187)[^187)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 12(a) (with effect from August 21, 2002) : "in joint sitting".
 
-(188)[^188]  Substituted by , Article 3(1), Sch. item 12(a) (with effect from ) for "by the votes of the majority of the members of both Houses present and voting".
+(188)[^188]:  Substituted by , Article 3(1), Sch. item 12(a) (with effect from ) for "by the votes of the majority of the members of both Houses present and voting".
 
-(189)[^189]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 26(iii) (with effect from April 19, 2010).
+(189)[^189]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 26(iii) (with effect from April 19, 2010).
 
-(190)[^190]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(190)[^190]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(191)[^191]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(191)[^191]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(192)[^192]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 2(i) (with effect from January 1, 2011).
+(192)[^192]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 2(i) (with effect from January 1, 2011).
 
-(193)[^193]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 2(ii) (with effect from January 1, 2011) for :
+(193)[^193]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 2(ii) (with effect from January 1, 2011) for :
 
 (b)
 
 the administrative expenses, including the remuneration payable to officers and servants of the Supreme Court, the department of the Auditor-General and the Office of the Chief Election Commissioner and of the Election Commission and the Secretariats of the Senate and the National Assembly;
 
-(194)[^194]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "servants".
+(194)[^194]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "servants".
 
-(195)[^195]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(195)[^195]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(196)[^196]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(196)[^196]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(197)[^197]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(197)[^197]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (198)[^198)   For the National Assembly Secretariat (Recruitment)Rules 1973, see Gazette of Pakistan, 1973, Extraordinary, part 11 pages 2279-2286. For the Senate Secretariat (Recruitment) Rules, 1973, see ibid., Pages 2301-2307.  
 
 (199)[^199)   For the National Assembly (Finance Committee) Rules, 1973, see Gazette of Pakistan, 1973, Extraordinary, Part II, pages 2451-2454. For the Senate (Finance Committee) Rules, 1973, see ibid., pages 2479-2482.  
 
-(200)[^200]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(i) (with effect from April 19, 2010).
+(200)[^200]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(i) (with effect from April 19, 2010).
 
-(201)[^201]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(201)[^201]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(202)[^202]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(202)[^202]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(203)[^203]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 2(a) (with effect from March 19, 1985) for "is with respect to a matter in Part I of the Federal Legislative List".
+(203)[^203]:  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)]:(/pakistan/constitution/orders/po20_1985.md), Section 2(a) (with effect from March 19, 1985) for "is with respect to a matter in Part I of the Federal Legislative List".
 
-(204)[^204]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for "four months".
+(204)[^204]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for "four months".
 
-(205)[^205]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for ";".
+(205)[^205]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010) for ";".
 
-(206)[^206]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010).
+(206)[^206]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(a) (with effect from April 19, 2010).
 
-(207)[^207]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 2(b) (with effect from March 19, 1985) for "is with respect to a matter in Part II of the Federal Legislative List or a matter in the Concurrent Legislative List".
+(207)[^207]:  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)]:(/pakistan/constitution/orders/po20_1985.md), Section 2(b) (with effect from March 19, 1985) for "is with respect to a matter in Part II of the Federal Legislative List or a matter in the Concurrent Legislative List".
 
-(208)[^208]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "four months".
+(208)[^208]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "four months".
 
-(209)[^209]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "; and".
+(209)[^209]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010) for "; and".
 
-(210)[^210]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010).
+(210)[^210]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(ii)(b) (with effect from April 19, 2010).
 
-(211)[^211]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 27(iii) (with effect from April 19, 2010) for :
+(211)[^211]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 27(iii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -4648,16 +4615,6 @@ Without prejudice to the provisions of clause (2) an Ordinance laid before the N
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 3: "The Federal Government" of Part III: "The Federation of Pakistan"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part3.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -4667,7 +4624,7 @@ Part III: The Federation of Pakistan
 Chapter 3: The Federal Government
 ---------------------------------
 
- (212)[^212]\[ (213)[^213]\[
+ (212)[^212]:\[ (213)[^213]:\[
 
 **90.**
 
@@ -4687,8 +4644,8 @@ In the performance of his functions under the Constitution, the Prime Minister m
 
  
 
-\] (213)[^213)  
- (216)[^216]\[
+\]: (213)[^213)  
+ (216)[^216]:\[
 
 **91.**
 
@@ -4764,7 +4721,7 @@ Nothing in this Article shall be construed as disqualifying the Prime Minister o
 
  
 
-\] (216)[^216)
+\]: (216)[^216)
 
 **92**
 
@@ -4772,13 +4729,13 @@ Nothing in this Article shall be construed as disqualifying the Prime Minister o
 
 (1)
 
-Subject to clauses  (220)[^220]\[(9) and (10)\] (220)[^220) of Article 91, the President shall appoint Federal Ministers and Ministers of State from amongst the members of Majlis-e-Shoora (Parliament) on the advice of the Prime Minister:
+Subject to clauses  (220)[^220]:\[(9) and (10)\]: (220)[^220) of Article 91, the President shall appoint Federal Ministers and Ministers of State from amongst the members of Majlis-e-Shoora (Parliament) on the advice of the Prime Minister:
 
-**Provided** that the number of Federal Ministers and Ministers of State who are members of the Senate shall not at any time exceed one-fourth of the number of Federal Ministers (221)[^221]\[:\] (221)[^221)
+**Provided** that the number of Federal Ministers and Ministers of State who are members of the Senate shall not at any time exceed one-fourth of the number of Federal Ministers (221)[^221]:\[:\]: (221)[^221)
 
- (222)[^222]\[**Provided** further that the total strength of the Cabinet, including Ministers of State, shall not exceed eleven percent of the total membership of Majlis-e-Shoora (Parliament):
+ (222)[^222]:\[**Provided** further that the total strength of the Cabinet, including Ministers of State, shall not exceed eleven percent of the total membership of Majlis-e-Shoora (Parliament):
 
-**Provided** also that the aforesaid amendment shall be effective from the next general election held after the commencement of the Constitution (Eighteenth Amendment) Act, 2010. \] (222)[^222)
+**Provided** also that the aforesaid amendment shall be effective from the next general election held after the commencement of the Constitution (Eighteenth Amendment) Act, 2010. \]: (222)[^222)
 
  
 
@@ -4851,25 +4808,25 @@ If the resolution referred to in clause (1) is passed by a majority of the total
 
  
 
-\] (212)[^212) (223)[^223]\[\] (223)[^223)
+\]: (212)[^212) (223)[^223]:\[\]: (223)[^223)
 
 **97**
 
 **Extent of executive authority of Federation.**  
-Subject to the Constitution, the executive authority of the Federation shall extend to the matters with respect to which  (225)[^225]\[Majlis-e-Shoora (Parliament)\] (225)[^225) has power to make laws, including exercise of rights, authority and jurisdiction in and in relation to areas outside Pakistan:
+Subject to the Constitution, the executive authority of the Federation shall extend to the matters with respect to which  (225)[^225]:\[Majlis-e-Shoora (Parliament)\]: (225)[^225) has power to make laws, including exercise of rights, authority and jurisdiction in and in relation to areas outside Pakistan:
 
-**Provided** that the said authority shall not, save as expressly provided in the Constitution or in any law made by  (226)[^226]\[Majlis-e-Shoora (Parliament)\] (226)[^226), extend in any Province to a matter with respect to which the Provincial Assembly has also power to make laws.
+**Provided** that the said authority shall not, save as expressly provided in the Constitution or in any law made by  (226)[^226]:\[Majlis-e-Shoora (Parliament)\]: (226)[^226), extend in any Province to a matter with respect to which the Provincial Assembly has also power to make laws.
 
  
 
 **98**
 
 **Conferring of functions on subordinate authorities.**  
-On the recommendation of the Federal Government,  (227)[^227]\[Majlis-e-Shoora (Parliament)\] (227)[^227) may by law confer functions upon officers or authorities subordinate to the Federal Government.
+On the recommendation of the Federal Government,  (227)[^227]:\[Majlis-e-Shoora (Parliament)\]: (227)[^227) may by law confer functions upon officers or authorities subordinate to the Federal Government.
 
  
 
- (228)[^228]\[
+ (228)[^228]:\[
 
 **99**
 
@@ -4883,11 +4840,11 @@ All executive actions of the Federal Government shall be expressed to be taken i
 
 (2)
 
-The  (229)[^229]\[Federal Government\] (229)[^229) shall by rules specify the manner in which orders and other instruments made and executed  (230)[^230]\[in the name of the President\] (230)[^230) shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the President.
+The  (229)[^229]:\[Federal Government\]: (229)[^229) shall by rules specify the manner in which orders and other instruments made and executed  (230)[^230]:\[in the name of the President\]: (230)[^230) shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the President.
 
  
 
- (231)[^231]\[
+ (231)[^231]:\[
 
 (3)
 
@@ -4895,11 +4852,11 @@ The Federal Government shall also make rules for the allocation and transaction 
 
  
 
-\] (231)[^231)
+\]: (231)[^231)
 
  
 
-\] (228)[^228)
+\]: (228)[^228)
 
 **100**
 
@@ -4913,7 +4870,7 @@ The President shall appoint a person, being a person qualified to be appointed a
 
 (2)
 
-The Attorney-General shall hold office during the pleasure of the President  (232)[^232]\[and shall not engage in private practice so long as he holds the office of the Attorney-General\] (232)[^232).
+The Attorney-General shall hold office during the pleasure of the President  (232)[^232]:\[and shall not engage in private practice so long as he holds the office of the Attorney-General\]: (232)[^232).
 
  
 
@@ -4935,7 +4892,7 @@ The Attorney-General may, by writing under his hand addressed to the President, 
 
 ### Notes
 
-(212)[^212]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 20 (with effect from March 2, 1985) for :
+(212)[^212]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 20 (with effect from March 2, 1985) for :
 
 **90**
 
@@ -5125,19 +5082,19 @@ If a resolution referred to in clause (1) is not passed, another such resolution
 
  
 
-(213)[^213]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 28 (with effect from April 19, 2010) for :
+(213)[^213]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 28 (with effect from April 19, 2010) for :
 
 **90**
 
 **Exercise of executive authority of the Federation.**  
 
- (214)[^214]\[(1)\] (214)[^214)
+ (214)[^214]:\[(1)\]: (214)[^214)
 
 The executive authority of the Federation shall vest in the President and shall be exercised by him, either directly or through officers subordinate to him, in accordance with the Constitution.
 
  
 
- (215)[^215]\[
+ (215)[^215]:\[
 
 (2)
 
@@ -5153,15 +5110,15 @@ prevent the Majlis-e-Shoora (Parliament) from conferring by law functions on aut
 
  
 
-\] (215)[^215)
+\]: (215)[^215)
 
  
 
-(214)[^214]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985)
+(214)[^214]:  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985)
 
-(215)[^215]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985).
+(215)[^215]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 9 (with effect from November 9, 1985).
 
-(216)[^216]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 29 (with effect from April 19, 2010) for :
+(216)[^216]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 29 (with effect from April 19, 2010) for :
 
 **91**
 
@@ -5179,7 +5136,7 @@ The President shall in his discretion appoint from amongst the members of the Na
 
  
 
- (217)[^217]\[
+ (217)[^217]:\[
 
 (2A)
 
@@ -5187,11 +5144,11 @@ Notwithstanding any-thing contained in clause (2), after the twentieth day of Ma
 
  
 
-\] (217)[^217)
+\]: (217)[^217)
 
 (3)
 
-The person appointed under clause (2)  (218)[^218]\[or as the case may be, invited under clause (2A)\] (218)[^218) shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the National Assembly.
+The person appointed under clause (2)  (218)[^218]:\[or as the case may be, invited under clause (2A)\]: (218)[^218) shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the National Assembly.
 
  
 
@@ -5201,7 +5158,7 @@ The Cabinet, together with the Ministers of State, shall be collectively respons
 
  
 
- (219)[^219]\[
+ (219)[^219]:\[
 
 (5)
 
@@ -5209,7 +5166,7 @@ The Prime Minister shall hold office during the pleasure of the President, but t
 
  
 
-\] (219)[^219)
+\]: (219)[^219)
 
 (6)
 
@@ -5233,11 +5190,11 @@ Nothing contained in this Article shall be construed as disqualifying the Prime 
 
  
 
-(217)[^217]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(a) (with effect from November 9, 1985).
+(217)[^217]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 10(a) (with effect from November 9, 1985).
 
-(218)[^218]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(b) (with effect from November 9, 1985).
+(218)[^218]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 10(b) (with effect from November 9, 1985).
 
-(219)[^219]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 10(c) (with effect from November 9, 1985) for :
+(219)[^219]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 10(c) (with effect from November 9, 1985) for :
 
 (5)
 
@@ -5245,15 +5202,15 @@ The Prime Minister shall hold office during the pleasure of the President, but t
 
  
 
-(220)[^220]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(i) (with effect from April 19, 2010) for "(7) and (8)".
+(220)[^220]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 30(i) (with effect from April 19, 2010) for "(7) and (8)".
 
-(221)[^221]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010) for ".".
+(221)[^221]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010) for ".".
 
-(222)[^222]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010).
+(222)[^222]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 30(ii) (with effect from April 19, 2010).
 
-(223)[^223)   The following was omitted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 1(3) (with effect from September 13, 1977) : :
+(223)[^223)   The following was omitted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)]:(/pakistan/constitution/amendments/7amendment.md), Section 1(3) (with effect from September 13, 1977) : :
 
- (224)[^224]\[
+ (224)[^224]:\[
 
 **96A**
 
@@ -5291,23 +5248,23 @@ If, on the final count of the votes cast at the referendum the Prime Minister fa
 
  
 
-\] (224)[^224)
+\]: (224)[^224)
 
-(224)[^224]  Inserted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 2 (with effect from April 21, 1977).
+(224)[^224]:  Inserted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)]:(/pakistan/constitution/amendments/7amendment.md), Section 2 (with effect from April 21, 1977).
 
-(225)[^225]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(225)[^225]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(226)[^226]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(226)[^226]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(227)[^227]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(227)[^227]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (228)[^228)  
 
-(229)[^229]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "President".
+(229)[^229]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "President".
 
-(230)[^230]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "in his name".
+(230)[^230]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 31(i) (with effect from April 19, 2010) for "in his name".
 
-(231)[^231]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 31(ii) (with effect from April 19, 2010) for :
+(231)[^231]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 31(ii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -5315,20 +5272,10 @@ The President shall also make rules for the allocation and transaction of the bu
 
  
 
-(232)[^232]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 32 (with effect from April 19, 2010).
+(232)[^232]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 32 (with effect from April 19, 2010).
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 1: "The Governors." of Part IV: "Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -5341,7 +5288,7 @@ Chapter 1: The Governors.
 **101**
 
 **Appointment of Governor.**  
- (233)[^233]\[
+ (233)[^233]:\[
 
 (1)
 
@@ -5349,19 +5296,19 @@ There shall be a Governor for each Province, who shall be appointed by the Presi
 
  
 
-\] (233)[^233)
+\]: (233)[^233)
 
 (2)
 
-A person shall not be appointed a Governor unless he is qualified to be elected as member of the National Assembly and is not less that thirty-five years of age  (238)[^238]\[and is a registered voter and resident of the Province concerned\] (238)[^238) (239)[^239]\[:\] (239)[^239) (240)[^240]\[\] (240)[^240)
+A person shall not be appointed a Governor unless he is qualified to be elected as member of the National Assembly and is not less that thirty-five years of age  (238)[^238]:\[and is a registered voter and resident of the Province concerned\]: (238)[^238) (239)[^239]:\[:\]: (239)[^239) (240)[^240]:\[\]: (240)[^240)
 
  
 
- (242)[^242]\[\] (242)[^242)
+ (242)[^242]:\[\]: (242)[^242)
 
 (3)
 
-The Governor shall hold office during the pleasure of the President  (245)[^245]\[and shall be entitled to such salary, allowances and privileges as the President may determine\] (245)[^245).
+The Governor shall hold office during the pleasure of the President  (245)[^245]:\[and shall be entitled to such salary, allowances and privileges as the President may determine\]: (245)[^245).
 
  
 
@@ -5371,15 +5318,15 @@ The Governor may, by writing under his hand addressed to the President, resign h
 
  
 
- (246)[^246]\[
+ (246)[^246]:\[
 
 (5)
 
-The President may make such provision as he things fit for the discharge of the functions of a Governor  (247)[^247]\[in any contingency not provided for in this Part.\] (247)[^247)
+The President may make such provision as he things fit for the discharge of the functions of a Governor  (247)[^247]:\[in any contingency not provided for in this Part.\]: (247)[^247)
 
  
 
-\] (246)[^246)
+\]: (246)[^246)
 
  
 
@@ -5402,13 +5349,13 @@ The Governor shall not hold any office of profit in the service of Pakistan of o
 
 (2)
 
-The Governor shall not be a candidate for election as a member of  (248)[^248]\[Majlis-e-Shoora (Parliament)\] (248)[^248) or a Provincial Assembly and, if a member of  (249)[^249]\[Majlis-e-Shoora (Parliament)\] (249)[^249) or a Provincial Assembly is appointed as Governor, his seat in  (250)[^250]\[Majlis-e-Shoora (Parliament)\] (250)[^250) or, as the case may be, the Provincial Assembly shall become vacant on the day he enters upon his office.
+The Governor shall not be a candidate for election as a member of  (248)[^248]:\[Majlis-e-Shoora (Parliament)\]: (248)[^248) or a Provincial Assembly and, if a member of  (249)[^249]:\[Majlis-e-Shoora (Parliament)\]: (249)[^249) or a Provincial Assembly is appointed as Governor, his seat in  (250)[^250]:\[Majlis-e-Shoora (Parliament)\]: (250)[^250) or, as the case may be, the Provincial Assembly shall become vacant on the day he enters upon his office.
 
  
 
  
 
- (251)[^251]\[
+ (251)[^251]:\[
 
 **104.**
 
@@ -5417,8 +5364,8 @@ When the Governor, by reason of absence from Pakistan or for any other cause, is
 
  
 
-\] (251)[^251)  
- (252)[^252]\[
+\]: (251)[^251)  
+ (252)[^252]:\[
 
 **105**
 
@@ -5426,21 +5373,21 @@ When the Governor, by reason of absence from Pakistan or for any other cause, is
 
 (1)
 
-Subject to the Constitution, in the performance of his functions, the Governor shall act  (253)[^253]\[on and\] (253)[^253) in accordance with the advice of the Cabinet,  (254)[^254]\[or the Chief Minister\] (254)[^254).
+Subject to the Constitution, in the performance of his functions, the Governor shall act  (253)[^253]:\[on and\]: (253)[^253) in accordance with the advice of the Cabinet,  (254)[^254]:\[or the Chief Minister\]: (254)[^254).
 
- (255)[^255]\[**Provided** that  (256)[^256]\[within fifteen days\] (256)[^256) the Governor may require the Cabinet or, as the case may be, the Chief Minister to reconsider such advice, whether generally or otherwise, and the Governor shall  (257)[^257]\[, within ten days,\] (257)[^257) act in accordance with the advice tendered after such reconsideration.\] (255)[^255)
+ (255)[^255]:\[**Provided** that  (256)[^256]:\[within fifteen days\]: (256)[^256) the Governor may require the Cabinet or, as the case may be, the Chief Minister to reconsider such advice, whether generally or otherwise, and the Governor shall  (257)[^257]:\[, within ten days,\]: (257)[^257) act in accordance with the advice tendered after such reconsideration.\]: (255)[^255)
 
- (258)[^258]\[\] (258)[^258)
+ (258)[^258]:\[\]: (258)[^258)
 
  
 
 (2)
 
-The question whether any, and if so what, advice was tendered to the Governor by the Chief Minister  (259)[^259]\[or the Cabinet\] (259)[^259) shall not be inquired into in, or by, any court, tribunal or other authority.
+The question whether any, and if so what, advice was tendered to the Governor by the Chief Minister  (259)[^259]:\[or the Cabinet\]: (259)[^259) shall not be inquired into in, or by, any court, tribunal or other authority.
 
  
 
- (260)[^260]\[
+ (260)[^260]:\[
 
 (3)
 
@@ -5456,77 +5403,77 @@ appoint a care-taker Cabinet.
 
  
 
-\] (260)[^260) (261)[^261]\[\] (261)[^261)
+\]: (260)[^260) (261)[^261]:\[\]: (261)[^261)
 
 (5)
 
-The provisions of clause  (262)[^262]\[(2)\] (262)[^262) of Article 48 shall have effect in relation to a Governor as if reference therein to "President" were reference to "Governor".
+The provisions of clause  (262)[^262]:\[(2)\]: (262)[^262) of Article 48 shall have effect in relation to a Governor as if reference therein to "President" were reference to "Governor".
 
  
 
  
 
-\] (252)[^252)
+\]: (252)[^252)
 
 * * *
 
 ### Notes
 
-(233)[^233]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 33(i) (with effect from April 19, 2010) for :
+(233)[^233]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 33(i) (with effect from April 19, 2010) for :
 
 (1)
 
-There shall be a Governor for each Province, who shall be appointed by the President  (234)[^234]\[in his discretion\] (234)[^234) (235)[^235]\[ (236)[^236]\[after consultation with\] (236)[^236) the Prime Minister\] (235)[^235).
+There shall be a Governor for each Province, who shall be appointed by the President  (234)[^234]:\[in his discretion\]: (234)[^234) (235)[^235]:\[ (236)[^236]:\[after consultation with\]: (236)[^236) the Prime Minister\]: (235)[^235).
 
  
 
-(234)[^234]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22(1) (with effect from March 2, 1985).
+(234)[^234]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22(1) (with effect from March 2, 1985).
 
-(235)[^235]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(1) (with effect from November 9, 1985).
+(235)[^235]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 11(1) (with effect from November 9, 1985).
 
-(236)[^236]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 13 (with effect from August 21, 2002) for " (237)[^237]\[on the advice of\] (237)[^237)".
+(236)[^236]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 13 (with effect from August 21, 2002) for " (237)[^237]:\[on the advice of\]: (237)[^237)".
 
-(237)[^237]  Substituted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 3 (with effect from April 3, 1997) for "after consultation with".
+(237)[^237]:  Substituted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)]:(/pakistan/constitution/amendments/13amendment.md), Section 3 (with effect from April 3, 1997) for "after consultation with".
 
-(238)[^238]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 33(ii) (with effect from April 19, 2010).
+(238)[^238]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 33(ii) (with effect from April 19, 2010).
 
-(239)[^239]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976) for ".".
+(239)[^239]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976) for ".".
 
-(240)[^240)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(aa) (with effect from November 9, 1985) : :
+(240)[^240)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 11(aa) (with effect from November 9, 1985) : :
 
- (241)[^241]\[**Provided** that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\] (241)[^241)
+ (241)[^241]:\[**Provided** that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\]: (241)[^241)
 
-(241)[^241]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
+(241)[^241]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
 
-(242)[^242)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(b) (with effect from November 9, 1985) : :
+(242)[^242)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 11(b) (with effect from November 9, 1985) : :
 
- (243)[^243]\[
+ (243)[^243]:\[
 
 (2A)
 
-Nothing contained in the proviso to clause (2) shall apply during the period that  (244)[^244]\[a Proclamation under article 232 or\] (244)[^244) Article 234 is in force.
+Nothing contained in the proviso to clause (2) shall apply during the period that  (244)[^244]:\[a Proclamation under article 232 or\]: (244)[^244) Article 234 is in force.
 
  
 
-\] (243)[^243)
+\]: (243)[^243)
 
-(243)[^243]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
+(243)[^243]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 2 (with effect from September 16, 1976).
 
-(244)[^244]  Substituted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.md), Section 3 (with effect from April 21, 1977) for "an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under".
+(244)[^244]:  Substituted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)]:(/pakistan/constitution/amendments/7amendment.md), Section 3 (with effect from April 21, 1977) for "an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under".
 
-(245)[^245]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 6 (with effect from May 4, 1974).
+(245)[^245]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 6 (with effect from May 4, 1974).
 
-(246)[^246]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22 (with effect from March 2, 1985).
+(246)[^246]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 22 (with effect from March 2, 1985).
 
-(247)[^247]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 11(c) (with effect from November 9, 1985).
+(247)[^247]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 11(c) (with effect from November 9, 1985).
 
-(248)[^248]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(248)[^248]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(249)[^249]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(249)[^249]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(250)[^250]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(250)[^250]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(251)[^251]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 34 (with effect from April 19, 2010) for :
+(251)[^251]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 34 (with effect from April 19, 2010) for :
 
 **104**
 
@@ -5535,7 +5482,7 @@ When the governor is absent from Pakistan or is unable to perform the functions 
 
  
 
-(252)[^252]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 23 (with effect from March 2, 1985) for :
+(252)[^252]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 23 (with effect from March 2, 1985) for :
 
 **105**
 
@@ -5555,19 +5502,19 @@ The question whether any, and if so what, was tendered to the Governor by the Ch
 
  
 
-(253)[^253]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
+(253)[^253]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(254)[^254]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(i) (with effect from November 9, 1985) for "Chief Minister or appropriate Minister".
+(254)[^254]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 12(a)(i) (with effect from November 9, 1985) for "Chief Minister or appropriate Minister".
 
-(255)[^255]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(ii) (with effect from November 9, 1985) for :
+(255)[^255]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 12(a)(ii) (with effect from November 9, 1985) for :
 
 **Provided** that the Governor may require the Cabinet to reconsider such advice, whether generally or otherwise, and the Governor shall act in accordance with the advice tendered after such reconsideration.
 
-(256)[^256]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
+(256)[^256]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(257)[^257]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
+(257)[^257]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 35(i) (with effect from April 19, 2010).
 
-(258)[^258)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(a)(iii) (with effect from November 9, 1985) : :
+(258)[^258)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 12(a)(iii) (with effect from November 9, 1985) : :
 
 **Provided** further that, in respect of the following matters, the Governor shall, subject to the previous approval of the President, act in his discretion, namely :-
 
@@ -5583,9 +5530,9 @@ dismissal of a Cabinet which has lost the confidence of the Provincial Assembly;
 
 dissolution of the Provincial Assembly, when an appeal to the electorate is necessary.
 
-(259)[^259]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(b) (with effect from November 9, 1985) for "the Cabinet or a Minister".
+(259)[^259]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 12(b) (with effect from November 9, 1985) for "the Cabinet or a Minister".
 
-(260)[^260]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(ii) (with effect from April 19, 2010) for :
+(260)[^260]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 35(ii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -5593,7 +5540,7 @@ Where the Governor dissolves the Provincial Assembly, he shall appoint, in his d
 
  
 
-(261)[^261)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 35(iii) (with effect from April 19, 2010) : :
+(261)[^261)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 35(iii) (with effect from April 19, 2010) : :
 
 (4)
 
@@ -5601,20 +5548,10 @@ The powers conferred by the Article on the President shall be exercised by him i
 
  
 
-(262)[^262]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 12(c) (with effect from November 9, 1985) for "(3)".
+(262)[^262]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 12(c) (with effect from November 9, 1985) for "(3)".
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 2: "Provincial Assemblies" of Part IV: "Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -5624,7 +5561,7 @@ Part IV: Provinces
 Chapter 2: Provincial Assemblies
 --------------------------------
 
- (263)[^263]\[
+ (263)[^263]:\[
 
 **106.**
 
@@ -5684,7 +5621,7 @@ Sindh
 
  
 
- (265)[^265]\[
+ (265)[^265]:\[
 
 (1A)
 
@@ -5698,7 +5635,7 @@ After elections to seats referred to in clause (1A), both clause (1A) and this c
 
  
 
-\] (265)[^265)
+\]: (265)[^265)
 
 (2)
 
@@ -5744,7 +5681,7 @@ the members to fill seats reserved for women and non-Muslims allocated to a Prov
 
  
 
-\] (263)[^263)
+\]: (263)[^263)
 
 **107**
 
@@ -5789,7 +5726,7 @@ The Advocate-General shall have the right to speak and otherwise take part in th
 
  
 
- (281)[^281]\[
+ (281)[^281]:\[
 
 **112.**
 
@@ -5811,8 +5748,8 @@ The Governor may also dissolve the Provincial Assembly in his discretion, but su
 
  
 
-\] (281)[^281)  
- (288)[^288]\[
+\]: (281)[^281)  
+ (288)[^288]:\[
 
 **113**
 
@@ -5821,7 +5758,7 @@ The qualifications and disqualifications for membership of the National Assembly
 
  
 
-\] (288)[^288)
+\]: (288)[^288)
 
 **114**
 
@@ -5898,7 +5835,7 @@ Every Money Bill presented to the Governor for assent shall bear a certificate u
 
  
 
- (289)[^289]\[
+ (289)[^289]:\[
 
 **116**
 
@@ -5912,7 +5849,7 @@ When a Bill has been passed by the Provincial Assembly, it shall be presented to
 
 (2)
 
-When a Bill is presented to the Governor for assent, the Governor shall, within  (290)[^290]\[ten\] (290)[^290) days,
+When a Bill is presented to the Governor for assent, the Governor shall, within  (290)[^290]:\[ten\]: (290)[^290) days,
 
 (a)
 
@@ -5924,19 +5861,19 @@ in the case of a Bill other than a Money Bill, return the Bill to the Provincial
 
  
 
- (292)[^292]\[
+ (292)[^292]:\[
 
 (3)
 
-When the Governor has returned a Bill to the Provincial Assembly it shall be reconsidered by the Provincial Assembly and, if it is again passed, with or without amendment, by the Provincial Assembly, by the votes of the majority of the members of the Provincial Assembly present and voting, it shall be again presented to the Governor and the Governor shall  (293)[^293]\[give his assent within ten days, failing with such assent shall be deemed to have been given\] (293)[^293).
+When the Governor has returned a Bill to the Provincial Assembly it shall be reconsidered by the Provincial Assembly and, if it is again passed, with or without amendment, by the Provincial Assembly, by the votes of the majority of the members of the Provincial Assembly present and voting, it shall be again presented to the Governor and the Governor shall  (293)[^293]:\[give his assent within ten days, failing with such assent shall be deemed to have been given\]: (293)[^293).
 
  
 
-\] (292)[^292)
+\]: (292)[^292)
 
 (4)
 
-When the Governor has assented  (294)[^294]\[or is deemed to have assented\] (294)[^294)to a Bill, it shall become law and be called an Act of Provincial Assembly.
+When the Governor has assented  (294)[^294]:\[or is deemed to have assented\]: (294)[^294)to a Bill, it shall become law and be called an Act of Provincial Assembly.
 
  
 
@@ -5948,7 +5885,7 @@ No Act of a Provincial Assembly, and no provision in any such Act, shall be inva
 
  
 
-\] (289)[^289)
+\]: (289)[^289)
 
 **117**
 
@@ -6088,7 +6025,7 @@ So much of the Annual Budget Statement as relates to expenditure charged upon th
 
 (2)
 
-So much of the Annual Budget Statement as relates to other expenditure shall be submitted to the Provincial Assembly in the form of demands for grants, and that Assembly shall have power to assent to, or to refuse to assent to, any demand, or to assent to any demand subject to a reduction of the amount specified therein:  (295)[^295]\[\] (295)[^295)
+So much of the Annual Budget Statement as relates to other expenditure shall be submitted to the Provincial Assembly in the form of demands for grants, and that Assembly shall have power to assent to, or to refuse to assent to, any demand, or to assent to any demand subject to a reduction of the amount specified therein:  (295)[^295]:\[\]: (295)[^295)
 
  
 
@@ -6174,7 +6111,7 @@ Subject to the Constitution, the provisions of clauses (2) to (8) of Article 53,
 
 (a)
 
-any reference in those provisions to  (296)[^296]\[Majlis-e-Shoora (Parliament)\] (296)[^296), a House or the National Assembly shall be read as a reference to the Provincial Assembly;
+any reference in those provisions to  (296)[^296]:\[Majlis-e-Shoora (Parliament)\]: (296)[^296), a House or the National Assembly shall be read as a reference to the Provincial Assembly;
 
 (b)
 
@@ -6190,19 +6127,19 @@ any reference in those provisions to the Prime Minister shall be read as a refer
 
 (e)
 
-any reference in those provisions to a Federal Minister shall be read as a reference to a Provincial Minister;  (297)[^297]\[\] (297)[^297)
+any reference in those provisions to a Federal Minister shall be read as a reference to a Provincial Minister;  (297)[^297]:\[\]: (297)[^297)
 
 (f)
 
-any reference in those provisions to the National Assembly of Pakistan shall be read as a reference to the Provincial Assembly in existence immediately before the commencing day (298)[^298]\[; and\] (298)[^298)
+any reference in those provisions to the National Assembly of Pakistan shall be read as a reference to the Provincial Assembly in existence immediately before the commencing day (298)[^298]:\[; and\]: (298)[^298)
 
- (299)[^299]\[
+ (299)[^299]:\[
 
 (g)
 
-the said clause (2) of Article 54 shall have effect as if, in the proviso thereto, for the words "one hundred and thirty" the word " (300)[^300]\[one hundred\] (300)[^300)" were substituted.
+the said clause (2) of Article 54 shall have effect as if, in the proviso thereto, for the words "one hundred and thirty" the word " (300)[^300]:\[one hundred\]: (300)[^300)" were substituted.
 
-\] (299)[^299)
+\]: (299)[^299)
 
  
 
@@ -6222,11 +6159,11 @@ An Ordinance promulgated under this Article shall have the same force and effect
 
 (a)
 
-shall be laid before the Provincial Assembly and shall stand repealed at the expiration of  (301)[^301]\[ninety days\] (301)[^301) from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution (302)[^302]\[:\] (302)[^302)
+shall be laid before the Provincial Assembly and shall stand repealed at the expiration of  (301)[^301]:\[ninety days\]: (301)[^301) from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution (302)[^302]:\[:\]: (302)[^302)
 
- (303)[^303]\[**Provided** that the Provincial Assembly may by a resolution extend the Ordinance for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution:
+ (303)[^303]:\[**Provided** that the Provincial Assembly may by a resolution extend the Ordinance for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution:
 
-**Provided** further that extension for further period may be made only once.\] (303)[^303)
+**Provided** further that extension for further period may be made only once.\]: (303)[^303)
 
 (b)
 
@@ -6246,12 +6183,12 @@ Without prejudice to the provisions of clause (2), an Ordinance laid before the 
 
 ### Notes
 
-(263)[^263]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 36 (with effect from August 21, 2002) for :
+(263)[^263]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 36 (with effect from August 21, 2002) for :
 
 **106**
 
 **Constitution of Provincial Assemblies.**  
- (266)[^266]\[
+ (266)[^266]:\[
 
 (1)
 
@@ -6307,7 +6244,7 @@ Sind
 
  
 
-\] (266)[^266)
+\]: (266)[^266)
 
 (2)
 
@@ -6319,7 +6256,7 @@ he is a citizen of Pakistan;
 
 (b)
 
-he is not less than  (267)[^267]\[eighteen\] (267)[^267) years of age;
+he is not less than  (267)[^267]:\[eighteen\]: (267)[^267) years of age;
 
 (c)
 
@@ -6327,13 +6264,13 @@ his name appears on the electoral roll for any area in the Province; and
 
 (d)
 
-he is not declared by a competent court to be of unsound mind  (269)[^269]\[.\] (269)[^269)
+he is not declared by a competent court to be of unsound mind  (269)[^269]:\[.\]: (269)[^269)
 
- (270)[^270]\[\] (270)[^270)
+ (270)[^270]:\[\]: (270)[^270)
 
  
 
- (271)[^271]\[
+ (271)[^271]:\[
 
 (3)
 
@@ -6351,21 +6288,21 @@ each Province shall be a single constituency for all seats reserved for women an
 
 the members to fill seats reserved for women and non-Muslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of the total number of general seats secured by each political party in the Provincial Assembly:
 
- (276)[^276]\[**Provided** that for the purpose of this sub-clause, the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\] (276)[^276)
+ (276)[^276]:\[**Provided** that for the purpose of this sub-clause, the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\]: (276)[^276)
 
  
 
-\] (271)[^271) (277)[^277]\[\] (277)[^277)
+\]: (271)[^271) (277)[^277]:\[\]: (277)[^277)
 
  
 
-(264)[^264]  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(I) (with effect from May 31, 2018) for :
+(264)[^264]:  Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(I) (with effect from May 31, 2018) for :
 
 Khyber Pakhtunkhwa 99 22 3 124
 
-(265)[^265]  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(II) (with effect from May 31, 2018).
+(265)[^265]:  Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(II) (with effect from May 31, 2018).
 
-(266)[^266]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(1) (with effect from August 21, 2002) for :
+(266)[^266]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -6389,19 +6326,19 @@ Sind
 
  
 
-(267)[^267]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(2) (with effect from August 21, 2002) for " (268)[^268]\[twenty-one\] (268)[^268)".
+(267)[^267]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(2) (with effect from August 21, 2002) for " (268)[^268]:\[twenty-one\]: (268)[^268)".
 
-(268)[^268]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for "eighteen".
+(268)[^268]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for "eighteen".
 
-(269)[^269]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for ":".
+(269)[^269]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for ":".
 
-(270)[^270)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) : :
+(270)[^270)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) : :
 
 **Provided** that, for the purpose of the first general election to the Provincial Assembly or an election to a seat falling vacant before the holding of the second general election to the Assembly, paragraph (b) shall have effect as if for the word "eighteen" the word "twenty-one" were substituted.
 
-(271)[^271]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(3) (with effect from August 21, 2002) for :
+(271)[^271]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(3) (with effect from August 21, 2002) for :
 
- (272)[^272]\[
+ (272)[^272]:\[
 
 (3)
 
@@ -6461,13 +6398,13 @@ Explanation.- Where no independent seat is allocated to a minority in a Province
 
  
 
-\] (272)[^272)
+\]: (272)[^272)
 
-(272)[^272]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
+(272)[^272]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
 
 (3)
 
-In addition to the seats in the Provincial Assemblies for the Provinces of Baluchistan, the Punjab, the North-West Frontier and Sind specified in clause (1), there shall be in those Assemblies the number of additional seats hereinafter specified reserved for persons belonging to the Christian, Hindu, Sikh, Buddhist and Paris communities  (273)[^273]\[and persons of the Quadiani group or the Lahori group who call themselves 'Ahmadis')\] (273)[^273) (274)[^274]\[and other non-Muslims and persons belonging to\] (274)[^274) the scheduled castes :-
+In addition to the seats in the Provincial Assemblies for the Provinces of Baluchistan, the Punjab, the North-West Frontier and Sind specified in clause (1), there shall be in those Assemblies the number of additional seats hereinafter specified reserved for persons belonging to the Christian, Hindu, Sikh, Buddhist and Paris communities  (273)[^273]:\[and persons of the Quadiani group or the Lahori group who call themselves 'Ahmadis')\]: (273)[^273) (274)[^274]:\[and other non-Muslims and persons belonging to\]: (274)[^274) the scheduled castes :-
 
 Baluchistan
 
@@ -6479,7 +6416,7 @@ The North-West Frontier Province
 
 The Punjab
 
- (275)[^275]\(5\] (275)[^275)
+ (275)[^275]:\(5\]: (275)[^275)
 
 Sind
 
@@ -6487,25 +6424,25 @@ Sind
 
  
 
-(273)[^273]  Inserted by [Constitution (Second Amendment) Act, 1974 (49 of 1974)](/pakistan/constitution/amendments/2amendment.md), Section 2 (with effect from September 17, 1974).
+(273)[^273]:  Inserted by [Constitution (Second Amendment) Act, 1974 (49 of 1974)]:(/pakistan/constitution/amendments/2amendment.md), Section 2 (with effect from September 17, 1974).
 
-(274)[^274]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "or".
+(274)[^274]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "or".
 
-(275)[^275]  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "3".
+(275)[^275]:  Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Article 7 (with effect from November 21, 1975) for "3".
 
-(276)[^276]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for :
+(276)[^276]:  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(2) (with effect from October 9, 2002) for :
 
 **Provided** that a political party securing less than five per centum of the total number of seats in the Provincial Assembly shall not be entitled to any seat reserved for women and non-Muslims.
 
-(277)[^277)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(4) (with effect from August 21, 2002) : :
+(277)[^277)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 14(4) (with effect from August 21, 2002) : :
 
 (4)
 
-Until the expiration of a period of ten years from the commencing day or the holding of the  (278)[^278]\[third\] (278)[^278) general election to the Assembly of a Province, whichever occurs later, there shall be in the Assembly a number of additional seats reserved for women equal to five per centum of the number of members of that Assembly specified in clause (1).
+Until the expiration of a period of ten years from the commencing day or the holding of the  (278)[^278]:\[third\]: (278)[^278) general election to the Assembly of a Province, whichever occurs later, there shall be in the Assembly a number of additional seats reserved for women equal to five per centum of the number of members of that Assembly specified in clause (1).
 
  
 
- (279)[^279]\[
+ (279)[^279]:\[
 
 (5)
 
@@ -6513,7 +6450,7 @@ The members to fill the seats referred to in clause (3) shall be elected, simult
 
  
 
-\] (279)[^279) (280)[^280]\[
+\]: (279)[^279) (280)[^280]:\[
 
 (6)
 
@@ -6521,11 +6458,11 @@ As soon as practicable after the general election to a Provincial Assembly, the 
 
  
 
-\] (280)[^280)
+\]: (280)[^280)
 
-(278)[^278]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 13 (with effect from November 9, 1985) for "second".
+(278)[^278]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 13 (with effect from November 9, 1985) for "second".
 
-(279)[^279]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
+(279)[^279]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985) for :
 
 (5)
 
@@ -6533,23 +6470,23 @@ As soon as practicable after the general election to a Provincial Assembly, the 
 
  
 
-(280)[^280]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985).
+(280)[^280]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 24 (with effect from March 2, 1985).
 
-(281)[^281]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 37 (with effect from April 19, 2010) for :
+(281)[^281]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 37 (with effect from April 19, 2010) for :
 
 **112**
 
 **Dissolution of Provincial Assembly.**  
 
- (282)[^282]\[(1)\] (282)[^282)
+ (282)[^282]:\[(1)\]: (282)[^282)
 
 The Governor shall dissolve the Provincial Assembly if so advised by the Chief Minister; and the Provincial Assembly shall, unless sooner dissolved, stand dissolved at the expiration of forty-eight hours after the Chief Minister has so advised.
 
-Explanation.- Reference in this Article to "Chief Minister" shall not be construed to include reference to a Chief Minister against whom  (283)[^283]\[notice or a resolution for a vote of no-confidence has been given\] (283)[^283) in the Provincial Assembly but has not been voted upon or against whom a resolution for a vote of no-confidence has been passed or who is continuing in office by virtue of clause (2) of Article 134 or a Provincial Minister performing the functions of the Chief Minister under clause (1) or clause (3) of Article 135.
+Explanation.- Reference in this Article to "Chief Minister" shall not be construed to include reference to a Chief Minister against whom  (283)[^283]:\[notice or a resolution for a vote of no-confidence has been given\]: (283)[^283) in the Provincial Assembly but has not been voted upon or against whom a resolution for a vote of no-confidence has been passed or who is continuing in office by virtue of clause (2) of Article 134 or a Provincial Minister performing the functions of the Chief Minister under clause (1) or clause (3) of Article 135.
 
  
 
- (284)[^284]\[
+ (284)[^284]:\[
 
 (2)
 
@@ -6559,17 +6496,17 @@ The Governor may also dissolve the Provincial Assembly in his discretion, but su
 
 a vote of no-confidence having been passed against the Chief Minister, no other member of the Provincial Assemble is likely to command the confidence of the majority of the members of the Provincial Assembly in accordance with the provisions of the Constitution, as ascertained in a session of the Provincial Assembly summoned for the purpose; or
 
- (285)[^285]\[\] (285)[^285) (286)[^286]\[
+ (285)[^285]:\[\]: (285)[^285) (286)[^286]:\[
 
 (b)
 
 a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-\] (286)[^286)
+\]: (286)[^286)
 
  
 
-\] (284)[^284) (287)[^287]\[
+\]: (284)[^284) (287)[^287]:\[
 
 (3)
 
@@ -6577,27 +6514,27 @@ The Governor in case of dissolution of the Provisional Assembly under paragraph 
 
  
 
-\] (287)[^287)
+\]: (287)[^287)
 
  
 
-(282)[^282]  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14 (with effect from November 9, 1985)
+(282)[^282]:  )   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 14 (with effect from November 9, 1985)
 
-(283)[^283]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14(a) (with effect from November 9, 1985) for "resolution for a vote of no-confidence has been moved".
+(283)[^283]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 14(a) (with effect from November 9, 1985) for "resolution for a vote of no-confidence has been moved".
 
-(284)[^284]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 14(b) (with effect from November 9, 1985).
+(284)[^284]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 14(b) (with effect from November 9, 1985).
 
-(285)[^285)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
+(285)[^285)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)]:(/pakistan/constitution/amendments/13amendment.md), Section 2 (with effect from April 3, 1997) : :
 
 (b)
 
 a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
 
-(286)[^286]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 15 (with effect from August 21, 2002).
+(286)[^286]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 15 (with effect from August 21, 2002).
 
-(287)[^287]  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 4 (with effect from December 31, 2003).
+(287)[^287]:  Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 4 (with effect from December 31, 2003).
 
-(288)[^288]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 25 (with effect from March 2, 1985) for :
+(288)[^288]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 25 (with effect from March 2, 1985) for :
 
 **113**
 
@@ -6621,7 +6558,7 @@ he possesses such other qualifications as may be prescribed by Act of Parliament
 
  
 
-(289)[^289]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 26 (with effect from March 2, 1985) for :
+(289)[^289]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 26 (with effect from March 2, 1985) for :
 
 **116**
 
@@ -6651,11 +6588,11 @@ No Act of a Provincial Assembly, and no provision in any such Act, shall be inva
 
  
 
-(290)[^290]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(i) (with effect from April 19, 2010) for " (291)[^291]\[thirty\] (291)[^291)".
+(290)[^290]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 38(i) (with effect from April 19, 2010) for " (291)[^291]:\[thirty\]: (291)[^291)".
 
-(291)[^291]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 15(a) (with effect from November 9, 1985) for "forty-five>".
+(291)[^291]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 15(a) (with effect from November 9, 1985) for "forty-five>".
 
-(292)[^292]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 15(b) (with effect from November 9, 1985) for :
+(292)[^292]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 15(b) (with effect from November 9, 1985) for :
 
 (3)
 
@@ -6663,42 +6600,33 @@ When the Governor has returned a Bill to the Provincial Assembly, if it is again
 
  
 
-(293)[^293]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(ii) (with effect from April 19, 2010) for "not withhold assent therefrom".
+(293)[^293]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 38(ii) (with effect from April 19, 2010) for "not withhold assent therefrom".
 
-(294)[^294]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 38(iii) (with effect from April 19, 2010).
+(294)[^294]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 38(iii) (with effect from April 19, 2010).
 
-(295)[^295)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 39 (with effect from April 19, 2010) : :
+(295)[^295)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 39 (with effect from April 19, 2010) : :
 
 **Provided** that, for a period of ten years from the commencing day or the holding of the second general election to the Provincial Assembly, whichever occurs later, a demand shall be deemed to have been assented to unless, by the votes of a majority of the total membership of the Assembly, it is refused or assented to subject to a reduction of the amount specified therein.
 
-(296)[^296]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(296)[^296]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(297)[^297)   The following was omitted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(a) (with effect from May 4, 1974) : "and".
+(297)[^297)   The following was omitted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 7(a) (with effect from May 4, 1974) : "and".
 
-(298)[^298]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(b) (with effect from May 4, 1974) for ".".
+(298)[^298]:  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 7(b) (with effect from May 4, 1974) for ".".
 
-(299)[^299]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 7(c) (with effect from May 4, 1974).
+(299)[^299]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 7(c) (with effect from May 4, 1974).
 
-(300)[^300]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 40 (with effect from April 19, 2010) for "seventy".
+(300)[^300]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 40 (with effect from April 19, 2010) for "seventy".
 
-(301)[^301]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "three months".
+(301)[^301]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "three months".
 
-(302)[^302]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "; and".
+(302)[^302]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010) for "; and".
 
-(303)[^303]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(303)[^303]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 41 (with effect from April 19, 2010).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 3: "The Provincial Governments" of Part IV: "Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+[**The Constitution of Pakistan**]:(/pakistan/constitution/) on (/)
 
 * * *
 
@@ -6708,7 +6636,7 @@ Part IV: Provinces
 Chapter 3: The Provincial Governments
 -------------------------------------
 
- (304)[^304]\[ (305)[^305]\[
+ (304)[^304]:\[ (305)[^305]:\[
 
 **129.**
 
@@ -6728,8 +6656,8 @@ In the performance of his functions under the Constitution, the Chief Minister m
 
  
 
-\] (305)[^305)  
- (306)[^306]\[
+\]: (305)[^305)  
+ (306)[^306]:\[
 
 **130.**
 
@@ -6811,8 +6739,8 @@ The Chief Minister shall not appoint more than five Advisers.
 
  
 
-\] (306)[^306)  
- (310)[^310]\[
+\]: (306)[^306)  
+ (310)[^310]:\[
 
 **131.**
 
@@ -6821,7 +6749,7 @@ The Chief Minister shall keep the Governor informed on matters relating to Provi
 
  
 
-\] (310)[^310)\] (304)[^304)
+\]: (310)[^310)\]: (304)[^304)
 
 **132**
 
@@ -6829,7 +6757,7 @@ The Chief Minister shall keep the Governor informed on matters relating to Provi
 
 (1)
 
-Subject to clauses  (311)[^311]\[(9) and (10)\] (311)[^311) of Article 130, the Governor shall appoint Provincial Ministers from amongst members of the Provincial Assembly on the advice of the Chief Minister.
+Subject to clauses  (311)[^311]:\[(9) and (10)\]: (311)[^311) of Article 130, the Governor shall appoint Provincial Ministers from amongst members of the Provincial Assembly on the advice of the Chief Minister.
 
  
 
@@ -6854,9 +6782,9 @@ The Governor may ask the Chief Minister to continue to hold office until his suc
 
  
 
- (312)[^312]\[\] (312)[^312)  
- (313)[^313]\[\] (313)[^313)  
- (314)[^314]\[
+ (312)[^312]:\[\]: (312)[^312)  
+ (313)[^313]:\[\]: (313)[^313)  
+ (314)[^314]:\[
 
 **136**
 
@@ -6882,14 +6810,14 @@ If the resolution referred to in clause (1) is passed by a majority of the total
 
  
 
-\] (314)[^314)
+\]: (314)[^314)
 
 **137**
 
 **Extent of executive authority of Province.**  
 Subject to the Constitution, the executive authority of the Province shall extend to the matters with respect to which the Provincial Assembly has power to make laws:
 
-**Provided** that, in any matter with respect to which both  (315)[^315]\[Majlis-e-Shoora (Parliament)\] (315)[^315) and the Provincial Assembly of a Province have power to make laws, the executive authority of the Province shall be subject to, and limited by, the executive authority expressly conferred by the Constitution or by law made by  (316)[^316]\[Majlis-e-Shoora (Parliament)\] (316)[^316) upon the Federal Government or authorities thereof.
+**Provided** that, in any matter with respect to which both  (315)[^315]:\[Majlis-e-Shoora (Parliament)\]: (315)[^315) and the Provincial Assembly of a Province have power to make laws, the executive authority of the Province shall be subject to, and limited by, the executive authority expressly conferred by the Constitution or by law made by  (316)[^316]:\[Majlis-e-Shoora (Parliament)\]: (316)[^316) upon the Federal Government or authorities thereof.
 
  
 
@@ -6900,7 +6828,7 @@ On the recommendation of the Provincial Government, the Provincial Assembly may 
 
  
 
- (317)[^317]\[
+ (317)[^317]:\[
 
 **139**
 
@@ -6914,11 +6842,11 @@ All executive actions of the Provincial Government shall be expressed to be take
 
 (2)
 
-The  (318)[^318]\[Provincial Government\] (318)[^318) shall by rules specify the manner in which orders and other instruments made and executed in his name shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the Governor.
+The  (318)[^318]:\[Provincial Government\]: (318)[^318) shall by rules specify the manner in which orders and other instruments made and executed in his name shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the Governor.
 
  
 
- (319)[^319]\[
+ (319)[^319]:\[
 
 (3)
 
@@ -6926,11 +6854,11 @@ The Provincial Government shall also make rules for the allocation and transacti
 
  
 
-\] (319)[^319)
+\]: (319)[^319)
 
  
 
-\] (317)[^317)
+\]: (317)[^317)
 
 **140**
 
@@ -6950,7 +6878,7 @@ It shall be the duty of the Advocate-General to give advice to the Provincial Go
 
 (3)
 
-The Advocate-General shall hold office during the pleasure of the Governor  (320)[^320]\[and shall not engage in private practice so long as he holds the office of the Advocate-General.\] (320)[^320)
+The Advocate-General shall hold office during the pleasure of the Governor  (320)[^320]:\[and shall not engage in private practice so long as he holds the office of the Advocate-General.\]: (320)[^320)
 
  
 
@@ -6962,7 +6890,7 @@ The Advocate-General may, by writing under his hand addressed to the Governor, r
 
  
 
- (321)[^321]\[
+ (321)[^321]:\[
 
 **140A.**
 
@@ -6982,13 +6910,13 @@ Elections to the local governments shall be held by the Election Commission of P
 
  
 
-\] (321)[^321)
+\]: (321)[^321)
 
 * * *
 
 ### Notes
 
-(304)[^304]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 27 (with effect from March 2, 1985) for :
+(304)[^304]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 27 (with effect from March 2, 1985) for :
 
 **129**
 
@@ -7053,7 +6981,7 @@ The member elected under clause (3) shall be called upon by the Governor to assu
 
  
 
-(305)[^305]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 42 (with effect from April 19, 2010) for :
+(305)[^305]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 42 (with effect from April 19, 2010) for :
 
 **129**
 
@@ -7062,7 +6990,7 @@ The executive authority of the Province shall vest in the Governor and shall be 
 
  
 
-(306)[^306]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 43 (with effect from April 19, 2010) for :
+(306)[^306]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 43 (with effect from April 19, 2010) for :
 
 **130**
 
@@ -7080,7 +7008,7 @@ The Governor shall appoint from amongst the members of the Provincial Assembly a
 
  
 
- (307)[^307]\[
+ (307)[^307]:\[
 
 (2A)
 
@@ -7090,11 +7018,11 @@ Notwithstanding anything contained in clause (2) after the twentieth day of Marc
 
  
 
-\] (307)[^307)
+\]: (307)[^307)
 
 (3)
 
-The person appointed under clause (2)  (308)[^308]\[or, as the case may be, invited under clause(2A)\] (308)[^308) shall, before entering upon the office, make before the Governor oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the Provincial Assembly.
+The person appointed under clause (2)  (308)[^308]:\[or, as the case may be, invited under clause(2A)\]: (308)[^308) shall, before entering upon the office, make before the Governor oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the Provincial Assembly.
 
  
 
@@ -7104,7 +7032,7 @@ The Cabinet shall be collectively responsible to the Provincial Assembly.
 
  
 
- (309)[^309]\[
+ (309)[^309]:\[
 
 (5)
 
@@ -7112,7 +7040,7 @@ The Chief Minister shall hold office during the pleasure of the Governor, but th
 
  
 
-\] (309)[^309)
+\]: (309)[^309)
 
 (6)
 
@@ -7134,11 +7062,11 @@ Nothing contained in this Article shall be construed as disqualifying the Chief 
 
  
 
-(307)[^307]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(a) (with effect from November 9, 1985).
+(307)[^307]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 16(a) (with effect from November 9, 1985).
 
-(308)[^308]  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(b) (with effect from November 9, 1985).
+(308)[^308]:  Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 16(b) (with effect from November 9, 1985).
 
-(309)[^309]  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 16(c) (with effect from November 9, 1985) for :
+(309)[^309]:  Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 16(c) (with effect from November 9, 1985) for :
 
 (5)
 
@@ -7146,7 +7074,7 @@ The Chief Minister shall hold office during the pleasure of the Governor, but th
 
  
 
-(310)[^310]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 44 (with effect from April 19, 2010) for :
+(310)[^310]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 44 (with effect from April 19, 2010) for :
 
 **131**
 
@@ -7167,9 +7095,9 @@ if the Governor so requires, to submit for consideration of the Cabinet any matt
 
  
 
-(311)[^311]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 45 (with effect from April 19, 2010) for "(7) and (8)".
+(311)[^311]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 45 (with effect from April 19, 2010) for "(7) and (8)".
 
-(312)[^312)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
+(312)[^312)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
 
 **134**
 
@@ -7195,7 +7123,7 @@ If the Provincial Assembly is in session at the time when the Chief Minister res
 
  
 
-(313)[^313)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
+(313)[^313)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 29 (with effect from March 2, 1985) : :
 
 **135**
 
@@ -7227,7 +7155,7 @@ In this Article, "most senior Provincial Minister" means the Provincial Minister
 
  
 
-(314)[^314]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 30 (with effect from March 2, 1985) for :
+(314)[^314]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 30 (with effect from March 2, 1985) for :
 
 **136.**
 
@@ -7271,11 +7199,11 @@ If a resolution referred to in clause (1) is not passed, another such resolution
 
  
 
-(315)[^315]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(315)[^315]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(316)[^316]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(316)[^316]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(317)[^317]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Sch. item 31 (with effect from March 2, 1985) for :
+(317)[^317]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Sch. item 31 (with effect from March 2, 1985) for :
 
 **139.**
 
@@ -7295,9 +7223,9 @@ The Provincial Government may regulate the allocation and transaction of its bus
 
  
 
-(318)[^318]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 46(i) (with effect from April 19, 2010) for "Governor".
+(318)[^318]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 46(i) (with effect from April 19, 2010) for "Governor".
 
-(319)[^319]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 46(iii) (with effect from April 19, 2010) for :
+(319)[^319]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 46(iii) (with effect from April 19, 2010) for :
 
 (3)
 
@@ -7305,11 +7233,11 @@ The Governor shall also make rules for the allocation and transaction of the bus
 
  
 
-(320)[^320]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 47 (with effect from April 19, 2010).
+(320)[^320]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 47 (with effect from April 19, 2010).
 
-(321)[^321]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 48 (with effect from April 19, 2010) for :
+(321)[^321]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 48 (with effect from April 19, 2010) for :
 
- (322)[^322]\[
+ (322)[^322]:\[
 
 **140A**
 
@@ -7318,22 +7246,12 @@ Each Province shall, by law, establish a local government system and devolve pol
 
  
 
-\] (322)[^322)
+\]: (322)[^322)
 
-(322)[^322]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 16 (with effect from August 21, 2002).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(322)[^322]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 16 (with effect from August 21, 2002).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 1: "Distribution of Legislative Powers" of Part V: "Relations between Federation and Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -7346,7 +7264,7 @@ Chapter 1: Distribution of Legislative Powers
 **141**
 
 **Extent of Federal and Provincial laws.**  
-Subject to the Constitution,  (323)[^323]\[Majlis-e-Shoora (Parliament)\] (323)[^323) may make laws (including laws having extra-territorial operation) for the whole or any part of Pakistan, and a Provincial Assembly may make laws for the Province or any part thereof.
+Subject to the Constitution,  (323)[^323]:\[Majlis-e-Shoora (Parliament)\]: (323)[^323) may make laws (including laws having extra-territorial operation) for the whole or any part of Pakistan, and a Provincial Assembly may make laws for the Province or any part thereof.
 
  
 
@@ -7357,31 +7275,31 @@ Subject to the Constitution-
 
 (a)
 
- (324)[^324]\[Majlis-e-Shoora (Parliament)\] (324)[^324) shall have exclusive power to make laws with respect to any matter in the Federal Legislative List;
+ (324)[^324]:\[Majlis-e-Shoora (Parliament)\]: (324)[^324) shall have exclusive power to make laws with respect to any matter in the Federal Legislative List;
 
- (325)[^325]\[
+ (325)[^325]:\[
 
 (b)
 
 Majlis-e-Shoora (Parliament) and a Provincial Assembly shall have power to make laws with respect to criminal law, criminal procedure and evidence.
 
-\] (325)[^325) (327)[^327]\[
+\]: (325)[^325) (327)[^327]:\[
 
 (c)
 
 Subject to paragraph (b), a Provincial Assembly shall, and Majlis-e-Shoora (Parliament) shall not, have power to make laws with respect to any mattter not enumerated in the Federal Legislative List.
 
-\] (327)[^327) (329)[^329]\[
+\]: (327)[^327) (329)[^329]:\[
 
 (d)
 
 Majlis-e-Shoora (Parliament) shall have exclusive power to make laws with respect to all matters pertaining to such areas in the Federation as are not included in any Province.
 
-\] (329)[^329)
+\]: (329)[^329)
 
  
 
- (331)[^331]\[
+ (331)[^331]:\[
 
 **143.**
 
@@ -7390,19 +7308,19 @@ If any provision of an Act of a Provincial Assembly is repugnant to any provisio
 
  
 
-\] (331)[^331)
+\]: (331)[^331)
 
 **144**
 
-**Power of  (335)[^335]\[Majlis-e-Shoora (Parliament)\] (335)[^335) to legislate for  (336)[^336]\[one\] (336)[^336) or more Provinces by consent.**  
+**Power of  (335)[^335]:\[Majlis-e-Shoora (Parliament)\]: (335)[^335) to legislate for  (336)[^336]:\[one\]: (336)[^336) or more Provinces by consent.**  
 
 (1)
 
-If  (337)[^337]\[one\] (337)[^337) or more Provincial Assemblies pass resolutions to the effect that  (338)[^338]\[Majlis-e-Shoora (Parliament)\] (338)[^338) may by law regulate any matter not enumerated  (339)[^339]\[the Federal Legislative List\] (339)[^339) in the Fourth Schedule, it shall be lawful for  (340)[^340]\[Majlis-e-Shoora (Parliament)\] (340)[^340) to pass an Act for regulating that matter accordingly, but any act so passed may, as respects any Province to which it applies, be amended or repealed by Act of the Assembly of that Province.
+If  (337)[^337]:\[one\]: (337)[^337) or more Provincial Assemblies pass resolutions to the effect that  (338)[^338]:\[Majlis-e-Shoora (Parliament)\]: (338)[^338) may by law regulate any matter not enumerated  (339)[^339]:\[the Federal Legislative List\]: (339)[^339) in the Fourth Schedule, it shall be lawful for  (340)[^340]:\[Majlis-e-Shoora (Parliament)\]: (340)[^340) to pass an Act for regulating that matter accordingly, but any act so passed may, as respects any Province to which it applies, be amended or repealed by Act of the Assembly of that Province.
 
  
 
- (341)[^341]\[\] (341)[^341)
+ (341)[^341]:\[\]: (341)[^341)
 
  
 
@@ -7410,83 +7328,73 @@ If  (337)[^337]\[one\] (337)[^337) or more Provincial Assemblies pass resoluti
 
 ### Notes
 
-(323)[^323]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(323)[^323]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(324)[^324]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(324)[^324]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(325)[^325]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(i) (with effect from April 19, 2010) for :
+(325)[^325]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 49(i) (with effect from April 19, 2010) for :
 
 (b)
 
- (326)[^326]\[Majlis-e-Shoora (Parliament)\] (326)[^326), and a Provincial Assembly also, shall have power to make laws with respect to any matter in the Concurrent Legislative List;
+ (326)[^326]:\[Majlis-e-Shoora (Parliament)\]: (326)[^326), and a Provincial Assembly also, shall have power to make laws with respect to any matter in the Concurrent Legislative List;
 
-(326)[^326]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(326)[^326]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(327)[^327]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(ii) (with effect from April 19, 2010) for :
+(327)[^327]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 49(ii) (with effect from April 19, 2010) for :
 
 (c)
 
-A Provincial Assembly shall, and  (328)[^328]\[Majlis-e-Shoora (Parliament)\] (328)[^328) shall not, have power to make laws with respect to any matter not enumerated in either the Federal Legislative List or the Concurrent Legislative List; and
+A Provincial Assembly shall, and  (328)[^328]:\[Majlis-e-Shoora (Parliament)\]: (328)[^328) shall not, have power to make laws with respect to any matter not enumerated in either the Federal Legislative List or the Concurrent Legislative List; and
 
-(328)[^328]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(328)[^328]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(329)[^329]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 49(iii) (with effect from April 19, 2010) for :
+(329)[^329]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 49(iii) (with effect from April 19, 2010) for :
 
 (d)
 
- (330)[^330]\[Majlis-e-Shoora (Parliament)\] (330)[^330) shall have exclusive power to make laws with respect to matters not enumerated in either of the Lists for such areas in the Federation as are not included in any Province.
+ (330)[^330]:\[Majlis-e-Shoora (Parliament)\]: (330)[^330) shall have exclusive power to make laws with respect to matters not enumerated in either of the Lists for such areas in the Federation as are not included in any Province.
 
-(330)[^330]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(330)[^330]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(331)[^331]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 50 (with effect from April 19, 2010) for :
+(331)[^331]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 50 (with effect from April 19, 2010) for :
 
 **143**
 
 **Inconsistency between Federal and Provincial laws.**  
-If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of  (332)[^332]\[Majlis-e-Shoora (Parliament)\] (332)[^332) which  (333)[^333]\[Majlis-e-Shoora (Parliament)\] (333)[^333) is competent to enact, or to any provision of any existing law with respect to any of the matters enumerated in the Concurrent Legislative List, then the Act of  (334)[^334]\[Majlis-e-Shoora (Parliament)\] (334)[^334), whether passed before or after the Act of the Provincial Assembly, or, as the case may be, the existing law, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.
+If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of  (332)[^332]:\[Majlis-e-Shoora (Parliament)\]: (332)[^332) which  (333)[^333]:\[Majlis-e-Shoora (Parliament)\]: (333)[^333) is competent to enact, or to any provision of any existing law with respect to any of the matters enumerated in the Concurrent Legislative List, then the Act of  (334)[^334]:\[Majlis-e-Shoora (Parliament)\]: (334)[^334), whether passed before or after the Act of the Provincial Assembly, or, as the case may be, the existing law, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.
 
  
 
-(332)[^332]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(332)[^332]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(333)[^333]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(333)[^333]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(334)[^334]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(334)[^334]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(335)[^335]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(335)[^335]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(336)[^336]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
+(336)[^336]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
 
-(337)[^337]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
+(337)[^337]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 51(i) (with effect from April 19, 2010) for "two".
 
-(338)[^338]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(338)[^338]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(339)[^339]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 51(ii) (with effect from April 19, 2010) for "in either List".
+(339)[^339]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 51(ii) (with effect from April 19, 2010) for "in either List".
 
-(340)[^340]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(340)[^340]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(341)[^341)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 17 (with effect from November 9, 1985) : :
+(341)[^341)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 17 (with effect from November 9, 1985) : :
 
 (2)
 
-The provisions of Article 71 shall apply to a Bill with respect to a matter which may be regulated by Act of  (342)[^342]\[Majlis-e-Shoora (Parliament)\] (342)[^342) under clause (1).
+The provisions of Article 71 shall apply to a Bill with respect to a matter which may be regulated by Act of  (342)[^342]:\[Majlis-e-Shoora (Parliament)\]: (342)[^342) under clause (1).
 
  
 
-(342)[^342]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(342)[^342]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 2: "Administrative Relations between the Federation and Provinces" of Part V: "Relations between Federation and Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -7526,7 +7434,7 @@ Notwithstanding anything contained in the Constitution, the Federal Government m
 
 (2)
 
-An Act of  (343)[^343]\[Majlis-e-Shoora (Parliament)\] (343)[^343) may, notwithstanding that it relates to a matter with respect to which a Provincial Assembly has no power to make laws, confer powers and impose duties upon a province or officers and authorities thereof.
+An Act of  (343)[^343]:\[Majlis-e-Shoora (Parliament)\]: (343)[^343) may, notwithstanding that it relates to a matter with respect to which a Provincial Assembly has no power to make laws, confer powers and impose duties upon a province or officers and authorities thereof.
 
  
 
@@ -7541,9 +7449,9 @@ Where by virtue of this Article powers and duties have been conferred or imposed
 **147**
 
 **Power of the Provinces to entrust functions to the Federation.**  
-Notwithstanding anything contained in the Constitution, the Government of a Province may, with the consent of the Federal Government, entrust, either conditionally or unconditionally, to the Federal Government, or to its officers, functions in relation to any matter to which the executive authority of the Province extends  (344)[^344]\[:\] (344)[^344)
+Notwithstanding anything contained in the Constitution, the Government of a Province may, with the consent of the Federal Government, entrust, either conditionally or unconditionally, to the Federal Government, or to its officers, functions in relation to any matter to which the executive authority of the Province extends  (344)[^344]:\[:\]: (344)[^344)
 
- (345)[^345]\[**Provided** that the Provincial Government shall get the functions so entrusted ratified by the Provincial Assembly within sixty days. \] (345)[^345)
+ (345)[^345]:\[**Provided** that the Provincial Government shall get the functions so entrusted ratified by the Provincial Assembly within sixty days. \]: (345)[^345)
 
  
 
@@ -7581,7 +7489,7 @@ The executive authority of every Province shall be so exercised as not to impede
 
  
 
- (346)[^346]\[\] (346)[^346)
+ (346)[^346]:\[\]: (346)[^346)
 
 (3)
 
@@ -7616,7 +7524,7 @@ Subject to clause (2), trade, commerce and intercourse throughout Pakistan shall
 
 (2)
 
- (347)[^347]\[Majlis-e-Shoora (Parliament)\] (347)[^347) may by law impose such restrictions on the freedom of trade, commerce or intercourse between one Province and another or within any part of Pakistan as may be required in the public interest.
+ (347)[^347]:\[Majlis-e-Shoora (Parliament)\]: (347)[^347) may by law impose such restrictions on the freedom of trade, commerce or intercourse between one Province and another or within any part of Pakistan as may be required in the public interest.
 
  
 
@@ -7645,7 +7553,7 @@ An Act of a Provincial Assembly which imposes any reasonable restriction in the 
 **152**
 
 **Acquisition of land for Federal purposes.**  
-The Federation may, if it deems necessary to acquire any land situate in a Province for any purpose connected with a matter with respect to which  (348)[^348]\[Majlis-e-Shoora (Parliament)\] (348)[^348) has power to make laws, require the Province to acquire the land on behalf, and at the expense, of the Federation or, if the land belongs to the Province, to transfer it to the Federation on such terms as may be agreed or, in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of Pakistan.
+The Federation may, if it deems necessary to acquire any land situate in a Province for any purpose connected with a matter with respect to which  (348)[^348]:\[Majlis-e-Shoora (Parliament)\]: (348)[^348) has power to make laws, require the Province to acquire the land on behalf, and at the expense, of the Federation or, if the land belongs to the Province, to transfer it to the Federation on such terms as may be agreed or, in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of Pakistan.
 
  
 
@@ -7653,13 +7561,13 @@ The Federation may, if it deems necessary to acquire any land situate in a Provi
 
 ### Notes
 
-(343)[^343]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(343)[^343]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(344)[^344]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 52 (with effect from April 19, 2010) for ".".
+(344)[^344]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 52 (with effect from April 19, 2010) for ".".
 
-(345)[^345]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), 52 (with effect from April 19, 2010).
+(345)[^345]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), 52 (with effect from April 19, 2010).
 
-(346)[^346)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 53 (with effect from April 19, 2010) : :
+(346)[^346)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 53 (with effect from April 19, 2010) : :
 
 (2)
 
@@ -7667,22 +7575,12 @@ The executive authority of the Federation shall also extend to the giving of dir
 
  
 
-(347)[^347]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(347)[^347]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(348)[^348]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(348)[^348]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 3: "Special Provisions" of Part V: "Relations between Federation and Provinces"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -7692,7 +7590,7 @@ Part V: Relations between Federation and Provinces
 Chapter 3: Special Provisions
 -----------------------------
 
- (349)[^349]\[\] (349)[^349) (352)[^352]\[\] (352)[^352)
+ (349)[^349]:\[\]: (349)[^349) (352)[^352]:\[\]: (352)[^352)
 
 **153**
 
@@ -7704,7 +7602,7 @@ There shall be a Council of Common Interests, in this Chapter referred to as the
 
  
 
- (354)[^354]\[
+ (354)[^354]:\[
 
 (2)
 
@@ -7724,11 +7622,11 @@ three members from the Federal Government to be nominated by the Prime Minister 
 
  
 
-\] (354)[^354) (355)[^355]\[\] (355)[^355)
+\]: (354)[^354) (355)[^355]:\[\]: (355)[^355)
 
 (4)
 
-The Council shall be responsible to  (356)[^356]\[Majlis-e-Shoora (Parliament) \] (356)[^356) (357)[^357]\[and shall submit an Annual Report to both Houses of Majlis-e-Shoora (Parliament)\] (357)[^357).
+The Council shall be responsible to  (356)[^356]:\[Majlis-e-Shoora (Parliament) \]: (356)[^356) (357)[^357]:\[and shall submit an Annual Report to both Houses of Majlis-e-Shoora (Parliament)\]: (357)[^357).
 
  
 
@@ -7737,7 +7635,7 @@ The Council shall be responsible to  (356)[^356]\[Majlis-e-Shoora (Parliament) 
 **154**
 
 **Functions and rules of procedure.**  
- (358)[^358]\[
+ (358)[^358]:\[
 
 (1)
 
@@ -7745,7 +7643,7 @@ The Council shall formulate and regulate policies in relation to matters in Part
 
  
 
-\] (358)[^358) (359)[^359]\[
+\]: (358)[^358) (359)[^359]:\[
 
 (2)
 
@@ -7761,29 +7659,29 @@ The Council shall have a permanent Secretariat and shall meet at least once in n
 
  
 
-\] (359)[^359)
+\]: (359)[^359)
 
- (360)[^360]\[(4)\] (360)[^360)
+ (360)[^360]:\[(4)\]: (360)[^360)
 
 The decisions of the Council shall be expressed in terms of the opinion of the majority.
 
  
 
- (361)[^361]\[(5)\] (361)[^361)
+ (361)[^361]:\[(5)\]: (361)[^361)
 
-Until  (362)[^362]\[Majlis-e-Shoora (Parliament)\] (362)[^362) makes provision by law in this behalf, the Council may make its rules of procedure.
-
- 
-
- (363)[^363]\[(6)\] (363)[^363)
-
- (364)[^364]\[Majlis-e-Shoora (Parliament)\] (364)[^364) in joint sitting may from time to time by resolution issue directions through the Federal Government to the Council generally or in a particular matter to take action as  (365)[^365]\[Majlis-e-Shoora (Parliament)\] (365)[^365) may deem just and proper and such directions shall be binding on the Council.
+Until  (362)[^362]:\[Majlis-e-Shoora (Parliament)\]: (362)[^362) makes provision by law in this behalf, the Council may make its rules of procedure.
 
  
 
- (366)[^366]\[(7)\] (366)[^366)
+ (363)[^363]:\[(6)\]: (363)[^363)
 
-If the Federal Government or a Provincial Government is dissatisfied with a decision of the council, it may refer the matter to  (367)[^367]\[Majlis-e-Shoora (Parliament)\] (367)[^367) in a joint sitting whose decision in this behalf shall be final.
+ (364)[^364]:\[Majlis-e-Shoora (Parliament)\]: (364)[^364) in joint sitting may from time to time by resolution issue directions through the Federal Government to the Council generally or in a particular matter to take action as  (365)[^365]:\[Majlis-e-Shoora (Parliament)\]: (365)[^365) may deem just and proper and such directions shall be binding on the Council.
+
+ 
+
+ (366)[^366]:\[(7)\]: (366)[^366)
+
+If the Federal Government or a Provincial Government is dissatisfied with a decision of the council, it may refer the matter to  (367)[^367]:\[Majlis-e-Shoora (Parliament)\]: (367)[^367) in a joint sitting whose decision in this behalf shall be final.
 
  
 
@@ -7795,7 +7693,7 @@ If the Federal Government or a Provincial Government is dissatisfied with a deci
 
 (1)
 
-If the interests of a Province, the Federal Capital  (368)[^368]\[\] (368)[^368), or any of the inhabitants thereof, in water from any natural source of supply  (369)[^369]\[or reservoir\] (369)[^369) have been or are likely to be affected prejudicially by-
+If the interests of a Province, the Federal Capital  (368)[^368]:\[\]: (368)[^368), or any of the inhabitants thereof, in water from any natural source of supply  (369)[^369]:\[or reservoir\]: (369)[^369) have been or are likely to be affected prejudicially by-
 
 (a)
 
@@ -7817,7 +7715,7 @@ Upon receiving such complaint, the Council shall, after having considered the ma
 
 (3)
 
-Until  (370)[^370]\[Majlis-e-Shoora (Parliament)\] (370)[^370) makes provision by law in this behalf, the provisions of the Pakistan Commissions of Inquiry Act, 1956, as in force immediately before the commencing day shall apply to the Council or the Commission as if the Council or the Commission were a commission appointed under that Act to which all the provisions of section 5 thereof applied and upon which the power contemplated by section 10A thereof had been conferred.
+Until  (370)[^370]:\[Majlis-e-Shoora (Parliament)\]: (370)[^370) makes provision by law in this behalf, the provisions of the Pakistan Commissions of Inquiry Act, 1956, as in force immediately before the commencing day shall apply to the Council or the Commission as if the Council or the Commission were a commission appointed under that Act to which all the provisions of section 5 thereof applied and upon which the power contemplated by section 10A thereof had been conferred.
 
  
 
@@ -7841,7 +7739,7 @@ No proceeding shall lie before any court at the instance of any party to a matte
 
  
 
- (371)[^371]\[
+ (371)[^371]:\[
 
 **156.**
 
@@ -7891,7 +7789,7 @@ The Council shall be responsible to the Majlis-e-Shoora (Parliament) and shall s
 
  
 
-\] (371)[^371)
+\]: (371)[^371)
 
 **157**
 
@@ -7899,9 +7797,9 @@ The Council shall be responsible to the Majlis-e-Shoora (Parliament) and shall s
 
 (1)
 
-The Federal Government may in any Province construct or cause to be constructed hydro-electric or thermal power installations or grid stations for the generation of electricity and lay or cause to be laid inter-Provincial transmission lines  (372)[^372]\[:\] (372)[^372)
+The Federal Government may in any Province construct or cause to be constructed hydro-electric or thermal power installations or grid stations for the generation of electricity and lay or cause to be laid inter-Provincial transmission lines  (372)[^372]:\[:\]: (372)[^372)
 
- (373)[^373]\[**Provided** that the Federal Government shall, prior to taking a decision to construct or cause to be constructed, hydro-electric power stations in any Province, shall consult the Provincial Government concerned. \] (373)[^373)
+ (373)[^373]:\[**Provided** that the Federal Government shall, prior to taking a decision to construct or cause to be constructed, hydro-electric power stations in any Province, shall consult the Provincial Government concerned. \]: (373)[^373)
 
  
 
@@ -7927,7 +7825,7 @@ determine the tariff for distribution of electricity within the Province.
 
  
 
- (374)[^374]\[
+ (374)[^374]:\[
 
 (3)
 
@@ -7935,7 +7833,7 @@ In case of any dispute between the Federal Government and a Provincial Governmen
 
  
 
-\] (374)[^374)
+\]: (374)[^374)
 
  
 
@@ -7996,9 +7894,9 @@ Nothing in this article shall be construed as restricting the powers of the Fede
 
 ### Notes
 
-(349)[^349)   The following was omitted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 5 (with effect from December 31, 2003) : :
+(349)[^349)   The following was omitted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 5 (with effect from December 31, 2003) : :
 
- (350)[^350]\[
+ (350)[^350]:\[
 
 **152A**
 
@@ -8018,21 +7916,21 @@ The President shall be the Chairman of the National Security Council and its oth
 
 (3)
 
-Meetings of the National Security Council may be convened by the President either in his discretion, or on the advice of the Prime Minister, or when requested by any other of its members,  (351)[^351]\[regularly\] (351)[^351).
+Meetings of the National Security Council may be convened by the President either in his discretion, or on the advice of the Prime Minister, or when requested by any other of its members,  (351)[^351]:\[regularly\]: (351)[^351).
 
  
 
  
 
-\] (350)[^350)
+\]: (350)[^350)
 
-(350)[^350]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 17 (with effect from August 21, 2002).
+(350)[^350]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 17 (with effect from August 21, 2002).
 
-(351)[^351]  Substituted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002) (with effect from ) for "within the time frame indicated by him".
+(351)[^351]:  Substituted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002) (with effect from ) for "within the time frame indicated by him".
 
-(352)[^352)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.md), Section 18 (with effect from November 9, 1985) : :
+(352)[^352)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)]:(/pakistan/constitution/amendments/8amendment.md), Section 18 (with effect from November 9, 1985) : :
 
- (353)[^353]\[
+ (353)[^353]:\[
 
 **152A**
 
@@ -8052,11 +7950,11 @@ The National Security Council shall consist of the President, the Prime Minister
 
  
 
-\] (353)[^353)
+\]: (353)[^353)
 
-(353)[^353]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 32 (with effect from March 2, 1985).
+(353)[^353]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 32 (with effect from March 2, 1985).
 
-(354)[^354]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(i) (with effect from April 19, 2010) for :
+(354)[^354]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 54(i) (with effect from April 19, 2010) for :
 
 (2)
 
@@ -8072,7 +7970,7 @@ an equal number of members from the Federal Government to be nominated by the Pr
 
  
 
-(355)[^355)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(ii) (with effect from April 19, 2010) : :
+(355)[^355)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 54(ii) (with effect from April 19, 2010) : :
 
 (3)
 
@@ -8080,11 +7978,11 @@ The Prime Minister, if he is a member of the Council, shall be the Chairman of t
 
  
 
-(356)[^356]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(356)[^356]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(357)[^357]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 54(iii) (with effect from April 19, 2010).
+(357)[^357]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 54(iii) (with effect from April 19, 2010).
 
-(358)[^358]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(i) (with effect from April 19, 2010) for :
+(358)[^358]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -8092,31 +7990,31 @@ The Council shall formulate and regulate policies in relation to matters in Part
 
  
 
-(359)[^359]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010).
+(359)[^359]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010).
 
-(360)[^360]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(2)".
+(360)[^360]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(2)".
 
-(361)[^361]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(3)".
+(361)[^361]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(3)".
 
-(362)[^362]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(362)[^362]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(363)[^363]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(4)".
+(363)[^363]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(4)".
 
-(364)[^364]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(364)[^364]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(365)[^365]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(365)[^365]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(366)[^366]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(5)".
+(366)[^366]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 55(ii) (with effect from April 19, 2010) for "(5)".
 
-(367)[^367]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(367)[^367]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (368)[^368)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 7 (with effect from May 31, 2018) : "or the Federally Administered Tribal Areas".
 
-(369)[^369]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 56 (with effect from April 19, 2010).
+(369)[^369]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 56 (with effect from April 19, 2010).
 
-(370)[^370]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(370)[^370]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(371)[^371]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 57 (with effect from April 19, 2010) for :
+(371)[^371]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 57 (with effect from April 19, 2010) for :
 
 **156**
 
@@ -8138,24 +8036,14 @@ The National Economic Council shall review the overall economic condition of the
 
  
 
-(372)[^372]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010) for ".".
+(372)[^372]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010) for ".".
 
-(373)[^373]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010).
+(373)[^373]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 58(i) (with effect from April 19, 2010).
 
-(374)[^374]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 58(ii) (with effect from April 19, 2010).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(374)[^374]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 58(ii) (with effect from April 19, 2010).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 1: "Finance." of Part VI: "Finance, Property, Contracts and Suits"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part6.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -8199,19 +8087,19 @@ any other matter relating to finance referred to the Commission by the President
 
 (3)
 
-The taxes refer red to in paragraph (a) of clause (2) are the following taxes raised under the authority of  (376)[^376]\[Majlis-e-Shoora (Parliament)\] (376)[^376), namely: -
+The taxes refer red to in paragraph (a) of clause (2) are the following taxes raised under the authority of  (376)[^376]:\[Majlis-e-Shoora (Parliament)\]: (376)[^376), namely: -
 
 (i)
 
 taxes on income, including corporation tax, but not including taxes on income consisting of remuneration paid out of the Federal Consolidated Fund;
 
- (377)[^377]\[
+ (377)[^377]:\[
 
 (ii)
 
 taxes on the sales and purchases of goods imported, exported, produced, manufactured or consumed;
 
-\] (377)[^377)
+\]: (377)[^377)
 
 (iii)
 
@@ -8227,7 +8115,7 @@ such other taxes as may be specified by the President.
 
  
 
- (378)[^378]\[
+ (378)[^378]:\[
 
 (3A)
 
@@ -8241,7 +8129,7 @@ The Federal Finance Minister and Provincial Finance Ministers shall monitor the 
 
  
 
-\] (378)[^378)
+\]: (378)[^378)
 
 (4)
 
@@ -8272,7 +8160,7 @@ The President may, by Order, make grants-in-aid of the revenues of the Provinces
 **161**
 
 **Natural gas and hydro-electric power.**  
- (380)[^380]\[
+ (380)[^380]:\[
 
 (1)
 
@@ -8288,7 +8176,7 @@ the net proceeds of the Federal duty of excise on oil levied at well-head and co
 
  
 
-\] (380)[^380)
+\]: (380)[^380)
 
 (2)
 
@@ -8308,14 +8196,14 @@ No Bill or amendment which imposes or varies a tax or duty the whole or part of 
 **163**
 
 **Provincial taxes in respect of professions, etc.**  
-A Provincial Assembly may by Act impose taxes, not exceeding such limits as may from time to time be fixed by Act of  (381)[^381]\[Majlis-e-Shoora (Parliament)\] (381)[^381), on persons engaged in professions, trades, callings or employments, and no such Act of the Assembly shall be regarded as imposing a tax on income. Miscellaneous Financial Provisions
+A Provincial Assembly may by Act impose taxes, not exceeding such limits as may from time to time be fixed by Act of  (381)[^381]:\[Majlis-e-Shoora (Parliament)\]: (381)[^381), on persons engaged in professions, trades, callings or employments, and no such Act of the Assembly shall be regarded as imposing a tax on income. Miscellaneous Financial Provisions
 
  
 
 **164**
 
 **Grants out of Consolidated Fund.**  
-The Federation or a Province may make grants for any purpose, notwithstanding that the purpose is not one with respect to which  (382)[^382]\[Majlis-e-Shoora (Parliament)\] (382)[^382) or, as the case may be, a Provincial Assembly may make laws.
+The Federation or a Province may make grants for any purpose, notwithstanding that the purpose is not one with respect to which  (382)[^382]:\[Majlis-e-Shoora (Parliament)\]: (382)[^382) or, as the case may be, a Provincial Assembly may make laws.
 
  
 
@@ -8325,13 +8213,13 @@ The Federation or a Province may make grants for any purpose, notwithstanding th
 
 (1)
 
-The Federal Government shall not, in respect of its property or income, be liable to taxation under any Act of Provincial Assembly and, subject to clause (2), a Provincial Government shall not, in respect of its property or income, be liable to taxation under Act of  (383)[^383]\[Majlis-e-Shoora (Parliament)\] (383)[^383) or under Act of the Provincial Assembly of any other Province.
+The Federal Government shall not, in respect of its property or income, be liable to taxation under any Act of Provincial Assembly and, subject to clause (2), a Provincial Government shall not, in respect of its property or income, be liable to taxation under Act of  (383)[^383]:\[Majlis-e-Shoora (Parliament)\]: (383)[^383) or under Act of the Provincial Assembly of any other Province.
 
  
 
 (2)
 
-If a trade or business of any kind is carried on by or on behalf of the Government of a Province outside that Province, that Government may, in respect of any property used in connection with that trade or business or any income arising from that trade or business, be taxed under Act of  (384)[^384]\[Majlis-e-Shoora (Parliament)\] (384)[^384) or under Act of the Provincial Assembly of the Province in which that trade or business is carried on.
+If a trade or business of any kind is carried on by or on behalf of the Government of a Province outside that Province, that Government may, in respect of any property used in connection with that trade or business or any income arising from that trade or business, be taxed under Act of  (384)[^384]:\[Majlis-e-Shoora (Parliament)\]: (384)[^384) or under Act of the Provincial Assembly of the Province in which that trade or business is carried on.
 
  
 
@@ -8343,7 +8231,7 @@ Nothing in this Article shall prevent the imposition of fees for services render
 
  
 
- (385)[^385]\[
+ (385)[^385]:\[
 
 **165A**
 
@@ -8351,7 +8239,7 @@ Nothing in this Article shall prevent the imposition of fees for services render
 
 (1)
 
- (386)[^386]\[Majlis-e-Shoora (Parliament)\] (386)[^386) has, and shall be deemed always to have had, the power to make a law to provide for the levy and recovery of a tax on the income of a corporation, company or other body or institution established by or under a Federal law or a Provincial law or an existing law or a corporation, company or other body or institution owned or controlled, either directly or indirectly, by the Federal Government or a Provincial Government, regardless of the ultimate destination of such income.
+ (386)[^386]:\[Majlis-e-Shoora (Parliament)\]: (386)[^386) has, and shall be deemed always to have had, the power to make a law to provide for the levy and recovery of a tax on the income of a corporation, company or other body or institution established by or under a Federal law or a Provincial law or an existing law or a corporation, company or other body or institution owned or controlled, either directly or indirectly, by the Federal Government or a Provincial Government, regardless of the ultimate destination of such income.
 
  
 
@@ -8369,7 +8257,7 @@ Every judgment or order of any court or tribunal, including the Supreme Court an
 
  
 
-\] (385)[^385)
+\]: (385)[^385)
 
 * * *
 
@@ -8377,19 +8265,19 @@ Every judgment or order of any court or tribunal, including the Supreme Court an
 
 (375)[^375)   For the notification constituting the National Finance Commission, see Gazette of Pakistan, 1974, Extraordinary, Part II, pages 191-192.  
 
-(376)[^376]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(376)[^376]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(377)[^377]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 3 (with effect from September 16, 1976) for :
+(377)[^377]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 3 (with effect from September 16, 1976) for :
 
 (ii)
 
 taxes on sales and purchase;
 
-(378)[^378]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 59 (with effect from April 19, 2010).
+(378)[^378]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 59 (with effect from April 19, 2010).
 
 (379)[^379)   For such Order, see the Distribution of Revenues and Grants-in-Aid Order, 1975 (President's Order No.2 of 1975).  
 
-(380)[^380]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 60 (with effect from April 19, 2010) for :
+(380)[^380]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 60 (with effect from April 19, 2010) for :
 
 (1)
 
@@ -8397,30 +8285,20 @@ Notwithstanding the provisions of Article 78 the net proceeds of the Federal dut
 
  
 
-(381)[^381]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(381)[^381]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(382)[^382]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(382)[^382]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(383)[^383]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(383)[^383]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(384)[^384]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(384)[^384]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(385)[^385]  Inserted by [Constitution (Amendment) Order, 1985 (President's Order No. 11 of 1985)](/pakistan/constitution/orders/po11_1985.md), Art 2 (with effect from February 24, 1985).
+(385)[^385]:  Inserted by [Constitution (Amendment) Order, 1985 (President's Order No. 11 of 1985)]:(/pakistan/constitution/orders/po11_1985.md), Art 2 (with effect from February 24, 1985).
 
-(386)[^386]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(386)[^386]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 2: "Borrowing and Audit" of Part VI: "Finance, Property, Contracts and Suits"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part6.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -8433,7 +8311,7 @@ Chapter 2: Borrowing and Audit
 **166**
 
 **Borrowing by Federal Government.**  
-The executive authority of the Federation extends to borrowing upon the security of the Federal Consolidated Fun d within such limits, if any, as may from time to time be fixed by Act of  (387)[^387]\[Majlis-e-Shoora (Parliament)\] (387)[^387), and to the giving of guarantees within such limits, if any, as may be so fixed.
+The executive authority of the Federation extends to borrowing upon the security of the Federal Consolidated Fun d within such limits, if any, as may from time to time be fixed by Act of  (387)[^387]:\[Majlis-e-Shoora (Parliament)\]: (387)[^387), and to the giving of guarantees within such limits, if any, as may be so fixed.
 
  
 
@@ -8459,7 +8337,7 @@ A Province may not, without the consent of the Federal Government, raise any loa
 
  
 
- (388)[^388]\[
+ (388)[^388]:\[
 
 (4)
 
@@ -8467,7 +8345,7 @@ A Province may raise domestic or international loan, or give guarantees on the s
 
  
 
-\] (388)[^388)
+\]: (388)[^388)
 
  
 
@@ -8489,7 +8367,7 @@ Before entering upon office, the Auditor-General shall make before the Chief Jus
 
  
 
- (389)[^389]\[
+ (389)[^389]:\[
 
 (3)
 
@@ -8497,7 +8375,7 @@ The Auditor-General shall, unless he sooner resigns or is removed from office in
 
  
 
-\] (389)[^389) (392)[^392]\[
+\]: (389)[^389) (392)[^392]:\[
 
 (3A)
 
@@ -8505,7 +8383,7 @@ The other terms and conditions of service of the Auditor-General shall be determ
 
  
 
-\] (392)[^392)
+\]: (392)[^392)
 
 (4)
 
@@ -8521,7 +8399,7 @@ The Auditor-General shall not be removed from office except in the like manner a
 
 (6)
 
-At any time when the office of the Auditor-General is vacant or the Auditor-General is absent or is unable to perform the functions of his office due to any cause,  (393)[^393]\[the President may appoint the most senior officer in the Office of the Auditor-General to\] (393)[^393) act as Auditor-General and perform the functions of that office.
+At any time when the office of the Auditor-General is vacant or the Auditor-General is absent or is unable to perform the functions of his office due to any cause,  (393)[^393]:\[the President may appoint the most senior officer in the Office of the Auditor-General to\]: (393)[^393) act as Auditor-General and perform the functions of that office.
 
  
 
@@ -8538,7 +8416,7 @@ the accounts of the Federation and of the Provinces; and
 
 (b)
 
-the accounts of any authority or body established by the Federation or a Province, perform such functions and exercise such powers as may be determined by or under Act of'  (394)[^394]\[Majlis-e-Shoora (Parliament)\] (394)[^394) and, until so determined, by Order of the President.
+the accounts of any authority or body established by the Federation or a Province, perform such functions and exercise such powers as may be determined by or under Act of'  (394)[^394]:\[Majlis-e-Shoora (Parliament)\]: (394)[^394) and, until so determined, by Order of the President.
 
  
 
@@ -8546,13 +8424,13 @@ the accounts of any authority or body established by the Federation or a Provinc
 
 **Power of Auditor-General to give directions as to accounts.**  
 
- (395)[^395]\[(1)\] (395)[^395)
+ (395)[^395]:\[(1)\]: (395)[^395)
 
 The accounts of the Federation and of the Provinces shall be kept in such form and in accordance with such principles and methods as the Auditor-General may, with the approval of the President, prescribe.
 
  
 
- (396)[^396]\[
+ (396)[^396]:\[
 
 (2)
 
@@ -8560,14 +8438,14 @@ The audit of the accounts of the Federal and of the Provincial Governments and t
 
  
 
-\] (396)[^396)
+\]: (396)[^396)
 
  
 
 **171**
 
 **Reports of Auditor-General.**  
-The reports of the Auditor-General relating to the accounts of the Federation shall be submitted to the President, who shall cause them to be laid before the  (397)[^397]\[both Houses of Majlis-e-Shoora (Parliament)\] (397)[^397) and the reports of the Auditor-General relating to the accounts of a Province shall be submitted to the Governor of the Province, who shall cause them to be laid before the Provincial Assembly.
+The reports of the Auditor-General relating to the accounts of the Federation shall be submitted to the President, who shall cause them to be laid before the  (397)[^397]:\[both Houses of Majlis-e-Shoora (Parliament)\]: (397)[^397) and the reports of the Auditor-General relating to the accounts of a Province shall be submitted to the Governor of the Province, who shall cause them to be laid before the Provincial Assembly.
 
  
 
@@ -8575,43 +8453,36 @@ The reports of the Auditor-General relating to the accounts of the Federation sh
 
 ### Notes
 
-(387)[^387]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(387)[^387]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(388)[^388]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 61 (with effect from April 19, 2010).
+(388)[^388]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 61 (with effect from April 19, 2010).
 
-(389)[^389]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(i) (with effect from April 19, 2010) for :
+(389)[^389]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 62(i) (with effect from April 19, 2010) for :
 
 (3)
 
-The terms and conditions of service, including the term of office, of the Auditor-General shall be determined by Act of  (390)[^390]\[Majlis-e-Shoora (Parliament)\] (390)[^390) and, until so determined, by  (391)[^391) Order of the President.
+The terms and conditions of service, including the term of office, of the Auditor-General shall be determined by Act of  (390)[^390]:\[Majlis-e-Shoora (Parliament)\]: (390)[^390) and, until so determined, by  (391)[^391) Order of the President.
 
  
 
-(390)[^390]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(390)[^390]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (391)[^391)   For such Order, see the Pakistan (Audit and Accounts) Order, 1973 (President's Order No. 21 of 1973).  
 
-(392)[^392]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(ii) (with effect from April 19, 2010).
+(392)[^392]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 62(ii) (with effect from April 19, 2010).
 
-(393)[^393]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 62(iii) (with effect from April 19, 2010) for "such other person as the President may direct shall".
+(393)[^393]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 62(iii) (with effect from April 19, 2010) for "such other person as the President may direct shall".
 
-(394)[^394]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(394)[^394]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(395)[^395]  )   Renumbered by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010)
+(395)[^395]:  )   Renumbered by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010)
 
-(396)[^396]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010).
+(396)[^396]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 63 (with effect from April 19, 2010).
 
-(397)[^397]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 64 (with effect from April 19, 2010) for "National Assembly".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(397)[^397]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 64 (with effect from April 19, 2010) for "National Assembly".
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
 ## CHAPTER 3 - PROPERTY, CONTRACTS, LIABILITIES AND SUITS.
 
 ### 172. Ownerless property.
@@ -8636,9 +8507,8 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 
 The Federation may sue or be sued by the name of Pakistan, and a Province may sue or be sued by the name of the Province.
 
-  Chapter 1: "The Courts." of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
+  Chapter 1: "The Courts." of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch1'; // [**The Constitution of Pakistan**]:(/pakistan/constitution/) on (/)
 
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -8654,9 +8524,9 @@ Chapter 1: The Courts.
 
 (1)
 
-There shall be a Supreme Court of Pakistan, a High Court for each Province  (400)[^400]\[ and a High Court for the Islamabad Capital Territory \] (400)[^400)and such other courts as may be established by law.
+There shall be a Supreme Court of Pakistan, a High Court for each Province  (400)[^400]:\[ and a High Court for the Islamabad Capital Territory \]: (400)[^400)and such other courts as may be established by law.
 
- (401)[^401]\[Explanation.- Unless the context otherwise requires, the words "High Court" wherever occurring in the Constitution shall include "Islamabad High Court.\] (401)[^401)
+ (401)[^401]:\[Explanation.- Unless the context otherwise requires, the words "High Court" wherever occurring in the Constitution shall include "Islamabad High Court.\]: (401)[^401)
 
  
 
@@ -8668,21 +8538,21 @@ No court shall have any jurisdiction save as is or may be conferred on it by the
 
 (3)
 
-The Judiciary shall be separated progressively from the Executive within  (403)[^403]\[fourteen\] (403)[^403) years from the commencing day.
+The Judiciary shall be separated progressively from the Executive within  (403)[^403]:\[fourteen\]: (403)[^403) years from the commencing day.
 
  
 
- (404)[^404]\[**Provided** that the provisions of this Article shall have no application to the trial of persons under any ofthe Acts mentioned at Serial No.6 and 7 of sub-part III of Part I of the First Schedule, who claim, or are known to belong to any terrorist group or organization misusing the name of religion or a sect.
+ (404)[^404]:\[**Provided** that the provisions of this Article shall have no application to the trial of persons under any ofthe Acts mentioned at Serial No.6 and 7 of sub-part III of Part I of the First Schedule, who claim, or are known to belong to any terrorist group or organization misusing the name of religion or a sect.
 
 Explanation.- In this proviso, the expression "sect" means a sect of religion and does not include any reigious or political party regulated under the Political Parties Order, 2002.
 
-\] (404)[^404)
+\]: (404)[^404)
 
- (405)[^405]\[\] (405)[^405)
+ (405)[^405]:\[\]: (405)[^405)
 
  
 
- (407)[^407]\[
+ (407)[^407]:\[
 
 **175A.**
 
@@ -8708,13 +8578,13 @@ Chief Justice of Pakistan;
 
 **Members**  
 
- (408)[^408]\[four\] (408)[^408) most senior Judges of the Supreme Court;
+ (408)[^408]:\[four\]: (408)[^408) most senior Judges of the Supreme Court;
 
 (iii)
 
 **Member**  
 
-a former Chief Justice or a former Judge of the Supreme Court of Pakistan to be nominated by the Chief Justice of Pakistan, in consultation with the  (409)[^409]\[four\] (409)[^409) member Judges, for a period of two years;
+a former Chief Justice or a former Judge of the Supreme Court of Pakistan to be nominated by the Chief Justice of Pakistan, in consultation with the  (409)[^409]:\[four\]: (409)[^409) member Judges, for a period of two years;
 
 (iv)
 
@@ -8770,7 +8640,7 @@ the most senior Judge of that High Court;
 
 Provincial Minister for Law; and
 
- (410)[^410]\[
+ (410)[^410]:\[
 
 (iv)
 
@@ -8778,11 +8648,11 @@ Provincial Minister for Law; and
 
 an advocate having not less than fifteen years practice in the High Court to be nominated by the concerned Bar Council for a term of two years:
 
-\] (410)[^410)
+\]: (410)[^410)
 
- (411)[^411]\[**Provided** that for appointment of the Chief Justice of a High Court the most Senior Judge mentioned in paragraph (ii) shall not be member of the Commission:
+ (411)[^411]:\[**Provided** that for appointment of the Chief Justice of a High Court the most Senior Judge mentioned in paragraph (ii) shall not be member of the Commission:
 
-**Provided** futher that if for any reason the Chief Justice of a High Court is not available, he shall be substituted by a former Chief Justice or former Judge of that Court, to be nomicated by the Chief Justice of Pakistan in consultation with the four member Judges of the Commission mentioned in paragraph (ii) of clause (2).\] (411)[^411)
+**Provided** futher that if for any reason the Chief Justice of a High Court is not available, he shall be substituted by a former Chief Justice or former Judge of that Court, to be nomicated by the Chief Justice of Pakistan in consultation with the four member Judges of the Commission mentioned in paragraph (ii) of clause (2).\]: (411)[^411)
 
  
 
@@ -8802,7 +8672,7 @@ Chief Justice of the Islamabad High Court; and
 
 the most senior Judge of that High Court
 
-**Provided** that for initial appointment of the  (412)[^412]\[Chief Justice and the\] (412)[^412) Judges of the Islamabad High Court, the Chief Justices of the four Provincial High Courts shall also be members of the Commission:
+**Provided** that for initial appointment of the  (412)[^412]:\[Chief Justice and the\]: (412)[^412) Judges of the Islamabad High Court, the Chief Justices of the four Provincial High Courts shall also be members of the Commission:
 
 **Provided** further that subject to the foregoing proviso, in case of appointment of Chief Justice of Islamabad High Court, the provisos to clause (5) shall, _mutatis mutandis_, apply.
 
@@ -8832,9 +8702,9 @@ four members from the Senate; and
 
 (ii)
 
-four members from the National Assembly (413)[^413]\[:\] (413)[^413)
+four members from the National Assembly (413)[^413]:\[:\]: (413)[^413)
 
- (414)[^414]\[**Provided** that when the National Assembly is dissolved, the total membership of the Parliamentary Committee shall consist of the members of the Senate only mentioned in paragraph (i) and the provisions of this Article shall, _mutatis mutandis_ apply.\] (414)[^414)
+ (414)[^414]:\[**Provided** that when the National Assembly is dissolved, the total membership of the Parliamentary Committee shall consist of the members of the Senate only mentioned in paragraph (i) and the provisions of this Article shall, _mutatis mutandis_ apply.\]: (414)[^414)
 
  
 
@@ -8854,15 +8724,15 @@ Secretary, Senate shall act as the Secretary of the Committee.
 
 The Committee on receipt of a nomination from the Commission may confirm the nominee by majority of its total membership within fourteen days, failing which the nomination shall be deemed to have been confirmed:
 
- (415)[^415]\[**Provided** that the Committee, for reasons to be recorded, may not confirm the nomination by three-fourth majority of its total membership within the said period:\] (415)[^415)
+ (415)[^415]:\[**Provided** that the Committee, for reasons to be recorded, may not confirm the nomination by three-fourth majority of its total membership within the said period:\]: (415)[^415)
 
- (416)[^416]\[**Provided** further that if a nomination is not confirmed by the Committee it shall forward its decision with reasons so recorded to the Commission through the Prime Minister:
+ (416)[^416]:\[**Provided** further that if a nomination is not confirmed by the Committee it shall forward its decision with reasons so recorded to the Commission through the Prime Minister:
 
-**Provided** further that if a nomination is not confirmed, the Commission shall send another nomination.\] (416)[^416)
+**Provided** further that if a nomination is not confirmed, the Commission shall send another nomination.\]: (416)[^416)
 
  
 
- (417)[^417]\[
+ (417)[^417]:\[
 
 (13)
 
@@ -8870,7 +8740,7 @@ The Committee shall send the name of the nominee confirmed by it or deemed to ha
 
  
 
-\] (417)[^417)
+\]: (417)[^417)
 
 (14)
 
@@ -8878,7 +8748,7 @@ No action or decision taken by the Commission or a Committee shall be invalid or
 
  
 
- (418)[^418]\[
+ (418)[^418]:\[
 
 (15)
 
@@ -8892,9 +8762,9 @@ The provisions of Article 68 shall not apply to the proceedings of the Committee
 
  
 
-\] (418)[^418)
+\]: (418)[^418)
 
- (419)[^419]\[(17)\] (419)[^419)
+ (419)[^419]:\[(17)\]: (419)[^419)
 
 The Committee may make rules for regulating its procedure.
 
@@ -8902,41 +8772,41 @@ The Committee may make rules for regulating its procedure.
 
  
 
-\] (407)[^407)
+\]: (407)[^407)
 
 * * *
 
 ### Notes
 
-(400)[^400]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
+(400)[^400]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
 
-(401)[^401]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 3 (with effect from January 1, 2011) for :
+(401)[^401]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 3 (with effect from January 1, 2011) for :
 
- (402)[^402]\[ Explanation:- The words "High Court" wherever occurring in the Constitution shall include the High Court for the Islamabad Capital Territory. \] (402)[^402)
+ (402)[^402]:\[ Explanation:- The words "High Court" wherever occurring in the Constitution shall include the High Court for the Islamabad Capital Territory. \]: (402)[^402)
 
-(402)[^402]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
+(402)[^402]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 66 (with effect from April 19, 2010).
 
-(403)[^403]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "five".
+(403)[^403]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "five".
 
-(404)[^404]  Inserted by Constitution (Twenty-third Amendment) Act, 2017 (12 of 2017), Article 2 (with effect from March 30, 2017).
+(404)[^404]:  Inserted by Constitution (Twenty-third Amendment) Act, 2017 (12 of 2017), Article 2 (with effect from March 30, 2017).
 
-(405)[^405)   The following was omitted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.md), Section 1(3) (with effect from January 7, 2019) : :
+(405)[^405)   The following was omitted by [Constitution (Twenty-First Amendment) Act, 2015]:(/pakistan/constitution/amendments/21amendment.md), Section 1(3) (with effect from January 7, 2019) : :
 
- (406)[^406]\[**Provided** that the provisions of this Article shall have no application to the trial of persons under any of the Acts metnioned at serial No. 6, 7, 8 and 9 of sub-part III or Part I of the First Schedule, who claims, or is known, to belong to any terrorist group or organization using the name of religion or a sect.
+ (406)[^406]:\[**Provided** that the provisions of this Article shall have no application to the trial of persons under any of the Acts metnioned at serial No. 6, 7, 8 and 9 of sub-part III or Part I of the First Schedule, who claims, or is known, to belong to any terrorist group or organization using the name of religion or a sect.
 
 Explanation:- In this proviso, the expression ‘sect’ means a sect of religion and does not include any religious or political party regulated under the Political Parties Order, 2002.
 
-\] (406)[^406)
+\]: (406)[^406)
 
-(406)[^406]  Inserted by [Constitution (Twenty-First Amendment) Act, 2015](/pakistan/constitution/amendments/21amendment.md), Article 2 (with effect from January 7, 2015).
+(406)[^406]:  Inserted by [Constitution (Twenty-First Amendment) Act, 2015]:(/pakistan/constitution/amendments/21amendment.md), Article 2 (with effect from January 7, 2015).
 
-(407)[^407]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 67 (with effect from April 19, 2010).
+(407)[^407]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 67 (with effect from April 19, 2010).
 
-(408)[^408]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(a)(i) (with effect from January 1, 2011) for "two".
+(408)[^408]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(a)(i) (with effect from January 1, 2011) for "two".
 
-(409)[^409]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(a)(ii) (with effect from January 1, 2011) for "two".
+(409)[^409]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(a)(ii) (with effect from January 1, 2011) for "two".
 
-(410)[^410]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(b)(i) (with effect from January 1, 2011) for :
+(410)[^410]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(b)(i) (with effect from January 1, 2011) for :
 
 (iv)
 
@@ -8944,25 +8814,25 @@ Explanation:- In this proviso, the expression ‘sect’ means a sect of religio
 
 a senior advocate to be nominated by the Provincial Bar Council for a period of two years:
 
-(411)[^411]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(b)(ii) (with effect from January 1, 2011) for :
+(411)[^411]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(b)(ii) (with effect from January 1, 2011) for :
 
 **Provided** that for appointment of Chief Justice of a High Court, the most senior Judge of the Court shall be substituted by a former Chief Justice or former Judge of that Court, to be nominated by the Chief Justice of Pakistan in consultation with the two member Judges of the Commission in clause (2):
 
 **Provided** further that if for any reason the Chief Justice of High Court is not available, he shall also be substituted in the manner as provided in the foregoing proviso.
 
-(412)[^412]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(c) (with effect from January 1, 2011).
+(412)[^412]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(c) (with effect from January 1, 2011).
 
-(413)[^413]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011) for ".".
+(413)[^413]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011) for ".".
 
-(414)[^414]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011).
+(414)[^414]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(d) (with effect from January 1, 2011).
 
-(415)[^415]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(e)(i) (with effect from January 1, 2011) for :
+(415)[^415]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(e)(i) (with effect from January 1, 2011) for :
 
 **Provided** that the Committee may not confirm the nomination by three-fourth majority of its total membership within the said period, in which case the Commission shall send another nomination.
 
-(416)[^416]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(e)(ii) (with effect from January 1, 2011).
+(416)[^416]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(e)(ii) (with effect from January 1, 2011).
 
-(417)[^417]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(f) (with effect from January 1, 2011) for :
+(417)[^417]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(f) (with effect from January 1, 2011) for :
 
 (13)
 
@@ -8970,23 +8840,12 @@ The Committee shall forward the name of the nominee confirmed by it or deemed to
 
  
 
-(418)[^418]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011).
+(418)[^418]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011).
 
-(419)[^419]  )   Renumbered from "(15)". by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011)
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(419)[^419]:  )   Renumbered from "(15)". by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 4(g) (with effect from January 1, 2011)
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Chapter 2: "The Supreme Court of Pakistan." of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -8999,14 +8858,14 @@ Chapter 2: The Supreme Court of Pakistan.
 **176**
 
 **Constitution of Supreme Court.**  
-The Supreme Court shall consist of a Chief Justice to be known as the Chief Justice of Pakistan and so many other Judges as may be determined by Act of  (420)[^420]\[Majlis-e-Shoora (Parliament)\] (420)[^420) or, until so determined, as may be fixed by the President.
+The Supreme Court shall consist of a Chief Justice to be known as the Chief Justice of Pakistan and so many other Judges as may be determined by Act of  (420)[^420]:\[Majlis-e-Shoora (Parliament)\]: (420)[^420) or, until so determined, as may be fixed by the President.
 
  
 
 **177**
 
 **Appointment of Supreme Court Judges.**  
- (421)[^421]\[
+ (421)[^421]:\[
 
 (1)
 
@@ -9014,7 +8873,7 @@ The Chief Justice of Pakistan and each of the other Judges of the Supreme Court 
 
  
 
-\] (421)[^421)
+\]: (421)[^421)
 
 (2)
 
@@ -9039,7 +8898,7 @@ Before entering upon office, the Chief Justice of Pakistan shall make before the
 
  
 
- (422)[^422]\[
+ (422)[^422]:\[
 
 **179**
 
@@ -9048,7 +8907,7 @@ A judge of the Supreme Court shall hold office until he attains the age of sixty
 
  
 
-\] (422)[^422)
+\]: (422)[^422)
 
 **180**
 
@@ -9063,7 +8922,7 @@ the office of Chief Justice of Pakistan is vacant; or
 
 the Chief Justice of Pakistan is absent or is unable to perform the functions of his office due to any other cause,
 
-the President shall appoint  (428)[^428]\[one of the judges of the Supreme Court who have not previously held the office of Chief Justice of Pakistan otherwise than under this Article.\] (428)[^428) to act as Chief Justice of Pakistan.
+the President shall appoint  (428)[^428]:\[one of the judges of the Supreme Court who have not previously held the office of Chief Justice of Pakistan otherwise than under this Article.\]: (428)[^428) to act as Chief Justice of Pakistan.
 
  
 
@@ -9085,7 +8944,7 @@ a Judge of the Supreme Court is absent or is unable to perform the functions of 
 
 the President may, in the manner provided in clause (1) of Article 177, appoint a Judge of a High Court who is qualified for appointment as a Judge of the Supreme Court to act temporarily as a Judge of the Supreme Court.
 
- (429)[^429]\[Explanation.-In this clause, 'Judge of a High Court' includes a person who has retired as a Judge of a High Court.\] (429)[^429)
+ (429)[^429]:\[Explanation.-In this clause, 'Judge of a High Court' includes a person who has retired as a Judge of a High Court.\]: (429)[^429)
 
  
 
@@ -9100,7 +8959,7 @@ An appointment under this Article shall continue in force until it is revoked by
 **182**
 
 **Appointment of ad-hoc Judges.**  
-If at any time it is not possible for want of quorum of Judges of the Supreme Court to hold or continue any sitting of the Court, or for any other reason it is necessary to increase temporarily the number of Judges of the Supreme Court, the Chief Justice of Pakistan  (430)[^430]\[in consultation with the Judicial Commission as provided in clause (2) of Article 175A,\] (430)[^430)may, in writing,-
+If at any time it is not possible for want of quorum of Judges of the Supreme Court to hold or continue any sitting of the Court, or for any other reason it is necessary to increase temporarily the number of Judges of the Supreme Court, the Chief Justice of Pakistan  (430)[^430]:\[in consultation with the Judicial Commission as provided in clause (2) of Article 175A,\]: (430)[^430)may, in writing,-
 
 (a)
 
@@ -9192,7 +9051,7 @@ if the High Court has imposed any punishment on any person for contempt of the H
 
 (d)
 
-if the amount or value of the subject matter of the dispute in the court of first instance was, and also in dispute in appeal is, not less than fifty thousand rupees or such other sum as may be specified in that behalf by Act of  (432)[^432]\[Majlis-e-Shoora (Parliament)\] (432)[^432) and the judgment, decree or final order appealed from has varied or set aside the judgment, decree or final order of the court immediately below; or
+if the amount or value of the subject matter of the dispute in the court of first instance was, and also in dispute in appeal is, not less than fifty thousand rupees or such other sum as may be specified in that behalf by Act of  (432)[^432]:\[Majlis-e-Shoora (Parliament)\]: (432)[^432) and the judgment, decree or final order appealed from has varied or set aside the judgment, decree or final order of the court immediately below; or
 
 (e)
 
@@ -9230,7 +9089,7 @@ The Supreme Court shall consider a question so referred and report its opinion o
 
  
 
- (433)[^433]\[
+ (433)[^433]:\[
 
 **186A**
 
@@ -9239,7 +9098,7 @@ The Supreme Court may, if it considers it expedient to do so in the interest of 
 
  
 
-\] (433)[^433)
+\]: (433)[^433)
 
 **187**
 
@@ -9247,7 +9106,7 @@ The Supreme Court may, if it considers it expedient to do so in the interest of 
 
 (1)
 
- (434)[^434]\[Subject to clause(2) of Article 175, the\] (434)[^434) Supreme Court shall have power to issue such directions, orders or decrees as may be necessary for doing complete justice in any case or matter pending before it, including an order for the purpose of securing the attendance of any person or the discovery or production of any document.
+ (434)[^434]:\[Subject to clause(2) of Article 175, the\]: (434)[^434) Supreme Court shall have power to issue such directions, orders or decrees as may be necessary for doing complete justice in any case or matter pending before it, including an order for the purpose of securing the attendance of any person or the discovery or production of any document.
 
  
 
@@ -9268,7 +9127,7 @@ If a question arises as to which High Court shall give effect to a direction, or
 **188**
 
 **Review of Judgments or Orders by the Supreme Court.**  
-The Supreme Court shall have power, subject to the provisions of any Act of  (435)[^435]\[Majlis-e-Shoora (Parliament)\] (435)[^435) and of any rules made by the Supreme Court, to review any judgment pronounced or any order made by it.
+The Supreme Court shall have power, subject to the provisions of any Act of  (435)[^435]:\[Majlis-e-Shoora (Parliament)\]: (435)[^435) and of any rules made by the Supreme Court, to review any judgment pronounced or any order made by it.
 
  
 
@@ -9297,9 +9156,9 @@ Subject to the Constitution and law, the Supreme Court may make rules regulating
 
 ### Notes
 
-(420)[^420]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(420)[^420]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(421)[^421]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 68 (with effect from April 19, 2010) for :
+(421)[^421]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 68 (with effect from April 19, 2010) for :
 
 (1)
 
@@ -9307,29 +9166,29 @@ The Chief Justice of Pakistan shall be appointed by the President, and each of t
 
  
 
-(422)[^422]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 6 (with effect from December 31, 2003) for :
+(422)[^422]:  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 6 (with effect from December 31, 2003) for :
 
 **179**
 
 **Retiring Age.**  
 
- (423)[^423]\[(1)\] (423)[^423)
+ (423)[^423]:\[(1)\]: (423)[^423)
 
-A Judge of the Supreme Court shall hold office until he attains the age of  (424)[^424]\[sixty-eight years\] (424)[^424), unless he sooner resigns or is removed from office in accordance with the Constitution.
-
- 
-
- (425)[^425]\[\] (425)[^425)
+A Judge of the Supreme Court shall hold office until he attains the age of  (424)[^424]:\[sixty-eight years\]: (424)[^424), unless he sooner resigns or is removed from office in accordance with the Constitution.
 
  
 
-(423)[^423]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976)
+ (425)[^425]:\[\]: (425)[^425)
 
-(424)[^424]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-five years".
+ 
 
-(425)[^425)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 34 (with effect from March 2, 1985) : :
+(423)[^423]:  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976)
 
- (426)[^426]\[
+(424)[^424]:  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-five years".
+
+(425)[^425)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 34 (with effect from March 2, 1985) : :
+
+ (426)[^426]:\[
 
 (2)
 
@@ -9363,7 +9222,7 @@ The provisions of clauses (2), (3) and (4) shall have effect notwithstanding any
 
  
 
-\] (426)[^426) (427)[^427]\[
+\]: (426)[^426) (427)[^427]:\[
 
 (6)
 
@@ -9371,41 +9230,30 @@ Notwithstanding anything contained in clause (1) or clause (2), a Chief Justice 
 
  
 
-\] (427)[^427)
+\]: (427)[^427)
 
-(426)[^426]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976).
+(426)[^426]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 5 (with effect from September 16, 1976).
 
-(427)[^427]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.md), Section 2 (with effect from December 13, 1976).
+(427)[^427]:  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)]:(/pakistan/constitution/amendments/6amendment.md), Section 2 (with effect from December 13, 1976).
 
-(428)[^428]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Section 6 (with effect from March 2, 1985) for "the most senior of the other Judges of the Supreme Court".
+(428)[^428]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Section 6 (with effect from March 2, 1985) for "the most senior of the other Judges of the Supreme Court".
 
-(429)[^429]  Inserted by [Constitution (Amendment) Order, 1982 (President's Order No. 2 of 1982)](/pakistan/constitution/orders/po2_1982.md), Section 2 (with effect from February 27, 1982).
+(429)[^429]:  Inserted by [Constitution (Amendment) Order, 1982 (President's Order No. 2 of 1982)]:(/pakistan/constitution/orders/po2_1982.md), Section 2 (with effect from February 27, 1982).
 
-(430)[^430]  Inserted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 5 (with effect from January 1, 2011).
+(430)[^430]:  Inserted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 5 (with effect from January 1, 2011).
 
 (431)[^431)   For appointment of Rawalpindi as the seat of the Supreme Court, see Gazette of Pakistan, 1974, Part III, page 1387.  
 
-(432)[^432]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(432)[^432]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(433)[^433]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 36 (with effect from March 2, 1985).
+(433)[^433]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 36 (with effect from March 2, 1985).
 
-(434)[^434]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 7 (with effect from September 16, 1976) for "The".
+(434)[^434]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 7 (with effect from September 16, 1976) for "The".
 
-(435)[^435]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(435)[^435]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Chapter 3: "The High Courts" of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -9425,7 +9273,7 @@ A High Court shall consist of a Chief Justice and so many other Judges as may be
 
  
 
- (436)[^436]\[
+ (436)[^436]:\[
 
 (2)
 
@@ -9441,18 +9289,18 @@ The President shall, by  (437)[^437) Order, establish a High Court for each of 
 
 (4)
 
-The jurisdiction of a High Court may, by Act of  (438)[^438]\[Majlis-e-Shoora (Parliament)\] (438)[^438), be extended to any area in Pakistan not forming part of a Province.
+The jurisdiction of a High Court may, by Act of  (438)[^438]:\[Majlis-e-Shoora (Parliament)\]: (438)[^438), be extended to any area in Pakistan not forming part of a Province.
 
  
 
-\] (436)[^436)
+\]: (436)[^436)
 
  
 
 **193**
 
 **Appointment of High Court Judges.**  
- (439)[^439]\[
+ (439)[^439]:\[
 
 (1)
 
@@ -9460,11 +9308,11 @@ The Chief Justice and each of the other Judges of a High Court shall be appointe
 
  
 
-\] (439)[^439)
+\]: (439)[^439)
 
 (2)
 
-A person shall not be appointed a Judge of a High Court unless he is a citizen of Pakistan, is not less than  (440)[^440]\[forty-five\] (440)[^440) years of age, and-
+A person shall not be appointed a Judge of a High Court unless he is a citizen of Pakistan, is not less than  (440)[^440]:\[forty-five\]: (440)[^440) years of age, and-
 
 (a)
 
@@ -9478,7 +9326,7 @@ he is, and has for a period of not less than ten years been, a member of a civil
 
 he has, for a period of not less than ten years, held a judicial office in Pakistan.
 
- (442)[^442]\[Explanation.-In computing the period during which a person has been an advocate of a High Court or held judicial office, there shall be included any period during which he has held judicial office after he became an advocate or, as the case may be, the period during which he has been an advocate after having held judicial office.\] (442)[^442)
+ (442)[^442]:\[Explanation.-In computing the period during which a person has been an advocate of a High Court or held judicial office, there shall be included any period during which he has held judicial office after he became an advocate or, as the case may be, the period during which he has been an advocate after having held judicial office.\]: (442)[^442)
 
  
 
@@ -9493,13 +9341,13 @@ In this Article, "District Judge" means Judge of a principal civil court of orig
 **194**
 
 **Oath of Office**  
-Before entering upon office, the Chief. Justice of a High Court shall make before the Governor, and any other Judge of the Court shall make before the Chief Justice, oath in the form set out in the Third Schedule (443)[^443]\[:\] (443)[^443)
+Before entering upon office, the Chief. Justice of a High Court shall make before the Governor, and any other Judge of the Court shall make before the Chief Justice, oath in the form set out in the Third Schedule (443)[^443]:\[:\]: (443)[^443)
 
- (444)[^444]\[**Provided** that the Chief Justice of the Islamabad High Court shall make oath before the President and other Judges of that Court shall make oath before the Chief Justice of the Islamabad High Court. \] (444)[^444)
+ (444)[^444]:\[**Provided** that the Chief Justice of the Islamabad High Court shall make oath before the President and other Judges of that Court shall make oath before the Chief Justice of the Islamabad High Court. \]: (444)[^444)
 
  
 
- (445)[^445]\[
+ (445)[^445]:\[
 
 **195**
 
@@ -9508,7 +9356,7 @@ A judge of the High Court shall hold office until he attains the age of sixty-tw
 
  
 
-\] (445)[^445)
+\]: (445)[^445)
 
 **196**
 
@@ -9523,7 +9371,7 @@ the office of Chief Justice of a High Court is vacant, or
 
 the Chief Justice of a High Court is absent or is unable to perform the functions of his office due to any other cause,
 
-the President shall appoint  (451)[^451]\[one of the other Judges of the High Court, or may request one of the Judges of the Supreme Court\] (451)[^451), to act as Chief Justice.
+the President shall appoint  (451)[^451]:\[one of the other Judges of the High Court, or may request one of the Judges of the Supreme Court\]: (451)[^451), to act as Chief Justice.
 
  
 
@@ -9552,13 +9400,13 @@ the President may, in the manner provided in clause (1) of Article 193, appoint 
 
 **Seat of the High Court.**  
 
- (453)[^453]\[(1)\] (453)[^453)
+ (453)[^453]:\[(1)\]: (453)[^453)
 
 Each High Court in existence immediately before the commencing day shall continue to have its principal seat at the place where it had such seat before that day.
 
  
 
- (454)[^454]\[
+ (454)[^454]:\[
 
 (1A)
 
@@ -9566,7 +9414,7 @@ The High Court for Islamabad Capital Territory shall have its principal seat at 
 
  
 
-\] (454)[^454) (455)[^455]\[
+\]: (454)[^454) (455)[^455]:\[
 
 (2)
 
@@ -9576,7 +9424,7 @@ Each High Court and the Judges and divisional courts thereof shall sit at its pr
 
 (3)
 
-The Lahore High Court shall have a Bench each at Bahawalpur, Multan and Rawalpindi; the High Court of Sind shall have a Bench at Sukkur; the Peshawar High Court shall have a Bench each at Abbottabad (456)[^456]\[, Mingora\] (456)[^456) and Dera Ismail Khan and the High Court of Baluchistan shall have a Bench at Sibi  (457)[^457]\[and Turbat\] (457)[^457).
+The Lahore High Court shall have a Bench each at Bahawalpur, Multan and Rawalpindi; the High Court of Sind shall have a Bench at Sukkur; the Peshawar High Court shall have a Bench each at Abbottabad (456)[^456]:\[, Mingora\]: (456)[^456) and Dera Ismail Khan and the High Court of Baluchistan shall have a Bench at Sibi  (457)[^457]:\[and Turbat\]: (457)[^457).
 
  
 
@@ -9606,7 +9454,7 @@ for all incidental, supplemental or consequential matters.
 
  
 
-\] (455)[^455)
+\]: (455)[^455)
 
  
 
@@ -9654,7 +9502,7 @@ Subject to the Constitution, the right to move a High Court for the enforcement 
 
  
 
- (458)[^458]\[
+ (458)[^458]:\[
 
 (3)
 
@@ -9662,7 +9510,7 @@ An order shall not be made under clause (1) on application made by or in relatio
 
  
 
-\] (458)[^458) (459)[^459]\[\] (459)[^459)
+\]: (458)[^458) (459)[^459]:\[\]: (459)[^459)
 
 (4)
 
@@ -9674,7 +9522,7 @@ an application is made to a High Court for an order under paragraph (a) or parag
 
 (b)
 
-the making of an interim order would have the effect of prejudicing or interfering with the carrying out of a public work or of otherwise being harmful to public interest  (463)[^463]\[or state property\] (463)[^463) or of impeding the assessment or collection of public revenues,
+the making of an interim order would have the effect of prejudicing or interfering with the carrying out of a public work or of otherwise being harmful to public interest  (463)[^463]:\[or state property\]: (463)[^463) or of impeding the assessment or collection of public revenues,
 
 (i)
 
@@ -9686,7 +9534,7 @@ would have the effect of suspending an order or proceeding which on the face of 
 
  
 
- (464)[^464]\[
+ (464)[^464]:\[
 
 (4A)
 
@@ -9696,7 +9544,7 @@ An interim order made by a High Court on an application made to it to question t
 
  
 
-\] (464)[^464) (469)[^469]\[
+\]: (464)[^464) (469)[^469]:\[
 
 (4B)
 
@@ -9704,7 +9552,7 @@ Every case in which, on an application under clause (1), the High Court has made
 
  
 
-\] (469)[^469)
+\]: (469)[^469)
 
 (5)
 
@@ -9732,13 +9580,13 @@ in any other case, the Advocate-General for the Province in which the applicatio
 
 (1)
 
-The President may transfer a Judge of a High Court from one High Court to another High Court, but no Judge shall be so transferred except with his consent and after consultation by the President with the Chief Justice of Pakistan and the Chief Justices of both High Courts  (470)[^470]\[:\] (470)[^470) (471)[^471]\[\] (471)[^471)
+The President may transfer a Judge of a High Court from one High Court to another High Court, but no Judge shall be so transferred except with his consent and after consultation by the President with the Chief Justice of Pakistan and the Chief Justices of both High Courts  (470)[^470]:\[:\]: (470)[^470) (471)[^471]:\[\]: (471)[^471)
 
-Explanation.-In this Article, "Judge" does not include a Chief Justice  (474)[^474]\[but includes a Judge for the time being acting as Chief Justice of a High Court other than a Judge of the Supreme Court acting as such in pursuance of a request made under' paragraph (b) of Article 196\] (474)[^474).
+Explanation.-In this Article, "Judge" does not include a Chief Justice  (474)[^474]:\[but includes a Judge for the time being acting as Chief Justice of a High Court other than a Judge of the Supreme Court acting as such in pursuance of a request made under' paragraph (b) of Article 196\]: (474)[^474).
 
  
 
- (475)[^475]\[
+ (475)[^475]:\[
 
 (2)
 
@@ -9746,7 +9594,7 @@ Where a Judge is so transferred or is appointed to an office other than the prin
 
  
 
-\] (475)[^475) (476)[^476]\[
+\]: (475)[^475) (476)[^476]:\[
 
 (3)
 
@@ -9754,11 +9602,11 @@ If at any time it is necessary for any reason to increase temporarily the number
 
 **Provided** that a Judge shall not be so required except with his consent and the approval of the President and after consultation with the Chief Justice of Pakistan and the Chief Justice of the High Court of which he is a Judge.
 
- (477)[^477]\[Explanation.- In this Article, "High Court" includes a Bench of a High Court.\] (477)[^477)
+ (477)[^477]:\[Explanation.- In this Article, "High Court" includes a Bench of a High Court.\]: (477)[^477)
 
  
 
-\] (476)[^476) (478)[^478]\[\] (478)[^478)
+\]: (476)[^476) (478)[^478]:\[\]: (478)[^478)
 
  
 
@@ -9787,7 +9635,7 @@ Each High Court shall supervise and control all courts subordinate to it.
 
 ### Notes
 
-(436)[^436]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 8 (with effect from December 1, 1976) for :
+(436)[^436]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 8 (with effect from December 1, 1976) for :
 
 (2)
 
@@ -9811,9 +9659,9 @@ The agreement referred to in clause (2) shall contain such incidental and conseq
 
 (437)[^437)   For such Order in respect of establishment of High Courts for Baluchistan and Sind, see the President's Order No. 6 of 1976 of November 29, 1976, Gazette of Pakistan, 1976, Extraordinary, Part I, pages 595-99.  
 
-(438)[^438]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(438)[^438]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(439)[^439]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 69(i) (with effect from April 19, 2010) for :
+(439)[^439]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 69(i) (with effect from April 19, 2010) for :
 
 (1)
 
@@ -9831,39 +9679,39 @@ except where the appointment is that of Chief Justice, with the Chief Justice of
 
  
 
-(440)[^440]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 69(ii) (with effect from August 21, 2002) for " (441)[^441]\[forty-five\] (441)[^441)".
+(440)[^440]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 69(ii) (with effect from August 21, 2002) for " (441)[^441]:\[forty-five\]: (441)[^441)".
 
-(441)[^441]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "forty".
+(441)[^441]:  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "forty".
 
-(442)[^442]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Article 8 (with effect from May 4, 1974).
+(442)[^442]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Article 8 (with effect from May 4, 1974).
 
-(443)[^443]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010) for ".".
+(443)[^443]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010) for ".".
 
-(444)[^444]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010).
+(444)[^444]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 70 (with effect from April 19, 2010).
 
-(445)[^445]  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.md), Article 7 (with effect from December 31, 2003) for :
+(445)[^445]:  Substituted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)]:(/pakistan/constitution/amendments/17amendment.md), Article 7 (with effect from December 31, 2003) for :
 
 **195**
 
 **Retiring Age**  
 
- (446)[^446]\[(1)\] (446)[^446)
+ (446)[^446]:\[(1)\]: (446)[^446)
 
-A Judge of a High Court shall hold office until he attains the age of  (447)[^447]\[sixty-five years\] (447)[^447), unless he sooner resigns or is removed from office in accordance with the Constitution.
-
- 
-
- (448)[^448]\[\] (448)[^448)
+A Judge of a High Court shall hold office until he attains the age of  (447)[^447]:\[sixty-five years\]: (447)[^447), unless he sooner resigns or is removed from office in accordance with the Constitution.
 
  
 
-(446)[^446]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976)
+ (448)[^448]:\[\]: (448)[^448)
 
-(447)[^447]  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-two years".
+ 
 
-(448)[^448)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 37 (with effect from March 2, 1985) : :
+(446)[^446]:  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976)
 
- (449)[^449]\[
+(447)[^447]:  Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)]:(/pakistan/constitution/musharraf_const_revival/ce29_2002.md), Article 2(4) (with effect from October 9, 2002) for "sixty-two years".
+
+(448)[^448)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 37 (with effect from March 2, 1985) : :
+
+ (449)[^449]:\[
 
 (2)
 
@@ -9897,7 +9745,7 @@ The provisions of clauses (2), (3) and (4) shall have effect notwithstanding any
 
  
 
-\] (449)[^449) (450)[^450]\[
+\]: (449)[^449) (450)[^450]:\[
 
 (6)
 
@@ -9905,27 +9753,27 @@ Notwithstanding anything contained in clause (1) or clause (2), a Chief Justice 
 
  
 
-\] (450)[^450)
+\]: (450)[^450)
 
-(449)[^449]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976).
+(449)[^449]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976).
 
-(450)[^450]  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)](/pakistan/constitution/amendments/6amendment.md), Section 3 (with effect from December 13, 1976).
+(450)[^450]:  Inserted by [Constitution (Sixth Amendment) Act, 1976 (84 of 1976)]:(/pakistan/constitution/amendments/6amendment.md), Section 3 (with effect from December 13, 1976).
 
-(451)[^451]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 38 (with effect from March 2, 1985) for " (452)[^452]\[one of the Judges of the High Court who have not previously held the office of Chief Justice of the High Court otherwise than under this Article\] (452)[^452)".
+(451)[^451]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 38 (with effect from March 2, 1985) for " (452)[^452]:\[one of the Judges of the High Court who have not previously held the office of Chief Justice of the High Court otherwise than under this Article\]: (452)[^452)".
 
-(452)[^452]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976) for "the most senior of the other Judges of the High Court".
+(452)[^452]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 9 (with effect from September 16, 1976) for "the most senior of the other Judges of the High Court".
 
-(453)[^453]  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985)
+(453)[^453]:  )   Renumbered by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985)
 
-(454)[^454]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 71(i) (with effect from April 19, 2010).
+(454)[^454]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 71(i) (with effect from April 19, 2010).
 
-(455)[^455]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985).
+(455)[^455]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 39 (with effect from March 2, 1985).
 
-(456)[^456]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(a) (with effect from April 19, 2010).
+(456)[^456]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(a) (with effect from April 19, 2010).
 
-(457)[^457]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(b) (with effect from April 19, 2010).
+(457)[^457]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 70(ii)(b) (with effect from April 19, 2010).
 
-(458)[^458]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 9 (with effect from May 4, 1974) for :
+(458)[^458]:  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 9 (with effect from May 4, 1974) for :
 
 (3)
 
@@ -9933,9 +9781,9 @@ An order shall not be made under clause (1) on application made by or in relatio
 
  
 
-(459)[^459)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(1) (with effect from March 2, 1985) : :
+(459)[^459)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(1) (with effect from March 2, 1985) : :
 
- (460)[^460]\[
+ (460)[^460]:\[
 
 (3A)
 
@@ -9971,7 +9819,7 @@ The Proclamation of the fifth day of July 1977, all President's Orders, Orders o
 
  
 
-\] (460)[^460) (461)[^461]\[
+\]: (460)[^460) (461)[^461]:\[
 
 (3A)
 
@@ -10011,13 +9859,13 @@ The provisions of clauses (3A) and (3B) shall also apply to the disposal of an a
 
  
 
-\] (461)[^461)
+\]: (461)[^461)
 
-(460)[^460]  Inserted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.md), Section 2 (with effect from May 26, 1980).
+(460)[^460]:  Inserted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)]:(/pakistan/constitution/orders/po1_1980.md), Section 2 (with effect from May 26, 1980).
 
-(461)[^461]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 11 (with effect from September 16, 1976) for :
+(461)[^461]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 11 (with effect from September 16, 1976) for :
 
- (462)[^462]\[
+ (462)[^462]:\[
 
 (3A)
 
@@ -10033,47 +9881,47 @@ for the grant of bail to a person detained, under any law providing for preventi
 
  
 
-\] (462)[^462)
+\]: (462)[^462)
 
-(462)[^462]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Section 8(a) (with effect from November 21, 1975).
+(462)[^462]:  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Section 8(a) (with effect from November 21, 1975).
 
-(463)[^463]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(2) (with effect from March 2, 1985).
+(463)[^463]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(2) (with effect from March 2, 1985).
 
-(464)[^464]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 72 (with effect from April 19, 2010) for :
+(464)[^464]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 72 (with effect from April 19, 2010) for :
 
- (465)[^465]\[
+ (465)[^465]:\[
 
 (4A)
 
-An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in part I of the First Schedule or relates to, or is connected with,  (466)[^466]\[State Property or\] (466)[^466) assessment or collection of public revenues shall cease to have effect on the expiration of a period of  (467)[^467]\[six months\] (467)[^467) following the day on which it is made,  (468)[^468]\[provided that the matter shall be finally decided by the High Court within six months from the date on which the interim order is made\] (468)[^468).
+An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in part I of the First Schedule or relates to, or is connected with,  (466)[^466]:\[State Property or\]: (466)[^466) assessment or collection of public revenues shall cease to have effect on the expiration of a period of  (467)[^467]:\[six months\]: (467)[^467) following the day on which it is made,  (468)[^468]:\[provided that the matter shall be finally decided by the High Court within six months from the date on which the interim order is made\]: (468)[^468).
 
  
 
-\] (465)[^465)
+\]: (465)[^465)
 
-(465)[^465]  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.md), Section 8(b) (with effect from November 21, 1975).
+(465)[^465]:  Inserted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)]:(/pakistan/constitution/amendments/4amendment.md), Section 8(b) (with effect from November 21, 1975).
 
-(466)[^466]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(a) (with effect from March 2, 1985).
+(466)[^466]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(a) (with effect from March 2, 1985).
 
-(467)[^467]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(b) (with effect from March 2, 1985) for "sixty days".
+(467)[^467]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(3)(b) (with effect from March 2, 1985) for "sixty days".
 
-(468)[^468]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 18 (with effect from August 21, 2002) for "unless the case is finally decided, or the interim order is withdrawn, by the Court earlier".
+(468)[^468]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 18 (with effect from August 21, 2002) for "unless the case is finally decided, or the interim order is withdrawn, by the Court earlier".
 
-(469)[^469]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(4) (with effect from March 2, 1985).
+(469)[^469]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 40(4) (with effect from March 2, 1985).
 
-(470)[^470]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976) for ".".
+(470)[^470]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976) for ".".
 
-(471)[^471)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 73(i) (with effect from April 19, 2010) : :
+(471)[^471)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 73(i) (with effect from April 19, 2010) : :
 
- (472)[^472]\[**Provided** that such consent, or consultation with the Chief Justices of the High Courts, shall not be necessary if such transfer is for a period not exceeding  (473)[^473]\[two years\] (473)[^473) at a time.\] (472)[^472)
+ (472)[^472]:\[**Provided** that such consent, or consultation with the Chief Justices of the High Courts, shall not be necessary if such transfer is for a period not exceeding  (473)[^473]:\[two years\]: (473)[^473) at a time.\]: (472)[^472)
 
-(472)[^472]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976).
+(472)[^472]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 12 (with effect from September 16, 1976).
 
-(473)[^473]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for "one year".
+(473)[^473]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for "one year".
 
-(474)[^474]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 3(a) (with effect from March 19, 1985).
+(474)[^474]:  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 3(a) (with effect from March 19, 1985).
 
-(475)[^475]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for :
+(475)[^475]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985) for :
 
 (2)
 
@@ -10081,13 +9929,13 @@ When a judge is so transferred, he shall, during the period for which he serves 
 
  
 
-(476)[^476]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 10 (with effect from May 4, 1974).
+(476)[^476]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 10 (with effect from May 4, 1974).
 
-(477)[^477]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985).
+(477)[^477]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 41 (with effect from March 2, 1985).
 
-(478)[^478)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 73(ii) (with effect from April 19, 2010) : :
+(478)[^478)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 73(ii) (with effect from April 19, 2010) : :
 
- (479)[^479]\[
+ (479)[^479]:\[
 
 (4)
 
@@ -10095,22 +9943,12 @@ A Judge of a High Court who does not accept transfer to another High Court under
 
  
 
-\] (479)[^479)
+\]: (479)[^479)
 
-(479)[^479]  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 3(c) (with effect from March 19, 1985).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(479)[^479]:  Inserted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 3(c) (with effect from March 19, 1985).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-  Chapter 3A: "Federal Shariat Court" of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch3A'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -10130,31 +9968,31 @@ The provisions or this Chapter shall have effect notwithstanding anything contai
 **203B**
 
 **Definitions.**  
-In this Chapter, unless there is anything repugnant in the subject or context  (481)[^481]\[
+In this Chapter, unless there is anything repugnant in the subject or context  (481)[^481]:\[
 
 (a)
 
 "Chief Justice" means, Chief Justice of the Court;
 
-\] (481)[^481)
+\]: (481)[^481)
 
 (b)
 
 "Court" means the Federal Shariat Court constituted in pursuance of Article 203C;
 
- (482)[^482]\[
+ (482)[^482]:\[
 
 (bb)
 
 "judge" means judge of the Court;
 
-\] (482)[^482)
+\]: (482)[^482)
 
 (c)
 
-"law" includes any custom or usage having the force of law but does not include the Constitution, Muslim Personal Law, any law relating to the procedure of any Court or tribunal or, until the expiration of  (483)[^483]\[ten\] (483)[^483) years from the commencement of this Chapter, any fiscal law or any law relating to the levy and collection of taxes and fees or banking or insurance practice and procedure; and
+"law" includes any custom or usage having the force of law but does not include the Constitution, Muslim Personal Law, any law relating to the procedure of any Court or tribunal or, until the expiration of  (483)[^483]:\[ten\]: (483)[^483) years from the commencement of this Chapter, any fiscal law or any law relating to the levy and collection of taxes and fees or banking or insurance practice and procedure; and
 
- (486)[^486]\[\] (486)[^486)
+ (486)[^486]:\[\]: (486)[^486)
 
  
 
@@ -10168,15 +10006,15 @@ There shall be constituted for the purposes of this Chapter a court to be called
 
  
 
- (487)[^487]\[
+ (487)[^487]:\[
 
 (2)
 
-The Court shall consist of not more than eight Muslim  (488)[^488]\[Judges\] (488)[^488), including the  (489)[^489]\[Chief Justice\] (489)[^489), to be appointed by the President  (490)[^490]\[in accordance with Article 175A\] (490)[^490).
+The Court shall consist of not more than eight Muslim  (488)[^488]:\[Judges\]: (488)[^488), including the  (489)[^489]:\[Chief Justice\]: (489)[^489), to be appointed by the President  (490)[^490]:\[in accordance with Article 175A\]: (490)[^490).
 
  
 
-\] (487)[^487) (492)[^492]\[
+\]: (487)[^487) (492)[^492]:\[
 
 (3)
 
@@ -10186,29 +10024,29 @@ The Chief Justice shall be a person who is, or has been, or is qualified, to be,
 
 (3A)
 
-Of the Judges not more than four shall be persons each one of whom is, or has been, or is qualified to be, a Judge of a High Court and not more than three shall be ulema  (493)[^493]\[having at least fifteen years experience in Islamic law, research or instruction\] (493)[^493).
+Of the Judges not more than four shall be persons each one of whom is, or has been, or is qualified to be, a Judge of a High Court and not more than three shall be ulema  (493)[^493]:\[having at least fifteen years experience in Islamic law, research or instruction\]: (493)[^493).
 
  
 
-\] (492)[^492)
+\]: (492)[^492)
 
 (4)
 
-The  (494)[^494]\[Chief Justice\] (494)[^494) and a  (495)[^495]\[Judge\] (495)[^495) shall hold office for a period not exceeding three years, but may be appointed for such further term or terms as the President may determine:
+The  (494)[^494]:\[Chief Justice\]: (494)[^494) and a  (495)[^495]:\[Judge\]: (495)[^495) shall hold office for a period not exceeding three years, but may be appointed for such further term or terms as the President may determine:
 
-**Provided** that a Judge of a High Court shall not be appointed to be a Judge  (496)[^496]\[\] (496)[^496) except with his consent and  (498)[^498]\[, except where the Judge is, himself the Chief Justice,\] (498)[^498) after consultation by the President with the Chief Justice of the High Court.
+**Provided** that a Judge of a High Court shall not be appointed to be a Judge  (496)[^496]:\[\]: (496)[^496) except with his consent and  (498)[^498]:\[, except where the Judge is, himself the Chief Justice,\]: (498)[^498) after consultation by the President with the Chief Justice of the High Court.
 
  
 
- (499)[^499]\[
+ (499)[^499]:\[
 
 (4A)
 
-The  (500)[^500]\[Chief Justice\] (500)[^500), if he is not a Judge of the Supreme Court, and a  (501)[^501]\[Judge\] (501)[^501) who is not a Judge of a High Court, may, by writing under his hand addressed to the President, resign his office.
+The  (500)[^500]:\[Chief Justice\]: (500)[^500), if he is not a Judge of the Supreme Court, and a  (501)[^501]:\[Judge\]: (501)[^501) who is not a Judge of a High Court, may, by writing under his hand addressed to the President, resign his office.
 
  
 
-\] (499)[^499) (502)[^502]\[ (503)[^503]\[
+\]: (499)[^499) (502)[^502]:\[ (503)[^503]:\[
 
 (4B)
 
@@ -10216,27 +10054,27 @@ The Chief Justice and a Judge shall not be removed from office except in the lik
 
  
 
-\] (503)[^503) (504)[^504]\[\] (504)[^504)\] (502)[^502) (505)[^505]\[\] (505)[^505)
+\]: (503)[^503) (504)[^504]:\[\]: (504)[^504)\]: (502)[^502) (505)[^505]:\[\]: (505)[^505)
 
 (6)
 
-The Principal seat of the Court shall be at Islamabad, but Court may from time to time sit in such other places in Pakistan as the  (507)[^507]\[Chief Justice\] (507)[^507) may, with the approval of the President, appoint.
+The Principal seat of the Court shall be at Islamabad, but Court may from time to time sit in such other places in Pakistan as the  (507)[^507]:\[Chief Justice\]: (507)[^507) may, with the approval of the President, appoint.
 
  
 
 (7)
 
-Before entering upon office, the  (508)[^508]\[Chief Justice\] (508)[^508) and a  (509)[^509]\[Judge\] (509)[^509) shall make before the President or a person nominated by him oath in the form set out in the Third Schedule.
+Before entering upon office, the  (508)[^508]:\[Chief Justice\]: (508)[^508) and a  (509)[^509]:\[Judge\]: (509)[^509) shall make before the President or a person nominated by him oath in the form set out in the Third Schedule.
 
  
 
 (8)
 
-At any time when the  (510)[^510]\[Chief Justice\] (510)[^510) or a  (511)[^511]\[Judge\] (511)[^511) is absent or is unable to perform the functions of his office the President shall appoint another person qualified for the purpose to act as  (512)[^512]\[Chief Justice\] (512)[^512) or, as the case may be,  (513)[^513]\[Judge\] (513)[^513).
+At any time when the  (510)[^510]:\[Chief Justice\]: (510)[^510) or a  (511)[^511]:\[Judge\]: (511)[^511) is absent or is unable to perform the functions of his office the President shall appoint another person qualified for the purpose to act as  (512)[^512]:\[Chief Justice\]: (512)[^512) or, as the case may be,  (513)[^513]:\[Judge\]: (513)[^513).
 
  
 
- (514)[^514]\[
+ (514)[^514]:\[
 
 (9)
 
@@ -10246,11 +10084,11 @@ A Chief Justice who is not a Judge of the Supreme Court shall be entitled to the
 
  
 
-\] (514)[^514)
+\]: (514)[^514)
 
  
 
- (521)[^521]\[\] (521)[^521)
+ (521)[^521]:\[\]: (521)[^521)
 
 **203D**
 
@@ -10258,19 +10096,19 @@ A Chief Justice who is not a Judge of the Supreme Court shall be entitled to the
 
 (1)
 
-The Court may,  (523)[^523]\[either of its own motion or\] (523)[^523) on the petition of a citizen of Pakistan or the Federal Government or a Provincial Government, examine and decide the question whether or not any law or provision of law is repugnant to the injunctions of Islam, as laid down in the Holy Quran and Sunnah of the Holy Prophet, hereinafter referred to as the Injunctions of Islam.
+The Court may,  (523)[^523]:\[either of its own motion or\]: (523)[^523) on the petition of a citizen of Pakistan or the Federal Government or a Provincial Government, examine and decide the question whether or not any law or provision of law is repugnant to the injunctions of Islam, as laid down in the Holy Quran and Sunnah of the Holy Prophet, hereinafter referred to as the Injunctions of Islam.
 
  
 
- (524)[^524]\[
+ (524)[^524]:\[
 
 (1A)
 
-Where the Court takes up the examination of any law or provision of law under clause (1) and such law or provision of law appears to it to be repugnant to the Injunctions of Islam, the Court shall cause to be given to the Federal Government in the case of a law with respect to a matter in the Federal Legislative List  (525)[^525]\[\] (525)[^525), or to the Provincial Government in the case of a law with respect to a matter not enumerated  (526)[^526]\[in the Federal Legislative List\] (526)[^526), a notice specifying the particular provisions that appear to it to be so repugnant, and afford to such Government adequate opportunity to have its point of view placed before the Court.
+Where the Court takes up the examination of any law or provision of law under clause (1) and such law or provision of law appears to it to be repugnant to the Injunctions of Islam, the Court shall cause to be given to the Federal Government in the case of a law with respect to a matter in the Federal Legislative List  (525)[^525]:\[\]: (525)[^525), or to the Provincial Government in the case of a law with respect to a matter not enumerated  (526)[^526]:\[in the Federal Legislative List\]: (526)[^526), a notice specifying the particular provisions that appear to it to be so repugnant, and afford to such Government adequate opportunity to have its point of view placed before the Court.
 
  
 
-\] (524)[^524)
+\]: (524)[^524)
 
 (2)
 
@@ -10282,9 +10120,9 @@ the reasons for its holding that opinion; and
 
 (b)
 
-the extent to which such law or provision is so repugnant; and specify the day on which the decision shall take effect (527)[^527]\[:\] (527)[^527)
+the extent to which such law or provision is so repugnant; and specify the day on which the decision shall take effect (527)[^527]:\[:\]: (527)[^527)
 
- (528)[^528]\[**Provided** that no such decision shall be deemed to take effect before the expiration of the period within which an appeal therefrom may be preferred to the Supreme Court or, where an appeal has been so preferred, before the disposal of such appeal.\] (528)[^528)
+ (528)[^528]:\[**Provided** that no such decision shall be deemed to take effect before the expiration of the period within which an appeal therefrom may be preferred to the Supreme Court or, where an appeal has been so preferred, before the disposal of such appeal.\]: (528)[^528)
 
  
 
@@ -10302,11 +10140,11 @@ such law or provision shall, to the extent to which it is held to be so repugnan
 
  
 
- (529)[^529]\[\] (529)[^529)
+ (529)[^529]:\[\]: (529)[^529)
 
  
 
- (530)[^530]\[
+ (530)[^530]:\[
 
 **203DD**
 
@@ -10334,7 +10172,7 @@ The Court shall have such other jurisdiction as may be conferred on it by or und
 
  
 
-\] (530)[^530)
+\]: (530)[^530)
 
 **203E**
 
@@ -10400,11 +10238,11 @@ The Court may invite any person in Pakistan or abroad whom the Court considers t
 
 (8)
 
-No court-fee shall be payable in respect of any petition or application made to the Court under  (532)[^532]\[Article 203D.\] (532)[^532)
+No court-fee shall be payable in respect of any petition or application made to the Court under  (532)[^532]:\[Article 203D.\]: (532)[^532)
 
  
 
- (533)[^533]\[
+ (533)[^533]:\[
 
 (9)
 
@@ -10412,7 +10250,7 @@ The Court shall have power to review any decision given or order made by it.
 
  
 
-\] (533)[^533)
+\]: (533)[^533)
 
  
 
@@ -10422,9 +10260,9 @@ The Court shall have power to review any decision given or order made by it.
 
 (1)
 
-Any party to any proceedings before the Court under Article 203D aggrieved by the final decision of the Court in such proceedings may, within sixty days of such decision, prefer an appeal to the Supreme Court (534)[^534]\[:\] (534)[^534)
+Any party to any proceedings before the Court under Article 203D aggrieved by the final decision of the Court in such proceedings may, within sixty days of such decision, prefer an appeal to the Supreme Court (534)[^534]:\[:\]: (534)[^534)
 
- (535)[^535]\[**Provided** that an appeal on behalf of the Federation or of a Province may be preferred within six months of such decision.\] (535)[^535)
+ (535)[^535]:\[**Provided** that an appeal on behalf of the Federation or of a Province may be preferred within six months of such decision.\]: (535)[^535)
 
  
 
@@ -10434,7 +10272,7 @@ The provisions of clauses (2) and (3) of Article 203D and clauses (4) to (8) of 
 
  
 
- (536)[^536]\[
+ (536)[^536]:\[
 
 (2A)
 
@@ -10456,7 +10294,7 @@ An appeal to the Supreme Court from a judgment, decision, order or sentence of t
 
  
 
-\] (536)[^536) (537)[^537]\[
+\]: (536)[^536) (537)[^537]:\[
 
 (3)
 
@@ -10472,7 +10310,7 @@ not more than two Ulema to be appointed by the President to attend sittings of t
 
  
 
-\] (537)[^537)
+\]: (537)[^537)
 
 (4)
 
@@ -10501,7 +10339,7 @@ Save as provided in Article 203F, no court or tribunal, including the Supreme Co
 
  
 
- (538)[^538]\[
+ (538)[^538]:\[
 
 **203GG**
 
@@ -10510,7 +10348,7 @@ Subject to Article 203D and 203F, any decision of the Court in the exercise of i
 
  
 
-\] (538)[^538)
+\]: (538)[^538)
 
 **203H**
 
@@ -10536,7 +10374,7 @@ Neither the Court nor the Supreme Court shall in the exercise of its jurisdictio
 
  
 
- (539)[^539]\[\] (539)[^539)
+ (539)[^539]:\[\]: (539)[^539)
 
 **203J**
 
@@ -10554,13 +10392,13 @@ In particular, and without prejudice to the generality of the foregoing power, s
 
 (a)
 
-the scale of payment of honorarium to be made to jurisconsults, experts and witnesses summoned by the Court to defray the expenses, if any, incurred by them in attending for the purposes of the proceedings before the Court;  (540)[^540]\[\] (540)[^540)
+the scale of payment of honorarium to be made to jurisconsults, experts and witnesses summoned by the Court to defray the expenses, if any, incurred by them in attending for the purposes of the proceedings before the Court;  (540)[^540]:\[\]: (540)[^540)
 
 (b)
 
-the form of oath to be made by a jurisconsult, expert or witness appearing before the Court (541)[^541]\[;\] (541)[^541)
+the form of oath to be made by a jurisconsult, expert or witness appearing before the Court (541)[^541]:\[;\]: (541)[^541)
 
- (542)[^542]\[
+ (542)[^542]:\[
 
 (c)
 
@@ -10574,7 +10412,7 @@ the decision of the Court being expressed in terms of the opinion of the majorit
 
 the decision of cases in which the members constituting a Bench are equally divided in their opinion.
 
-\] (542)[^542)
+\]: (542)[^542)
 
  
 
@@ -10590,45 +10428,45 @@ Until rules are made under clause (1), the Shariat Benches of Superior Courts Ru
 
 ### Notes
 
-(480)[^480]  Substituted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)](/pakistan/constitution/orders/po1_1980.md), Section 3 (with effect from May 26, 1980) for [Chapter 3A: "Shariat Bench of Superior Courts"](part7.ch3A_po1_1980_subs.md)
+(480)[^480]:  Substituted by [Constitution (Amendment) Order, 1980 (President's Order No. 1 of 1980)]:(/pakistan/constitution/orders/po1_1980.md), Section 3 (with effect from May 26, 1980) for [Chapter 3A: "Shariat Bench of Superior Courts"]:(part7.ch3A_po1_1980_subs.md)
 
-(481)[^481]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) for :
+(481)[^481]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) for :
 
 (a)
 
 "Chairman" means chairman of the Court;"
 
-(482)[^482]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982).
+(482)[^482]:  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982).
 
-(483)[^483]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Section 2, Sch. item 42 (with effect from March 2, 1985) for " (484)[^484]\[five\] (484)[^484)".
+(483)[^483]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Section 2, Sch. item 42 (with effect from March 2, 1985) for " (484)[^484]:\[five\]: (484)[^484)".
 
-(484)[^484]  Substituted by [Constitution (Second Amendment) Order, 1984 (President's Order No. 2 of 1984)](/pakistan/constitution/orders/po2_1984.md), Section 2 (with effect from April 26, 1984) for " (485)[^485]\[four\] (485)[^485)".
+(484)[^484]:  Substituted by [Constitution (Second Amendment) Order, 1984 (President's Order No. 2 of 1984)]:(/pakistan/constitution/orders/po2_1984.md), Section 2 (with effect from April 26, 1984) for " (485)[^485]:\[four\]: (485)[^485)".
 
-(485)[^485]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for "three".
+(485)[^485]:  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)]:(/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for "three".
 
-(486)[^486)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) : :
+(486)[^486)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 2(a) (with effect from March 22, 1982) : :
 
 (d)
 
 'member' means member of the Court.
 
-(487)[^487]  Substituted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.md), Section 2 (with effect from May 27, 1981) for :
+(487)[^487]:  Substituted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)]:(/pakistan/constitution/orders/po7_1981.md), Section 2 (with effect from May 27, 1981) for :
 
 (2)
 
-The Court shall consist of five  (491)[^491]\[Muslim\] (491)[^491)members including the Chairman to be appointed by the President.
+The Court shall consist of five  (491)[^491]:\[Muslim\]: (491)[^491)members including the Chairman to be appointed by the President.
 
  
 
-(488)[^488]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(a) (with effect from March 22, 1982) for "members".
+(488)[^488]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(a) (with effect from March 22, 1982) for "members".
 
-(489)[^489]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(489)[^489]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(490)[^490]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(i) (with effect from April 19, 2010).
+(490)[^490]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(i) (with effect from April 19, 2010).
 
-(491)[^491]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(a) (with effect from June 21, 1980).
+(491)[^491]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 2(a) (with effect from June 21, 1980).
 
-(492)[^492]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 4(a) (with effect from March 19, 1985) for :
+(492)[^492]:  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 4(a) (with effect from March 19, 1985) for :
 
 (3)
 
@@ -10636,27 +10474,27 @@ The Chairman shall be a person who is, or has been or is qualified to be a Judge
 
  
 
-(493)[^493]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(ii) (with effect from April 19, 2010) for "who are well-versed in Islamic law".
+(493)[^493]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(ii) (with effect from April 19, 2010) for "who are well-versed in Islamic law".
 
-(494)[^494]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(494)[^494]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(495)[^495]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(495)[^495]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(496)[^496)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(iii) (with effect from April 19, 2010) : " for a period exceeding  (497)[^497]\[two years\] (497)[^497)".
+(496)[^496)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(iii) (with effect from April 19, 2010) : " for a period exceeding  (497)[^497]:\[two years\]: (497)[^497)".
 
-(497)[^497]  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 4(b) (with effect from March 19, 1985) for "one year".
+(497)[^497]:  Substituted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 4(b) (with effect from March 19, 1985) for "one year".
 
-(498)[^498]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(b) (with effect from June 21, 1980).
+(498)[^498]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 2(b) (with effect from June 21, 1980).
 
-(499)[^499]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 2(c) (with effect from June 21, 1980).
+(499)[^499]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 2(c) (with effect from June 21, 1980).
 
-(500)[^500]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(500)[^500]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(501)[^501]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(501)[^501]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(502)[^502]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 43 (with effect from March 2, 1985).
+(502)[^502]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 43 (with effect from March 2, 1985).
 
-(503)[^503]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(iv) (with effect from April 19, 2010) for :
+(503)[^503]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(iv) (with effect from April 19, 2010) for :
 
 (4B)
 
@@ -10678,7 +10516,7 @@ require a Judge to perform such other functions as the President may deem fit; a
 
  
 
-(504)[^504)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
+(504)[^504)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
 
 (4C)
 
@@ -10686,47 +10524,47 @@ While he is performing the functions which he is required under clause (4B) to p
 
  
 
-(505)[^505)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
+(505)[^505)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(v) (with effect from April 19, 2010) : :
 
 (5)
 
-A Judge of a High Court who does not accept appointment as a  (506)[^506]\[Judge\] (506)[^506) shall be deemed to have retired from his office and, on such retirement, shall be entitled to receive a pension calculated on the basis of the length of his service as Judge and total service, if any, in the service of Pakistan.
+A Judge of a High Court who does not accept appointment as a  (506)[^506]:\[Judge\]: (506)[^506) shall be deemed to have retired from his office and, on such retirement, shall be entitled to receive a pension calculated on the basis of the length of his service as Judge and total service, if any, in the service of Pakistan.
 
  
 
-(506)[^506]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(506)[^506]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(507)[^507]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(507)[^507]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(508)[^508]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(508)[^508]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(509)[^509]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(509)[^509]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(510)[^510]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(510)[^510]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(511)[^511]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(511)[^511]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(512)[^512]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(512)[^512]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(513)[^513]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(513)[^513]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(514)[^514]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 74(vi) (with effect from April 19, 2010).
+(514)[^514]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 74(vi) (with effect from April 19, 2010).
 
-(515)[^515]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
+(515)[^515]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(b) (with effect from March 22, 1982) for "Chairman".
 
-(516)[^516]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
+(516)[^516]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
 
-(517)[^517]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
+(517)[^517]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 3(c) (with effect from March 22, 1982) for "member".
 
-(518)[^518]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
+(518)[^518]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(a) (with effect from August 21, 2002) for "salary".
 
-(519)[^519]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002) for ".".
+(519)[^519]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002) for ".".
 
-(520)[^520]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002).
+(520)[^520]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 19(b) (with effect from August 21, 2002).
 
-(521)[^521)   The following was omitted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)](/pakistan/constitution/orders/po7_1981.md), Section 3 (with effect from May 27, 1981) : :
+(521)[^521)   The following was omitted by [Constitution (Second Amendment) Order, 1981 (President's Order No. 7 of 1981)]:(/pakistan/constitution/orders/po7_1981.md), Section 3 (with effect from May 27, 1981) : :
 
- (522)[^522]\[
+ (522)[^522]:\[
 
 **203CC**
 
@@ -10746,23 +10584,23 @@ The Chairman shall, in all cases before the Court, request the Ulema not exceedi
 
  
 
-\] (522)[^522)
+\]: (522)[^522)
 
-(522)[^522]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
+(522)[^522]:  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)]:(/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
 
-(523)[^523]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 4 (with effect from March 22, 1982).
+(523)[^523]:  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 4 (with effect from March 22, 1982).
 
-(524)[^524]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(a) (with effect from February 14, 1984).
+(524)[^524]:  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)]:(/pakistan/constitution/orders/po1_1984.md), Section 2(a) (with effect from February 14, 1984).
 
-(525)[^525)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010) : "or the Concurrent Legislative List".
+(525)[^525)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010) : "or the Concurrent Legislative List".
 
-(526)[^526]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010).
+(526)[^526]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 75 (with effect from April 19, 2010).
 
-(527)[^527]  Substituted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984) for ".".
+(527)[^527]:  Substituted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)]:(/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984) for ".".
 
-(528)[^528]  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)](/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984).
+(528)[^528]:  Inserted by [Constitution (Amendment) Order, 1984 (President's Order No. 1 of 1984)]:(/pakistan/constitution/orders/po1_1984.md), Section 2(b) (with effect from February 14, 1984).
 
-(529)[^529)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 3 (with effect from June 21, 1980) : :
+(529)[^529)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 3 (with effect from June 21, 1980) : :
 
 (4)
 
@@ -10770,9 +10608,9 @@ A decision of the Court shall be expressed in terms of the opinion of the majori
 
  
 
-(530)[^530]  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 5 (with effect from March 22, 1982) for :
+(530)[^530]:  Substituted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 5 (with effect from March 22, 1982) for :
 
- (531)[^531]\[
+ (531)[^531]:\[
 
 **203DD**
 
@@ -10781,21 +10619,21 @@ The Court shall have such other jurisdiction as may be conferred on it by or und
 
  
 
-\] (531)[^531)
+\]: (531)[^531)
 
-(531)[^531]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 4 (with effect from June 21, 1980).
+(531)[^531]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 4 (with effect from June 21, 1980).
 
-(532)[^532]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 5 (with effect from June 21, 1980).
+(532)[^532]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 5 (with effect from June 21, 1980).
 
-(533)[^533]  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)](/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
+(533)[^533]:  Inserted by [Constitution (Amendment) Order, 1981 (President's Order No. 5 of 1981)]:(/pakistan/constitution/orders/po5_1981.md), Section 2 (with effect from April 13, 1981).
 
-(534)[^534]  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for ".".
+(534)[^534]:  Substituted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)]:(/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983) for ".".
 
-(535)[^535]  Inserted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)](/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983).
+(535)[^535]:  Inserted by [Constitution (Second Amendment) Order, 1983 (President's Order No. 7 of 1983)]:(/pakistan/constitution/orders/po7_1983.md), Section 2 (with effect from May 19, 1983).
 
-(536)[^536]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 6 (with effect from March 22, 1982).
+(536)[^536]:  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 6 (with effect from March 22, 1982).
 
-(537)[^537]  Substituted by [Constitution (Third Amendment) Order, 1982 (President's Order No. 12 of 1982)](/pakistan/constitution/orders/po12_1982.md), Section 2 (with effect from August 15, 1982) for :
+(537)[^537]:  Substituted by [Constitution (Third Amendment) Order, 1982 (President's Order No. 12 of 1982)]:(/pakistan/constitution/orders/po12_1982.md), Section 2 (with effect from August 15, 1982) for :
 
 (3)
 
@@ -10803,9 +10641,9 @@ For the purpose of the exercise of the jurisdiction conferred by this Article, t
 
  
 
-(538)[^538]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 7 (with effect from March 22, 1982).
+(538)[^538]:  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 7 (with effect from March 22, 1982).
 
-(539)[^539)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 8 (with effect from March 22, 1982) : :
+(539)[^539)   The following was omitted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 8 (with effect from March 22, 1982) : :
 
 **203I**
 
@@ -10814,25 +10652,14 @@ The Federal Government shall make all such administrative arrangements, and make
 
  
 
-(540)[^540)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) : "and".
+(540)[^540)   The following was omitted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) : "and".
 
-(541)[^541]  Substituted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) for ".".
+(541)[^541]:  Substituted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980) for ".".
 
-(542)[^542]  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)](/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(542)[^542]:  Inserted by [Constitution (Second Amendment) Order, 1980 (President's Order No. 4 of 1980)]:(/pakistan/constitution/orders/po4_1980.md), Section 6 (with effect from June 21, 1980).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Chapter 4: "General Provisions Relating to the Judicature" of Part VII: "The Judicature"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part7.ch4'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -10842,7 +10669,7 @@ Part VII: The Judicature
 Chapter 4: General Provisions Relating to the Judicature
 --------------------------------------------------------
 
- (544)[^544]\[
+ (544)[^544]:\[
 
 **204**
 
@@ -10884,7 +10711,7 @@ The exercise of the power conferred on a Court by this Article may be regulated 
 
  
 
-\] (544)[^544)
+\]: (544)[^544)
 
 **205**
 
@@ -10897,13 +10724,13 @@ The remuneration and other terms and conditions of service of a Judge of the Sup
 
 **Resignation,**  
 
- (546)[^546]\[(1)\] (546)[^546)
+ (546)[^546]:\[(1)\]: (546)[^546)
 
 A Judge of the Supreme Court or a High Court may resign his office by writing under his hand addressed to the President.
 
  
 
- (547)[^547]\[
+ (547)[^547]:\[
 
 (2)
 
@@ -10911,7 +10738,7 @@ A Judge of a High Court who does not accept appointment as a Judge of the Suprem
 
  
 
-\] (547)[^547)
+\]: (547)[^547)
 
  
 
@@ -10962,7 +10789,7 @@ of the High Court of West Pakistan as it existed immediately before the coming i
 **208**
 
 **Officers and Servants of Courts.**  
-The Supreme Court  (548)[^548]\[and the Federal Shariat Court\] (548)[^548), with the approval of the President and a High Court, with the approval of the Governor concerned, may make rules providing for the appointment by the Court of officers and servants of the Court and for their terms and conditions of employment.
+The Supreme Court  (548)[^548]:\[and the Federal Shariat Court\]: (548)[^548), with the approval of the President and a High Court, with the approval of the Governor concerned, may make rules providing for the appointment by the Court of officers and servants of the Court and for their terms and conditions of employment.
 
  
 
@@ -10992,7 +10819,7 @@ the two next most senior Judges of the Supreme Court; and
 
 the two most senior Chief Justices of High Courts.
 
-Explanation:- For the purpose of this clause, the inter se seniority of the Chief Justices of the High Courts shall be determined with reference to their dates of appointment as Chief Justice  (549)[^549]\[otherwise than as acting Chief Justice\] (549)[^549), and in case the dates of such appointment are the same, with reference to their dates of appointment as Judges of any of the High Courts.
+Explanation:- For the purpose of this clause, the inter se seniority of the Chief Justices of the High Courts shall be determined with reference to their dates of appointment as Chief Justice  (549)[^549]:\[otherwise than as acting Chief Justice\]: (549)[^549), and in case the dates of such appointment are the same, with reference to their dates of appointment as Judges of any of the High Courts.
 
  
 
@@ -11016,7 +10843,7 @@ If, upon any matter inquired into by the Council, there is a difference of opini
 
  
 
- (550)[^550]\[
+ (550)[^550]:\[
 
 (5)
 
@@ -11034,7 +10861,7 @@ the President shall direct the Council to, or the Council may, on its own motion
 
  
 
-\] (550)[^550)
+\]: (550)[^550)
 
 (6)
 
@@ -11095,11 +10922,11 @@ The proceedings before the Council, its report to the President and the removal 
 
 (1)
 
-Notwithstanding anything hereinbefore contained, the appropriate Legislature may by Act  (553)[^553]\[provide for the establishment of\] (553)[^553) one or more Administrative Courts or Tribunals to exercise exclusive jurisdiction in respect of
+Notwithstanding anything hereinbefore contained, the appropriate Legislature may by Act  (553)[^553]:\[provide for the establishment of\]: (553)[^553) one or more Administrative Courts or Tribunals to exercise exclusive jurisdiction in respect of
 
 (a)
 
-matters relating to the terms and conditions of persons  (554)[^554]\[who are or have been\] (554)[^554) in the service of Pakistan, including disciplinary matters;
+matters relating to the terms and conditions of persons  (554)[^554]:\[who are or have been\]: (554)[^554) in the service of Pakistan, including disciplinary matters;
 
 (b)
 
@@ -11113,9 +10940,9 @@ matters relating to the acquisition, administration and disposal of any property
 
 (2)
 
-Notwithstanding anything hereinbefore contained, where any Administrative Court or Tribunal is established under clause (1), no other court shall grant an injunction, make any order or entertain any proceedings in respect of any matter to which the jurisdiction of such Administrative Court or Tribunal extends  (555)[^555]\[and all proceedings in respect of any such matter which may be pending before such other court immediately before the establishment of the Administrative Court or Tribunal  (556)[^556]\[other than an appeal pending before the Supreme Court,\] (556)[^556) shall abate on such establishment\] (555)[^555):
+Notwithstanding anything hereinbefore contained, where any Administrative Court or Tribunal is established under clause (1), no other court shall grant an injunction, make any order or entertain any proceedings in respect of any matter to which the jurisdiction of such Administrative Court or Tribunal extends  (555)[^555]:\[and all proceedings in respect of any such matter which may be pending before such other court immediately before the establishment of the Administrative Court or Tribunal  (556)[^556]:\[other than an appeal pending before the Supreme Court,\]: (556)[^556) shall abate on such establishment\]: (555)[^555):
 
-**Provided** that the provisions of this clause shall not apply to an Administrative Court or Tribunal established under an Act of a Provincial Assembly unless, at the request of that Assembly made in the form of a resolution,  (557)[^557]\[Majlis-e-Shoora (Parliament)\] (557)[^557) by  (558)[^558) law extends the provisions to such a Court or Tribunal.
+**Provided** that the provisions of this clause shall not apply to an Administrative Court or Tribunal established under an Act of a Provincial Assembly unless, at the request of that Assembly made in the form of a resolution,  (557)[^557]:\[Majlis-e-Shoora (Parliament)\]: (557)[^557) by  (558)[^558) law extends the provisions to such a Court or Tribunal.
 
  
 
@@ -11127,13 +10954,13 @@ An appeal to the Supreme Court from a judgment, decree, order or sentence of an 
 
  
 
- (559)[^559]\[\] (559)[^559) (561)[^561]\[\] (561)[^561)
+ (559)[^559]:\[\]: (559)[^559) (561)[^561]:\[\]: (561)[^561)
 
 * * *
 
 ### Notes
 
-(544)[^544]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 44 (with effect from March 2, 1985) for :
+(544)[^544]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 44 (with effect from March 2, 1985) for :
 
 **204**
 
@@ -11145,7 +10972,7 @@ In this Article "Court means the Supreme Court or a High Court.
 
  
 
- (545)[^545]\[
+ (545)[^545]:\[
 
 (2)
 
@@ -11153,11 +10980,11 @@ A Court shall have the power to punish a person for contempt of Court in accorda
 
  
 
-\] (545)[^545)
+\]: (545)[^545)
 
  
 
-(545)[^545]  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 13 (with effect from December 1, 1976) for :
+(545)[^545]:  Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 13 (with effect from December 1, 1976) for :
 
 (2)
 
@@ -11189,19 +11016,19 @@ The exercise of the power conferred on a Court by this Article may be regulated 
 
  
 
-(546)[^546]  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976)
+(546)[^546]:  )   Renumbered by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976)
 
-(547)[^547]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976).
+(547)[^547]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 14 (with effect from September 16, 1976).
 
-(548)[^548]  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)](/pakistan/constitution/orders/po5_1982.md), Section 9 (with effect from March 22, 1982).
+(548)[^548]:  Inserted by [Constitution (Second Amendment) Order, 1982 (President's Order No. 5 of 1982)]:(/pakistan/constitution/orders/po5_1982.md), Section 9 (with effect from March 22, 1982).
 
-(549)[^549]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 11 (with effect from May 4, 1974).
+(549)[^549]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 11 (with effect from May 4, 1974).
 
-(550)[^550]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 76 (with effect from April 19, 2010) for :
+(550)[^550]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 76 (with effect from April 19, 2010) for :
 
 (5)
 
-If, on information  (551)[^551]\[from any source, the Council or\] (551)[^551), the President is of the opinion that a Judge of the Supreme Court or of a High Court,
+If, on information  (551)[^551]:\[from any source, the Council or\]: (551)[^551), the President is of the opinion that a Judge of the Supreme Court or of a High Court,
 
 (a)
 
@@ -11209,29 +11036,29 @@ may be incapable of properly performing the duties of his office by reason of ph
 
 (b)
 
-may have been guilty of misconduct, the President shall direct the  (552)[^552]\[,or the Council may, on its own motion,\] (552)[^552) inquire into the matter.
+may have been guilty of misconduct, the President shall direct the  (552)[^552]:\[,or the Council may, on its own motion,\]: (552)[^552) inquire into the matter.
 
  
 
-(551)[^551]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(i) (with effect from August 21, 2002) for "received from the Council or from any other source".
+(551)[^551]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(i) (with effect from August 21, 2002) for "received from the Council or from any other source".
 
-(552)[^552]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(ii) (with effect from August 21, 2002) for "Council to".
+(552)[^552]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 20(ii) (with effect from August 21, 2002) for "Council to".
 
-(553)[^553]  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so) for "establish".
+(553)[^553]:  Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so) for "establish".
 
-(554)[^554]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
+(554)[^554]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
 
-(555)[^555]  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
+(555)[^555]:  Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)]:(/pakistan/constitution/amendments/1amendment.md), Section 12(a)(i)(and deemed to have always been so).
 
-(556)[^556]  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.md), Section 15 (with effect from September 16, 1976).
+(556)[^556]:  Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)]:(/pakistan/constitution/amendments/5amendment.md), Section 15 (with effect from September 16, 1976).
 
-(557)[^557]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(557)[^557]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (558)[^558)   For such law, see the Provincial Service Tribunals (Extension of Provisions of the Constitution) Act, 1974 (32 of 1974).  
 
-(559)[^559)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 45 (with effect from December 30, 1985) : :
+(559)[^559)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 45 (with effect from December 30, 1985) : :
 
- (560)[^560]\[
+ (560)[^560]:\[
 
 **212A**
 
@@ -11257,13 +11084,13 @@ Notwithstanding anything herein before contained, where any Military Court or Tr
 
  
 
-\] (560)[^560)
+\]: (560)[^560)
 
-(560)[^560]  Inserted by [Constitution (Second Amendment) Order, 1979 (President's Order No. 21 of 1979)](/pakistan/constitution/orders/po21_1979.md), Section 2 (with effect from July 5, 1977).
+(560)[^560]:  Inserted by [Constitution (Second Amendment) Order, 1979 (President's Order No. 21 of 1979)]:(/pakistan/constitution/orders/po21_1979.md), Section 2 (with effect from July 5, 1977).
 
-(561)[^561)   The following was omitted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1994) : :
+(561)[^561)   The following was omitted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)]:(/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1994) : :
 
- (562)[^562]\[
+ (562)[^562]:\[
 
 **212B**
 
@@ -11327,30 +11154,19 @@ Notwithstanding anything contained in the Constitution, no Court shall exercise 
 
  
 
-\] (562)[^562)
+\]: (562)[^562)
 
-(562)[^562]  Inserted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)](/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1991).
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(562)[^562]:  Inserted by [Constitution (Twelfth Amendment) Act, 1991 (14 of 1991)]:(/pakistan/constitution/amendments/12amendment.md), Section 2 (with effect from July 28, 1991).
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Chapter 1: "Chief Election Commissioner and Elections CommissionsCommission" of Part VIII: "Elections"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part8.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
 Part VIII: Elections
 --------------------
 
-Chapter 1: Chief Election Commissioner and Elections  (563)[^563]\[Commission\] (563)[^563)
+Chapter 1: Chief Election Commissioner and Elections  (563)[^563]:\[Commission\]: (563)[^563)
 -------------------------------------------------------------------------------------------
 
 **213**
@@ -11359,11 +11175,11 @@ Chapter 1: Chief Election Commissioner and Elections  (563)[^563]\[Commission\]
 
 (1)
 
-There shall be a Chief Election Commissioner (in this Part referred to as the Commissioner), who shall be appointed by the President  (564)[^564]\[\] (564)[^564).
+There shall be a Chief Election Commissioner (in this Part referred to as the Commissioner), who shall be appointed by the President  (564)[^564]:\[\]: (564)[^564).
 
  
 
- (566)[^566]\[
+ (566)[^566]:\[
 
 (2)
 
@@ -11375,31 +11191,31 @@ Explanation 2.- "technocrat" means a person who is the holder of a degree requir
 
  
 
-\] (566)[^566) (567)[^567]\[
+\]: (566)[^566) (567)[^567]:\[
 
 (2A)
 
-The Prime Minister shall in consultation with the Leader of the Opposition in the National Assembly, forward three names for appointment of the Commissioner to a Parliamentary Committee for hearing and confirmation of any one person  (568)[^568]\[:\] (568)[^568)
+The Prime Minister shall in consultation with the Leader of the Opposition in the National Assembly, forward three names for appointment of the Commissioner to a Parliamentary Committee for hearing and confirmation of any one person  (568)[^568]:\[:\]: (568)[^568)
 
- (569)[^569]\[**Provided** that in case there is no consensus between the Prime Minister and the Leader of the Opposition, each shall forward separate lists to the Parliamentary Committee for consideration which may confirm any one name:\] (569)[^569)
+ (569)[^569]:\[**Provided** that in case there is no consensus between the Prime Minister and the Leader of the Opposition, each shall forward separate lists to the Parliamentary Committee for consideration which may confirm any one name:\]: (569)[^569)
 
  
 
 (2B)
 
-The Parliamentary Committee to be constituted by the Speaker shall comprise fifty percent members from the Treasury Branches and fifty percent from the Opposition Parties, based on their strength in Majlis-e-Shoora (Parliament), to be nominated by the respective Parliamentary Leaders:  (570)[^570]\[\] (570)[^570)
+The Parliamentary Committee to be constituted by the Speaker shall comprise fifty percent members from the Treasury Branches and fifty percent from the Opposition Parties, based on their strength in Majlis-e-Shoora (Parliament), to be nominated by the respective Parliamentary Leaders:  (570)[^570]:\[\]: (570)[^570)
 
- (571)[^571]\[**Provided**  (572)[^572]\[\] (572)[^572) that the total strength of the Parliamentary Committee shall be twelve members out of which one-third shall be from the Senate. \] (571)[^571)
+ (571)[^571]:\[**Provided**  (572)[^572]:\[\]: (572)[^572) that the total strength of the Parliamentary Committee shall be twelve members out of which one-third shall be from the Senate. \]: (571)[^571)
 
-**Provided**  (573)[^573]\[further\] (573)[^573) that when the National Assembly is dissolved and a vacancy occurs in the office of the Chief Election Commissioner, the  (574)[^574]\[total membership of the Parliamentary Committe shall consist of\] (574)[^574) the members from the Senate only and the foregoing provisions of this clause shall, _mutatis mutandis_, apply.
+**Provided**  (573)[^573]:\[further\]: (573)[^573) that when the National Assembly is dissolved and a vacancy occurs in the office of the Chief Election Commissioner, the  (574)[^574]:\[total membership of the Parliamentary Committe shall consist of\]: (574)[^574) the members from the Senate only and the foregoing provisions of this clause shall, _mutatis mutandis_, apply.
 
  
 
-\] (567)[^567)
+\]: (567)[^567)
 
 (3)
 
-The Commissioner  (575)[^575]\[or a member\] (575)[^575)shall have such powers and functions as are conferred on him by the Constitution and law.
+The Commissioner  (575)[^575]:\[or a member\]: (575)[^575)shall have such powers and functions as are conferred on him by the Constitution and law.
 
  
 
@@ -11407,40 +11223,40 @@ The Commissioner  (575)[^575]\[or a member\] (575)[^575)shall have such powers
 
 **214**
 
- **(576)[^576]\[\] (576)[^576)Oath of Office.**  
-Before entering upon office, the Commissioner shall make before the Chief Justice of Pakistan  (577)[^577]\[, and a member of the Election Commission shall make before the Commissioner,\] (577)[^577) oath in the form set out in the Third Schedule.
+ **(576)[^576]:\[\]: (576)[^576)Oath of Office.**  
+Before entering upon office, the Commissioner shall make before the Chief Justice of Pakistan  (577)[^577]:\[, and a member of the Election Commission shall make before the Commissioner,\]: (577)[^577) oath in the form set out in the Third Schedule.
 
  
 
 **215**
 
-**Term of office of Commissioner  (578)[^578]\[and members\] (578)[^578)**  
+**Term of office of Commissioner  (578)[^578]:\[and members\]: (578)[^578)**  
 
 (1)
 
-The Commissioner  (579)[^579]\[and a member\] (579)[^579) shall, subject to this Article, hold office for a term of  (580)[^580]\[three\] (580)[^580) years from the day he enters upon his office:
+The Commissioner  (579)[^579]:\[and a member\]: (579)[^579) shall, subject to this Article, hold office for a term of  (580)[^580]:\[three\]: (580)[^580) years from the day he enters upon his office:
 
- (581)[^581]\[**Provided** that two of the members shall retire after the expiration of first two and a half years and two shall retire after the expiration of the next two and a half years:
+ (581)[^581]:\[**Provided** that two of the members shall retire after the expiration of first two and a half years and two shall retire after the expiration of the next two and a half years:
 
 **Provided** further that the Commission shall for the first term of office of members draw a lot as to which two members shall retire after the first two and a half years:
 
-**Provided** also that the term of office of a member appointed to fill a casual vacancy shall be the un-expired term of office of the member whose vacancy he has filled. \] (581)[^581)
+**Provided** also that the term of office of a member appointed to fill a casual vacancy shall be the un-expired term of office of the member whose vacancy he has filled. \]: (581)[^581)
 
  
 
 (2)
 
-The Commissioner  (585)[^585]\[or a member\] (585)[^585) shall not be removed from office except in the manner prescribed in Article 209 for the removal from office of a Judge and, in the application of the Article for the purposes of this clause, any reference in that Article to a Judge shall be construed as a reference to the Commissioner  (586)[^586]\[or, as the case may be, a member\] (586)[^586) .
+The Commissioner  (585)[^585]:\[or a member\]: (585)[^585) shall not be removed from office except in the manner prescribed in Article 209 for the removal from office of a Judge and, in the application of the Article for the purposes of this clause, any reference in that Article to a Judge shall be construed as a reference to the Commissioner  (586)[^586]:\[or, as the case may be, a member\]: (586)[^586) .
 
  
 
 (3)
 
-The Commissioner  (587)[^587]\[or a member\] (587)[^587) may, by writing under his hand addressed to the President, resign his office.
+The Commissioner  (587)[^587]:\[or a member\]: (587)[^587) may, by writing under his hand addressed to the President, resign his office.
 
  
 
- (588)[^588]\[
+ (588)[^588]:\[
 
 (4)
 
@@ -11448,17 +11264,17 @@ Vacancy in the office of the Commissioner or a member shall be filled within for
 
  
 
-\] (588)[^588)
+\]: (588)[^588)
 
  
 
 **216**
 
-**Commissioner  (589)[^589]\[and members\] (589)[^589) not to hold office of profit.**  
+**Commissioner  (589)[^589]:\[and members\]: (589)[^589) not to hold office of profit.**  
 
 (1)
 
-The Commissioner  (590)[^590]\[or a member\] (590)[^590) shall not,
+The Commissioner  (590)[^590]:\[or a member\]: (590)[^590) shall not,
 
 (a)
 
@@ -11472,7 +11288,7 @@ occupy any other position carrying the right to remuneration for the rendering o
 
 (2)
 
-A person who has held office as Commissioner  (591)[^591]\[or a member\] (591)[^591) shall not hold any office of profit in the service of Pakistan before the expiration of two years after he has ceased to hold that office  (592)[^592]\[.\] (592)[^592) (593)[^593]\[\] (593)[^593)
+A person who has held office as Commissioner  (591)[^591]:\[or a member\]: (591)[^591) shall not hold any office of profit in the service of Pakistan before the expiration of two years after he has ceased to hold that office  (592)[^592]:\[.\]: (592)[^592) (593)[^593]:\[\]: (593)[^593)
 
  
 
@@ -11491,14 +11307,14 @@ the office of Commissioner is vacant, or
 
 the Commissioner is absent or unable to perform the functions of his office due to any other cause,
 
- (596)[^596]\[the most senior member in age of the members of the Commission\] (596)[^596) shall Act as Commissioner.
+ (596)[^596]:\[the most senior member in age of the members of the Commission\]: (596)[^596) shall Act as Commissioner.
 
  
 
 **218**
 
 **Election Commission.**  
- (597)[^597]\[
+ (597)[^597]:\[
 
 (1)
 
@@ -11506,7 +11322,7 @@ For the purpose of election to both Houses of Majlis-e-Shoora (Parliament), Prov
 
  
 
-\] (597)[^597) (599)[^599]\[
+\]: (597)[^597) (599)[^599]:\[
 
 (2)
 
@@ -11516,7 +11332,7 @@ The Election Commission shall consist of-
 
 The Commissioner who shall be the Chairman of the Commission; and
 
- (600)[^600]\[
+ (600)[^600]:\[
 
 (b)
 
@@ -11524,15 +11340,15 @@ four members, one from each Province, each of whom shall be a person who has bee
 
 Explanation.- "senior civil servant" and "technocrat" shall have the same meaning as given in clause (2) or Article 213.
 
-\] (600)[^600)
+\]: (600)[^600)
 
  
 
-\] (599)[^599)
+\]: (599)[^599)
 
 (3)
 
-It shall be the duty of the Election Commission  (603)[^603]\[\] (603)[^603) to organize and conduct the election and to make such arrangements as are necessary to ensure that the election is conducted honestly, justly, fairly and in accordance with law, and that corrupt practices are guarded against.
+It shall be the duty of the Election Commission  (603)[^603]:\[\]: (603)[^603) to organize and conduct the election and to make such arrangements as are necessary to ensure that the election is conducted honestly, justly, fairly and in accordance with law, and that corrupt practices are guarded against.
 
  
 
@@ -11540,14 +11356,14 @@ It shall be the duty of the Election Commission  (603)[^603]\[\] (603)[^603) t
 
 **219**
 
-**Duties of  (604)[^604]\[Commission\] (604)[^604).**  
-The  (605)[^605]\[Commission\] (605)[^605) shall be charged with the duty of:-  (606)[^606]\[
+**Duties of  (604)[^604]:\[Commission\]: (604)[^604).**  
+The  (605)[^605]:\[Commission\]: (605)[^605) shall be charged with the duty of:-  (606)[^606]:\[
 
 (a)
 
 preparing electoral rolls for election to the National Assembly, Provincial Assemblies and local governments, and revising such rolls periodically to keep them up-to-date;
 
-\] (606)[^606)
+\]: (606)[^606)
 
 (b)
 
@@ -11555,9 +11371,9 @@ organizing and conducting election to the Senate or to fill casual vacancies in 
 
 (c)
 
-appointing Election Tribunals (607)[^607]\[;\] (607)[^607)
+appointing Election Tribunals (607)[^607]:\[;\]: (607)[^607)
 
- (608)[^608]\[
+ (608)[^608]:\[
 
 (d)
 
@@ -11565,11 +11381,11 @@ the holding of general elections to the National Assembly, Provincial Assemblies
 
 (e)
 
-such other functions as may be specified by an Act of Majlis-e-Shoora (Parliament) (609)[^609]\[:\] (609)[^609)
+such other functions as may be specified by an Act of Majlis-e-Shoora (Parliament) (609)[^609]:\[:\]: (609)[^609)
 
-\] (608)[^608)
+\]: (608)[^608)
 
- (610)[^610]\[**Provided** that till such time as the members of the Commission are first appointed in accordance with the provisions of paragraph (b) of clause (2) of Article 218 pursuant to the Constitution (Eighteenth Amendment) Act, 2010, and enter upon their office, the Commissioner shall remain charged with the duties enumerated in paragraphs (a), (b) and (c) of this Article.\] (610)[^610)
+ (610)[^610]:\[**Provided** that till such time as the members of the Commission are first appointed in accordance with the provisions of paragraph (b) of clause (2) of Article 218 pursuant to the Constitution (Eighteenth Amendment) Act, 2010, and enter upon their office, the Commissioner shall remain charged with the duties enumerated in paragraphs (a), (b) and (c) of this Article.\]: (610)[^610)
 
  
 
@@ -11582,8 +11398,8 @@ It shall be the duty of all executive authorities in the Federation and in the P
 
 **221**
 
-**Officers and  (611)[^611]\[staff\] (611)[^611).**  
-Until  (612)[^612]\[Majlis-e-Shoora (Parliament)\] (612)[^612) by law otherwise provides, the  (613)[^613]\[Election Commission\] (613)[^613) may, with the approval of the President, make rules providing for the appointment by the Commissioner of officers and  (614)[^614]\[staff\] (614)[^614) to be employed in connection with the functions of the  (615)[^615]\[\] (615)[^615) (616)[^616]\[Commissioner\] (616)[^616) and for their terms and conditions of employment.
+**Officers and  (611)[^611]:\[staff\]: (611)[^611).**  
+Until  (612)[^612]:\[Majlis-e-Shoora (Parliament)\]: (612)[^612) by law otherwise provides, the  (613)[^613]:\[Election Commission\]: (613)[^613) may, with the approval of the President, make rules providing for the appointment by the Commissioner of officers and  (614)[^614]:\[staff\]: (614)[^614) to be employed in connection with the functions of the  (615)[^615]:\[\]: (615)[^615) (616)[^616]:\[Commissioner\]: (616)[^616) and for their terms and conditions of employment.
 
  
 
@@ -11591,13 +11407,13 @@ Until  (612)[^612]\[Majlis-e-Shoora (Parliament)\] (612)[^612) by law otherwis
 
 ### Notes
 
-(563)[^563]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "Commissions".
+(563)[^563]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 2 (with effect from June 8, 2016) for "Commissions".
 
-(564)[^564)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 77(i) (with effect from April 19, 2010) : " (565)[^565]\[in his discretion.\] (565)[^565)".
+(564)[^564)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 77(i) (with effect from April 19, 2010) : " (565)[^565]:\[in his discretion.\]: (565)[^565)".
 
-(565)[^565]  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 46 (with effect from March 2, 1985).
+(565)[^565]:  Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 46 (with effect from March 2, 1985).
 
-(566)[^566]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(i) (with effect from June 8, 2016) for :
+(566)[^566]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(i) (with effect from June 8, 2016) for :
 
 (2)
 
@@ -11605,67 +11421,67 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
  
 
-(567)[^567]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 77(ii) (with effect from April 19, 2010).
+(567)[^567]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 77(ii) (with effect from April 19, 2010).
 
-(568)[^568]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(ii) (with effect from June 8, 2016) for ".".
+(568)[^568]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(ii) (with effect from June 8, 2016) for ".".
 
-(569)[^569]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(ii) (with effect from June 8, 2016).
+(569)[^569]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(ii) (with effect from June 8, 2016).
 
 (570)[^570)   The following was omitted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iii)(a) (with effect from June 8, 2016) : :
 
 **Provided** that in case there is no consensus between the Prime Minister and the Leader of the Opposition, each shall forward separate lists to the Parliamentary Committee for consideration which may confirm any one name:
 
-(571)[^571]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 6(i) (with effect from January 1, 2011) for :
+(571)[^571]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 6(i) (with effect from January 1, 2011) for :
 
 **Provided** further that the total strength of the Parliamentary Committee shall not exceed twelve members out of which one-third shall be from the Senate:
 
 (572)[^572)   The following was omitted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iii)(b) (with effect from June 8, 2016) : "further".
 
-(573)[^573]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iii)(c) (with effect from June 8, 2016) for "also".
+(573)[^573]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iii)(c) (with effect from June 8, 2016) for "also".
 
-(574)[^574]  Substituted by [Constitution (Ninetenth Amendment) Act, 2010](/pakistan/constitution/amendments/19amendment.md), Section 6(ii) (with effect from January 1, 2011) for "Parliamentary Committee shall comprise".
+(574)[^574]:  Substituted by [Constitution (Ninetenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/19amendment.md), Section 6(ii) (with effect from January 1, 2011) for "Parliamentary Committee shall comprise".
 
-(575)[^575]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iv) (with effect from June 8, 2016).
+(575)[^575]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 4(iv) (with effect from June 8, 2016).
 
-(576)[^576)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 3(a) (with effect from February 28, 2012) : "Commissioner's".
+(576)[^576)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 3(a) (with effect from February 28, 2012) : "Commissioner's".
 
-(577)[^577]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 3(b) (with effect from February 28, 2012).
+(577)[^577]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 3(b) (with effect from February 28, 2012).
 
-(578)[^578]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(a) (with effect from February 28, 2012).
+(578)[^578]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(a) (with effect from February 28, 2012).
 
-(579)[^579]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(b)(i) (with effect from February 28, 2012).
+(579)[^579]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(b)(i) (with effect from February 28, 2012).
 
-(580)[^580]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010) for "five".
+(580)[^580]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010) for "five".
 
-(581)[^581]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(i) (with effect from June 8, 2016) for :
+(581)[^581]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(i) (with effect from June 8, 2016) for :
 
- (582)[^582]\[**Provided** that the aforesaid amendment shall be effective after the expiry of current tenure of the present incumbent  (583)[^583]\[Commissioner\] (583)[^583).\] (582)[^582)
+ (582)[^582]:\[**Provided** that the aforesaid amendment shall be effective after the expiry of current tenure of the present incumbent  (583)[^583]:\[Commissioner\]: (583)[^583).\]: (582)[^582)
 
- (584)[^584]\[\] (584)[^584)
+ (584)[^584]:\[\]: (584)[^584)
 
-(582)[^582]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010).
+(582)[^582]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 78(i) (with effect from April 19, 2010).
 
-(583)[^583]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(b)(ii) (with effect from February 28, 2012).
+(583)[^583]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(b)(ii) (with effect from February 28, 2012).
 
-(584)[^584)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 78(ii) (with effect from April 19, 2010) : :
+(584)[^584)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 78(ii) (with effect from April 19, 2010) : :
 
 **Provided** that the National Assembly may by resolution extend the term of the Commissioner by a period not exceeding one year.
 
-(585)[^585]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(c)(i) (with effect from February 28, 2012).
+(585)[^585]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(c)(i) (with effect from February 28, 2012).
 
-(586)[^586]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(c)(ii) (with effect from February 28, 2012).
+(586)[^586]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(c)(ii) (with effect from February 28, 2012).
 
-(587)[^587]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 4(d) (with effect from February 28, 2012).
+(587)[^587]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 4(d) (with effect from February 28, 2012).
 
-(588)[^588]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(ii) (with effect from June 8, 2016).
+(588)[^588]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 5(ii) (with effect from June 8, 2016).
 
-(589)[^589]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(a) (with effect from February 28, 2012).
+(589)[^589]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 5(a) (with effect from February 28, 2012).
 
-(590)[^590]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(b) (with effect from February 28, 2012).
+(590)[^590]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 5(b) (with effect from February 28, 2012).
 
-(591)[^591]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 5(c) (with effect from February 28, 2012).
+(591)[^591]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 5(c) (with effect from February 28, 2012).
 
-(592)[^592]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 6 (with effect from June 8, 2016) for ":".
+(592)[^592]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 6 (with effect from June 8, 2016) for ":".
 
 (593)[^593)   The following was omitted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 6 (with effect from June 8, 2016) : :
 
@@ -11673,23 +11489,23 @@ No person shall be appointed to be Commissioner unless he is, or has been, a Jud
 
 (a)
 
-this clause shall not be construed as preventing a person who was a Judge of the Supreme Court or of a High Court immediately before his appointment as Commissioner from resuming his duties as such Judge on the expiration of his term as Commissioner (594)[^594]\[.\] (594)[^594)
+this clause shall not be construed as preventing a person who was a Judge of the Supreme Court or of a High Court immediately before his appointment as Commissioner from resuming his duties as such Judge on the expiration of his term as Commissioner (594)[^594]:\[.\]: (594)[^594)
 
- (595)[^595]\[\] (595)[^595)
+ (595)[^595]:\[\]: (595)[^595)
 
-(594)[^594]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 79(i) (with effect from April 19, 2010).
+(594)[^594]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 79(i) (with effect from April 19, 2010).
 
-(595)[^595)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 79(ii) (with effect from April 19, 2010) : :
+(595)[^595)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 79(ii) (with effect from April 19, 2010) : :
 
 (b)
 
 a person who has held office as Commissioner may, with the concurrence of both Houses, be reappointed to that office before the expiration of two years after he has ceased to hold that office.
 
-(596)[^596]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 7 (with effect from June 8, 2016) for "a Judge of the Supreme Court nominated by the Chief Justice of Pakistan".
+(596)[^596]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 7 (with effect from June 8, 2016) for "a Judge of the Supreme Court nominated by the Chief Justice of Pakistan".
 
-(597)[^597]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 80(i) (with effect from April 19, 2010) for :
+(597)[^597]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 80(i) (with effect from April 19, 2010) for :
 
- (598)[^598]\[
+ (598)[^598]:\[
 
 (1)
 
@@ -11697,9 +11513,9 @@ For the purpose of election to both Houses of Majlis-e-Shoora (Parliament), Prov
 
  
 
-\] (598)[^598)
+\]: (598)[^598)
 
-(598)[^598]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(1) (with effect from August 21, 2002) for :
+(598)[^598]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(1) (with effect from August 21, 2002) for :
 
 (1)
 
@@ -11707,7 +11523,7 @@ For the purpose of each general election to the National Assembly and to a Provi
 
  
 
-(599)[^599]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 80(ii) (with effect from April 19, 2010) for :
+(599)[^599]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 80(ii) (with effect from April 19, 2010) for :
 
 (2)
 
@@ -11719,51 +11535,51 @@ the Commissioner who shall be Chairman of the Commission; and
 
 (b)
 
- (601)[^601]\[four\] (601)[^601) members each of whom shall be a Judge of a High Court  (602)[^602]\[from each Province\] (602)[^602)appointed by the President after consultation with the Chief Justice of the High Court concerned and with the Commissioner.
+ (601)[^601]:\[four\]: (601)[^601) members each of whom shall be a Judge of a High Court  (602)[^602]:\[from each Province\]: (602)[^602)appointed by the President after consultation with the Chief Justice of the High Court concerned and with the Commissioner.
 
  
 
-(600)[^600]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 8 (with effect from June 8, 2016) for :
+(600)[^600]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 8 (with effect from June 8, 2016) for :
 
 (b)
 
 four members, each of whom has been a Judge of a High Court from each Province, appointed by the President in the manner provided for appointment of the Commissioner in clauses (2A) and (2B) of Article 213.
 
-(601)[^601]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(i) (with effect from August 21, 2002) for "two".
+(601)[^601]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(i) (with effect from August 21, 2002) for "two".
 
-(602)[^602]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(ii) (with effect from August 21, 2002).
+(602)[^602]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 21(2)(ii) (with effect from August 21, 2002).
 
-(603)[^603)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 6 (with effect from February 28, 2012) : "constituted in relation to an election".
+(603)[^603)   The following was omitted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 6 (with effect from February 28, 2012) : "constituted in relation to an election".
 
-(604)[^604]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(i) (with effect from June 8, 2016) for "Commissioner".
+(604)[^604]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(i) (with effect from June 8, 2016) for "Commissioner".
 
-(605)[^605]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(i) (with effect from April 19, 2010) for "Commissioner".
+(605)[^605]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 81(i) (with effect from April 19, 2010) for "Commissioner".
 
-(606)[^606]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(ii) (with effect from June 8, 2016) for :
+(606)[^606]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 9(ii) (with effect from June 8, 2016) for :
 
 (a)
 
 preparing electoral rolls for election to the National Assembly and the Provincial Assemblies, and revising such rolls annually,
 
-(607)[^607]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010) for ".".
+(607)[^607]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010) for ".".
 
-(608)[^608]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010).
+(608)[^608]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 81(ii) (with effect from April 19, 2010).
 
-(609)[^609]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012) for ".".
+(609)[^609]:  Substituted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012) for ".".
 
-(610)[^610]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012).
+(610)[^610]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 7 (with effect from February 28, 2012).
 
-(611)[^611]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(i) (with effect from June 8, 2016) for "servants".
+(611)[^611]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(i) (with effect from June 8, 2016) for "servants".
 
-(612)[^612]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(612)[^612]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(613)[^613]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010).
+(613)[^613]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010).
 
-(614)[^614]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "servants".
+(614)[^614]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "servants".
 
-(615)[^615)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010) : "Commissioner or an".
+(615)[^615)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 82 (with effect from April 19, 2010) : "Commissioner or an".
 
-(616)[^616]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "Election Commission".
+(616)[^616]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii) (with effect from June 8, 2016) for "Election Commission".
 
 * * *
 
@@ -11785,7 +11601,7 @@ Chapter 2: Electoral Laws and Conduct of Elections
 **222**
 
 **Electoral laws.**  
-Subject to the Constitution,  (617)[^617]\[Majlis-e-Shoora (Parliament)\] (617)[^617) may by law provide for:
+Subject to the Constitution,  (617)[^617]:\[Majlis-e-Shoora (Parliament)\]: (617)[^617) may by law provide for:
 
 (a)
 
@@ -11793,7 +11609,7 @@ the allocation of seats in the National Assembly as required by clauses (3) and 
 
 (b)
 
-the delimitation of constituencies by the Election Commission  (618)[^618]\[including delimitation of constituencies of local governments\] (618)[^618);
+the delimitation of constituencies by the Election Commission  (618)[^618]:\[including delimitation of constituencies of local governments\]: (618)[^618);
 
 (c)
 
@@ -11809,9 +11625,9 @@ matters relating to corrupt practices and other offences in connection with elec
 
 (f)
 
-all other matters necessary for the due constitution of the two Houses  (619)[^619]\[\] (619)[^619) (620)[^620]\[,\] (620)[^620) the Provincial Assemblies  (621)[^621]\[and local governments\] (621)[^621);
+all other matters necessary for the due constitution of the two Houses  (619)[^619]:\[\]: (619)[^619) (620)[^620]:\[,\]: (620)[^620) the Provincial Assemblies  (621)[^621]:\[and local governments\]: (621)[^621);
 
-but no such law shall have the effect of taking away or abridging any of the powers of the Commissioner or  (622)[^622]\[the\] (622)[^622) Election Commission under this Part.
+but no such law shall have the effect of taking away or abridging any of the powers of the Commissioner or  (622)[^622]:\[the\]: (622)[^622) Election Commission under this Part.
 
  
 
@@ -11866,7 +11682,7 @@ Subject to clause (2), if a member of either House or of a Provincial Assembly b
 **224**
 
 **Time of election and by-election.**  
- (623)[^623]\[
+ (623)[^623]:\[
 
 (1)
 
@@ -11874,17 +11690,17 @@ A general election to the National Assembly or a Provincial Assembly shall be he
 
  
 
-\] (623)[^623) (627)[^627]\[
+\]: (623)[^623) (627)[^627]:\[
 
 (1A)
 
 On dissolution of the Assembly on completion of its term, or in case it is dissolved under Article 58 or Article 112, the President, or the Governor, as the case may be, shall appoint a care-taker Cabinet:
 
-**Provided** that the care-taker Prime Minister shall be  (628)[^628]\[appointed\] (628)[^628) by the President in consultation with the Prime Minister and the Leader of the Opposition in the outgoing National Assembly, and a care-taker Chief Minister shall be appointed by the Governor in consultation with the Chief Minister and the Leader of the Opposition in the outgoing Provincial Assmembly:
+**Provided** that the care-taker Prime Minister shall be  (628)[^628]:\[appointed\]: (628)[^628) by the President in consultation with the Prime Minister and the Leader of the Opposition in the outgoing National Assembly, and a care-taker Chief Minister shall be appointed by the Governor in consultation with the Chief Minister and the Leader of the Opposition in the outgoing Provincial Assmembly:
 
- (629)[^629]\[**Provided** further that if the Prime Minister or a Chief Minister and their respective Leader of the Opposition do not agree on any person to be appointed as a care-taker Prime Minister or the care-taker Chief Minister, as the case may be, the provisions of Article 224A shall be followed:\] (629)[^629)
+ (629)[^629]:\[**Provided** further that if the Prime Minister or a Chief Minister and their respective Leader of the Opposition do not agree on any person to be appointed as a care-taker Prime Minister or the care-taker Chief Minister, as the case may be, the provisions of Article 224A shall be followed:\]: (629)[^629)
 
-**Provided**  (630)[^630]\[also\] (630)[^630) that the Members of the Federal and Pronvicial care-taker Cabinets shall be appointed on the advice of the care-taker Prime Minister or the care-taker Chief Minister, as the case may be.
+**Provided**  (630)[^630]:\[also\]: (630)[^630) that the Members of the Federal and Pronvicial care-taker Cabinets shall be appointed on the advice of the care-taker Prime Minister or the care-taker Chief Minister, as the case may be.
 
  
 
@@ -11896,7 +11712,7 @@ Explanation:- In this clause "immediate family members" means spouse and childre
 
  
 
-\] (627)[^627)
+\]: (627)[^627)
 
 (2)
 
@@ -11912,7 +11728,7 @@ An election to fill the seats in the Senate which are to become vacant on the ex
 
 (4)
 
-When, except by dissolution of the National Assembly or a Provincial Assembly, a  (631)[^631]\[\] (631)[^631) seat in any such Assembly has become vacant not later than one hundred and twenty days before the term of that Assembly is due to expire, an election to fill the seat shall be held within sixty days from the occurrence of the vacancy.
+When, except by dissolution of the National Assembly or a Provincial Assembly, a  (631)[^631]:\[\]: (631)[^631) seat in any such Assembly has become vacant not later than one hundred and twenty days before the term of that Assembly is due to expire, an election to fill the seat shall be held within sixty days from the occurrence of the vacancy.
 
  
 
@@ -11922,21 +11738,21 @@ When a seat in the Senate has become vacant, an election to fill the seat shall 
 
  
 
- (633)[^633]\[\] (633)[^633) (635)[^635]\[
+ (633)[^633]:\[\]: (633)[^633) (635)[^635]:\[
 
 (6)
 
-When a seat reserved for women or non-Muslims in the National Assembly or a Provincial Assembly falls vacant, on account of death, resignation or disqualification of a member, it shall be filled by the next person in order of precedence from the party list of the candidates to be submitted to the Election Commission by the political party whose member has vacated such seat (636)[^636]\[:\] (636)[^636)
+When a seat reserved for women or non-Muslims in the National Assembly or a Provincial Assembly falls vacant, on account of death, resignation or disqualification of a member, it shall be filled by the next person in order of precedence from the party list of the candidates to be submitted to the Election Commission by the political party whose member has vacated such seat (636)[^636]:\[:\]: (636)[^636)
 
- (637)[^637]\[**Provided** that if at any time the party list is exhausted, the concerned political party may submit a name for any vacancy which may occur thereafter. \] (637)[^637)
-
- 
-
-\] (635)[^635)
+ (637)[^637]:\[**Provided** that if at any time the party list is exhausted, the concerned political party may submit a name for any vacancy which may occur thereafter. \]: (637)[^637)
 
  
 
- (638)[^638]\[
+\]: (635)[^635)
+
+ 
+
+ (638)[^638]:\[
 
 **224A.**
 
@@ -11976,7 +11792,7 @@ Notwithstanding anything contained in clauses (1) and (2), if the members of the
 
  
 
-\] (638)[^638)
+\]: (638)[^638)
 
 **225**
 
@@ -11985,7 +11801,7 @@ No election to a House or a Provincial Assembly shall be called in question exce
 
  
 
- (639)[^639]\[
+ (639)[^639]:\[
 
 **226.**
 
@@ -11994,55 +11810,55 @@ All elections under the Constitution, other than those of the Prime Minister and
 
  
 
-\] (639)[^639)
+\]: (639)[^639)
 
 * * *
 
 ### Notes
 
-(617)[^617]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(617)[^617]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(618)[^618]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 11(i) (with effect from June 8, 2016).
+(618)[^618]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 11(i) (with effect from June 8, 2016).
 
 (619)[^619)   The following was omitted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii)(a) (with effect from June 8, 2016) : "and".
 
-(620)[^620]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii)(a) (with effect from June 8, 2016).
+(620)[^620]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii)(a) (with effect from June 8, 2016).
 
-(621)[^621]  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii)(b) (with effect from June 8, 2016).
+(621)[^621]:  Inserted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(ii)(b) (with effect from June 8, 2016).
 
-(622)[^622]  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(iii) (with effect from June 8, 2016) for "an".
+(622)[^622]:  Substituted by Constitution (Twenty-second Amendment) Act, 2016 (25 of 2016), Section 10(iii) (with effect from June 8, 2016) for "an".
 
-(623)[^623]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(i) (with effect from April 19, 2010) for :
+(623)[^623]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 83(i) (with effect from April 19, 2010) for :
 
 (1)
 
-A general election to the National Assembly or a Provincial Assembly shall be held within a period of sixty days immediately  (624)[^624]\[following\] (624)[^624) the day on which the term of the Assembly is due to expire, unless the Assembly has been sooner dissolved, and the results of the election shall be declared not later than fourteen days before that day (625)[^625]\[:\] (625)[^625)
+A general election to the National Assembly or a Provincial Assembly shall be held within a period of sixty days immediately  (624)[^624]:\[following\]: (624)[^624) the day on which the term of the Assembly is due to expire, unless the Assembly has been sooner dissolved, and the results of the election shall be declared not later than fourteen days before that day (625)[^625]:\[:\]: (625)[^625)
 
- (626)[^626]\[**Provided** that on dissolution of an Assembly on completion of its term, the President, in his discretion, or, as the case may be, the Governor, in his discretion but with the previous approval of the President, shall appoint a care-taker Cabinet.\] (626)[^626)
+ (626)[^626]:\[**Provided** that on dissolution of an Assembly on completion of its term, the President, in his discretion, or, as the case may be, the Governor, in his discretion but with the previous approval of the President, shall appoint a care-taker Cabinet.\]: (626)[^626)
 
  
 
-(624)[^624]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(i) (with effect from August 21, 2002) for "preceding".
+(624)[^624]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(i) (with effect from August 21, 2002) for "preceding".
 
-(625)[^625]  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002) for ".".
+(625)[^625]:  Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002) for ".".
 
-(626)[^626]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002).
+(626)[^626]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(a)(ii) (with effect from August 21, 2002).
 
-(627)[^627]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(ii) (with effect from April 19, 2010).
+(627)[^627]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 83(ii) (with effect from April 19, 2010).
 
-(628)[^628]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(i) (with effect from February 28, 2012) for "selected".
+(628)[^628]:  Substituted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 8(a)(i) (with effect from February 28, 2012) for "selected".
 
-(629)[^629]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(ii) (with effect from February 28, 2012).
+(629)[^629]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 8(a)(ii) (with effect from February 28, 2012).
 
-(630)[^630]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(a)(iii) (with effect from February 28, 2012) for "further".
+(630)[^630]:  Substituted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 8(a)(iii) (with effect from February 28, 2012) for "further".
 
-(631)[^631)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : " (632)[^632]\[general\] (632)[^632)".
+(631)[^631)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : " (632)[^632]:\[general\]: (632)[^632)".
 
-(632)[^632]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(b) (with effect from August 21, 2002).
+(632)[^632]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(b) (with effect from August 21, 2002).
 
-(633)[^633)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : :
+(633)[^633)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 2(a) (with effect from April 19, 2010) : :
 
- (634)[^634]\[
+ (634)[^634]:\[
 
 (6)
 
@@ -12056,42 +11872,31 @@ When a care-taker Cabinet is appointed, on dissolution of the National Assembly 
 
  
 
-\] (634)[^634)
+\]: (634)[^634)
 
-(634)[^634]  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(c) (with effect from August 21, 2002).
+(634)[^634]:  Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)]:(/pakistan/constitution/musharraf_const_revival/lfo.md), Article 3(1), Sch. item 22(c) (with effect from August 21, 2002).
 
-(635)[^635]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 83(iii) (with effect from August 21, 2002).
+(635)[^635]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 83(iii) (with effect from August 21, 2002).
 
-(636)[^636]  Substituted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(b) (with effect from February 28, 2012) for ".".
+(636)[^636]:  Substituted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 8(b) (with effect from February 28, 2012) for ".".
 
-(637)[^637]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 8(c) (with effect from February 28, 2012).
+(637)[^637]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 8(c) (with effect from February 28, 2012).
 
-(638)[^638]  Inserted by [Constitution (Twentieth Amendment) Act, 2012](/pakistan/constitution/amendments/20amendment.md), Section 9 (with effect from February 28, 2012).
+(638)[^638]:  Inserted by [Constitution (Twentieth Amendment) Act, 2012]:(/pakistan/constitution/amendments/20amendment.md), Section 9 (with effect from February 28, 2012).
 
-(639)[^639]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 84 (with effect from April 19, 2010) for :
+(639)[^639]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 84 (with effect from April 19, 2010) for :
 
 **226**
 
 **Elections to be secret ballot.**  
-All elections under the Constitution  (640)[^640]\[\] (640)[^640) shall be by secret ballot.
+All elections under the Constitution  (640)[^640]:\[\]: (640)[^640) shall be by secret ballot.
 
  
 
-(640)[^640)   The following was omitted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)](/pakistan/constitution/orders/po24_1985.md), Section 5 (with effect from March 19, 1985) : "other than those of the Prime Minister and a Chief Minister".
+(640)[^640)   The following was omitted by [Constitution (Third Amendment) Order, 1985 (President's Order No. 24 of 1985)]:(/pakistan/constitution/orders/po24_1985.md), Section 5 (with effect from March 19, 1985) : "other than those of the Prime Minister and a Chief Minister".
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Part IX: "Islamic Provisions"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part9'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -12106,7 +11911,7 @@ Part IX: Islamic Provisions
 
 All existing laws shall be brought in conformity with the Injunctions of Islam as laid down in the Holy Quran and Sunnah, in this Part referred to as the Injunctions of Islam, and no law shall be enacted which is repugnant to such Injunctions.
 
- (641)[^641]\[Explanation:- In the application of this clause to the personal law of any Muslim sect, the expression "Quran and Sunnah" shall mean the Quran and Sunnah as interpreted by that sect.\] (641)[^641)
+ (641)[^641]:\[Explanation:- In the application of this clause to the personal law of any Muslim sect, the expression "Quran and Sunnah" shall mean the Quran and Sunnah as interpreted by that sect.\]: (641)[^641)
 
  
 
@@ -12136,7 +11941,7 @@ There shall be  (642)[^642) constituted within a period of ninety days from the
 
 (2)
 
-The Islamic Council shall consist of such members, being not less than eight and not more than  (643)[^643]\[twenty\] (643)[^643), as the President may appoint from amongst persons having knowledge of the principles and philosophy of Islam as enunciated in the Holy Quran and Sunnah, or understanding of the economic, political, legal or administrative problems of Pakistan.
+The Islamic Council shall consist of such members, being not less than eight and not more than  (643)[^643]:\[twenty\]: (643)[^643), as the President may appoint from amongst persons having knowledge of the principles and philosophy of Islam as enunciated in the Holy Quran and Sunnah, or understanding of the economic, political, legal or administrative problems of Pakistan.
 
  
 
@@ -12154,11 +11959,11 @@ not less than two of the members are persons each of whom is, or has been, a Jud
 
 (c)
 
-not less than  (644)[^644]\[one-third\] (644)[^644) of the members are persons each of whom has been engaged, for a period of not less than fifteen years, in Islamic research or instruction; and (d) at least one member is a woman.
+not less than  (644)[^644]:\[one-third\]: (644)[^644) of the members are persons each of whom has been engaged, for a period of not less than fifteen years, in Islamic research or instruction; and (d) at least one member is a woman.
 
  
 
- (645)[^645]\[
+ (645)[^645]:\[
 
 (4)
 
@@ -12166,7 +11971,7 @@ The President shall appoint one of the members of the Islamic Council to be the 
 
  
 
-\] (645)[^645)
+\]: (645)[^645)
 
 (5)
 
@@ -12184,7 +11989,7 @@ A member may, by writing under his hand addressed to the President, resign his o
 
 **229**
 
-**Reference by  (646)[^646]\[Majlis-e-Shoora (Parliament)\] (646)[^646), etc. to Islamic Council.**  
+**Reference by  (646)[^646]:\[Majlis-e-Shoora (Parliament)\]: (646)[^646), etc. to Islamic Council.**  
 The President or the Governor of a Province may, or if two-fifths of its total membership so requires, a House or a Provincial Assembly shall, refer to the Islamic Council for advice any question as to whether a proposed law is or is not repugnant to the Injunctions of Islam.
 
  
@@ -12199,7 +12004,7 @@ The functions of the Islamic Council shall be,
 
 (a)
 
-to make recommendations to  (647)[^647]\[Majlis-e-Shoora (Parliament)\] (647)[^647) and the Provincial Assemblies as to the ways and means of enabling and encouraging the Muslims of Pakistan to order their lives individually and collectively in all respects in accordance with the principles and concepts of Islam as enunciated in the Holy Quran and Sunnah;
+to make recommendations to  (647)[^647]:\[Majlis-e-Shoora (Parliament)\]: (647)[^647) and the Provincial Assemblies as to the ways and means of enabling and encouraging the Muslims of Pakistan to order their lives individually and collectively in all respects in accordance with the principles and concepts of Islam as enunciated in the Holy Quran and Sunnah;
 
 (b)
 
@@ -12211,7 +12016,7 @@ to make recommendations as to the measures for bringing existing laws into confo
 
 (d)
 
-to compile in a suitable form, for the guidance of  (648)[^648]\[Majlis-e-Shoora (Parliament)\] (648)[^648) and the Provincial Assemblies, such Injunctions of Islam as can be given legislative effect.
+to compile in a suitable form, for the guidance of  (648)[^648]:\[Majlis-e-Shoora (Parliament)\]: (648)[^648) and the Provincial Assemblies, such Injunctions of Islam as can be given legislative effect.
 
  
 
@@ -12248,15 +12053,15 @@ The proceedings of the Islamic Council shall be regulated by rules of  (649)[^6
 
 ### Notes
 
-(641)[^641]  Inserted by [Constitution (Third Amendment) Order, 1980 (President's Order No. 14 of 1980)](/pakistan/constitution/orders/po14_1980.md), Section 2 (with effect from September 17, 1980).
+(641)[^641]:  Inserted by [Constitution (Third Amendment) Order, 1980 (President's Order No. 14 of 1980)]:(/pakistan/constitution/orders/po14_1980.md), Section 2 (with effect from September 17, 1980).
 
 (642)[^642)   For the notification constituting the Council of Islamic Ideology, see Gazette of Pakistan, 1974, Extraordinary, part II, Page 165. For the Council of Islamic Ideology (Terms and Conditions of Members) Rules, 1974, see Gazette of Pakistan, 1974, Extraordinary, Part II, page 1727.  
 
-(643)[^643]  Substituted by [Constitution (Fourth Amendment) Order, 1980 (President's Order No. 16 of 1980)](/pakistan/constitution/orders/po16_1980.md), Section 2 (with effect from November 30, 1980) for "fifteen".
+(643)[^643]:  Substituted by [Constitution (Fourth Amendment) Order, 1980 (President's Order No. 16 of 1980)]:(/pakistan/constitution/orders/po16_1980.md), Section 2 (with effect from November 30, 1980) for "fifteen".
 
-(644)[^644]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 85 (with effect from April 19, 2010) for "four".
+(644)[^644]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 85 (with effect from April 19, 2010) for "four".
 
-(645)[^645]  Substituted by [Constitution (Fourth Amendment) Order, 1982 (President's Order No. 13 of 1982)](/pakistan/constitution/orders/po13_1982.md), Section 2 (with effect from September 22, 1982) for :
+(645)[^645]:  Substituted by [Constitution (Fourth Amendment) Order, 1982 (President's Order No. 13 of 1982)]:(/pakistan/constitution/orders/po13_1982.md), Section 2 (with effect from September 22, 1982) for :
 
 (4)
 
@@ -12264,27 +12069,16 @@ The President shall appoint one of the members referred to in paragraph (b) of c
 
  
 
-(646)[^646]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(646)[^646]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(647)[^647]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(647)[^647]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(648)[^648]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(648)[^648]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 (649)[^649)   For the Council of Islamic Ideology (Procedure) Rules, 1974, see Gazette of Pakistan, 1974, Extraordinary, Part II, pages 771-773.  
 
 * * *
 
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
-
-* * *
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Part X: "Emergency Provisions"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part10'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -12297,23 +12091,23 @@ Part X: Emergency Provisions
 
 (1)
 
-If the President is satisfied that a grave emergency exists in which the security of Pakistan, or any part thereof, is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, he may issue a Proclamation of Emergency (650)[^650]\[:\] (650)[^650)
+If the President is satisfied that a grave emergency exists in which the security of Pakistan, or any part thereof, is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, he may issue a Proclamation of Emergency (650)[^650]:\[:\]: (650)[^650)
 
- (651)[^651]\[**Provided** that for imposition of emergency due to internal disturbances beyond the powers of a Provincial Government to control, a Resolution from the Provincial Assembly of that Province shall be required:
+ (651)[^651]:\[**Provided** that for imposition of emergency due to internal disturbances beyond the powers of a Provincial Government to control, a Resolution from the Provincial Assembly of that Province shall be required:
 
-**Provided** further that if the President acts on his own, the Proclamation of Emergency shall be placed before both Houses of Majlis-e-Shoora (Parliament) for approval by each House within ten days. \] (651)[^651)
+**Provided** further that if the President acts on his own, the Proclamation of Emergency shall be placed before both Houses of Majlis-e-Shoora (Parliament) for approval by each House within ten days. \]: (651)[^651)
 
  
 
 (2)
 
-Notwithstanding anything in the Constitution, while a Proclamation of Emergency is in force,  (652)[^652]\[
+Notwithstanding anything in the Constitution, while a Proclamation of Emergency is in force,  (652)[^652]:\[
 
 (a)
 
 Majlis-e-Shoora (Parliament) shall have power to make laws for a Province, or any part thereof, with respect to any matter not enumerated in the Federal Legislative List or the Concurrent Legislative List;
 
-\] (652)[^652)
+\]: (652)[^652)
 
 (b)
 
@@ -12329,25 +12123,25 @@ the Federal Government may by  (653)[^653) Order assume to itself, or direct th
 
 (3)
 
-The power of  (654)[^654]\[Majlis-e-Shoora (Parliament)\] (654)[^654) to make laws for a Province with respect to any matter shall include power to make laws conferring powers and imposing duties, or authorizing the conferring of powers and the imposition of duties upon the Federation, or officers and authorities of the Federation, as respects that matter.
+The power of  (654)[^654]:\[Majlis-e-Shoora (Parliament)\]: (654)[^654) to make laws for a Province with respect to any matter shall include power to make laws conferring powers and imposing duties, or authorizing the conferring of powers and the imposition of duties upon the Federation, or officers and authorities of the Federation, as respects that matter.
 
  
 
 (4)
 
-Nothing in this Article shall restrict the power of a Provincial Assembly to make any law which under the Constitution it has power to make but if any provision of a Provincial law is repugnant to any provision of an Act of  (655)[^655]\[Majlis-e-Shoora (Parliament)\] (655)[^655) which  (656)[^656]\[Majlis-e-Shoora (Parliament)\] (656)[^656) has under this Article power to make, the Act of  (657)[^657]\[Majlis-e-Shoora (Parliament)\] (657)[^657), whether passed before or after the Provincial law, shall prevail and the Provincial law shall, to the extent of the repugnancy, but so long only as the Act of  (658)[^658]\[Majlis-e-Shoora (Parliament)\] (658)[^658) continues to have effect, be void.
+Nothing in this Article shall restrict the power of a Provincial Assembly to make any law which under the Constitution it has power to make but if any provision of a Provincial law is repugnant to any provision of an Act of  (655)[^655]:\[Majlis-e-Shoora (Parliament)\]: (655)[^655) which  (656)[^656]:\[Majlis-e-Shoora (Parliament)\]: (656)[^656) has under this Article power to make, the Act of  (657)[^657]:\[Majlis-e-Shoora (Parliament)\]: (657)[^657), whether passed before or after the Provincial law, shall prevail and the Provincial law shall, to the extent of the repugnancy, but so long only as the Act of  (658)[^658]:\[Majlis-e-Shoora (Parliament)\]: (658)[^658) continues to have effect, be void.
 
  
 
 (5)
 
-A law made by  (659)[^659]\[Majlis-e-Shoora (Parliament)\] (659)[^659), which  (660)[^660]\[Majlis-e-Shoora (Parliament)\] (660)[^660) would not but for the issue of a Proclamation of Emergency have been competent to make, shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation of Emergency has ceased to be in force, except as respects things done or omitted to be done before the expiration of the said period.
+A law made by  (659)[^659]:\[Majlis-e-Shoora (Parliament)\]: (659)[^659), which  (660)[^660]:\[Majlis-e-Shoora (Parliament)\]: (660)[^660) would not but for the issue of a Proclamation of Emergency have been competent to make, shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation of Emergency has ceased to be in force, except as respects things done or omitted to be done before the expiration of the said period.
 
  
 
 (6)
 
-While a Proclamation of Emergency is in force,  (661)[^661]\[Majlis-e-Shoora (Parliament)\] (661)[^661) may by law extend the term of the National Assembly for a period not exceeding one year and not extending in any case beyond a period of six months after the Proclamation has ceased to be in force.
+While a Proclamation of Emergency is in force,  (661)[^661]:\[Majlis-e-Shoora (Parliament)\]: (661)[^661) may by law extend the term of the National Assembly for a period not exceeding one year and not extending in any case beyond a period of six months after the Proclamation has ceased to be in force.
 
  
 
@@ -12359,13 +12153,13 @@ A Proclamation of Emergency shall be laid before a joint sitting which shall be 
 
 shall cease to be in force at the expiration of two months unless before the expiration of that period it has been approved by a resolution of the joint sitting; and
 
- (662)[^662]\[
+ (662)[^662]:\[
 
 (b)
 
 shall, subject to the provisions of paragraph (a), cease to be in force upon a resolution disapproving the Proclamation being passed by the votes of the majority of the total memberships of the two Houses in joint sitting.
 
-\] (662)[^662)
+\]: (662)[^662)
 
  
 
@@ -12395,7 +12189,7 @@ While a Proclamation of Emergency is in force, the President may, by  (664)[^66
 
 (3)
 
-Every Order made under this Article shall, as soon as may be, be laid before  (665)[^665]\[both Houses of Majlis-e-Shoora (Parliament) separately\] (665)[^665) for approval and the provisions of clauses (7) and (8) of Article 232 shall apply to such an Order as they apply to a Proclamation of Emergency.
+Every Order made under this Article shall, as soon as may be, be laid before  (665)[^665]:\[both Houses of Majlis-e-Shoora (Parliament) separately\]: (665)[^665) for approval and the provisions of clauses (7) and (8) of Article 232 shall apply to such an Order as they apply to a Proclamation of Emergency.
 
  
 
@@ -12407,7 +12201,7 @@ Every Order made under this Article shall, as soon as may be, be laid before  (
 
 (1)
 
-If the President, on receipt of a report from the Governor of a Province (667)[^667]\[\] (667)[^667), is satisfied that a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may, or if a resolution in this behalf is passed  (668)[^668]\[by each House separately\] (668)[^668) shall, by Proclamation,
+If the President, on receipt of a report from the Governor of a Province (667)[^667]:\[\]: (667)[^667), is satisfied that a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may, or if a resolution in this behalf is passed  (668)[^668]:\[by each House separately\]: (668)[^668) shall, by Proclamation,
 
 (a)
 
@@ -12415,7 +12209,7 @@ assume to himself, or direct the Governor of the Province to assume on behalf of
 
 (b)
 
-declare that the powers of the Provincial Assembly shall be exercisable by, or under the authority of,  (669)[^669]\[Majlis-e-Shoora (Parliament)\] (669)[^669); and
+declare that the powers of the Provincial Assembly shall be exercisable by, or under the authority of,  (669)[^669]:\[Majlis-e-Shoora (Parliament)\]: (669)[^669); and
 
 (c)
 
@@ -12445,29 +12239,29 @@ Notwithstanding anything contained in clause (3), if the National Assembly stand
 
 (5)
 
-Where by a Proclamation issued under this Article it has been declared that the powers of the Provincial Assembly shall be exercisable by or under the authority of  (670)[^670]\[Majlis-e-Shoora (Parliament)\] (670)[^670), it shall be competent-
+Where by a Proclamation issued under this Article it has been declared that the powers of the Provincial Assembly shall be exercisable by or under the authority of  (670)[^670]:\[Majlis-e-Shoora (Parliament)\]: (670)[^670), it shall be competent-
 
 (a)
 
-to  (671)[^671]\[Majlis-e-Shoora (Parliament)\] (671)[^671) in joint sitting to confer on the President the power to make laws with respect to any matter within the legislative competence of the Provincial Assembly;
+to  (671)[^671]:\[Majlis-e-Shoora (Parliament)\]: (671)[^671) in joint sitting to confer on the President the power to make laws with respect to any matter within the legislative competence of the Provincial Assembly;
 
 (b)
 
-to  (672)[^672]\[Majlis-e-Shoora (Parliament)\] (672)[^672) in joint sitting, or the President, when he is empowered under paragraph (a), to make laws conferring powers and imposing duties, or authorizing the conferring of powers and the imposition of duties, upon the Federation, or officers and authorities thereof;
+to  (672)[^672]:\[Majlis-e-Shoora (Parliament)\]: (672)[^672) in joint sitting, or the President, when he is empowered under paragraph (a), to make laws conferring powers and imposing duties, or authorizing the conferring of powers and the imposition of duties, upon the Federation, or officers and authorities thereof;
 
 (c)
 
-to the President, when  (673)[^673]\[Majlis-e-Shoora (Parliament)\] (673)[^673) is not in session, to authorize expenditure from the Provincial Consolidated Fund, whether the expenditure is charged by the Constitution upon that fund or not, pending the sanction of such expenditure by  (674)[^674]\[Majlis-e-Shoora (Parliament)\] (674)[^674) in joint sitting; and
+to the President, when  (673)[^673]:\[Majlis-e-Shoora (Parliament)\]: (673)[^673) is not in session, to authorize expenditure from the Provincial Consolidated Fund, whether the expenditure is charged by the Constitution upon that fund or not, pending the sanction of such expenditure by  (674)[^674]:\[Majlis-e-Shoora (Parliament)\]: (674)[^674) in joint sitting; and
 
 (d)
 
-to  (675)[^675]\[Majlis-e-Shoora (Parliament)\] (675)[^675) in joint sitting by resolution to sanction expenditure authorized by the President under paragraph (c).
+to  (675)[^675]:\[Majlis-e-Shoora (Parliament)\]: (675)[^675) in joint sitting by resolution to sanction expenditure authorized by the President under paragraph (c).
 
  
 
 (6)
 
-Any law made by  (676)[^676]\[Majlis-e-Shoora (Parliament)\] (676)[^676) or the President which  (677)[^677]\[Majlis-e-Shoora (Parliament)\] (677)[^677) or the President would not, but for the issue of a Proclamation under this Article, have been competent to make, shall, to the extent of the incompetency, cease to have affect on the expiration of a period of six months after the Proclamation under this Article has ceased to be in force, except as to things done or omitted to be done before the expiration of the said period.
+Any law made by  (676)[^676]:\[Majlis-e-Shoora (Parliament)\]: (676)[^676) or the President which  (677)[^677]:\[Majlis-e-Shoora (Parliament)\]: (677)[^677) or the President would not, but for the issue of a Proclamation under this Article, have been competent to make, shall, to the extent of the incompetency, cease to have affect on the expiration of a period of six months after the Proclamation under this Article has ceased to be in force, except as to things done or omitted to be done before the expiration of the said period.
 
  
 
@@ -12523,8 +12317,8 @@ The validity of any Proclamation issued or Order made under this Part shall not 
 
 **237**
 
- **(678)[^678]\[Majlis-e-Shoora (Parliament)\] (678)[^678) may make laws of indemnity, etc.**  
-Nothing in the Constitution shall prevent  (679)[^679]\[Majlis-e-Shoora (Parliament)\] (679)[^679) from making any law indemnifying any person in the service of the Federal Government or a Provincial Government, or any other person, in respect of any act done in connection with the maintenance or restoration of order in any area in Pakistan.
+ **(678)[^678]:\[Majlis-e-Shoora (Parliament)\]: (678)[^678) may make laws of indemnity, etc.**  
+Nothing in the Constitution shall prevent  (679)[^679]:\[Majlis-e-Shoora (Parliament)\]: (679)[^679) from making any law indemnifying any person in the service of the Federal Government or a Provincial Government, or any other person, in respect of any act done in connection with the maintenance or restoration of order in any area in Pakistan.
 
  
 
@@ -12532,11 +12326,11 @@ Nothing in the Constitution shall prevent  (679)[^679]\[Majlis-e-Shoora (Parlia
 
 ### Notes
 
-(650)[^650]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
+(650)[^650]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
 
-(651)[^651]  Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
+(651)[^651]:  Inserted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 86 (with effect from April 19, 2010).
 
-(652)[^652]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 47 (with effect from March 2, 1985) for :
+(652)[^652]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 47 (with effect from March 2, 1985) for :
 
 (a)
 
@@ -12544,23 +12338,23 @@ Parliament shall have power to make laws for a province, or any part thereof, wi
 
 (653)[^653)   For such Order, in respect of N.W.F.P., see S.R.O. No. 22 (I)/75, dated February 16, 1975, Gazette of Pakistan, 1975, Extraordinary, Part II, page 329, since rescinded by S.R.O. No. 522 (I)/75, dated May 3, 1975, see Gazette of Pakistan, 1975, Extraordinary, Part II, page 727; and For such Order, in respect of the Province of Baluchistan, see S.R.O. No. 641 (I)/76, dated June 30, 1976, Gazette of Pakistan, 1976, Extraordinary, Part II, page 1207, since rescinded by S.R.O. No. 1161 (I)/76, dated December 6, 1976, see Gazette of Pakistan, 1976, Extraordinary, Part II, page 2279.  
 
-(654)[^654]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(654)[^654]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(655)[^655]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(655)[^655]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(656)[^656]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(656)[^656]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(657)[^657]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(657)[^657]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(658)[^658]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(658)[^658]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(659)[^659]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(659)[^659]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(660)[^660]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(660)[^660]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(661)[^661]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(661)[^661]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(662)[^662]  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)](/pakistan/constitution/amendments/3amendment.md), Section 3 (with effect from February 13, 1975) for :
+(662)[^662]:  Substituted by [Constitution (Third Amendment) Act, 1975 (22 of 1975)]:(/pakistan/constitution/amendments/3amendment.md), Section 3 (with effect from February 13, 1975) for :
 
 (b)
 
@@ -12570,51 +12364,40 @@ may by resolution of a  (663)[^663) joint sitting, be continued in force for a 
 
 (664)[^664)   The Order suspending the right to move any court for the enforcement of certain Fundamental Rights issued vide Gazette of Pakistan, 1973, Extraordinary, part I, 602, has been rescinded by S.R.O. 1093 (I)/74, dated August 14, 1974. See Gazette of Pakistan, 1974, Extraordinary, Part II, page 1548.  
 
-(665)[^665]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 87 (with effect from April 19, 2010) for :
+(665)[^665]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 87 (with effect from April 19, 2010) for :
 
  (666)[^666) a joint sitting
 
 (666)[^666)   The joint sitting passed the following resolution on September 6, 1973:- "That the joint sitting approves under clause (7) of Article 232 of the Constitution, read with clause (3) of the Article 233 thereof, the President's Order of the 14th of August, 1973, made under clause (2) of the said Article 233 and the continuance in force of the said Order for the period of six months following the expiration of the period mentioned in paragraph (a) of the said clause (7) of Article 232.". For resolution approving the continuance in force of the President's Order of the 14th of August , 1973, for a further period of six months, see Gazette of Pakistan, 1974, Extraordinary, Part III, page 343.  
 
-(667)[^667)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 88(i) (with effect from April 19, 2010) : "or otherwise".
+(667)[^667)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 88(i) (with effect from April 19, 2010) : "or otherwise".
 
-(668)[^668]  Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.md), Section 88(ii) (with effect from April 19, 2010) for "at a joint sitting".
+(668)[^668]:  Substituted by [Constitution (Eighteenth Amendment) Act, 2010]:(/pakistan/constitution/amendments/18amendment.md), Section 88(ii) (with effect from April 19, 2010) for "at a joint sitting".
 
-(669)[^669]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(669)[^669]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(670)[^670]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(670)[^670]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(671)[^671]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(671)[^671]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(672)[^672]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(672)[^672]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(673)[^673]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(673)[^673]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(674)[^674]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(674)[^674]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(675)[^675]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(675)[^675]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(676)[^676]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(676)[^676]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(677)[^677]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(677)[^677]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(678)[^678]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(678)[^678]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(679)[^679]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
-
-* * *
-
-[**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+(679)[^679]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
 * * *
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); var pageTracker = \_gat.\_getTracker("UA-2161623-1"); pageTracker.\_initData(); pageTracker.\_trackPageview();
-
-  Part XI: "Amendment of Constitution"  div.references div:target { background-color: #DEF; <!-- thisPageName = 'part11'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on (/)
-
-Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
 
 * * *
 
@@ -12624,11 +12407,11 @@ Part XI: Amendment of Constitution
 **238**
 
 **Amendment of Constitution.**  
-Subject to this Part, the Constitution may be amended by Act of  (680)[^680]\[Majlis-e-Shoora (Parliament)\] (680)[^680).
+Subject to this Part, the Constitution may be amended by Act of  (680)[^680]:\[Majlis-e-Shoora (Parliament)\]: (680)[^680).
 
  
 
- (681)[^681]\[
+ (681)[^681]:\[
 
 **239**
 
@@ -12672,17 +12455,17 @@ For the removal of doubt, it is hereby declared that there is no limitation what
 
  
 
-\] (681)[^681)
+\]: (681)[^681)
 
 * * *
 
 ### Notes
 
-(680)[^680]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+(680)[^680]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
 
-(681)[^681]  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)](/pakistan/constitution/orders/po20_1985.md), Section 3 (with effect from March 19, 1985) for :
+(681)[^681]:  Substituted by [Constitution (Second Amendment) Order, 1985 (President's Order No. 20 of 1985)]:(/pakistan/constitution/orders/po20_1985.md), Section 3 (with effect from March 19, 1985) for :
 
- (682)[^682]\[
+ (682)[^682]:\[
 
 **239**
 
@@ -12732,9 +12515,9 @@ For the removal of doubt, it is hereby declared that there is no limitation what
 
  
 
-\] (682)[^682)
+\]: (682)[^682)
 
-(682)[^682]  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 48 (with effect from March 2, 1985) for :
+(682)[^682]:  Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)]:(/pakistan/constitution/orders/po14_1985.md), Art 2, Sch. item 48 (with effect from March 2, 1985) for :
 
 **239**
 
